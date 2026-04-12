@@ -842,28 +842,31 @@ const NOTES = {
             "Unit 3: Cellular Energetics": {
                 tags: ["metabolism", "energy", "enzymes", "photosynthesis", "cell respiration"],
                 content: `
-                    <h2>Chapter 6: Metabolism: Energy & Enzymes</h2>
+                    <h2 id="h-u3-ch6">Chapter 6: Metabolism: Energy & Enzymes</h2>
                     <h3>ENERGY: the ability to do work & bring change</h3>
-                    <p>The ability to do work and bring change.All living systems require energy input to survive & carry out life functions</p>
-                    <p>Initial energy source from the Sun either used directly by producers or indirectly through consumption by consumers (Sun->producer->consumer)</p>
-                    <p>Flows in one direction through food chain/webs(does NOT CYCLE), energy is converted into different forms, some energy used to do work and perform life processes but most escapes into environment as heat</p>
-                    <p>Ex: solar energy (light energy carried by photos of light from the sun), kinetic energy (energy of motion associated w moving objects like balls, electrons/molecules), potential energy (stored energy whose capacity to do work is not used, chemical energy of bonds/molecules/gradients, and food), thermal/heat energy (unusable form of energy in biological systems that can't be used to do cellular work)</p>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <p style="margin:0 0 8px;font-size:12.5px;">The ability to do work and bring change.All living systems require energy input to survive & carry out life functions</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Initial energy source from the Sun either used directly by producers or indirectly through consumption by consumers (Sun->producer->consumer)</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Flows in one direction through food chain/webs(does NOT CYCLE), energy is converted into different forms, some energy used to do work and perform life processes but most escapes into environment as heat</p>
+                        <p style="margin:0;font-size:12.5px;">Ex: solar energy (light energy carried by photos of light from the sun), kinetic energy (energy of motion associated w moving objects like balls, electrons/molecules), potential energy (stored energy whose capacity to do work is not used, chemical energy of bonds/molecules/gradients, and food), thermal/heat energy (unusable form of energy in biological systems that can't be used to do cellular work)</p>
+                    </div>
 
                     <h3>Laws of Thermodynamics</h3>
                     <p>The study of energy transformations that occur in matter</p>
-                    <div>
-                        <div>
-                            <p><strong>First Law of Thermodynamics (Law of Conservation of Energy)</p>
-                            <p>Energy can't be created/destroyed but instead transferred from one form to another</p>
-                            <p>Ex: ball at top of hill has potential E that turns into kinetic E when released/falling, chloroplasts in plant cells capture light E and transform it into chemical E stored in glucose during photosynthesis</p>
-                            <p>Ex: Cotransport - during active transport of H+, ATP helps move H+ ions against concentration gradient storing them on one side of membrane. during cotransport of sucrose, kinetic E of moving H+ down concentration gradient provides energy to actively transport sucrose against gradient which is then converted to PE at sucrose stored in higher concentration side plant cell</p>
-                            <p>Ex: ATP power motor proteins (kinesin, dynein, myosin) to enable vesicle movement (chemical -> kinetic)</p>    
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">First Law of Thermodynamics (Law of Conservation of Energy)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Energy can't be created/destroyed but instead transferred from one form to another</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Ex: ball at top of hill has potential E that turns into kinetic E when released/falling, chloroplasts in plant cells capture light E and transform it into chemical E stored in glucose during photosynthesis</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Ex: Cotransport - during active transport of H+, ATP helps move H+ ions against concentration gradient storing them on one side of membrane. during cotransport of sucrose, kinetic E of moving H+ down concentration gradient provides energy to actively transport sucrose against gradient which is then converted to PE at sucrose stored in higher concentration side plant cell</p>
+                            <p style="margin:0;font-size:12.5px;">Ex: ATP power motor proteins (kinesin, dynein, myosin) to enable vesicle movement (chemical -> kinetic)</p>
                         </div>
-                        <div>
-                            <p><strong>Second Law of Thermodynamics (Law of Entropy)</p>
-                            <p>ENTROPY: meeasure of randomness/disorder in a system</p>
-                            <p>Energy transfer is not 100% efficient, for every energy transfer that occurs the entropy in universe increases and some energy is lost as heat to surroundings and can no longer be used to do work</p>
-                            <p>Nature tends to increase in entropy but life requires systems to be organized so constant input of energy is needed to keep order/homeostasis</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Second Law of Thermodynamics (Law of Entropy)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">ENTROPY: meeasure of randomness/disorder in a system</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Energy transfer is not 100% efficient, for every energy transfer that occurs the entropy in universe increases and some energy is lost as heat to surroundings and can no longer be used to do work</p>
+                            <p style="margin:0;font-size:12.5px;">Nature tends to increase in entropy but life requires systems to be organized so constant input of energy is needed to keep order/homeostasis</p>
+                        </div>
                     </div>
 
                     <h3>Metabolic Reations / Energy Transformations</h3>
@@ -871,18 +874,18 @@ const NOTES = {
                     <p><strong>Gibbs Free Energy (G)</strong>: amount of available energy capable of doing work</p>
                     <p><strong>Free-Energy Change of a rxn (delta G)</strong>: tells whehter or not reaction occurs spontaneously</p>
                     <p><strong>Spontaneous RXN</strong>: reaction that occurs by itself w/o energy input (exergonic)</p>
-                    <div>
-                        <div>
-                            <p><strong>Endergonic Reactions</strong></p>
-                            <p>Energy is absorbed/needed since products have more free energy than reactants</p>
-                            <p>A+B+energy->C so delta G is positive and the reation is not spontaneuous</p>
-                            <p>Gibbs free energy chart goes from less energy reactants to more energy products w/ activation energy (Ea) bump in between</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">Endergonic Reactions</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Energy is absorbed/needed since products have more free energy than reactants</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">A+B+energy->C so delta G is positive and the reation is not spontaneuous</p>
+                            <p style="margin:0;font-size:12.5px;">Gibbs free energy chart goes from less energy reactants to more energy products w/ activation energy (Ea) bump in between</p>
                         </div>
-                        <div>
-                            <p><strong>Exergonic Reactions</strong></p>
-                            <p>Energy is released bc products have less free energy than reactants</p>
-                            <p>A+B->C+energy so delta G is negative and the reaction is spontaneous</p>
-                            <p>Gibbs free energy chart goes from more energy reactants, activation energy (Ea) bump, and less energy products</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Exergonic Reactions</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Energy is released bc products have less free energy than reactants</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">A+B->C+energy so delta G is negative and the reaction is spontaneous</p>
+                            <p style="margin:0;font-size:12.5px;">Gibbs free energy chart goes from more energy reactants, activation energy (Ea) bump, and less energy products</p>
                         </div>
                     </div>
 
@@ -903,7 +906,7 @@ const NOTES = {
                         <li>All metabolic chemical reactions need enzymes/catalysts which are proteins speeding up chemical rxn rates without changing itself by lowering activation energy, can be used repeatedly</li>
                         <li>Ribosomes: enzymes made of RNA instead of protein which helps w RNA/protein synthesis</li>
                         <li>Reactions are not random but organized into steps called a METABOLIC PATHWAY which starts w reactant, then intermediates, then end product</li>
-                        <li><strong>Activation Enzyme (Ea):</strong> the energy needed to start rxn and cause molecules to react w each other</strong>
+                        <li><strong>Activation Enzyme (Ea):</strong> the energy needed to start rxn and cause molecules to react w each other</li>
                         <li><strong>Enzyme-Substrate Complex:</strong> reactants called substrates, enzymes are specific to substrates and often named substrate-ase. General reaction is enzyme+substrate->enzyme-substrate complex->product(s)</li>
                         <li><strong>Active Site</strong>: the part of the enzyme that interacts/binds w substrate & site where chemical change is occuring, shape is complementary to substrate shape but through induced fit model it undergoes a slight shape change</li>
                         <li>Enzymes may carry out degradation (when single substrate is broken down into more than one smaller products involved in catabolic pathway), or synthesis (when smaller subtrates combine to produce a larger product involved in anabolic pathway)</li>
@@ -920,7 +923,7 @@ const NOTES = {
                         </li>    
                     </ul> 
 
-                    <h2>Chapter 7: Photosynthesis</h2>
+                    <h2 id="h-u3-ch7">Chapter 7: Photosynthesis</h2>
                     <h3>Overview</h3>
                     <ul>
                         <li>Process capturing solar energy into ATP/NADH into chemical energy which ends up being stored in carbohydrates through net equation: 6CO2+6H2O+solar energy->C6H12O6+6O2 or overall equation 6CO2+12H2O+solar energy->C6H12O6+6H2O+6O2</li>
@@ -938,23 +941,35 @@ const NOTES = {
 
                     <h3>Pigments</h3>
                     <p>Plants adapted to capture some of the radiation associated w visible light. If it reflects a color that means it can't absorb that color well, so plants don't grow well in green light.</p>
-                    <ul>
-                        <li><strong>Chlorophyll a</strong>: main photosynthetic pigment in green plants, reflects dark green</li>
-                        <li><strong>Chlorophyll b</strong>: plays accessory (not as important) role in photosynthesis in green plants, reflects light green</li>
-                        <li><strong>Carotenoids</strong>: found in most plants but predominant in carrot, pumpkins, and fall months when chlorophyll breaks down for winter, reflects orangish yellow</li>
-                        <li><strong>Phycobilins</strong>: mainly found in red algae (not as important)</li>
-                    </ul>
+                    <div class="note-grid-2">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Chlorophyll a</p>
+                            <p style="margin:0;font-size:12.5px;">main photosynthetic pigment in green plants, reflects dark green</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Chlorophyll b</p>
+                            <p style="margin:0;font-size:12.5px;">plays accessory (not as important) role in photosynthesis in green plants, reflects light green</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Carotenoids</p>
+                            <p style="margin:0;font-size:12.5px;">found in most plants but predominant in carrot, pumpkins, and fall months when chlorophyll breaks down for winter, reflects orangish yellow</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Phycobilins</p>
+                            <p style="margin:0;font-size:12.5px;">mainly found in red algae (not as important)</p>
+                        </div>
+                    </div>
 
-                    <div>
-                        <div>
-                            <h3>Light Dependent Reactions (LDR)</h3>
-                            <p>Reactions that need light to occur, located along thylakoid membranes, inputs of solar energy, H2O, ADP+P, NADP+ to output O2,ATP,NADPH</p>
-                            <p>Uses splitting of water, moving electrons energized by solar energy, and formation of H+ gradient to fuel ATP/NADPH production (energy-carrying molecules) with O2 released as a byproduct</p>
-                            <p>Photosytems 2 (680) and 1 (700) are collections of pigment molecules responsible for gathering solar energy/light photons to eventually be converted to other usable energy forms for plant, consisting of a pigment complex, reaction complex, and electron acceptor molecule</p>
-                            <ol>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">Light Dependent Reactions (LDR)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Reactions that need light to occur, located along thylakoid membranes, inputs of solar energy, H2O, ADP+P, NADP+ to output O2,ATP,NADPH</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Uses splitting of water, moving electrons energized by solar energy, and formation of H+ gradient to fuel ATP/NADPH production (energy-carrying molecules) with O2 released as a byproduct</p>
+                            <p style="margin:0 0 10px;font-size:12.5px;">Photosytems 2 (680) and 1 (700) are collections of pigment molecules responsible for gathering solar energy/light photons to eventually be converted to other usable energy forms for plant, consisting of a pigment complex, reaction complex, and electron acceptor molecule</p>
+                            <ol style="margin:0;padding-left:18px;">
                                 <li>PIGMENT COMPLEX consists of pigment molecules which capture light energy photons and transfer it to a pair of chlorophyll a molecules at REACTION CENTER</li>
                                 <li>REACTION COMPLEX pair of chlorophyll a molecules accumulate energy from other electron molecules, causing the electrons from double bond in pigment to get excited and jump to higher energy levels</li>
-                                <li>Instead of releasing energy back to ground state, the excited electrons are captured by ELECTRON ACCEPTOR MOLECULE which receives electrons from rxn center and passes them to electron transport chain (PS80 rxn center for PS2 and PS700 rxn center for PS1)
+                                <li>Instead of releasing energy back to ground state, the excited electrons are captured by ELECTRON ACCEPTOR MOLECULE which receives electrons from rxn center and passes them to electron transport chain (PS80 rxn center for PS2 and PS700 rxn center for PS1)</li>
                                 <li>H2O from environment diffuses into inner thylakoid space and gets split & oxidizes (photolysis) H2O->0.5O2+2e-+2H+ which replenishes electrons lost by chlorophyll A at reaction center. The O2 gets released as waste, and 2H+ stay in inner thylakoid and contribute to building of H+ gradient inside thylakoid</li>
                                 <li>High energy electrons from chlorophyll which were energized by light are delivered to ELECTRON TRANSPORT CHAIN (series of membrane-bound protein carrier in thylakoid membrane passing electrons between carriers through redox rxns).</li>
                                 <li>Electrons move from caarrier molecule to carrier molecule, releasing energy in the process and are low in energy by the end of the chain</li>
@@ -965,22 +980,22 @@ const NOTES = {
                                 <li>Reorganized electrons passed to protein carrier ferredoxin</li>
                                 <li>Enzyme called NADP+ reductase passes 2 electrons + 1H+ to NADP+ (final electron acceptor) reducing it to become NADPH in stroma which is brought to calvin cycle (NADP+ is oxidized form empty shuttle, NADPH is reduced form full shuttle carrying 2e+1H in rxn NADP+ + 2e- + 1H+ -> NADPH)</li>
                             </ol>
-                            <p>Electron flow is noncyclic and some electrons loop around ETC to make more ATP since more ATP needed than NADPH</p>
+                            <p style="margin:10px 0 0;font-size:12.5px;">Electron flow is noncyclic and some electrons loop around ETC to make more ATP since more ATP needed than NADPH</p>
                         </div>
 
-                        <div>
-                            <h3>Light Independent Reactions (LIR) / aka Calvin Cycle</h3>
-                            <p>Reactions don't directly requiring light, though they do need byproducts of LDR like NADPH and ATP, located in stroma.</p>
-                            <p>Can only occur during the day b/c for most plants stomata is only open during day to let CO2</p>
-                            <p>Inputs of ATP,NADPH,CO2 and outputs of carbohydrate(glucose),ADP+P,NADP+</p>
-                            <p>Uses ATP+NADPH from LDR to reduce CO2/other derivatives to produce carbohydrate that can be converted to glucose, recycles ADP+P and NADP+ back to LDR</p>
-                            <ol>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Light Independent Reactions (LIR) / aka Calvin Cycle</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Reactions don't directly requiring light, though they do need byproducts of LDR like NADPH and ATP, located in stroma.</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Can only occur during the day b/c for most plants stomata is only open during day to let CO2</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Inputs of ATP,NADPH,CO2 and outputs of carbohydrate(glucose),ADP+P,NADP+</p>
+                            <p style="margin:0 0 10px;font-size:12.5px;">Uses ATP+NADPH from LDR to reduce CO2/other derivatives to produce carbohydrate that can be converted to glucose, recycles ADP+P and NADP+ back to LDR</p>
+                            <ol style="margin:0;padding-left:18px;">
                                 <li>CARBON FIXATION: CO2 gets fixed/incorporated into organic compound w help of the enzyme Rubisco fixing CO2 (1C) to RuBP (5C) forming short-term 6C intermediate which splits to form 2 3PG/PGA</li>
                                 <li>REDUCTION: 3PG/PGA ultiamtely is reduced to form G3P/PGAL through hydrolysis of ATP and reducion of other intermediates by NADPH (NADPH drops off passengers NADPH->NADP+2e+H+. Excess H2O is released here</li>
                                 <li>REGENERATION: Some G3P converted to glucose which is used to build complex carbs, but most (5/6 molecules) converted back to RuBP to continue cycle, requriring hydrolysis of 3 ATP molecules</li>
                             </ol>
-                            <p>TOTALS: 1 net G3P/PGAL + regeneration of RuBP requires hydrolysis of 9ATP molecules and oxidation of 6NADPH molecules. Cyclic LDR electron flow needed since more ATP than NADPH needed. From one turn of Calvin Cycle, 1 G3P and ADP+P,NADP+ recycled back to LDR so two turns needed to create glucose.</p>
-                            <p>G3P can also form other molecules</p>
+                            <p style="margin:10px 0 8px;font-size:12.5px;">TOTALS: 1 net G3P/PGAL + regeneration of RuBP requires hydrolysis of 9ATP molecules and oxidation of 6NADPH molecules. Cyclic LDR electron flow needed since more ATP than NADPH needed. From one turn of Calvin Cycle, 1 G3P and ADP+P,NADP+ recycled back to LDR so two turns needed to create glucose.</p>
+                            <p style="margin:0;font-size:12.5px;">G3P can also form other molecules</p>
                         </div>
                     </div>
 
@@ -989,11 +1004,19 @@ const NOTES = {
                         <li>Photosynthesis evolved first in cyanobacteria which got engulfed by larger prokaryotes</li>
                         <li>Calvin Cycle occurs dmostly during day and photosynthesis happens in chloroplasts of mesophyll cells</li>
                         <li>Not all plants live in ideal photosynthetic conditions, they may live in hot/dry/low sunlight areas so photorespiration would occur which is when O2 binds w subisco instead of CO2 so sugars aren't made (open stamata loses too much water, close stomata accumulates O2)</li>
-                        <li>CAM PLANTS - partition photsynthesis by time so stomata opens at night to take in CO2 and let O2 out so less water evaporation occurs, carbon fixation happens at night and calvin cycle occurs during day (ex: cacti, pineapples, jade plants, succulents)</li>
-                        <li>C4 PLANTS - partition photosynthesis by location so stomata takes in CO2 and converted to C4 compound in mesophyll cells deeper in leaf, then back to CO2 in bundlesheath where calvin cycle occurs (ex: corn, sugarcane, crabgrass)</li>
                     </ul>
+                    <div class="note-grid-2">
+                        <div class="note-card">
+                            <p class="note-card-title">CAM plants</p>
+                            <p style="margin:0;font-size:12.5px;">CAM PLANTS - partition photsynthesis by time so stomata opens at night to take in CO2 and let O2 out so less water evaporation occurs, carbon fixation happens at night and calvin cycle occurs during day (ex: cacti, pineapples, jade plants, succulents)</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">C4 plants</p>
+                            <p style="margin:0;font-size:12.5px;">C4 PLANTS - partition photosynthesis by location so stomata takes in CO2 and converted to C4 compound in mesophyll cells deeper in leaf, then back to CO2 in bundlesheath where calvin cycle occurs (ex: corn, sugarcane, crabgrass)</p>
+                        </div>
+                    </div>
 
-                    <h2>Chapter 8: Cellular Respiration</h2>
+                    <h2 id="h-u3-ch8">Chapter 8: Cellular Respiration</h2>
                     <h3>Overview</h3>
                     <ul>
                         <li>Exergonic, catabolic ell process breaking down glucose from photosynthesis and release energy used to build ATP molecules</li>
@@ -1003,42 +1026,42 @@ const NOTES = {
                         <li>Shuttle busses in cell respiration: NAD+ (empty oxidized form shuttle) + 2e- + H+ -> NADH (full reduced form shuttle carrying 2e- and 1H+), FAD (empty oxidized form shuttle) + 2e- + 2H+ -> FADH2 (full reduced form shuttle carrying 2e- and 2H+)</li>
                         <li><strong>Aerobic Cell Respiration (O2 present):</strong> Glycolysis -> prep reaction/oxidation of pyruvate -> citric acid/krebs cycle -> ETC (chemiosmosis/oxidative phosphorylation)</li>
                         <li><strong>Anaerobic Cell Respiration (O2 absent):</strong> Glycolysis -> fermentation --. alcohol or lactic acid</li>
-                        <li>2 ATP from glycolysis, 2 ATP from krebs cycle, 32/34 ATP from ETC so 36/38ATP total</li>x
+                        <li>2 ATP from glycolysis, 2 ATP from krebs cycle, 32/34 ATP from ETC so 36/38ATP total</li>
                     </ul>
 
                     <h3>Aerobic Cell Respiration</h3>
-                    <div>
-                        <div>
-                            <h3>Glycolysis</h3>
-                            <p>Glyco = sugar, lysis = splitting, Occurs in both aerobic and anaerobic organisms since no O2 necessary in the cell cytoplasm</p>
-                            <p>Inputs: glucose(6C), 2NAD+, 2ATP, 4ADP+4Pi. Outputs: 2 pyruvates/pyruvic acids, 2NADH, 2ADP, 4ATP. Net outputs: 2ATP, 2Pyruvates, 2NADH full shuttles</p>
-                            <ol>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card" style="grid-column:1/-1;">
+                            <p class="note-card-title">Glycolysis</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Glyco = sugar, lysis = splitting, Occurs in both aerobic and anaerobic organisms since no O2 necessary in the cell cytoplasm</p>
+                            <p style="margin:0 0 10px;font-size:12.5px;">Inputs: glucose(6C), 2NAD+, 2ATP, 4ADP+4Pi. Outputs: 2 pyruvates/pyruvic acids, 2NADH, 2ADP, 4ATP. Net outputs: 2ATP, 2Pyruvates, 2NADH full shuttles</p>
+                            <ol style="margin:0;padding-left:18px;">
                                 <li>Glucose(6C) gets phosphorylated by hydrolysis of 2ATPs in energy investment step</li>
                                 <li>Glucose gets split into 2 G3P/PGAL (3) and each G3P gets oxidized and each loses 2e- and 1H+ to NAD+ ultimately forming 2 pyruvate/pyruvic acid molecules and generating ATP in process through substrate-level ATP synthesis in energy harvesting steps</li>
                                 <li>Substrate Level Phosphorylation / Substrate Level ATP Synthesis/Fromation: coupling building of ATP (endergonic) w energy from enzyme-catalized exergonic rxn only generating small amts of ATP, simpler than ATP production via chemiosmosis/photophosphorylation</li>
                                 <li>If O2 present, 2 pyruvates enter mitochondrial matrix where rest of cell respiration occurs. If O2 absent, fermentation occurs in cytoplasm.</li>
                             </ol>
                         </div>
-                        <div>
-                            <h3>Preparatory Reaction / Oxidation of Pyruvate / Link Reaction</h3>
-                            <p>Located in mitochondrial matrix, process links glycolysis to citric acid cycle by oxidizing the pyruvate product to form acetyla CoA product needed for citric acid cycle</p>
-                            <p>Inputs: 2 pyruvates (3C), 2 coenzymeA (enzyme helped carrier acetyl group to citric acid cycle), 2NAD+. Outputs: 2 acetyl coA (2C), 2CO2 (1C waste product used in calvin cycle in photosynthesis or exhaled into atmosphere in heterotrophs), 2NADH (carries extra electrons/H+ to ETC)</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Preparatory reaction / oxidation of pyruvate / link reaction</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Located in mitochondrial matrix, process links glycolysis to citric acid cycle by oxidizing the pyruvate product to form acetyla CoA product needed for citric acid cycle</p>
+                            <p style="margin:0;font-size:12.5px;">Inputs: 2 pyruvates (3C), 2 coenzymeA (enzyme helped carrier acetyl group to citric acid cycle), 2NAD+. Outputs: 2 acetyl coA (2C), 2CO2 (1C waste product used in calvin cycle in photosynthesis or exhaled into atmosphere in heterotrophs), 2NADH (carries extra electrons/H+ to ETC)</p>
                         </div>
-                        <div>
-                            <h3>Citric Acid Cycle / Krebs Cycle</h3>
-                            <ul>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Citric acid cycle / Krebs cycle</p>
+                            <ul style="margin:0;padding-left:18px;">
                                 <li>Located in mitochondrial matrix, more CO2 released from organic intermediates, more ATP synthesized from ADP+P through substrate level phosphorylation, electrons/H+ from intermediates transferred to coenzyme carrier molecules, NADH and FADH2 shuttle buses carry them over to ETC</li>
                                 <li>Acetyle coA -> coEnzyme A which goes back to prep rxn, 2CO2 released as NAD+->NADH and ADP+P-->ATP and FAD->FADH2 and NAD+->NADH again</li>
                                 <li>Citric acid occures twice per glucose molecule since 2 pyruvates form from glycolysis</li>
                                 <li>Inputs: 2 acetyl groups carried by coA, 6NAD+, 2FAD, 2ADP+2Pi. Output: 6NADH, 2FADH2, 2ATP, 4CO2, 2coA</li>
                             </ul>
                         </div>
-                        <div>
-                            <h3>Oxidative Phosphorylation / Electron Transport Chain & Chemiosmosis in Cell Respiration</h3>
-                            <p><strong>Oxidative Phosphorylation</strong>: process where NADH, FADH2, moving electrons, and H+ gradients used to create ATP through ETC/chemiosmosis. O2 is driving forceLocated in the inner cristae membrane of mitochondria & plasma membrane of aerobic prokaryotes</p>
-                            <p>Inputs: 10NADH+2FADH2+lots ofADP+P+6O2 -> Outputs: 10NAD++2FAD+lots o fATP+6H2O</p>
-                            <p>If this was decoupled from electron transport, the ETC wouldn't be coupled w ATP synthesis so the energy wopuld be lost as heat (ex: body temp regulation like brown fat in infants/hibernationg orgaanisms)
-                            <ol>
+                        <div class="note-card" style="grid-column:1/-1;">
+                            <p class="note-card-title">Oxidative phosphorylation / ETC &amp; chemiosmosis (cell respiration)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;"><strong>Oxidative Phosphorylation</strong>: process where NADH, FADH2, moving electrons, and H+ gradients used to create ATP through ETC/chemiosmosis. O2 is driving forceLocated in the inner cristae membrane of mitochondria & plasma membrane of aerobic prokaryotes</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Inputs: 10NADH+2FADH2+lots ofADP+P+6O2 -> Outputs: 10NAD++2FAD+lots o fATP+6H2O</p>
+                            <p style="margin:0 0 10px;font-size:12.5px;">If this was decoupled from electron transport, the ETC wouldn't be coupled w ATP synthesis so the energy wopuld be lost as heat (ex: body temp regulation like brown fat in infants/hibernationg orgaanisms)</p>
+                            <ol style="margin:0;padding-left:18px;">
                                 <li>NADH and FADH2 carry H+/e- to cristae of mitochondria and get oxidized back to NAD+ and FAD which are resused to earlier steps</li>
                                 <li>High energy electrons get passed along to molecules of ETC and leave as low energy</li>
                                 <li>Protons get dropped of in mitochondria matrix and actively pumped into intermembrane space to form H+ gradient inside intermembrane space, contributing to ATP production and H+ in matrix also contribute to production of H2O from O2</li>
@@ -1054,20 +1077,20 @@ const NOTES = {
                     <p>Process producing limited ATP amounts from glycolysis only if O2 is absent. Glycolysis occurs as usual w same inputs/outputs, but ETC can't proceed so NAD+ can't get regenerated. Yields 2ATP each time it happens which isn't much but some ATP can produced in absence of O2.</p>
                     <p>Pros: used for food prep like cheese, yogurt, pickles (lactic acid fermentation), yeasts used to make bread rise (alcohol fermentation), lactic acid fermentation needed in animal cells when muscles work vigorously/rapid energy burst</p>
                     <p>Cons: low yield of only 2 ATPs via substrate-level phosphorylation (during glycolysis), less efficient than aerobic respeication since 2.1% compared to 39% aerobic</p>
-                    <div>
-                        <div>
-                            <h3>Alcohol Fermentation</h3>
-                            <p>Occurs in fungi, yeast, bacteria, where pyruvates from glycolysis lose CO2 to become 2 acetaldehydre coupled with 2NADH->NAD+(needed for reuse) to become 2 ethanol</p>
+                    <div class="note-grid-2">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Alcohol fermentation</p>
+                            <p style="margin:0;font-size:12.5px;">Occurs in fungi, yeast, bacteria, where pyruvates from glycolysis lose CO2 to become 2 acetaldehydre coupled with 2NADH->NAD+(needed for reuse) to become 2 ethanol</p>
                         </div>
-                        <div>
-                            <h3>Lactic Acid Fermentation</h3>
-                            <p>Occurs in animal muscle cells, some fungi and some bacteria</p>
-                            <p>2 pyruvates becomes 2 lacate coupled w 2NADH->2NA+ rxn for reuse</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Lactic acid fermentation</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Occurs in animal muscle cells, some fungi and some bacteria</p>
+                            <p style="margin:0;font-size:12.5px;">2 pyruvates becomes 2 lacate coupled w 2NADH->2NA+ rxn for reuse</p>
                         </div>
                     </div>
                     
                     <h3>Metabolic Pool</h3>
-                    <p>Primary pathway making ATP is by breaking down glucose/carbs, but if unavailable bodies may break down fats/triglycerides or proteins to get required energy and can alternatively lead to formation of molecules along pathway leading to ATP production</p>
+                    <div class="callout">Primary pathway making ATP is by breaking down glucose/carbs, but if unavailable bodies may break down fats/triglycerides or proteins to get required energy and can alternatively lead to formation of molecules along pathway leading to ATP production</div>
                     `
                     
             }

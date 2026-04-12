@@ -287,22 +287,28 @@ html, body {
 
 .note-content h2 {
   font-family: var(--serif);
-  font-size: 16px;
-  font-weight: 500;
+  font-size: 19px;
+  font-weight: 600;
   color: var(--purple-xl);
-  margin: 28px 0 8px;
-  padding-bottom: 6px;
-  border-bottom: 1px solid var(--purple-sm);
+  letter-spacing: 0.01em;
+  margin: 32px 0 12px;
+  padding: 0 0 10px 0;
+  border-bottom: 2px solid var(--purple-md);
+  line-height: 1.25;
 }
 .note-content h2:first-child { margin-top: 0; }
 .note-content h3 {
   font-family: var(--sans);
-  font-size: 13.5px;
-  font-weight: 500;
+  font-size: 14px;
+  font-weight: 600;
   color: var(--ink);
-  margin: 20px 0 5px;
-  padding-left: 8px;
-  border-left: 2px solid var(--purple-md);
+  letter-spacing: 0.015em;
+  margin: 22px 0 10px;
+  padding: 7px 12px 7px 13px;
+  border-left: 3px solid var(--purple-md);
+  border-radius: 0 6px 6px 0;
+  background: var(--purple-xs);
+  box-shadow: none;
 }
 .note-content h4 {
   font-family: var(--sans);
