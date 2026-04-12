@@ -838,6 +838,89 @@ const NOTES = {
                         </div>
                     </div>
                     `  
+            },
+            "Unit 3: Cellular Energetics": {
+                tags: ["metabolism", "energy", "enzymes", "photosynthesis", "cell respiration"],
+                content: `
+                    <h2>Chapter 6: Metabolism: Energy & Enzymes</h2>
+                    <h3>ENERGY: the ability to do work & bring change</h3>
+                    <p>The ability to do work and bring change.All living systems require energy input to survive & carry out life functions</p>
+                    <p>Initial energy source from the Sun either used directly by producers or indirectly through consumption by consumers (Sun->producer->consumer)</p>
+                    <p>Flows in one direction through food chain/webs(does NOT CYCLE), energy is converted into different forms, some energy used to do work and perform life processes but most escapes into environment as heat</p>
+                    <p>Ex: solar energy (light energy carried by photos of light from the sun), kinetic energy (energy of motion associated w moving objects like balls, electrons/molecules), potential energy (stored energy whose capacity to do work is not used, chemical energy of bonds/molecules/gradients, and food), thermal/heat energy (unusable form of energy in biological systems that can't be used to do cellular work)</p>
+
+                    <h3>Laws of Thermodynamics</h3>
+                    <p>The study of energy transformations that occur in matter</p>
+                    <div>
+                        <div>
+                            <p><strong>First Law of Thermodynamics (Law of Conservation of Energy)</p>
+                            <p>Energy can't be created/destroyed but instead transferred from one form to another</p>
+                            <p>Ex: ball at top of hill has potential E that turns into kinetic E when released/falling, chloroplasts in plant cells capture light E and transform it into chemical E stored in glucose during photosynthesis</p>
+                            <p>Ex: Cotransport - during active transport of H+, ATP helps move H+ ions against concentration gradient storing them on one side of membrane. during cotransport of sucrose, kinetic E of moving H+ down concentration gradient provides energy to actively transport sucrose against gradient which is then converted to PE at sucrose stored in higher concentration side plant cell</p>
+                            <p>Ex: ATP power motor proteins (kinesin, dynein, myosin) to enable vesicle movement (chemical -> kinetic)</p>    
+                        </div>
+                        <div>
+                            <p><strong>Second Law of Thermodynamics (Law of Entropy)</p>
+                            <p>ENTROPY: meeasure of randomness/disorder in a system</p>
+                            <p>Energy transfer is not 100% efficient, for every energy transfer that occurs the entropy in universe increases and some energy is lost as heat to surroundings and can no longer be used to do work</p>
+                            <p>Nature tends to increase in entropy but life requires systems to be organized so constant input of energy is needed to keep order/homeostasis</p>
+                    </div>
+
+                    <h3>Metabolic Reations / Energy Transformations</h3>
+                    <p>Many reaction in biological systems involve energy changes</p>
+                    <p><strong>Gibbs Free Energy (G)</strong>: amount of available energy capable of doing work</p>
+                    <p><strong>Free-Energy Change of a rxn (delta G)</strong>: tells whehter or not reaction occurs spontaneously</p>
+                    <p><strong>Spontaneous RXN</strong>: reaction that occurs by itself w/o energy input (exergonic)</p>
+                    <div>
+                        <div>
+                            <p><strong>Endergonic Reactions</strong></p>
+                            <p>Energy is absorbed/needed since products have more free energy than reactants</p>
+                            <p>A+B+energy->C so delta G is positive and the reation is not spontaneuous</p>
+                            <p>Gibbs free energy chart goes from less energy reactants to more energy products w/ activation energy (Ea) bump in between</p>
+                        </div>
+                        <div>
+                            <p><strong>Exergonic Reactions</strong></p>
+                            <p>Energy is released bc products have less free energy than reactants</p>
+                            <p>A+B->C+energy so delta G is negative and the reaction is spontaneous</p>
+                            <p>Gibbs free energy chart goes from more energy reactants, activation energy (Ea) bump, and less energy products</p>
+                        </div>
+                    </div>
+
+                    <h3>ATP: Adenosine TriPhosphate</h3>
+                    <ul>
+                        <li>Energy currency for cells since it is the most accessible form of cell energy bc its unstable phosphate bonds hydrolyze easily, releasing enough usable energy to power cell processes.</li>
+                        <li>ATP hydrolysis releases energy b/c bonds between negatively charged phosphates are unstable and break easily, bonds forming between water/phosphates are more stable resulting in more energy output and little input</li>
+                        <li>ATP hydrolysis often coupled w energy-requiring rxns, allowing them to proceed to maintain order/life since it released 7.3kcal/mol of energy, making coupled rxns involving ATP overall exergonic/spontaneous</li>
+                        <li>Cells couple ATP hydrolysis to energy-requiring rxns by adding a phosphate to make molecules higher in free energy/more reactive which changes shape of proteins so they can do work, and by helping build gradients that store potential energy</li> 
+                        <li><strong>ATP Syntehesis/Phosphorylation of ADP</strong>: ADP+P+energy->ATP+H2O, nonspontaneous +deltaG endergonic rxn that requires energy</li>    
+                        <li><strong>ATP Hydrolysis</strong>: ATP+H2O->ADP+P+energy, spontaneous -deltaG exergonic rxn that releases energy</li>
+                        <li>ATP has higher potential energy than ADP and is less stable</li>
+                        <li>Cell Resipiration (exergonic process): energy to build ATP coming from energy in food which is broken down to release energy & build ATP</li>
+                    </ul>
+
+                    <h3>Enzymes</h3>
+                    <ul>
+                        <li>All metabolic chemical reactions need enzymes/catalysts which are proteins speeding up chemical rxn rates without changing itself by lowering activation energy, can be used repeatedly</li>
+                        <li>Ribosomes: enzymes made of RNA instead of protein which helps w RNA/protein synthesis</li>
+                        <li>Reactions are not random but organized into steps called a METABOLIC PATHWAY which starts w reactant, then intermediates, then end product</li>
+                        <li><strong>Activation Enzyme (Ea):</strong> the energy needed to start rxn and cause molecules to react w each other</strong>
+                        <li><strong>Enzyme-Substrate Complex:</strong> reactants called substrates, enzymes are specific to substrates and often named substrate-ase. General reaction is enzyme+substrate->enzyme-substrate complex->product(s)</li>
+                        <li><strong>Active Site</strong>: the part of the enzyme that interacts/binds w substrate & site where chemical change is occuring, shape is complementary to substrate shape but through induced fit model it undergoes a slight shape change</li>
+                        <li>Enzymes may carry out degradation (when single substrate is broken down into more than one smaller products involved in catabolic pathway), or synthesis (when smaller subtrates combine to produce a larger product involved in anabolic pathway)</li>
+                        <li>Some enzymes need helpers called cofactors if inorganic nonproteins (ex: metal minerals ions like Fe, Zn, Mg, Cu) and coenzymes if organic nonproteins (ex: vitamins)</li>
+                        <li>Enzyme activity is affected by: inhibitors are moecules binding to enzymes decreasing activity (sometimes necessary-feedback inihibition which is reversible)
+                            <ul>
+                                <li>Higher substrate/enzyme concentration increases enzyme activity bc more frequent collisions (to a limit until all active sites are occupied)</li>
+                                <li>Higher temperatures increases enzyme activity bc more frequent collisions but too high temperatures rapidly decrease enzyme activity due to denaturation. On the other hand, low temps don't denature, low temps just slow enzymes down a lot</li>
+                                <li>pH above/below optimal alters H+/OH- concentration changing R-group interactions changing shape/folding of enzymes (graph looks like a mountain shape at optimal pH)</li>
+                                <li>Inhibitors are molecules that bind to enzymes decreasing activity (sometimes necessary-feedback inhibition which is reversible like antibitoics combatting bacteria like penicilin) but sometimes irreversible like poisons</li>
+                                <li>Noncompetitive inhibitors - inhibitor binds to allusteric site (opposite active cite) instead of enzyme's active site, causing enzyme active site to change shape preventing it from binding to substrate</li>
+                                <li>Competitive inhibitors - inhibitor binds to active site so inhibitor/substrate compete to bind, product may form if substrate binds but no product will form if inhibitor binds</li>
+                            </ul>
+                        </li>
+                        
+                    </ul> 
+                    `
             }
         }
     }
