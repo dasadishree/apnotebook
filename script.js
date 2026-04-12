@@ -514,7 +514,176 @@ const NOTES = {
                     </li>
                 </ul>
                 `
+            },
+            "Unit 2: Cells": {
+                tags: ["cell structure", "cell organelles", "prokaryotes", "eukaryotes", "plasma membra"],
+                content: `
+                    <h2>Chapter 4: Cell Structure & Function</h2>
+                    <h3>Prokaryotes</h3>
+                    <ul>
+                        <li>Single-celled organisms, lack a membrane bound nucleus with much smaller/simpler cells</li>
+                        <li>Ex: Bacteria & Archaea (live in extreme habitats). Despite them both being prokaryotes structurally, archaea are more biochemically similar to eukaryotes</li>
+                    </ul>
+                    <div>
+                        <div>
+                            <p><strong>Plasma Membrane</strong></p>
+                            <p>Innermost layer with a lipid bilayer in bacteria or lipid monolayer in archaea with embedded/peripheral proteins and internal pouches calles MESOSOMES to increase SA:V ratio</p>
+                        </div>
+                        <div>
+                            <p><strong>Cell Wall</strong></p>
+                            <p>Middle layer which maintains the shape of the cell strengthened by materials peptitoglycan in bacteria or glycoproteins in archaea. Fungi cell wall made of chitin, plant cell wall made of cellulose, animal/proteins have no cell wall</p>
+                        </div>
+                        <div>
+                            <p><strong>Glycocalyx</strong></p>
+                            <p>Outer layer which is a gellike, bumpy layer of polysaccharides lying on outside of cell wall. If it's compact its called a capsule, and if diffuse called a slime layer.</p>
+                        </div>
+                        <div>
+                            <p><strong>Cytoplasm</strong></p>
+                            <p>Semifluid solution bounded by plasma membrane containing water, inorganic molecules, organic molecules like enzymes/proteins, NUCLEOID which is a non-membrane bound region that contains plasmid and ribosomes</p>
+                        </div>
+                        <div>
+                            <p><strong>Plasmid</strong></p>
+                            <p>Single coiled circular ring of DNA</p>
+                        </div>
+                        <div>
+                            <p><strong>Ribosome</strong></p>
+                            <p>Protein chefs / site of protein synthesis</p>
+                        </div> 
+                        <div>
+                            <p><strong>Flagella</strong></p>
+                            <p>Provide motility, found in prokaryotes but the only exception to this is animal sperm cells which use flagella for movement</p>
+                        </div>
+                        <div>
+                            <p><strong>Fimbriae</strong></p>
+                            <p>Small bristle-like fibers that sprout from the cell surface and help bacteria attach to surfaces when necessary ("sticky")</p>
+                        </div>
+                        <div>
+                            <p><strong>Conjugation Pili / Sex Pili</strong></p>
+                            <p>Rigid tubular structures used to pass DNA from one bacteria cell to another, bacteria reproduce asexually (less variety) but sex pili allows for horizontal gene transfer leading to bacteria variety</p>
+                        </div>
+                    </div>
 
+                    <h3>Eukaryotes</h3>
+                    <ul>
+                        <li>Single or multicellular organisms with membrane bound nucleus/organelles allowing for COMPARTMENTALIZATION and larger cells</li>
+                        <li><strong>Compartmentalization</strong>: makes eukaryotic cells more efficient, organized, and capable of performing many complex functions at once and creates distinct pH microenvironments</li>
+                        <li>Internal membranes increase surface area</li>
+                        <li>Ex: Animals, plants, fungi (yeast is single-celled, mushrooms are multicellular), protists (unicellular aquatic amoeba, paramecium, & euglena)</li>
+                        <li>Largest human cell is female egg cell, largest known single cell is an ostrich egg</li>
+                        <li>Arose after prokaryotic cells</li>
+                        <li><strong>Endosymbiotic Theory</li>: theory about how organelles in eukaryotic cells evolved, suggesting prokaryotes had plasma membranes fold inwards and evenually folds pinched off, creating compartments
+                            <ul>
+                                <li>One housed DNA forming the first nucleus which was advantageous in protecting and organizing genetic information</li>
+                                <li>Energy-producing organelles like mitochondria and chloroplasts evolved when larger prokaryotes engulfed smaller ones capable of aerobic cell repiration and photosynthesis</li>
+                                <li>Evidence: protein arrangement of membrane bound organelles is inverted compared to plasma membrane, mitochondria/chloroplasts/prokaryotic bacteria have their own circular DNA & ribosomes, have structurally very similar double membranes, and reproduce the same way (through binary fission)</li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                        <p><strong>ENDOMEMBRANE SYSTEM</strong></p>
+                        <p>Series of intracellular membranes that compartmentalize cell and allows cell to do incompatible functions at once. Organelles of the endomembrane system are interrelated either through physical contact or transport vesicles (includes: nuclear envelope/membrane, ribosomes, rough/smooth ER membranes, golgi, vesicles, lysosomes)
+                        <p>Organelles work together to modify, package, and transport polysaccharides, lipids, and proteins both intra and intercellularly</p>
+                        <div>
+                        <div>
+                            <p><strong>Nucleus</strong></p>
+                            <p>Only found in eukaryotes, the command center of the cell, usually found near the center and seperated from the cytoplasm by the NUCLEAR MEMBRANE (double membrane continuous with the rough ER, containing protein channels/pores which allow for transport and permit exchange between the nucleoplasm/cytoplasm). Contains CHROMATIN (unraveled DNA made up of DNA and proteins which condesnses to form chromosomes just before cell division) in a semi-fluid nucleoplasma and NUCLEOLUS</p>
+                            <p>Functions: controls all cellular activities, houses the DNA and nucleolus, site of DNA replication and transcription (DNA->mRNA) and post-transcriptional RNA modification</p>    
+                            <p>NUCLEOLUS: region, not a organelle/structure. Found within the nucelus, it is a non-membrane bound, dark/dense region of the nucleus where ribosome/protein & rRNA synthesis happens (rRNA joins with proteins to form ribosome subunits). Evidence: removing nucleoli slowed cell's rate of protein synthesis</p>  
+                        </div>
+                        <div>
+                            <p><strong>Ribosomes</strong></p>
+                            <p>The site of protein synthesis composed of rRNA and proteins and a large/small subunit. Made in the nucleolus.</p>
+                            <p>ATTACHED RIBOSOMES - found on the rough ER and make proteins destined for export out of the cell / embedded in cell membrane</p>
+                            <p>FREE RIBOSOMES - float freely in cytoplasm either alone or in groups called polyribosomes, make proteins for use inside the cell</p>
+                            <p>Some cells like pancreatic cells have more ribosomes since they produce secretions that contain insulin which is a protein hormone</p>
+                            <p>A ribosome attaches to ER if the protein being synthesized begins w sequence of aminoacids called a SIGNAL PEPTIDE, which then binds to SIGNAL RECOGNITION PARTICLE (SRP) in the cytoplasm which binds to a SRP RECEPTOR PROTEIN on the ER, opneing a channel which causes SRP to leae & protein synthesis resumes and polypeptide fed into the ER. An enzyme inside ER removes signal peptide from the growing polypeptide chain and once complete, large/small ribosomal subunits break away from ER/each other and polypeptide folds into a protein within ER, and once complete the ER membrane forms a vesicle and transports it to the golgi</p>
+                        </div>
+                        <div>
+                            <p><strong>ROUGH Endoplasmic Reticulum</strong></p>
+                            <p>A system of membrane channels/saccules continous w nuclear membrane</p>
+                            <p>Studded with attached ribosomes on cytoplasmic side since it has receptor sites for ribosomes</p>
+                            <p>Functions: Protein synthesis aand transport (proteins usually excreted out of cell as secretions for use elsewhere), some protein modification/processing begins here (like adding sugar/carbohydrates to protein forming glycoproteins), form transport vesicles to transport products to golgi for further packaging</p>
+                            <p>Plasma and pancreatic cells have more rough ER since they produce secretions like hormones and enzymes which are proteins</p>    
+                        </div>
+                        <div>
+                            <p><strong>SMOOTH Endoplasmic Reticulum</strong></p>
+                            <p>Continous system of membrane channels with rough ER but with no ribosomes/receptor sites</p>
+                            <p>Functions: Lipid synthesis, detoxification of drugs/poisons, carbohydrate metabolism, forms transport vesicles to transport to golgi/rough ER, stores CA2+ ions in muscle cells</p>
+                            <p>Liver and testes cells have more smooth ER since liver detoxifies blood and testes produce steroid hormones which are lipids</p>
+                        </div>
+                        <div>
+                            <p><strong>Golgi Apparatus / Golgi Bodies / Golgi Complex</strong></p>
+                            <p>Consists of flatted curved saccules resembling stack of hollow pancakes</p>
+                            <p>Main function: further modify/package protein/lipid products from vesciles from the ER recieved on the cis/inner face, chemical modification like glyocosylation which is when sugar/molecules added to form glycoproteins/glycolipids/etc which directs product to wherever it needs to go next, then is prepared for shipment/packages into new transport vesicles from its trans/outer face</p>
+                            <p>Packaged vesicles either fuse w/ cell membrane and are secreted (secretion exocytosis for export out of the cell) or sometimes fo to other cell location</p>
+                            <p>Golgi is also responsible for lysosome formation</p>
+                        </div>
+                        <div>
+                            <p><strong>Lysosomes</strong></p>
+                            <p>Membrane-bound vesicles produced by golgi appartus found ONLY IN ANIMAL CELLS</p>
+                            <p>Contains digestive hydrolitic enxymes & is highly acidic enabling digestion of certain cell materials, breakdown of proteins, lipids, nucleic acids, carbs, destroying of pathogens like bacteria/viruses, recycling of old/damaged cell parts</p>
+                            <p>Plays a role in programmed cell death (APOPTOSIS)</p>
+                            <p>White blood cells have high lysosome abundance since they engulf invading pathogens</p>
+                            <p>Tay-Sachs Disease - genetic lyosomal storage disease caused by absence of lipid digestion lysosomal enzyme causing lipid brain accumulation and nerve cells die so nervous system deteriorates and usually only lives to 3-4yo.</p>
+                        </div>
+                    </div>
+                    <p><strong>Energy Related Organelles</strong></p>
+                    <div>
+                        <div>
+                            <p><strong>Chloroplasts</strong></p>
+                            <p>Specialized organelles found in ONLY plants / photosynthetic algae</p>
+                            <p>Structure: double outer and inner membrane enclosing semi-fluid stroma, contains thylakoid discs stacked in grana stacks which are green b/c of chlorophyll pigment. Contains its own DNA&ribosomes and self-replicates</p>
+                            <p>Function: site of photosynthesis (CO2+H2O+solar energy -> C6H12O6 + O2 general equation), evolved from ancient prokaryotic photosynthetic cyanobacteria that were later engulfed by larger prokaryote (endosymbiosis)</p>
+                        </div>
+                        <div>
+                            <p><strong>Mitochondria</strong></p>
+                            <p>Specialized organelles found in all aerobic eukaryotic cell which is the site of some reactions involved in aerobic cell respiration</p>
+                            <p>Structure: double membrane w/ smooth outer membrane and highly folded inner cristsr membrane enclosing semi-fluid matrix, the folds allow for production/dispersion of a lot of ATP. Contains its own DNA & ribosomes and can self-replicate</p>
+                            <p>Muscle cells, nerve cells and any cells w cilia or flagella have high mitochondria abundance since they require a lot of energy</p>
+                        </div>
+                    </div>
+                    <p><strong>Other Eukaryotic Organelles</strong></p>
+                    <div>
+                        <div>
+                            <p><strong>Vacuoles</strong></p>
+                            <p>Membrane bound sac that have many different roles (mostly storage)</p>
+                            <p>Plants: have single large central vacuole that takes up most of cell volume, stores water/nutrients/pigments/waste, breaks down macromolecules/damaged cell parts w/ hydrolytic enzymes (like how lysosomes do for animals), and aids in H2O retention to maintain turgor pressure (internal pressure buildup as water moves into cell by osmosis causing cell to stay firm and structured when vacuole pushes against cell membrane/wall - turgid is swell, flaccid is shrink)</p>
+                            <p>Animals: smaller more abundant vacuoles that store cellular materials</p>
+                            <p>Protists (ex: paramecium): specialized contractile vacuoles that maintain water balance in some freshwater organisms by collecting/pumping excess water that enters via osmosis to prevent bursting</p> 
+                        </div>
+                        <div>
+                            <p><strong>Peroxisomes</strong></p>
+                            <p>Membrane bound vesicle that encloses digestive hydrolytic enzymes, similar to lysosomes in structure and function but lysosomes have broader digestive function</p>
+                            <p>Specific digestive function: breakdown fatty acids and alcohols but this results in hydrogen peroxide production which is toxis, so enzyme catalose in peroxisomes break down to water&oxygen in catalase reaction (2H2O2 --> 2H2O + O2)</p>
+                            <p>Liver cells high in peroxisomes</p>
+                        </div>
+                        <div>
+                            <p><strong>Cytoplasm</strong></p>
+                            <p>Cytosol - matrix made of mostly water w dissolved particles, contains the cytoskeleton</p>
+                            <p>Cytoskeleton - cell's infrastructure which maintains cell shape, anchors organelles, assists in movement, directs transport, consisting of a web of protein fibers that move enabling cytoskeleton function</p>
+                            <p>CYTOSKELETON COMPONENTS / PROTEIN FIBERS:</p>
+                            <ul>
+                                <li>Microfilaments / Actin Filaments (smallest): made of actin protein, maintains cell shape, works w myosin motor molecule to enable muscle contractions, aids in cytokinesis, aids in formation of pseudopod false feet helping amoeba move/feed, aids in shortening/extending of microvili in small intestine for nutrient absorption, helps move materials around within cell/cytoplasm through cytoplasmic streaming</li>
+                                <li>Intermediate Filaments: made of keratin protein, also helps reinforce cell shape and holds organelles in place</li>
+                                <li>Microtubules (largest): made of tubulin protein, enables vesicle movement outward by working with kinesin motor molecule, and vescile movement inwards working with dynein motor molecule, important components of cilia, flagella, basal bodies, centrioles, spindle fibers which all have varied functions</p>
+                            </ul>
+                            <p>MICROTUBULE STRUCTURES</p>
+                            <ul>
+                                <li>CILIA: short, numerous hairlike projections from cell surface moving in wavelike motion w/ help of dynein motor molecules. Cross section is 9+2 w/ 2 microtubules in middle and 9 around it. Only in some specialized cells! Function: aids in cell movement/locomotion like in aquatic paramecium, and helps move material along cell membrane like moving mucus-debris in tracheal cells and move egg in fallopian tubes</li>
+                                <li>FLAGELLA: long, usually singled or coupled projection from cell surface moving in whip-like motion w. 9+2 microtubule arrangement. Only in some specialized cells! EX: sperm cells flagella used to swim towards egg in fallopian tube, some protists like euglena use to move through water, some bacteria use to move toward/away from taxis/harmful substances</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+
+                    <h3>CELL SIZE & SURFACE AREA:VOLUME RATIO</h3>
+                    <ul>
+                        <li>Since cells come in all different sizes, larger SA:V ratios allows for efficient exchange of materials (getting rid of waste/energy and taking in materials)</li>
+                        <li>Volume grows faster than surface area as a cell gets bigger so SA:V ratio decreases so smaller cells are more ideal for materials exchange</li>
+                        <li>Larger organisms have lower SA:V ratios so lose heat slower and don't need to burn as much energy, so they don't produce heat as fast and have a slower metabolism (ex: when its cold you will make yourself smaller to prevent energy transfer/loss)</li>
+                        <li>Adaptations increasing SA: projections in the small intestine, folds like cristae in mitochondria, folds called mesosomes in bacteria, roots of plants, flat thin leaves in plants, flappy elephant ears</li>
+                    </ul>
+                `
             }
         }
     }
