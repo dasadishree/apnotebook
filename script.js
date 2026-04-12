@@ -671,10 +671,18 @@ const NOTES = {
                             <ul>
                                 <li>CILIA: short, numerous hairlike projections from cell surface moving in wavelike motion w/ help of dynein motor molecules. Cross section is 9+2 w/ 2 microtubules in middle and 9 around it. Only in some specialized cells! Function: aids in cell movement/locomotion like in aquatic paramecium, and helps move material along cell membrane like moving mucus-debris in tracheal cells and move egg in fallopian tubes</li>
                                 <li>FLAGELLA: long, usually singled or coupled projection from cell surface moving in whip-like motion w. 9+2 microtubule arrangement. Only in some specialized cells! EX: sperm cells flagella used to swim towards egg in fallopian tube, some protists like euglena use to move through water, some bacteria use to move toward/away from taxis/harmful substances</li>
+                                <li>BASAL BODIES: 9 triplet arrangement of microtubules all around, forms the base of cilia and flagella anchoring them to the cell</li>    
+                                <li>CENTRIOLES: (ANIMAL CELLS ONLY): 9 triplet arrangement of microtubules, determines plane of division where animal cell must divide (plant cells cell plates does the same thing). Centrosomes are group of 2 centrioles</li>
+                                <li>SPINDLE FIBERS: 9 triplet arrangement of microtubules which attach to chromosomes to seperate and move them to poles before cell division</li>    
+                            </ul>
+                            <p>MOTOR PROTEINS: uses ATP hydrolysis energy to work w protein fibers and enable cytoskeleton</p>
+                            <ul>
+                                <li>MYOSIN - helps move actin filaments to enable muscle contractions</li>
+                                <li>KINESIN - moves along microtubules to aid in vesicle movement OUTWARD</li>
+                                <li>DYNEIN - moves along microtubules to aid in vesicle movement INWARD, helps microtubules making up cilia and flagella move</li>
                             </ul>
                         </div>
                     </div>
-                    
 
                     <h3>CELL SIZE & SURFACE AREA:VOLUME RATIO</h3>
                     <ul>
@@ -683,7 +691,73 @@ const NOTES = {
                         <li>Larger organisms have lower SA:V ratios so lose heat slower and don't need to burn as much energy, so they don't produce heat as fast and have a slower metabolism (ex: when its cold you will make yourself smaller to prevent energy transfer/loss)</li>
                         <li>Adaptations increasing SA: projections in the small intestine, folds like cristae in mitochondria, folds called mesosomes in bacteria, roots of plants, flat thin leaves in plants, flappy elephant ears</li>
                     </ul>
-                `
+
+                    <h2>Chapter 5A: Membrane Structure & Function</h2>
+                    <h3>PLASMA MEMBRANE</h3>
+                    <ul>
+                        <li>Common to all cells seperating internal cytoplasm from external cell environment</li>
+                        <li>Functions: regulates passage of materials in/out of cell through the selectively permeable lipid byilater, controls cell shape/fluidity through the cholesterol/unsaturated fatty acids in membrane, recongizes/communicates w other cells/molecules thorugh specificity and membrane proteins/carbs, and anchors the cytoskeleton for stability</li>
+                        <li>Structure: Fluid mosaic model w/ phospholipid bilayer, protein molecules, carb/sugar chains, and cholesterol
+                            <ul>
+                                <li>Phospholipid bilayer: made up of phosphate + R group + 1 glycerol + 2 fatty acids, external/cytoplasmic surfaces lined w polar heads and nonpolar tails in between facing inwards</li>
+                                <li>Protein Molecules: Float around, can be hydrophillic/hydrophobic depending on the side group charge/polarity. PERIPHERAL proteins are found on the inner membrane surface, and are sometimes enzymes facilitating rxns, ex: G proteins & cytochrome C. INTEGRAL/TRANSMEMBRANE proteins are partially/entirely embedded and generally transport materials and act as molecular receptors to bind to signalling molecules
+                                    <ul>
+                                        <li>Channel Proteins: integral proteins allowing passage of partiucular molecules/ions thorugh protein membrane channel (cystic fibrosis caused by faulty chloride channel)</li>
+                                        <li>Carrier Proteins: integral proteins combining w substance to be transported and changing theior shape selectively which helps it pass membrane</li>
+                                        <li>Cell Recognition Proteins: integral glycoproteins helping body recognize foreign substances (ex: organ transplant rejection, antigens, white blood cells attack foreign glycoproteins)</li>
+                                        <li>Receptor Proteins: integral proteins binding w specific molecules and allowing cell to respond to signals from other cells (ex: type 2 diabetes cell protein receptor don't bind properly to insulin so they store glucose as glycogen)</li>    
+                                        <li>Enzymatic Proteins: carry out metabolic reactions directiy by catalyzing</li>
+                                        <li>Junction Proteins: attach adjacent cells & allow signal molecules to pass between cells</li>    
+                                    </ul>
+                                </li>
+                                <li>Carbohydrate (Sugar) Chains: chains existing only on outside of plasma membrane making it asymmetrical, cruical to cell-cell recognition often attaching to lipids/proteins creating glycolipids/glycoproteins.</li>
+                                <li>Cholesterol: modify membrane fluidity over temperatures & maintain its own homeostasis, Li+ reduces flexibility at higher temps and at really low temps it prevents membrane freezing</li>
+                            </ul>
+                        </li>
+                        <li>Selectively permeable: some substances can pass, but others can't bc can't get past hydrophobic tails (ex: small nonpolar molecules like gases and hydrocarbons easily pass; ions/charged particles & polar/ionic compounds can't easily pass but w/ protein assistance can. large molecules can't pass</li>
+                    </ul>
+                    
+                    <h3>Passive Transport</h3>
+                    <p>Import resources & export waste without using energy</p>
+                    <div>
+                        <div>
+                            <p><strong>Passive Diffusion</strong></p>
+                            <p>Net movement of molecules from high -> low concentration down/with concentration gradient (difference in concentrations) until dynamic equilibrium (no net movement, = in both directions) reached and gradient no longer exists w/o using energy</p>
+                            <p>Diffusion rate affected by temperature (increases w higher temp bc more molecule movement/kinetic energy), molecule size/mass (smaller molecules move faster so diffuse faster), steepness of concentration gradient (steeper gradient = faster diffusion rate bc think going down a slide), surface area (greater SA = faster diffusion rate bc more membrane space)</p>    
+                        </div>
+                        <div>
+                            <p><strong>Osmosis</strong></p>
+                            <p>Diffusion of water across selectively permeable membrane from high water concentration to low water contentation (direction determined by relative solute concentrations)</p>
+                            <p>Focuses on solvent/water movement instead of solute since the solute may not be able to diffuse due to size/charge/polarity (nonpenetrating solutes)</p>
+                            <p>Placing an movable lever makes osmosis/water push the level up, but if immovable lever placed the level would counteract water pressue equally and opposite like how cell wall acts for plants</p>
+                            <p>OSMOTIC (HYDROSTATIC) PRESSURE - min pressure needed to stop osmosis, aka turgor pressure in plant cells but plants won't burst bc cell wall resists water movement after a point</p>
+                        </div>
+                    <div>
+                    
+                    <h3>Types of Solutions</h3>
+                    <p><strong>TONICITY</strong> - relative solute concentration of nonpenetrating solutes that don't cross membrane</p>
+                    <p><strong>OSMOLARITY</strong> - relative solute concentration of penterating and nonpenetrating (ALL) solutes</p>
+                    <p>Water always moves from <em>HYPO TO HYPER</em> asusuming no negative/applied pressures</p>
+                    <p>Human blood / intracellular fluid is isotonic to our bodycells, but for some animals/protists like paramecium in freshwater environments isn't isotonic so they require regulatory mechanisms like contractile vacuoles pumping out excess water to prevent bursting/buildup and help keep homeostasis</p>
+                    <div>
+                        <div>
+                            <p><strong>Isotonic Solutions</strong></p>
+                            <p>When both solute concentratons and water concentrations are equal, so no net movement and water crosses at same rate in both directions</p>
+                            <p>Cell placed in isotonic solution won't shrink or swell)</p>
+                        </div>
+                        <div>
+                            <p><strong>Hypotonic Solution</strong></p>
+                            <p>(Low solute high H2O) Solute concentration in solution is lower than solution on other side so hypotonic solution has higher water concentration compared to other side of membrane</p>
+                            <p>Cell placed in hypotonic solution would expand since water moves in (animal cells could burst/lyse, but plant cell walls resist bursting)</p>
+                        </div>
+                        <div>
+                            <p><strong>Hypertonic Solution</strong></p>
+                            <p>(High solute low H2O) Solute concentration in solution is higher than solution on otherside so hypertonic solution has lower water concentration compared to other side of membrame</p>
+                            <p>Cell placed in hypotonic solution would shrink (animal cells crenate, plant cells plasmolyze where cell membrane pulls away from cell wall which stays rigid)</p>
+                        </div>
+                    </div>
+                    
+                `   
             }
         }
     }
