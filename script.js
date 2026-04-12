@@ -917,9 +917,25 @@ const NOTES = {
                                 <li>Noncompetitive inhibitors - inhibitor binds to allusteric site (opposite active cite) instead of enzyme's active site, causing enzyme active site to change shape preventing it from binding to substrate</li>
                                 <li>Competitive inhibitors - inhibitor binds to active site so inhibitor/substrate compete to bind, product may form if substrate binds but no product will form if inhibitor binds</li>
                             </ul>
-                        </li>
-                        
+                        </li>    
                     </ul> 
+
+                    <h2>Chapter 7: Photosynthesis</h2>
+                    <h3>Overview</h3>
+                    <li>Process capturing solar energy into ATP/NADH into chemical energy which ends up being stored in carbohydrates through net equation: 6CO2+6H2O+solar energy->C6H12O6+6O2 or overall equation 6CO2+12H2O+solar energy->C6H12O6+6H2O+6O2</p>
+                    <li>Located chloroplasts in green portions of plants like leaves which contain mesophyll tissue in which cells are specialized for photosynthesis</p>
+                    <p>Light dependent and independent reactions produce carbohydrates and release oxygen, since carbohydrates produced are chemical energy source, oxygen released as byproduct used for cell respiration and rsies to form ozone shield protecting earth</p>
+                    <p>Photosynthetic organisms/AUTOTROPHS (since they produce their own food and feed heterotroph consumers): plants, green algae/protists, cyanobacteria/prokaryotes</p>
+                    <p>Raw materials: water taken up through roots, CO2 taken up through stomata/stoma openings on underside of leaves</p>
+                    <p>Chloroplast structure/function: double membrane, semifluid strome interior rich in enzymes aand this is where CO2 reduced to form carbohydrate w help from enzymes, stacks of thylakoids forming a stack called granum/grana containing photosynthetic pigments chlorophylls a&b and others, light absorpiton occurs here</p>
+                    <p>Endergonic, anabolic process building glucose requiring light energy, inolving redox reactions (reduction of CO2 to form glucose, oxidation of H2O to form O2) and indirect movement of electrons from water to CO2</p>
+                    <p><em>REDOX: reduction-oxidation reactions. LEO says GER - lose electron oxidation, gain electrons reduction</em></p>
+                    <p>Solar energy (photon is smallest particle/unit of light) converted to ATP/NADPH which is used to reduce CO2 to glucose w help from enzymes</p>
+                    <p>1 H atom = 1e +1proton</p>
+
+                    <h3>Pigments</h3>
+                    <p>Plants adapted to capture some of the radiation associated w visible light</p>
+
                     `
             }
         }
