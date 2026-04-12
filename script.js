@@ -922,20 +922,68 @@ const NOTES = {
 
                     <h2>Chapter 7: Photosynthesis</h2>
                     <h3>Overview</h3>
-                    <li>Process capturing solar energy into ATP/NADH into chemical energy which ends up being stored in carbohydrates through net equation: 6CO2+6H2O+solar energy->C6H12O6+6O2 or overall equation 6CO2+12H2O+solar energy->C6H12O6+6H2O+6O2</p>
-                    <li>Located chloroplasts in green portions of plants like leaves which contain mesophyll tissue in which cells are specialized for photosynthesis</p>
-                    <p>Light dependent and independent reactions produce carbohydrates and release oxygen, since carbohydrates produced are chemical energy source, oxygen released as byproduct used for cell respiration and rsies to form ozone shield protecting earth</p>
-                    <p>Photosynthetic organisms/AUTOTROPHS (since they produce their own food and feed heterotroph consumers): plants, green algae/protists, cyanobacteria/prokaryotes</p>
-                    <p>Raw materials: water taken up through roots, CO2 taken up through stomata/stoma openings on underside of leaves</p>
-                    <p>Chloroplast structure/function: double membrane, semifluid strome interior rich in enzymes aand this is where CO2 reduced to form carbohydrate w help from enzymes, stacks of thylakoids forming a stack called granum/grana containing photosynthetic pigments chlorophylls a&b and others, light absorpiton occurs here</p>
-                    <p>Endergonic, anabolic process building glucose requiring light energy, inolving redox reactions (reduction of CO2 to form glucose, oxidation of H2O to form O2) and indirect movement of electrons from water to CO2</p>
-                    <p><em>REDOX: reduction-oxidation reactions. LEO says GER - lose electron oxidation, gain electrons reduction</em></p>
-                    <p>Solar energy (photon is smallest particle/unit of light) converted to ATP/NADPH which is used to reduce CO2 to glucose w help from enzymes</p>
-                    <p>1 H atom = 1e +1proton</p>
+                    <ul>
+                        <li>Process capturing solar energy into ATP/NADH into chemical energy which ends up being stored in carbohydrates through net equation: 6CO2+6H2O+solar energy->C6H12O6+6O2 or overall equation 6CO2+12H2O+solar energy->C6H12O6+6H2O+6O2</li>
+                        <li>Located chloroplasts in green portions of plants like leaves which contain mesophyll tissue in which cells are specialized for photosynthesis</li>
+                        <li>2 sets of rxns: Light dependent rxns and light independent reactions which produce carbohydrates and release oxygen, since carbohydrates produced are chemical energy source, oxygen released as byproduct used for cell respiration and rsies to form ozone shield protecting earth</li>
+                        <li>Photosynthetic organisms/AUTOTROPHS (since they produce their own food and feed heterotroph consumers): plants, green algae/protists, cyanobacteria/prokaryotes</li>
+                        <li>Raw materials: water taken up through roots, CO2 taken up through stomata/stoma openings on underside of leaves</li>
+                        <li>Chloroplast structure/function: double membrane, semifluid strome interior rich in enzymes aand this is where CO2 reduced to form carbohydrate w help from enzymes, stacks of thylakoids forming a stack called granum/grana containing photosynthetic pigments chlorophylls a&b and others, light absorpiton occurs here</li>
+                        <li>Endergonic, anabolic process building glucose requiring light energy, inolving redox reactions (reduction of CO2 to form glucose, oxidation of H2O to form O2) and indirect movement of electrons from water to CO2</li>
+                        <li><em>REDOX: reduction-oxidation reactions. LEO says GER - lose electron oxidation, gain electrons reduction</em></li>
+                        <li>Solar energy (photon is smallest particle/unit of light) converted to ATP/NADPH which is used to reduce CO2 to glucose w help from enzymes</li>
+                        <li>1 H atom = 1e +1proton</li>
+                        <li><em>Track electrons, energy, atoms, and H+ throughout photosynthesis</em></li>
+                    </ul>
 
                     <h3>Pigments</h3>
-                    <p>Plants adapted to capture some of the radiation associated w visible light</p>
+                    <p>Plants adapted to capture some of the radiation associated w visible light. If it reflects a color that means it can't absorb that color well, so plants don't grow well in green light.</p>
+                    <ul>
+                        <li><strong>Chlorophyll a</strong>: main photosynthetic pigment in green plants, reflects dark green</li>
+                        <li><strong>Chlorophyll b</strong>: plays accessory (not as important) role in photosynthesis in green plants, reflects light green</li>
+                        <li><strong>Carotenoids</strong>: found in most plants but predominant in carrot, pumpkins, and fall months when chlorophyll breaks down for winter, reflects orangish yellow</li>
+                        <li><strong>Phycobilins</strong>: mainly found in red algae (not as important)</li>
+                    </ul>
 
+                    <h3>Light Dependent Reactions (LDR)</h3>
+                    <p>Reactions that need light to occur, located along thylakoid membranes, inputs of solar energy, H2O, ADP+P, NADP+ to output O2,ATP,NADPH</p>
+                    <p>Uses splitting of water, moving electrons energized by solar energy, and formation of H+ gradient to fuel ATP/NADPH production (energy-carrying molecules) with O2 released as a byproduct</p>
+                    <p>Photosytems 2 (680) and 1 (700) are collections of pigment molecules responsible for gathering solar energy/light photons to eventually be converted to other usable energy forms for plant, consisting of a pigment complex, reaction complex, and electron acceptor molecule</p>
+                    <ol>
+                        <li>PIGMENT COMPLEX consists of pigment molecules which capture light energy photons and transfer it to a pair of chlorophyll a molecules at REACTION CENTER</li>
+                        <li>REACTION COMPLEX pair of chlorophyll a molecules accumulate energy from other electron molecules, causing the electrons from double bond in pigment to get excited and jump to higher energy levels</li>
+                        <li>Instead of releasing energy back to ground state, the excited electrons are captured by ELECTRON ACCEPTOR MOLECULE which receives electrons from rxn center and passes them to electron transport chain (PS80 rxn center for PS2 and PS700 rxn center for PS1)
+                        <li>H2O from environment diffuses into inner thylakoid space and gets split & oxidizes (photolysis) H2O->0.5O2+2e-+2H+ which replenishes electrons lost by chlorophyll A at reaction center. The O2 gets released as waste, and 2H+ stay in inner thylakoid and contribute to building of H+ gradient inside thylakoid</li>
+                        <li>High energy electrons from chlorophyll which were energized by light are delivered to ELECTRON TRANSPORT CHAIN (series of membrane-bound protein carrier in thylakoid membrane passing electrons between carriers through redox rxns).</li>
+                        <li>Electrons move from caarrier molecule to carrier molecule, releasing energy in the process and are low in energy by the end of the chain</li>
+                        <li>Energy released by electron transfer goes towards powering a proton pump (active transport protein pumping H+ from low stroma to high thylakoid space across membrane) which enables production of ATP through CHEMIOSMOSIS aka PHOTOPHOSPHORYLATION in photosynthesis</li>
+                        <li>CHEMIOSMOSIS: method of ATP production requiring electron transport chain and electrochemical H+ gradient/difference in concentrations and charge to fuel ATP production through ADP phosphorylation, using released energy from electrons moving along ETC to actively pump H+ across membrane. H+ gradient builds up in innner thlyakoid space and ATP is passively transported through ATP synthase into transport.</li>
+                        <li>H+ gradient builds up in innner thlyakoid space so ATP is passively transported through ATP synthase into transport, ATP brought to calvin cycle (ADP+P-->ATP as H+ transported passively).</li>
+                        <li>Low energy electrons received by PS1 are re-energized by light in the same way as PS2, but exited electrons are replaced by electrons from ETC not from water</li>
+                        <li>Reorganized electrons passed to protein carrier ferredoxin</li>
+                        <li>Enzyme called NADP+ reductase passes 2 electrons + 1H+ to NADP+ reducing it to become NADPH in stroma which is brought to calvin cycle (NADP+ is oxidized form empty shuttle, NADPH is reduced form full shuttle carrying 2e+1H in rxn NADP+ + 2e- + 1H+ -> NADPH)</li>
+                    </ol>
+                    <p>Electron flow is noncyclic and some electrons loop around ETC to make more ATP since more ATP needed than NADPH</p>
+
+                    <h3>Light Independent Reactions (LIR) / aka Calvin Cycle</h3>
+                    <p>Reactions don't directly requiring light, though they do need byproducts of LDR like NADPH and ATP, located in stroma.</p>
+                    <p>Can only occur during the day b/c for most plants stomata is only open during day to let CO2</p>
+                    <p>Inputs of ATP,NADPH,CO2 and outputs of carbohydrate(glucose),ADP+P,NADP+</p>
+                    <p>Uses ATP+NADPH from LDR to reduce CO2/other derivatives to produce carbohydrate that can be converted to glucose, recycles ADP+P and NADP+ back to LDR</p>
+                    <ol>
+                        <li>CARBON FIXATION: CO2 gets fixed/incorporated into organic compound w help of the enzyme Rubisco fixing CO2 (1C) to RuBP (5C) forming short-term 6C intermediate which splits to form 2 3PG/PGA</li>
+                        <li>REDUCTION: 3PG/PGA ultiamtely is reduced to form G3P/PGAL through hydrolysis of ATP and reducion of other intermediates by NADPH (NADPH drops off passengers NADPH->NADP+2e+H+. Excess H2O is released here</li>
+                        <li>REGENERATION: Some G3P converted to glucose which is used to build complex carbs, but most (5/6 molecules) converted back to RuBP to continue cycle, requriring hydrolysis of 3 ATP molecules</li>
+                    </ol>
+                    <p>TOTALS: 1 net G3P/PGAL + regeneration of RuBP requires hydrolysis of 9ATP molecules and oxidation of 6NADPH molecules. Cyclic LDR electron flow needed since more ATP than NADPH needed. From one turn of Calvin Cycle, 1 G3P and ADP+P,NADP+ recycled back to LDR so two turns needed to create glucose.</p>
+                    <p>G3P can also form other molecules</p>
+
+                    <h3>Adaptations / Evolution of Photosynthesis</h3>
+                    <li>Photosynthesis evolved first in cyanobacteria which got engulfed by larger prokaryotes</li>
+                    <li>Calvin Cycle occurs dmostly during day and photosynthesis happens in chloroplasts of mesophyll cells</li>
+                    <li>Not all plants live in ideal photosynthetic conditions, they may live in hot/dry/low sunlight areas so photorespiration would occur which is when O2 binds w subisco instead of CO2 so sugars aren't made (open stamata loses too much water, close stomata accumulates O2)</li>
+                    <li>CAM PLANTS - partition photsynthesis by time so stomata opens at night to take in CO2 and let O2 out so less water evaporation occurs, carbon fixation happens at night and calvin cycle occurs during day (ex: cacti, pineapples, jade plants, succulents)</li>
+                    <li>C4 PLANTS - partition photosynthesis by location so stomata takes in CO2 and converted to C4 compound in mesophyll cells deeper in leaf, then back to CO2 in bundlesheath where calvin cycle occurs (ex: corn, sugarcane, crabgrass)</li>
                     `
             }
         }
