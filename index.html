@@ -1,66 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>adishree's ap study notebook 😭😭😭</title>
-        <link rel="preconnect" href="https:fonts.googleapis.com">
-        <link href="https://fonts.google.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=DM+Mono:wght@300;400&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="style.css">    
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>adishree's ap study notebook</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=DM+Mono:wght@300;400&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-    <body>
-        <!-- left sidebar to switch between classes -->
-        <div class="sidebar">
-            <div class="logo-block">
-                <div class="logo-eyebrow">STUDY WITH ME!!!</div>
-                <div class="logo-title">adishree's ap study notebook 😭😭😭</div>
+<div class="shell">
+
+    <div class="sidebar">
+        <div class="logo-block">
+            <div class="logo-eyebrow">study notebook</div>
+            <div class="logo-title">adishree's ap study notebook</div>
+        </div>
+        <div class="nav-label">classes</div>
+        <div class="class-list" id="classList"></div>
+        <div class="sidebar-footer">
+            you've got this ✦<br>
+            manifesting good scores
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="topbar">
+            <div class="breadcrumb" id="breadcrumb">
+                <span class="bc-class" id="bc-class">select a class</span>
             </div>
-            <div class="nav-label">classes</div>
-            <div class="class-list" id="classList"></div>
-            <div class="sidebar-footer">
-                i will get a 5 on all my aps <br>
-                manifesting 🙏🙏
+            <div class="search-wrap">
+                <svg width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="search" id="searchInput" placeholder="search notes… (Enter)" autocomplete="off" title="Press Enter to jump to the first matching unit">
             </div>
         </div>
 
-        <!-- main -->
-        <div class="main">
-            <div class="topbar">
-                <div class="breadcrumb" id="breadcrumb">
-                    <span class="bc-class" id="bc-class">select a class</span>
-                </div>
-                <div class="search-wrap">
-                    <svg width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-                    <input type="text" id="searchInput" placeholder="search notes..." oninput="handleSearch()">
+        <div class="content-row">
+            <div class="unit-sidebar" id="unitSidebar">
+                <div class="unit-label">units</div>
+                <div id="unitList"></div>
+            </div>
+
+            <div class="notes-body" id="notesBody">
+                <div class="empty-state">
+                    <div class="empty-glyph">✦</div>
+                    welcome to the notebook
+                    <span style="font-size:12px; font-style:normal; font-family: var(--mono); color: var(--ink3); margin-top:4px;">pick a class on the left to get started</span>
                 </div>
             </div>
 
-            <!-- units -->
-            <div class="content-row">
-                <div class="unit-sidebar" id="unitSidebar">
-                    <div class="unit-label">units</div>
-                    <div id="unitList"></div>
-                </div>
-            
-
-            <!-- the actual notes -->
-                <div class="notes-body" id="notesBody" onscroll="updateScrollSpy()">
-                    <div class="empty-state">
-                        <div class="empty-glyph">✦</div>
-                        welcome to adishree's notebook
-                        <span style="font-size:12px; font-style:normal; font-family: var(--mono); color: var(--ink3); margin-top:4px;">pick a class from the left to get started</span>
-                    </div>
-                </div>
-
-            <!-- right outline -->
-                <div class="outline" id="outline">
-                    <div class="outline-label">on this page</div>
-                    <div id="outlineList"></div>
-                </div>
+            <div class="outline" id="outline">
+                <div class="outline-label">on this page</div>
+                <div id="outlineList"></div>
             </div>
         </div>
+    </div>
+</div>
 
-        <!-- notes data and javascript -->
-        <script src="script.js"></script>
-    </body>
+<script src="script.js"></script>
+</body>
 </html>

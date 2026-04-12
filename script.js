@@ -5,7 +5,7 @@ const NOTES = {
             "Unit 1: Chemistry of Life": {
                 tags: ["characteristics of life", "feedback", "scientific method", "chemistry", "macromolecules"],
                 content: `
-                    <h2 id="h-life">Chapter 1A: A View of Life - Overview</h2>
+                    <h2 id="h-ch1a">Chapter 1A: A View of Life — Overview</h2>
                     <h3>Characteristics of Life</h3>
                     <ul>
                         <li>Organized and made of at least one cell</li>
@@ -21,28 +21,28 @@ const NOTES = {
 
                     <h3>Feedback Mechanisms</h3>
                     <p>Used to maintain internal environments in response to internal/external changes</p>
-                    <div>
-                    <div>
-                        <p><strong>Negative Feedback Mechanisms</strong></p>
-                        <ul>
-                            <li>Maintain homeostasis by keeping variables close to the target set point (ex: body temperature, blood glucose/pH, thermoregulation through sweating/shivering)</li>
-                            <li>Body reacts to environment</li>
-                            <li>Sensors detect environmental changes causing body imbalance, control/regulatory centers initiate actions to bring conditions back to normal, then once its normal, inhibitory mechanisms reverse these actions to avoid overcorrection</li>
-                            <li>Dynamic equilibrium</li>
-                            <li><strong>Thermoregulation:</strong> higher temperature = faster molecules = faster reactions and metabolism</li>
-                            <li>Endotherms: warm-blooded, warmed by internal metabolic processes</li>
-                            <li>Exotherms: cold-blooded, gaining heat from external synthesis w/ little metabolic heat</li>
-                        </ul>
-                    </div>
-                    <div>
-                        <p><strong>Positive Feedback Mechanisms</strong></p>
-                        <ul>
-                            <li>Mechanism amplifying a change and achieving a goal (NOT homeostasis or equilibrium)</li>
-                            <li>Conditions moved further and further from initial set point as response gets intense, until an endpoint is reached which stops process</li>
-                            <li>Usually some hormone or impulse causing the mechanism</li>
-                            <li>Ex: labor onset / childbirth, breastfeeding, blood platelet activation, fruit ripening</li>
-                        </ul>
-                    </div>
+                    <div class="note-grid-2">
+                        <div class="note-card">
+                            <p class="note-card-title">Negative feedback</p>
+                            <ul>
+                                <li>Maintain homeostasis by keeping variables close to the target set point (ex: body temperature, blood glucose/pH, thermoregulation through sweating/shivering)</li>
+                                <li>Body reacts to environment</li>
+                                <li>Sensors detect environmental changes causing body imbalance, control/regulatory centers initiate actions to bring conditions back to normal, then once its normal, inhibitory mechanisms reverse these actions to avoid overcorrection</li>
+                                <li>Dynamic equilibrium</li>
+                                <li><strong>Thermoregulation:</strong> higher temperature = faster molecules = faster reactions and metabolism</li>
+                                <li>Endotherms: warm-blooded, warmed by internal metabolic processes</li>
+                                <li>Exotherms: cold-blooded, gaining heat from external synthesis w/ little metabolic heat</li>
+                            </ul>
+                        </div>
+                        <div class="note-card">
+                            <p class="note-card-title">Positive feedback</p>
+                            <ul>
+                                <li>Mechanism amplifying a change and achieving a goal (NOT homeostasis or equilibrium)</li>
+                                <li>Conditions moved further and further from initial set point as response gets intense, until an endpoint is reached which stops process</li>
+                                <li>Usually some hormone or impulse causing the mechanism</li>
+                                <li>Ex: labor onset / childbirth, breastfeeding, blood platelet activation, fruit ripening</li>
+                            </ul>
+                        </div>
                     </div>
 
                     <h3>Scientific Method</h3>
@@ -73,9 +73,9 @@ const NOTES = {
 
                 <h3>Graphs</h3>
                 <p>Appropriate specific title (ex: The Effect of IV on DV), axes labels w/ units, key/legend, consistent appropriate scale w/ equal increments including the first increment (origin does not have to start at zero, breaks sometimes allowed, labeling the corner as 0 is for both x and y axis)</p>
-                <div>
-                    <div>
-                        <p><strong>Line Graph</strong></p>
+                <div class="graph-grid">
+                    <div class="graph-cell note-card-muted">
+                        <p>Line graph</p>
                         <ul>
                             <li>Show relationship between 2 numerical, continuous variables</li>
                             <li>Visualize DV changes over time or across a gradient like temperature, distance, or pH</li>
@@ -83,8 +83,8 @@ const NOTES = {
                             <li>Points connected by a line, sometimes each point represents mean value w/ error bars</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Scatter Plot</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Scatter plot</p>
                         <ul>
                             <li>Show relationships between 2 numerical, continuous variables</li>
                             <li>No inherent x-value order given on data table</li>
@@ -93,64 +93,65 @@ const NOTES = {
                             <li>Trend line shows overall direction of relationship of correlation (can be curved but shouldn't extend past provided points)</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Bar Graph</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Bar graph</p>
                         <ul>
                             <li>Compare differences in dependent variable across categories/groups</li>
                             <li>Bars don't touch</li>
                             <li>Bar can represent mean value w/ error bars</li>
-                            <li>Error bars = +/- 2 standard error of the means</li>
+                            <li>Error bars = ±2 standard error of the means</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Histogram</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Histogram</p>
                         <ul>
                             <li>Display distribution of data showing central tendencies/spread (often looks like a bell curve)</li>
                             <li>Uniform range intervals</li>
                             <li>Bars touch</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Pie Chart</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Pie chart</p>
                         <ul>
                             <li>Compare different percentages/parts of a whole</li>
-                            <li>Representative of proporition to full dataset</li>
+                            <li>Representative of proportion to full dataset</li>
                             <li>Usually categorical</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Log Scale (Semi-Log) Graphs</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Log scale (semi-log)</p>
                         <ul>
                             <li>Uses logarithmic nonlinear scale if data spans very large quantities</li>
                             <li>Compress large range into small graph</li>
                             <li><em>The numbers with a 1, from low to high, are what you count from, and what you count by</em></li>
                             <li>Count by the same increment of 10 until the next multiple of 10</li>
-                            <li>Value of a point between two tick marks is geometric mean of tickmark values: sqrt(xy), or you can approximate by being about half the average between the lines</li>
+                            <li>Value of a point between two tick marks is geometric mean of tickmark values: √(xy), or you can approximate by being about half the average between the lines</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Dual Y-Axes Graphs</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Dual Y-axes</p>
                         <ul>
                             <li>Used to portray two different dependent variables w/ different units or measurement/number ranges/magnitudes</li>
                             <li>Labels on both ends, key showing different colors</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Box and Whisker Plots</strong></p>
+                    <div class="graph-cell note-card-muted">
+                        <p>Box and whisker</p>
                         <ul>
                             <li>Compare spread and distribution summary on an interval</li>
                             <li>Show skewed data or outliers, median/middle value, range, and interquartile range (show how spread out data is)</li>
                             <li>Can be horizontal or vertical</li>
-                            <li>Start line = lower extreme (min), start of box = lower quartile (Q1), middle of box = median (Q2), end of box = upper quartile (Q3), end line = upper extreme (max), whiskers = range of data, length of box=interquartile range (IQR), points outside whiskers = outliers
+                            <li>Start line = min; start of box = Q1; middle = median (Q2); end of box = Q3; end line = max; whiskers = range; box length = IQR; points outside = outliers
                                 <ul>
                                     <li>Q1 and Q3 are medians of the lower and upper halves of dataset</li>
                                     <li>Outliers can be represented as single data points outside the box/whiskers</li>
                                 </ul>
                             </li>
+                        </ul>
                     </div>
                 </div>
                 
-                <h2>Chapter 1B: Math & Statistical Applications</h2>
+                <h2 id="h-ch1b">Chapter 1B: Math & Statistical Applications</h2>
                 <ul>
                     <li>Metric System: KHDUDCM**M**N</li>
                     <li>Mean/average = sum of all data points / # of items</li>
@@ -181,10 +182,18 @@ const NOTES = {
                     <li><strong>Null Hypothesis</strong>: statistical hypothesis that states that any difference between 2 factors is purely due to chance and there is no causal statistically significant relationship between 2 variables.
                         <ul>
                             <li>Or if the scenario presents statistical expectation, null hypothesis assumes outcome = statistical expectation</li>
-                            <li>If results are significant, the null hypothesis is rejected, statistically significant difference :)</li>
-                            <li>If results are insignificant, the null hypothesis fails to be rejected, no statistically significant difference :(</li>
-                            <li>Not the same as experimental hypothesis</li>
                         </ul>
+                        <div class="note-grid-2" style="margin:10px 0;">
+                            <div class="note-card">
+                                <p class="note-card-title">Results are significant</p>
+                                <p style="margin:0;font-size:13px;">Null hypothesis is <strong>rejected</strong> — statistically significant difference.</p>
+                            </div>
+                            <div class="note-card">
+                                <p class="note-card-title">Results are insignificant</p>
+                                <p style="margin:0;font-size:13px;">Null hypothesis <strong>fails to be rejected</strong> — no statistically significant difference.</p>
+                            </div>
+                        </div>
+                        <p style="font-size:12.5px;color:var(--ink3);margin-top:6px;">Not the same as the experimental hypothesis.</p>
                     </li>
                     <li><strong>Chi-Square Analysis</strong>: evaluate null hypothesis and see if difference in observation is significant or not in categorical data
                         <ul>
@@ -202,7 +211,7 @@ const NOTES = {
                     </li>
                 </ul>
 
-                <h2>Chapter 2A: Basic Chemistry Review</h2>
+                <h2 id="h-ch2a">Chapter 2A: Basic Chemistry Review</h2>
                 <ul>
                     <li><strong>Matter:</strong> anything that takes up space and has mass</li>
                     <li><strong>Atom:</strong> smallest simplest unit of a substance that can't be broken down chemically or physically (+1 protons and 0 neutrons in nucleus, -1 electrons in orbitals surrounding)
@@ -213,7 +222,7 @@ const NOTES = {
                             <li>Top left number is mass # (protons+neutrons), bottom left # is atomic number (# of protons which is the atom's identity)</li>
                             <li>Isotopes - atoms of same element w/ same proton number but different neutron number of mass number
                                 <ul>
-                                    <li>Radioisotopes - isotope w/ unstable nucleus that radioactively decay and emit radiation, used in fossil dating, radiolabeling to use as tracers, and radiotherapy for cancer (ex: C-14 for fossils/radiolabelling, Tc-99 for radiolabelling, I-131 and Co-60 for radiotherapy</li>
+                                    <li>Radioisotopes — unstable nucleus, decay and emit radiation; fossil dating, radiolabeling (tracers), radiotherapy (ex: C-14, Tc-99; I-131, Co-60 for therapy)</li>
                                 </ul>
                             </li>
                         </ul>
@@ -230,96 +239,100 @@ const NOTES = {
                     <li>Memorize: PO4^3- is phosphate, NH3 is ammonia</li>
                 </ul>
 
-                <h3>BONDING</h3>
+                <h3>Bonding</h3>
                 <ul>
-                    <li>Atoms bond (gain/lose/share) to compete their valence shell and form octet of 8 valence electrons to get stable (H and He only need 2 valence electrons) <-- octet rule</li>
+                    <li>Atoms bond (gain/lose/share) to complete their valence shell and form an octet of 8 valence electrons (H and He only need 2) — octet rule</li>
                     <li>Right side / nonmetals gain electrons, left side/metals lose electrons</li>
-                    <li>Electronegatovity = atoms tendency to attract electrons, F is most electronegative (top right on periodic table is more electronegative, bottom left is least electronegative)</li>
-                    <li>Losing electrons makes charge more positive, gaining electrons makes charge more negative</li>
-                    <li>Greater electronegativity difference = more polar bond, ionic bond happens if >1.7</li>
+                    <li><strong>Electronegativity</strong> — atom's tendency to attract electrons; F is most electronegative (top right on periodic table = more EN; bottom left = least)</li>
+                    <li>Losing electrons makes charge more positive; gaining electrons makes charge more negative</li>
+                    <li>Greater EN difference = more polar bond; ionic bond if difference &gt; 1.7</li>
                 </ul>
-                <div>
-                    <div>
-                        <p><strong>Ionic Bonding</strong></p>
+                <div class="callout">Greater EN difference → more polar. Ionic bond if EN difference &gt; 1.7.</div>
+                <div class="note-grid-3">
+                    <div class="note-card">
+                        <p class="note-card-title">Ionic</p>
                         <ul>
-                            <li>Transfer of electrons usually between a metal and a nonmetal leading to attraction between 2 oppositely charged ions (greatest electronegativity difference than 1.7)</li>
-                            <li>Ion - charged particle where proton number is not equal to electron number</li>
-                            <li>Ex: NaCl -> Na+1 and Cl-1</li>
+                            <li>Transfer of electrons, usually metal + nonmetal; EN difference &gt; 1.7</li>
+                            <li>Ion = charged particle where proton # ≠ electron #</li>
+                            <li>Ex: NaCl → Na⁺ and Cl⁻</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Polar Covalent Bonding</strong></p>
-                        <ul>   
-                            <li>Unequal sharing of electrons usually between 2 different nonmetals where one pulls more</li>
-                            <li>The atom with higher electronegativity pulls more strongly so has a partial nefative charge,the other atom has a partial positive charge</li>
+                    <div class="note-card">
+                        <p class="note-card-title">Polar covalent</p>
+                        <ul>
+                            <li>Unequal sharing between 2 different nonmetals</li>
+                            <li>Higher EN atom pulls more → partial negative (δ−); other atom → partial positive (δ+)</li>
                         </ul>
                     </div>
-                    <div>
-                        <p><strong>Nonpolar Covalent Bonding</strong></p>
+                    <div class="note-card">
+                        <p class="note-card-title">Nonpolar covalent</p>
                         <ul>
-                            <li>Equal sharing of electrons between 2 same nonmetals (diatomics), so there is no EN difference</li>
+                            <li>Equal sharing between 2 same nonmetals (diatomics); no EN difference</li>
                         </ul>
                     </div>
                 </div>
-                <h3>Molecule Polarity: SNAP</h3>
+                <h3>Molecule polarity: SNAP</h3>
                 <ul>
                     <li><em>Symmetrical molecules are nonpolar, asymmetrical molecules are polar</em></li>
                     <li>Shape and charge distribution of entire molecule affects molecule polarity</li>
                 </ul>
-                </p>
                 
-                <h2>Chapter 2B: More Basic Chemistry</h2>
+                <h2 id="h-ch2b">Chapter 2B: More Basic Chemistry</h2>
                 <ul>
                     <li>Intramolecular forces like ionic/covalent bonding are within a molecule/compound</li>
                     <li>Intermolecular forces are between molecules/compounds like hydrogen bonding, dipole-dipole attractions, van der waals forces, and London dispersion forces</li>
                 </ul>
-                <h3>HYDROGEN BONDING</h3>
+                <h3>Hydrogen bonding</h3>
                 <ul>
-                    <li>Strongest tpye of INTERmolecular force but weaker than intramolecular forces</li>
-                    <li>Attraction between partially positive hydrogen atom of one molecule to a small, highly electronegative partially negative atom in another molecule (typically FON)
-                    <li>Water, NH, and HF are capable of hydrogen bonding</li>
-                    <li>Molecule is capable of hydrogen bonding if: it is polar/has polar bonding, has a partially positive hydrogen, and has at least one of the following partially negative atoms (FON)</li>
+                    <li>Strongest type of <em>inter</em>molecular force but weaker than intramolecular forces</li>
+                    <li>Attraction between partially positive hydrogen of one molecule and a small, highly electronegative partially negative atom in another (typically F, O, N)</li>
+                    <li>Water, NH₃, and HF are capable of hydrogen bonding</li>
+                    <li>Molecule can H-bond if: polar/has polar bonding, has a partially positive H, and has at least one F, O, or N</li>
                 </ul>
 
-                <h3>PROPERTIES OF WATER:</h3>
-                <p>Life depends on water</p>
-                <p><strong>Structure:</strong> polar covalent bonding between O and H in molecule, polar molecule since asymmetrical, hydrogen bonding between molecules whiich causes unique properties</p>
-                <div>
-                    <div>
-                        <p><strong>High specific heat of vaporization</strong></p>
-                        <p>Water needs high amount of heat energy to raise 1g of it by 1 degree C since H bonds must be broken first. Allows organisms to maintain stable homeostasis internal body temperature</p>
+                <h3>Properties of water</h3>
+                <p>Life depends on water.</p>
+                <p><strong>Structure:</strong> polar covalent bonding between O and H; polar/asymmetrical molecule; hydrogen bonding between molecules → unique properties.</p>
+                <div class="note-grid-2">
+                    <div class="note-card-muted">
+                        <p class="note-card-title">High specific heat</p>
+                        <p style="margin:0;font-size:12.5px;">Lots of energy needed to raise temperature because H-bonds must be broken first. Helps organisms maintain stable internal body temperature (homeostasis).</p>
                     </div>
-                    <div>
-                        <p><strong>High heat of vaporization</strong></p>
-                        <p>Lots of energy needed to convert liquid water to gas, allowing for evaporative cooling like sweating and maintaining a stable body temperature</p>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">High heat of vaporization</p>
+                        <p style="margin:0;font-size:12.5px;">Lots of energy needed liquid → gas. Enables evaporative cooling (sweating) and stable body temperature.</p>
                     </div>
-                    <div>
-                        <p><strong>Cohesion, Adhesion, Surface Tension</strong></p>
-                        <p>COHESION - attraction between molecules of the same substance</p>
-                        <p>ADHESION - attraction between molecules of different substances</p>
-                        <p>Hydrogen bonding allows for water to cling to surfaces and each other</p>
-                        <p>SURFACE TENSION - resist external force b/c molecules at surface stick tightly together and are pulled inwards by other molecules</p>
-                        <p>Allows for capillary action (water transport up plant vessels b/c both), transpiration (evaporation off leaves b/c cohesion), blood flow through vessels (both), meniscus formation in graduated cylinder (adhesion), insects walk on water (surface tensions cohesion)</p>
+                    <div class="note-card-muted" style="grid-column:1/-1;">
+                        <p class="note-card-title">Cohesion, adhesion &amp; surface tension</p>
+                        <p style="margin:0;font-size:12.5px;"><strong>Cohesion</strong> — attraction between same molecules. <strong>Adhesion</strong> — attraction between different molecules. <strong>Surface tension</strong> — surface molecules pulled inward. Enables capillary action, transpiration, blood flow, meniscus, insects on water.</p>
                     </div>
-                    <div>
-                        <p><strong>Frozen water/ice is less dense than liquid water</strong></p>
-                        <p>For most substances, solids are denser than liquids, but for water, solid ice has fewer water molecules per volume so its less dense b/c of more stable crystalline hydrogen bonds, compared to liquid water where hydogen bonds constantly break amd re-form. Allows aquatic life to survive under ice in winter (D=m/V)</p>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">Ice less dense than liquid</p>
+                        <p style="margin:0;font-size:12.5px;">Ice has fewer molecules per volume — stable H-bonds spread molecules apart. Lets aquatic life survive under ice (D = m/V).</p>
                     </div>
-                    <div>
-                        <p><strong>Water is a solvent</strong></p>
-                        <p>Polar water dissolves other polar/ionic substances (hydrophilic) since like dissolves like: so polar/ionic dissolves or interacts w polar/ionic, nonpolar dissolves/interacts w nonpolar (hydrophobic). Allows polar substances to be carried through blood easily like electrolytes, glucose, vitamins/minerals while cholestrol doesn't dissolve well in blood so it won't accumulate. Ex: lipids/fats/oils and gas are hydrophobic, NaCl and ammonia are hydrophillic. Phospholipids are both hydrophobic and hydrophilic (ampipathic) since they have hydrophilic polar phosphate heads and hydrophobic nonpolar fatty acid lipid tails which makes membrane selectively permeable.</p>
-                     </div>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">Water as solvent</p>
+                        <p style="margin:0;font-size:12.5px;">Polar water dissolves polar/ionic (<strong>hydrophilic</strong>); like dissolves like — nonpolar ↔ nonpolar (<strong>hydrophobic</strong>). Phospholipids are <strong>amphipathic</strong> (polar head, nonpolar tails) → selectively permeable membranes.</p>
+                    </div>
                 </div>
 
-                <h3>ACIDS & BASES</h3>
+                <h3>Acids &amp; bases</h3>
+                <div class="note-grid-2" style="margin-bottom:10px;">
+                    <div class="note-card">
+                        <p class="note-card-title">Acids</p>
+                        <p style="margin:0;font-size:12.5px;">Yield/donate H⁺ in solution. pH &lt; 7.</p>
+                    </div>
+                    <div class="note-card">
+                        <p class="note-card-title">Bases</p>
+                        <p style="margin:0;font-size:12.5px;">Yield/donate OH⁻ or accept H⁺. pH &gt; 7.</p>
+                    </div>
+                </div>
                 <ul>
-                    <li><strong>Acids</strong>: yield/donate H+ in solution, pH less than 7</li>
-                    <li><strong>Bases</strong>: yield/donate OH- or accept H+ in solution, pH greater than 7</li>
                     <li><strong>pH Scale</strong>: measures acidity/basicity of solution or concentration of H+, where 7=neutral, high=basic(lessH+), low=acidic(moreH+), and each unit is a 10-fold change in H+ concentration since pH=-log(H+)</li>
                     <li>Buffers - keep pH in normal (not necessarily neutral) limits by taking up excess H+ and OH- so drastic changes don't occur. Ex: Blood buffers like carbonic acid (weak acid) or bicarbonate (weak base) keeps blood pH at 7.4 since enzymes can denature if pH changes</li>
                 </ul>
 
-                <h2>Chapter 3: Biochemistry</h2>
+                <h2 id="h-ch3">Chapter 3: Biochemistry</h2>
                 <h3>Organic Compounds</h3>
                 <ul>
                     <li>Compounds containing carbon and hydrogen, basis of all living organisms</li>
@@ -330,16 +343,16 @@ const NOTES = {
                     <li><strong>Isomers</strong>: same molecular formula but different structures and properties. Ex: glucose (H on top, hexagon, cell energy broken down during cell respiration for ATP), fructose (pentagon fruit and food sweetener), galactose (OH on top, hexagon, sugar less sweet than glucose/fructose, can be combined w glucose to form lactose milk sugar, can be found outside cell membrane to play role in cell-cell recognition and identity markers) all have C6H12O6 formula</li>
                 </ul>
                 
-                <h3>Reactions Making/Breaking Polymers</h3>
-                <p>Monomers are individual repeating subunits in biomolecules, linked through covalent bonds to for a polymer which is a molecule made of many subunits together</p>
-                <div>
-                    <div>
-                        <p><strong>Dehydration Synthesis</strong></p>
-                        <p>Anabolic building process where monomers joined together by removing water (polymerization) in covalent bonds, requiring energy</p>
+                <h3>Reactions making/breaking polymers</h3>
+                <p>Monomers are individual repeating subunits in biomolecules, linked through covalent bonds to form a polymer (many subunits together).</p>
+                <div class="note-grid-2">
+                    <div class="note-card">
+                        <p class="note-card-title">Dehydration synthesis</p>
+                        <p style="margin:0;font-size:12.5px;"><strong>Anabolic</strong> — monomers joined by removing water (polymerization). Requires energy.</p>
                     </div>
-                    <div>
-                        <p><strong>Hydrolysis</strong></p>
-                        <p>Catabolic breakdown process where covalent bonds connecting monomers are broken by adding water, which releases energy overall</p>
+                    <div class="note-card">
+                        <p class="note-card-title">Hydrolysis</p>
+                        <p style="margin:0;font-size:12.5px;"><strong>Catabolic</strong> — bonds broken by adding water. Releases energy overall.</p>
                     </div>
                 </div>
 
@@ -351,12 +364,26 @@ const NOTES = {
                     <li>Monomer: monosaccharide (simple single sugar) linked together through covalent bonds called glycosidic linkage</li>
                     <li><strong>Monosaccharides:</strong> provide immediate energy for cell processes, mostly in ring shape but sometimes linear. Ex: 6 carbon sugars like glucose, fructose, galactose (cell identity marker) which are isomers of C6H12O6, or 5 carbon sugars like deoxyribose (DNA) and ribose (RNA)</li>
                     <li><strong>Disaccharides:</strong> double sugars which are 2 monosacchardies joined by dehydration synthesis. Provide semi-immediate energy when broken to monosacchardies. Ex: glucose+glucose=maltose, glucose+fructose=sucrose(table sugar), glucose+galactose=lactose(milk sugar)</li>
-                    <li><strong>Polysacchardies:</strong> complex carbohydrates for long term energy storage and structural support
+                            <li><strong>Polysaccharides:</strong> long-term energy storage &amp; structural support
                         <ul>
-                            <li>Structural variations (shape and bonding) cause functional differences, like the ability to H-bond increases molecule strength while helical shapes expose sugar linkage to enzymes to breakdown easier</li>
-                            <li>Long term energy storage, like starch which is the storage form of gluocse in plants (digestible to humans), and glycogen which is the storage form of glucose in animals typically in liver/muscles</li>
-                            <li>Structural support, like cellulose which causes structural support/rigidity and tough plant cell walls (not digestible to humans), and chitin which is found in crustacean exoskeletons and fungi cell walls</li>
+                            <li>Structural variations (shape and bonding) affect function; H-bonding increases strength; helical shapes expose linkages to enzymes</li>
                         </ul>
+                        <div class="note-grid-2" style="margin:10px 0;">
+                            <div class="note-card-muted">
+                                <p class="note-card-title">Energy storage</p>
+                                <ul style="margin:0;padding-left:16px;font-size:12.5px;">
+                                    <li><strong>Starch</strong> — glucose storage in plants; digestible by humans</li>
+                                    <li><strong>Glycogen</strong> — glucose storage in animals (liver &amp; muscles)</li>
+                                </ul>
+                            </div>
+                            <div class="note-card-muted">
+                                <p class="note-card-title">Structural support</p>
+                                <ul style="margin:0;padding-left:16px;font-size:12.5px;">
+                                    <li><strong>Cellulose</strong> — plant cell walls; not digestible by humans</li>
+                                    <li><strong>Chitin</strong> — fungi cell walls; crustacean exoskeletons</li>
+                                </ul>
+                            </div>
+                        </div>
                     </li>   
                 </ul>
 
@@ -370,10 +397,14 @@ const NOTES = {
                     <li><strong>Triglycerides</strong>(fats/oils): CHO
                         <ul>
                             <li>Main function: long term energy storage and insulation. Made of 1 glycerol and 3 fatty acids linked together</li>
-                            <div>
-                                <div>
-                                    <p>SATURATED FATTY ACIDS - single bonds between carbons, fully surrounded by hydrogens, solid fats at room temperature, linked to cardiovascular sicknesses since it builds up in blood vessels (ex: animal fats, butter)</p>
-                                    <p>UNSATURATED FATTY ACIDS - at least one double bond creating kink/bends between carbons, generally liquid at room temp (ex: plant oils like corn oil)</p>    
+                            <div class="note-grid-2" style="margin:8px 0;">
+                                <div class="note-card-muted">
+                                    <p class="note-card-title">Saturated fatty acids</p>
+                                    <p style="margin:0;font-size:12.5px;">Single bonds; fully surrounded by H. Solid at room temp. Linked to cardiovascular issues. Ex: animal fats, butter.</p>
+                                </div>
+                                <div class="note-card-muted">
+                                    <p class="note-card-title">Unsaturated fatty acids</p>
+                                    <p style="margin:0;font-size:12.5px;">≥1 double bond → kinks. Generally liquid at room temp. Ex: plant oils (corn oil).</p>
                                 </div>
                             </div>
                         </ul>
@@ -417,40 +448,33 @@ const NOTES = {
                     <li>Polypeptide chains have directionality, the N-terminus is the amino NH2 group end and the C-terminus is the carboxyl COOH group end where new amino acids get added</li>
                     <li>Ex: enzymes speed up reactions, keratin supports hair/nails, collagen supports skin, channel/carrier proteins transport substance, hemoglobin transports O2 in blood to cells, antigens mark cells as foreign, antibody proteins made by immune system to defend against foreign invaders, insulin is a ligand protein that lowers blood glucose, HGH (human growth hormone) ligand stimulates growth in childhood and cell reproduction, neurotransmitter ligands enable nerve cell communication, protein receptors receive ligand and react, actin/myosin are contractile proteins allowing motion/muscle contractions</li>
                     <li>Different specialized cells make or activate different types of proteins in abundance</li>
-                    <li>Up to 4 levels of protein structure b/c of folding (not all proteins have all 4 levels)
-                    <li>Chaperone proteins - help proteins fold if needed  or correct misfolding</li>
+                    <li>Up to 4 levels of protein structure b/c of folding (not all proteins have all 4 levels)</li>
+                    <li>Chaperone proteins — help proteins fold if needed or correct misfolding</li>
                     <li>If folding is disrupted, protein denatures and all proteins work at specific temperatures and pH levels</li>
                     <li>Temperatures above optimal cause thermal agitation which disrupts bonds, pH changes alter H+ and OH- concentrations also disrupting bonds</li>
                     <li>Sometimes denaturing is reversible, sometimes not</li>
                 </ul>
-                <div>
-                    <div>
-                        <p><strong>Primary Structure</strong></p>
-                        <p>Linear polypeptide chains formed from unique sequences of amino acids linked by peptide bonds (all peptides have primary structure)</p>
+                <p style="font-size:12.5px;color:var(--ink3);margin:8px 0 10px;">Levels of structure:</p>
+                <div class="note-grid-2">
+                    <div class="note-card-muted">
+                        <p class="note-card-title">1° Primary</p>
+                        <p style="margin:0;font-size:12.5px;">Linear sequence of amino acids linked by peptide bonds (all proteins have this).</p>
                     </div>
-                    <div>
-                        <p><strong>Secondary Structure</strong></p>
-                        <p>Alpha helices (coils) and beta-pleated sheets (accordion folds) develop b/c of stabilization from hydrogen bonding along polypeptide backbone (backbone is carboxyl amino groups)</p>
-                        <p>Hydrogen bonding between partially positive H of one acid's amino group and partially negative O of another's</p>
-                        <p>R-group interactions don't contribute to secondary structure stabilization</p>
-                        <p>Most proteins have up to this level of structure</p>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">2° Secondary</p>
+                        <p style="margin:0;font-size:12.5px;">α-helices &amp; β-pleated sheets via H-bonding along backbone; R-groups don't contribute. Most proteins have up to this level.</p>
                     </div>
-                    <div>
-                        <p><strong>Tertiary Structure</strong></p>
-                        <p>Highly unique, very irregular 3d structure shape develops from bonding/interactions between amino acid R-groups w/ each other and environment</p>
-                        <p>Bonding/interactions include Van der waals forces, hydrophobic/hydrophilic interactions between R groups and water, Hydrogen bonding, ionic bonding, dipole-dipole, disulfide linkages (-S-S-) between R groups that have sulfur in them</p>
-                        <p>These interactions occur between amino acids within a single polypeptide chain</p>
-                        <p>Polar groups = hydrogen bonding, Nonpolar group = Vanderwaals bonding</p>
-                        <p>Many proteins only have up to this level of structure</p>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">3° Tertiary</p>
+                        <p style="margin:0;font-size:12.5px;">3D shape from R-group interactions: VdW, hydrophobic/hydrophilic, H-bonds, ionic, disulfide bridges. Within one chain.</p>
                     </div>
-                    <div>
-                        <p><strong>Quaternary Structure</strong></p>
-                        <p>Highly complex shape w/ same bonding stabilizing as tertiary structure from interaction of 2 or more folded polypeptide chains</p>
-                        <p>Some highly complex proteins have quaternary structure like hemoglobin or insulin</p>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">4° Quaternary</p>
+                        <p style="margin:0;font-size:12.5px;">2+ folded chains interacting. Ex: hemoglobin, insulin.</p>
                     </div>
                 </div>
 
-                <h3>Nucleic Acids</h3>
+                <h3>Nucleic acids</h3>
                 <ul>
                     <li>CHONP</li>
                     <li>Monomer: nucleotides made up of a phosphate group PO4^3-, a 5 carbon sugar, and a nitrogenous base</li>
@@ -481,16 +505,162 @@ const NOTES = {
                         <ul>
                             <li>Not a polymer</li>
                             <li>Structure: Adenine bonded to 5-carbon ribose bonded to triphosphate chain</li>
-                            <li>Unstable b/c 3 molecules don't like each other</li>
-                            <li>Primary energy currency of cell storing enough energy to fuel processes like active transport, cell division, etc</li>
-                            <li>ATP fuels this through ATP hydrolysis of the terminal phosphate which releases energy, often couples with energy requiring reaction</li>
+                            <li>Unstable b/c 3 phosphates repel each other</li>
+                            <li>Primary energy currency — active transport, cell division, etc.</li>
+                            <li><strong>ATP hydrolysis</strong> — terminal phosphate removed; releases energy; often couples to endergonic reactions</li>
                             <li><em>BARF: break absorb, release form</em></li>
-                            <li>Bonds between phosphate break easily, and bonds forming between water and phosphate are more stable resulting in lots of energy output</li>
+                            <li>Bonds between phosphates break easily; bonds forming between water and phosphate are more stable → energy output</li>
                         </ul>
+                    </li>
                 </ul>
                 `
 
             }
         }
     }
+};
+
+// functionality for switching between units &stuff
+let currentClass = null;
+let currentUnit = null;
+
+function init() {
+  const classList = document.getElementById('classList');
+  Object.keys(NOTES).forEach(cls => {
+    const btn = document.createElement('button');
+    btn.className = 'class-btn';
+    btn.innerHTML = `<span class="class-dot"></span>${cls}`;
+    btn.onclick = () => selectClass(cls);
+    classList.appendChild(btn);
+  });
 }
+
+function selectClass(cls) {
+  currentClass = cls;
+  document.querySelectorAll('.class-btn').forEach(b => {
+    b.classList.toggle('active', b.textContent.trim() === cls);
+  });
+  document.getElementById('bc-class').textContent = cls;
+
+  const unitList = document.getElementById('unitList');
+  unitList.innerHTML = '';
+  const units = Object.keys(NOTES[cls].units);
+  units.forEach(unit => {
+    const btn = document.createElement('button');
+    btn.className = 'unit-btn';
+    btn.textContent = unit;
+    btn.onclick = () => selectUnit(cls, unit);
+    unitList.appendChild(btn);
+  });
+
+  if (units.length > 0) selectUnit(cls, units[0]);
+}
+
+function selectUnit(cls, unit) {
+  currentUnit = unit;
+  document.querySelectorAll('.unit-btn').forEach(b => {
+    b.classList.toggle('active', b.textContent === unit);
+  });
+
+  document.getElementById('bc-class').textContent = cls;
+
+  renderNotes(cls, unit);
+}
+
+function renderNotes(cls, unit) {
+  const data = NOTES[cls].units[unit];
+  const body = document.getElementById('notesBody');
+
+  const tagsHtml = (data.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+
+  body.innerHTML = `
+    <div class="note-header">
+      <h1>${unit}</h1>
+      <div class="note-meta">
+        <span>${cls}</span>
+        <span class="note-meta-sep">|</span>
+        <span>study notes</span>
+      </div>
+      <div class="tags-row">${tagsHtml}</div>
+      <div class="divider"></div>
+    </div>
+    <div class="note-content">${data.content}</div>
+  `;
+
+  buildOutline();
+  body.scrollTop = 0;
+}
+
+function buildOutline() {
+  const body = document.getElementById('notesBody');
+  const outlineList = document.getElementById('outlineList');
+  outlineList.innerHTML = '';
+
+  const headings = body.querySelectorAll('.note-content h2, .note-content h3, .note-content h4');
+
+  if (headings.length === 0) {
+    outlineList.innerHTML = '<div style="padding:0 16px;font-size:11px;color:var(--ink3);font-family:var(--mono)">no headings found</div>';
+    return;
+  }
+
+  headings.forEach((el, i) => {
+    if (!el.id) el.id = 'heading-' + i;
+
+    const btn = document.createElement('button');
+    if (el.tagName === 'H2') btn.className = 'ol-h2';
+    else if (el.tagName === 'H3') btn.className = 'ol-h3';
+    else btn.className = 'ol-h4';
+
+    btn.textContent = el.textContent;
+    btn.onclick = () => {
+      const nb = document.getElementById('notesBody');
+      const elTop = el.getBoundingClientRect().top;
+      const nbTop = nb.getBoundingClientRect().top;
+      nb.scrollBy({ top: elTop - nbTop - 16, behavior: 'smooth' });
+    };
+    btn.setAttribute('data-id', el.id);
+    outlineList.appendChild(btn);
+  });
+}
+
+function updateScrollSpy() {
+  const body = document.getElementById('notesBody');
+  const headings = body.querySelectorAll('.note-content h2, .note-content h3, .note-content h4');
+  let current = null;
+
+  headings.forEach(h => {
+    if (h.getBoundingClientRect().top < 160) current = h.id;
+  });
+
+  document.querySelectorAll('.ol-h2, .ol-h3, .ol-h4').forEach(btn => {
+    btn.classList.toggle('active', btn.getAttribute('data-id') === current);
+  });
+}
+
+function handleSearch() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  if (!q) return;
+
+  const results = [];
+  Object.entries(NOTES).forEach(([cls, clsData]) => {
+    Object.entries(clsData.units).forEach(([unit, unitData]) => {
+      const combined = (unit + ' ' + unitData.content).toLowerCase();
+      if (combined.includes(q)) {
+        results.push({ cls, unit });
+      }
+    });
+  });
+
+  if (results.length > 0) {
+    selectClass(results[0].cls);
+    selectUnit(results[0].cls, results[0].unit);
+  }
+}
+
+document.getElementById('searchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') handleSearch();
+});
+
+document.getElementById('notesBody').addEventListener('scroll', updateScrollSpy);
+
+init();
