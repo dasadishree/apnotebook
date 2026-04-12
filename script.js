@@ -516,50 +516,50 @@ const NOTES = {
                 `
             },
             "Unit 2: Cells": {
-                tags: ["cell structure", "cell organelles", "prokaryotes", "eukaryotes", "plasma membra"],
+                tags: ["cell structure", "cell organelles", "prokaryotes", "eukaryotes", "plasma membrane", "transport", "osmosis"],
                 content: `
-                    <h2>Chapter 4: Cell Structure & Function</h2>
+                    <h2 id="h-u2-ch4">Chapter 4: Cell Structure &amp; Function</h2>
                     <h3>Prokaryotes</h3>
                     <ul>
                         <li>Single-celled organisms, lack a membrane bound nucleus with much smaller/simpler cells</li>
                         <li>Ex: Bacteria & Archaea (live in extreme habitats). Despite them both being prokaryotes structurally, archaea are more biochemically similar to eukaryotes</li>
                     </ul>
-                    <div>
-                        <div>
-                            <p><strong>Plasma Membrane</strong></p>
-                            <p>Innermost layer with a lipid bilayer in bacteria or lipid monolayer in archaea with embedded/peripheral proteins and internal pouches calles MESOSOMES to increase SA:V ratio</p>
+                    <div class="graph-grid">
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Plasma Membrane</p>
+                            <p style="margin:0;font-size:12.5px;">Innermost layer with a lipid bilayer in bacteria or lipid monolayer in archaea with embedded/peripheral proteins and internal pouches calles MESOSOMES to increase SA:V ratio</p>
                         </div>
-                        <div>
-                            <p><strong>Cell Wall</strong></p>
-                            <p>Middle layer which maintains the shape of the cell strengthened by materials peptitoglycan in bacteria or glycoproteins in archaea. Fungi cell wall made of chitin, plant cell wall made of cellulose, animal/proteins have no cell wall</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Cell Wall</p>
+                            <p style="margin:0;font-size:12.5px;">Middle layer which maintains the shape of the cell strengthened by materials peptitoglycan in bacteria or glycoproteins in archaea. Fungi cell wall made of chitin, plant cell wall made of cellulose, animal/proteins have no cell wall</p>
                         </div>
-                        <div>
-                            <p><strong>Glycocalyx</strong></p>
-                            <p>Outer layer which is a gellike, bumpy layer of polysaccharides lying on outside of cell wall. If it's compact its called a capsule, and if diffuse called a slime layer.</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Glycocalyx</p>
+                            <p style="margin:0;font-size:12.5px;">Outer layer which is a gellike, bumpy layer of polysaccharides lying on outside of cell wall. If it's compact its called a capsule, and if diffuse called a slime layer.</p>
                         </div>
-                        <div>
-                            <p><strong>Cytoplasm</strong></p>
-                            <p>Semifluid solution bounded by plasma membrane containing water, inorganic molecules, organic molecules like enzymes/proteins, NUCLEOID which is a non-membrane bound region that contains plasmid and ribosomes</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Cytoplasm</p>
+                            <p style="margin:0;font-size:12.5px;">Semifluid solution bounded by plasma membrane containing water, inorganic molecules, organic molecules like enzymes/proteins, NUCLEOID which is a non-membrane bound region that contains plasmid and ribosomes</p>
                         </div>
-                        <div>
-                            <p><strong>Plasmid</strong></p>
-                            <p>Single coiled circular ring of DNA</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Plasmid</p>
+                            <p style="margin:0;font-size:12.5px;">Single coiled circular ring of DNA</p>
                         </div>
-                        <div>
-                            <p><strong>Ribosome</strong></p>
-                            <p>Protein chefs / site of protein synthesis</p>
-                        </div> 
-                        <div>
-                            <p><strong>Flagella</strong></p>
-                            <p>Provide motility, found in prokaryotes but the only exception to this is animal sperm cells which use flagella for movement</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Ribosome</p>
+                            <p style="margin:0;font-size:12.5px;">Protein chefs / site of protein synthesis</p>
                         </div>
-                        <div>
-                            <p><strong>Fimbriae</strong></p>
-                            <p>Small bristle-like fibers that sprout from the cell surface and help bacteria attach to surfaces when necessary ("sticky")</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Flagella</p>
+                            <p style="margin:0;font-size:12.5px;">Provide motility, found in prokaryotes but the only exception to this is animal sperm cells which use flagella for movement</p>
                         </div>
-                        <div>
-                            <p><strong>Conjugation Pili / Sex Pili</strong></p>
-                            <p>Rigid tubular structures used to pass DNA from one bacteria cell to another, bacteria reproduce asexually (less variety) but sex pili allows for horizontal gene transfer leading to bacteria variety</p>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Fimbriae</p>
+                            <p style="margin:0;font-size:12.5px;">Small bristle-like fibers that sprout from the cell surface and help bacteria attach to surfaces when necessary ("sticky")</p>
+                        </div>
+                        <div class="note-card-muted graph-cell">
+                            <p class="note-card-title">Conjugation Pili / Sex Pili</p>
+                            <p style="margin:0;font-size:12.5px;">Rigid tubular structures used to pass DNA from one bacteria cell to another, bacteria reproduce asexually (less variety) but sex pili allows for horizontal gene transfer leading to bacteria variety</p>
                         </div>
                     </div>
 
@@ -571,7 +571,7 @@ const NOTES = {
                         <li>Ex: Animals, plants, fungi (yeast is single-celled, mushrooms are multicellular), protists (unicellular aquatic amoeba, paramecium, & euglena)</li>
                         <li>Largest human cell is female egg cell, largest known single cell is an ostrich egg</li>
                         <li>Arose after prokaryotic cells</li>
-                        <li><strong>Endosymbiotic Theory</li>: theory about how organelles in eukaryotic cells evolved, suggesting prokaryotes had plasma membranes fold inwards and evenually folds pinched off, creating compartments
+                        <li><strong>Endosymbiotic Theory</strong>: theory about how organelles in eukaryotic cells evolved, suggesting prokaryotes had plasma membranes fold inwards and evenually folds pinched off, creating compartments
                             <ul>
                                 <li>One housed DNA forming the first nucleus which was advantageous in protecting and organizing genetic information</li>
                                 <li>Energy-producing organelles like mitochondria and chloroplasts evolved when larger prokaryotes engulfed smaller ones capable of aerobic cell repiration and photosynthesis</li>
@@ -580,92 +580,93 @@ const NOTES = {
                         </li>
                     </ul>
 
-                        <p><strong>ENDOMEMBRANE SYSTEM</strong></p>
-                        <p>Series of intracellular membranes that compartmentalize cell and allows cell to do incompatible functions at once. Organelles of the endomembrane system are interrelated either through physical contact or transport vesicles (includes: nuclear envelope/membrane, ribosomes, rough/smooth ER membranes, golgi, vesicles, lysosomes)
-                        <p>Organelles work together to modify, package, and transport polysaccharides, lipids, and proteins both intra and intercellularly</p>
-                        <div>
-                        <div>
-                            <p><strong>Nucleus</strong></p>
+                        <div class="callout" style="margin:14px 0;">
+                            <p style="margin:0 0 8px;font-weight:500;color:var(--purple-xl);">ENDOMEMBRANE SYSTEM</p>
+                            <p style="margin:0;">Series of intracellular membranes that compartmentalize cell and allows cell to do incompatible functions at once. Organelles of the endomembrane system are interrelated either through physical contact or transport vesicles (includes: nuclear envelope/membrane, ribosomes, rough/smooth ER membranes, golgi, vesicles, lysosomes)</p>
+                            <p style="margin:8px 0 0;">Organelles work together to modify, package, and transport polysaccharides, lipids, and proteins both intra and intercellularly</p>
+                        </div>
+                        <div class="note-card-muted" style="margin-bottom:12px;">
+                            <p class="note-card-title">Nucleus</p>
                             <p>Only found in eukaryotes, the command center of the cell, usually found near the center and seperated from the cytoplasm by the NUCLEAR MEMBRANE (double membrane continuous with the rough ER, containing protein channels/pores which allow for transport and permit exchange between the nucleoplasm/cytoplasm). Contains CHROMATIN (unraveled DNA made up of DNA and proteins which condesnses to form chromosomes just before cell division) in a semi-fluid nucleoplasma and NUCLEOLUS</p>
                             <p>Functions: controls all cellular activities, houses the DNA and nucleolus, site of DNA replication and transcription (DNA->mRNA) and post-transcriptional RNA modification</p>    
                             <p>NUCLEOLUS: region, not a organelle/structure. Found within the nucelus, it is a non-membrane bound, dark/dense region of the nucleus where ribosome/protein & rRNA synthesis happens (rRNA joins with proteins to form ribosome subunits). Evidence: removing nucleoli slowed cell's rate of protein synthesis</p>  
                         </div>
-                        <div>
-                            <p><strong>Ribosomes</strong></p>
+                        <div class="note-card-muted" style="margin-bottom:12px;">
+                            <p class="note-card-title">Ribosomes</p>
                             <p>The site of protein synthesis composed of rRNA and proteins and a large/small subunit. Made in the nucleolus.</p>
                             <p>ATTACHED RIBOSOMES - found on the rough ER and make proteins destined for export out of the cell / embedded in cell membrane</p>
                             <p>FREE RIBOSOMES - float freely in cytoplasm either alone or in groups called polyribosomes, make proteins for use inside the cell</p>
                             <p>Some cells like pancreatic cells have more ribosomes since they produce secretions that contain insulin which is a protein hormone</p>
                             <p>A ribosome attaches to ER if the protein being synthesized begins w sequence of aminoacids called a SIGNAL PEPTIDE, which then binds to SIGNAL RECOGNITION PARTICLE (SRP) in the cytoplasm which binds to a SRP RECEPTOR PROTEIN on the ER, opneing a channel which causes SRP to leae & protein synthesis resumes and polypeptide fed into the ER. An enzyme inside ER removes signal peptide from the growing polypeptide chain and once complete, large/small ribosomal subunits break away from ER/each other and polypeptide folds into a protein within ER, and once complete the ER membrane forms a vesicle and transports it to the golgi</p>
                         </div>
-                        <div>
-                            <p><strong>ROUGH Endoplasmic Reticulum</strong></p>
+                        <div class="note-card-muted" style="margin-bottom:12px;">
+                            <p class="note-card-title">ROUGH Endoplasmic Reticulum</p>
                             <p>A system of membrane channels/saccules continous w nuclear membrane</p>
                             <p>Studded with attached ribosomes on cytoplasmic side since it has receptor sites for ribosomes</p>
                             <p>Functions: Protein synthesis aand transport (proteins usually excreted out of cell as secretions for use elsewhere), some protein modification/processing begins here (like adding sugar/carbohydrates to protein forming glycoproteins), form transport vesicles to transport products to golgi for further packaging</p>
                             <p>Plasma and pancreatic cells have more rough ER since they produce secretions like hormones and enzymes which are proteins</p>    
                         </div>
-                        <div>
-                            <p><strong>SMOOTH Endoplasmic Reticulum</strong></p>
+                        <div class="note-card-muted" style="margin-bottom:12px;">
+                            <p class="note-card-title">SMOOTH Endoplasmic Reticulum</p>
                             <p>Continous system of membrane channels with rough ER but with no ribosomes/receptor sites</p>
                             <p>Functions: Lipid synthesis, detoxification of drugs/poisons, carbohydrate metabolism, forms transport vesicles to transport to golgi/rough ER, stores CA2+ ions in muscle cells</p>
                             <p>Liver and testes cells have more smooth ER since liver detoxifies blood and testes produce steroid hormones which are lipids</p>
                         </div>
-                        <div>
-                            <p><strong>Golgi Apparatus / Golgi Bodies / Golgi Complex</strong></p>
+                        <div class="note-card-muted" style="margin-bottom:12px;">
+                            <p class="note-card-title">Golgi Apparatus / Golgi Bodies / Golgi Complex</p>
                             <p>Consists of flatted curved saccules resembling stack of hollow pancakes</p>
                             <p>Main function: further modify/package protein/lipid products from vesciles from the ER recieved on the cis/inner face, chemical modification like glyocosylation which is when sugar/molecules added to form glycoproteins/glycolipids/etc which directs product to wherever it needs to go next, then is prepared for shipment/packages into new transport vesicles from its trans/outer face</p>
                             <p>Packaged vesicles either fuse w/ cell membrane and are secreted (secretion exocytosis for export out of the cell) or sometimes fo to other cell location</p>
                             <p>Golgi is also responsible for lysosome formation</p>
                         </div>
-                        <div>
-                            <p><strong>Lysosomes</strong></p>
+                        <div class="note-card-muted" style="margin-bottom:12px;">
+                            <p class="note-card-title">Lysosomes</p>
                             <p>Membrane-bound vesicles produced by golgi appartus found ONLY IN ANIMAL CELLS</p>
                             <p>Contains digestive hydrolitic enxymes & is highly acidic enabling digestion of certain cell materials, breakdown of proteins, lipids, nucleic acids, carbs, destroying of pathogens like bacteria/viruses, recycling of old/damaged cell parts</p>
                             <p>Plays a role in programmed cell death (APOPTOSIS)</p>
                             <p>White blood cells have high lysosome abundance since they engulf invading pathogens</p>
                             <p>Tay-Sachs Disease - genetic lyosomal storage disease caused by absence of lipid digestion lysosomal enzyme causing lipid brain accumulation and nerve cells die so nervous system deteriorates and usually only lives to 3-4yo.</p>
                         </div>
-                    </div>
-                    <p><strong>Energy Related Organelles</strong></p>
-                    <div>
-                        <div>
-                            <p><strong>Chloroplasts</strong></p>
+                    <p style="margin:20px 0 10px;font-family:var(--mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink3);">Energy related organelles</p>
+                    <div class="note-grid-2">
+                        <div class="note-card">
+                            <p class="note-card-title">Chloroplasts</p>
                             <p>Specialized organelles found in ONLY plants / photosynthetic algae</p>
                             <p>Structure: double outer and inner membrane enclosing semi-fluid stroma, contains thylakoid discs stacked in grana stacks which are green b/c of chlorophyll pigment. Contains its own DNA&ribosomes and self-replicates</p>
                             <p>Function: site of photosynthesis (CO2+H2O+solar energy -> C6H12O6 + O2 general equation), evolved from ancient prokaryotic photosynthetic cyanobacteria that were later engulfed by larger prokaryote (endosymbiosis)</p>
                         </div>
-                        <div>
-                            <p><strong>Mitochondria</strong></p>
+                        <div class="note-card">
+                            <p class="note-card-title">Mitochondria</p>
                             <p>Specialized organelles found in all aerobic eukaryotic cell which is the site of some reactions involved in aerobic cell respiration</p>
                             <p>Structure: double membrane w/ smooth outer membrane and highly folded inner cristsr membrane enclosing semi-fluid matrix, the folds allow for production/dispersion of a lot of ATP. Contains its own DNA & ribosomes and can self-replicate</p>
                             <p>Muscle cells, nerve cells and any cells w cilia or flagella have high mitochondria abundance since they require a lot of energy</p>
                         </div>
                     </div>
-                    <p><strong>Other Eukaryotic Organelles</strong></p>
-                    <div>
-                        <div>
-                            <p><strong>Vacuoles</strong></p>
+                    <p style="margin:20px 0 10px;font-family:var(--mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink3);">Other eukaryotic organelles</p>
+                    <div class="note-grid-2">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Vacuoles</p>
                             <p>Membrane bound sac that have many different roles (mostly storage)</p>
                             <p>Plants: have single large central vacuole that takes up most of cell volume, stores water/nutrients/pigments/waste, breaks down macromolecules/damaged cell parts w/ hydrolytic enzymes (like how lysosomes do for animals), and aids in H2O retention to maintain turgor pressure (internal pressure buildup as water moves into cell by osmosis causing cell to stay firm and structured when vacuole pushes against cell membrane/wall - turgid is swell, flaccid is shrink)</p>
                             <p>Animals: smaller more abundant vacuoles that store cellular materials</p>
                             <p>Protists (ex: paramecium): specialized contractile vacuoles that maintain water balance in some freshwater organisms by collecting/pumping excess water that enters via osmosis to prevent bursting</p> 
                         </div>
-                        <div>
-                            <p><strong>Peroxisomes</strong></p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Peroxisomes</p>
                             <p>Membrane bound vesicle that encloses digestive hydrolytic enzymes, similar to lysosomes in structure and function but lysosomes have broader digestive function</p>
                             <p>Specific digestive function: breakdown fatty acids and alcohols but this results in hydrogen peroxide production which is toxis, so enzyme catalose in peroxisomes break down to water&oxygen in catalase reaction (2H2O2 --> 2H2O + O2)</p>
                             <p>Liver cells high in peroxisomes</p>
                         </div>
-                        <div>
-                            <p><strong>Cytoplasm</strong></p>
+                    </div>
+                        <div class="note-card-muted" style="margin-top:12px;">
+                            <p class="note-card-title">Cytoplasm</p>
                             <p>Cytosol - matrix made of mostly water w dissolved particles, contains the cytoskeleton</p>
                             <p>Cytoskeleton - cell's infrastructure which maintains cell shape, anchors organelles, assists in movement, directs transport, consisting of a web of protein fibers that move enabling cytoskeleton function</p>
                             <p>CYTOSKELETON COMPONENTS / PROTEIN FIBERS:</p>
                             <ul>
                                 <li>Microfilaments / Actin Filaments (smallest): made of actin protein, maintains cell shape, works w myosin motor molecule to enable muscle contractions, aids in cytokinesis, aids in formation of pseudopod false feet helping amoeba move/feed, aids in shortening/extending of microvili in small intestine for nutrient absorption, helps move materials around within cell/cytoplasm through cytoplasmic streaming</li>
                                 <li>Intermediate Filaments: made of keratin protein, also helps reinforce cell shape and holds organelles in place</li>
-                                <li>Microtubules (largest): made of tubulin protein, enables vesicle movement outward by working with kinesin motor molecule, and vescile movement inwards working with dynein motor molecule, important components of cilia, flagella, basal bodies, centrioles, spindle fibers which all have varied functions</p>
+                                <li>Microtubules (largest): made of tubulin protein, enables vesicle movement outward by working with kinesin motor molecule, and vescile movement inwards working with dynein motor molecule, important components of cilia, flagella, basal bodies, centrioles, spindle fibers which all have varied functions</li>
                             </ul>
                             <p>MICROTUBULE STRUCTURES</p>
                             <ul>
@@ -676,13 +677,18 @@ const NOTES = {
                                 <li>SPINDLE FIBERS: 9 triplet arrangement of microtubules which attach to chromosomes to seperate and move them to poles before cell division</li>    
                             </ul>
                             <p>MOTOR PROTEINS: uses ATP hydrolysis energy to work w protein fibers and enable cytoskeleton</p>
-                            <ul>
-                                <li>MYOSIN - helps move actin filaments to enable muscle contractions</li>
-                                <li>KINESIN - moves along microtubules to aid in vesicle movement OUTWARD</li>
-                                <li>DYNEIN - moves along microtubules to aid in vesicle movement INWARD, helps microtubules making up cilia and flagella move</li>
-                            </ul>
+                            <div class="note-grid-3" style="margin-top:8px;">
+                                <div class="note-card" style="padding:10px;">
+                                    <p style="margin:0;font-size:12px;"><strong>MYOSIN</strong> — helps move actin filaments to enable muscle contractions</p>
+                                </div>
+                                <div class="note-card" style="padding:10px;">
+                                    <p style="margin:0;font-size:12px;"><strong>KINESIN</strong> — moves along microtubules to aid in vesicle movement OUTWARD</p>
+                                </div>
+                                <div class="note-card" style="padding:10px;">
+                                    <p style="margin:0;font-size:12px;"><strong>DYNEIN</strong> — moves along microtubules to aid in vesicle movement INWARD, helps microtubules making up cilia and flagella move</p>
+                                </div>
+                            </div>
                         </div>
-                    </div>
 
                     <h3>CELL SIZE & SURFACE AREA:VOLUME RATIO</h3>
                     <ul>
@@ -692,7 +698,7 @@ const NOTES = {
                         <li>Adaptations increasing SA: projections in the small intestine, folds like cristae in mitochondria, folds called mesosomes in bacteria, roots of plants, flat thin leaves in plants, flappy elephant ears</li>
                     </ul>
 
-                    <h2>Chapter 5A: Membrane Structure & Function</h2>
+                    <h2 id="h-u2-ch5a">Chapter 5A: Membrane Structure &amp; Function</h2>
                     <h3>PLASMA MEMBRANE</h3>
                     <ul>
                         <li>Common to all cells seperating internal cytoplasm from external cell environment</li>
@@ -719,45 +725,119 @@ const NOTES = {
                     
                     <h3>Passive Transport</h3>
                     <p>Import resources & export waste without using energy</p>
-                    <div>
-                        <div>
-                            <p><strong>Passive Diffusion</strong></p>
-                            <p>Net movement of molecules from high -> low concentration down/with concentration gradient (difference in concentrations) until dynamic equilibrium (no net movement, = in both directions) reached and gradient no longer exists w/o using energy</p>
-                            <p>Diffusion rate affected by temperature (increases w higher temp bc more molecule movement/kinetic energy), molecule size/mass (smaller molecules move faster so diffuse faster), steepness of concentration gradient (steeper gradient = faster diffusion rate bc think going down a slide), surface area (greater SA = faster diffusion rate bc more membrane space)</p>    
+                    <div class="note-grid-3">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Passive Diffusion</p>
+                            <p style="margin:0;font-size:12.5px;">Net movement of molecules from high -> low concentration down/with concentration gradient (difference in concentrations) until dynamic equilibrium (no net movement, = in both directions) reached and gradient no longer exists w/o using energy</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">Diffusion rate affected by temperature (increases w higher temp bc more molecule movement/kinetic energy), molecule size/mass (smaller molecules move faster so diffuse faster), steepness of concentration gradient (steeper gradient = faster diffusion rate bc think going down a slide), surface area (greater SA = faster diffusion rate bc more membrane space)</p>    
                         </div>
-                        <div>
-                            <p><strong>Osmosis</strong></p>
-                            <p>Diffusion of water across selectively permeable membrane from high water concentration to low water contentation (direction determined by relative solute concentrations)</p>
-                            <p>Focuses on solvent/water movement instead of solute since the solute may not be able to diffuse due to size/charge/polarity (nonpenetrating solutes)</p>
-                            <p>Placing an movable lever makes osmosis/water push the level up, but if immovable lever placed the level would counteract water pressue equally and opposite like how cell wall acts for plants</p>
-                            <p>OSMOTIC (HYDROSTATIC) PRESSURE - min pressure needed to stop osmosis, aka turgor pressure in plant cells but plants won't burst bc cell wall resists water movement after a point</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Osmosis</p>
+                            <p style="margin:0;font-size:12.5px;">Diffusion of water across selectively permeable membrane from high water concentration to low water contentation (direction determined by relative solute concentrations)</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">Focuses on solvent/water movement instead of solute since the solute may not be able to diffuse due to size/charge/polarity (nonpenetrating solutes)</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">Placing an movable lever makes osmosis/water push the level up, but if immovable lever placed the level would counteract water pressue equally and opposite like how cell wall acts for plants</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">OSMOTIC (HYDROSTATIC) PRESSURE - min pressure needed to stop osmosis, aka turgor pressure in plant cells but plants won't burst bc cell wall resists water movement after a point</p>
                         </div>
-                    <div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Facilitated Transport / Facilitated Diffusion</p>
+                            <p style="margin:0;font-size:12.5px;">Net movement of molecules like ions/polar molecules that can't go directly through membrane from high to low concentration with the help of channel/carrier proteins creating channels/binding to the molecule which are specific to type of molecule/ion. No energy required</p>
+                        </div>
+                    </div>
                     
                     <h3>Types of Solutions</h3>
                     <p><strong>TONICITY</strong> - relative solute concentration of nonpenetrating solutes that don't cross membrane</p>
                     <p><strong>OSMOLARITY</strong> - relative solute concentration of penterating and nonpenetrating (ALL) solutes</p>
                     <p>Water always moves from <em>HYPO TO HYPER</em> asusuming no negative/applied pressures</p>
                     <p>Human blood / intracellular fluid is isotonic to our bodycells, but for some animals/protists like paramecium in freshwater environments isn't isotonic so they require regulatory mechanisms like contractile vacuoles pumping out excess water to prevent bursting/buildup and help keep homeostasis</p>
-                    <div>
-                        <div>
-                            <p><strong>Isotonic Solutions</strong></p>
-                            <p>When both solute concentratons and water concentrations are equal, so no net movement and water crosses at same rate in both directions</p>
-                            <p>Cell placed in isotonic solution won't shrink or swell)</p>
+                    <div class="note-grid-3">
+                        <div class="note-card">
+                            <p class="note-card-title">Isotonic Solutions</p>
+                            <p style="margin:0;font-size:12.5px;">When both solute concentratons and water concentrations are equal, so no net movement and water crosses at same rate in both directions</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">Cell placed in isotonic solution won't shrink or swell)</p>
                         </div>
-                        <div>
-                            <p><strong>Hypotonic Solution</strong></p>
-                            <p>(Low solute high H2O) Solute concentration in solution is lower than solution on other side so hypotonic solution has higher water concentration compared to other side of membrane</p>
-                            <p>Cell placed in hypotonic solution would expand since water moves in (animal cells could burst/lyse, but plant cell walls resist bursting)</p>
+                        <div class="note-card">
+                            <p class="note-card-title">Hypotonic Solution</p>
+                            <p style="margin:0;font-size:12.5px;">(Low solute high H2O) Solute concentration in solution is lower than solution on other side so hypotonic solution has higher water concentration compared to other side of membrane</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">Cell placed in hypotonic solution would expand since water moves in (animal cells could burst/lyse, but plant cell walls resist bursting)</p>
                         </div>
-                        <div>
-                            <p><strong>Hypertonic Solution</strong></p>
-                            <p>(High solute low H2O) Solute concentration in solution is higher than solution on otherside so hypertonic solution has lower water concentration compared to other side of membrame</p>
-                            <p>Cell placed in hypotonic solution would shrink (animal cells crenate, plant cells plasmolyze where cell membrane pulls away from cell wall which stays rigid)</p>
+                        <div class="note-card">
+                            <p class="note-card-title">Hypertonic Solution</p>
+                            <p style="margin:0;font-size:12.5px;">(High solute low H2O) Solute concentration in solution is higher than solution on otherside so hypertonic solution has lower water concentration compared to other side of membrame</p>
+                            <p style="margin:8px 0 0;font-size:12.5px;">Cell placed in hypotonic solution would shrink (animal cells crenate, plant cells plasmolyze where cell membrane pulls away from cell wall which stays rigid)</p>
                         </div>
                     </div>
                     
-                `   
+                    <h3>Water Potential (PSI)</h3>
+                    <p>Measures relative tendency for water to leave region, measured in units of pressure called bars/megapascals (MPa) --> 1MPa=10bars</p>
+                    <p>Higher water potential means higher tendency for water to move from/leave an area which helps us figure out where water will flow</p>
+                    <p>Water always moves from <em>high water pontential to low water potential until water potentials are equal with no net movement (so technically movement can't be based only on solute concentrations)</em></p>
+                    <p>Water potential depends on SOLUTE POTENTIAL (PSI S) and PRESSURE POTENTIAL (PSI P) so PSI = PSI S + PSI P</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Solute potential / osmotic potential</p>
+                            <ul style="margin:0;">
+                                <li>Potential for water to move solely based on solute concentrations</li>
+                                <li>As solute concentration icncreaes, solute potential decreases since H2O molecules bind to solute and aren't free to do work (ex: pure water has highest solute potential)</li>
+                                <li>PSI S = -iCRT (on ref table), where PSI S = solute potential, i=ionization constant which is # of particles the solute makes in water (ex: NaCl makes 2 particles -> Na+ and Cl-, CaCl2 makes 3 particles -> Ca2+ Cl- and Cl-), C=molar concentration (M->mol/L), R=pressure constant (t=0.0831 L*bars/mol*K), T=temperature in Kelvin (C+273)</li>
+                            </ul>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Pressure potential</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;"><strong>PRESSURE POTENTIAL:</strong>physical pressure on or away from a solution</p>
+                            <ul style="margin:0;">
+                                <li>Physical pressure on or away from a solution, tendency of water to move in response to pressure (ex: turgor pressure)</li>
+                                <li>Pressure potential is negative in transpiration in xylem of plant since this draws water towards the region</li>
+                                <li>Pressure potential is positive if cell wall exterts pressure to counter any buildup of pressure inside plant cell due to osmosis inward</li>
+                                <li>In most AP bio problems, pressure potential is 0 since its in an open container that exists at atmospheric pressure in animal cells</li>
+                                <li>So water movement can be based solely on relative solute concentration if pressure potential =0, but overall water potential is a better measure of net movement than solute concentration in case pressure potential isn't 0</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3>Active Transport & etc</h3>
+                    <div class="note-grid-2">
+                        <div class="note-card">
+                            <p class="note-card-title">Active Transport</p>
+                            <p>Net movement from low to high concentration up and against concentration gradient requiring energy (ATP) and transmembrane protein pumps</p>
+                            <p>Important for cell to maintain particular concentrations of substance despite environmental concentrations</p>
+                            <p><strong>EX: Sodium-Potassium Pump</strong></p>
+                                <ul>
+                                    <li>Present in all cells especially muscle/nerve cells to create concentration&voltage gradient needed to drive procveses like impulse travel across neuron</li>
+                                    <li>Takes up 1/3 of bodies' energy since Na+/K+ pump works hard to pump 3Na+ out and 2K+ in to maintain levels</li>
+                                    <li>3Na+ ions in cytoplasms move to carrier protein, ATP phosphorylates carrier protein releasing energy and changing its shape so 3Na+ ions get released out of cell, protein's changed shape increases affinity for K+ so 2K+ move into carrier protein, protein is dephosphorylized and 2K+ ions released into cell (ADP+P->ATP)</li>
+                                </ul>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Bulk Active Transport</p>
+                            <p>Transport of large macromolecules like proteins, polysacchardies, nucleic acids into/out of cell</p>
+                            <p>Requires vesicle formation and energy</p>
+                            <p>EXOCYTOSIS: (exit) internal vesicles made by golgi fuse with plasma membrane to secrete macromolecules out of cell (ex: insulin hormone released by pancreatic cells, growth hormone release by pituitary cels, neurotransmitters by neurons)</p>
+                            <p>ENDOCYTOSIS: (enter) cells take in large macromolecules by forming new vesicles from membrane</p>
+                            <ul>
+                                <li>PHAGOCYTOSIS: "cell eating" cell engulfs large solid material in (ex: foreign particles/pathogens or old red blood cells engulfed by white blood cells)</li>
+                                <li>PINOCYTOSIS: "cell drinking" cell takes in small particles/liquid (ex: small substances ingested by blood,kidney,intestinal,andplant root cells)</li>
+                                <li>RECEPTOR-MEDIATED ENDOCYTOSIS: form of pinocytosis specific bc it uses receptor proteins to recognize ligands and bring them to cell (ex: fetal blood cells taking in substasnces from maternal blood cells at placenta, body cells take up low-density lipoproteins to help transport cholestrol in blood when they gather near specific receptor sites)</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3>Cell Junctions</h3>
+                    <p>In plant/animal cells, adjacent cells form junctions to behave/coordinate</p>
+                    <div class="note-grid-3">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Gap junctions</p>
+                            <p style="margin:0;font-size:12.5px;">GAP JUNCTIONS - found between animal cells allowing cell-cell communication. Membrane channel proteins join cells together giving cell strength and allowing small molecules/ions to pass. (ex: important in heart muscle/smooth muscle tissue bc allow migration of ions between cells so cell can contract as a unit)</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Plasmodesmata</p>
+                            <p style="margin:0;font-size:12.5px;">PLASMODESMATA - membrane-like channels connecting one plant cell to the next, allowing water/small molecules to pass from cell to cell, similar to gap junctions in animal cells but plasmodesmata are lined by cell membrane unlike gap junctions</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Cell wall</p>
+                            <p style="margin:0;font-size:12.5px;">CELL WALL - surrounds plasma membrane in plants, porous and permeable, provides support/rigidty, resists excessive water uptake through counter turgor pressure, made of cellulose in plants, peptidoglycan in bacteria, protein/carbohydrate complex in archea, chitin in fungi, not found in animals</p>
+                        </div>
+                    </div>
+                    `  
             }
         }
     }
