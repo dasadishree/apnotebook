@@ -382,12 +382,111 @@ const NOTES = {
                         <ul>
                             <li>Main function: plasma membrane components</li>
                             <li>Structure: phosphate group PO4^3 & glycerol making up the polar hydrophillic head, 2 fatty acids nonppolar hydrophobic tails</li>
-
+                            <li>Membrane fluidity maintained by fatty acids, since saturated fatty acids in hotter environments prevent fluidity and unsaturated/kinky fatty acids in colder environments prevent rigidity (less fluid = less permeable)</li>
+                            <li>Phospholipid bilayer w nonpolar tails facing each other and polar heads facing outside since internal/external environments are mostly water so this is stable configuration</li>
+                            <li>SELECTIVE PERMEABILITY: small nonpolar molecules easily pass, small polar molecules sometimes cross but usually need help from transport proteins. Ions & larger polar molecules either don't cross or need help from transport proteins. Large macromolecules like starch, proteins, and DNA don't pass since they are too big and need bulk transport, not even trasnport protein.</li>
                         </ul>
                     </li>
-                
-                    
-                    
+                    <li><strong>Steroids</strong>: CHO
+                        <ul>
+                            <li>Steroid - hormones that act as intracellular ligands/signalling molecules to help cells communicate</li>
+                            <li>Ex: sex hormones like testosterone/estrogen help develop male/female reproductive organs and secondary sex characteristics, stress hormones like cortisol sends signals breaking down carbs/fats for energy</li>
+                            <li>Cholesterol - steroid and another cell membrane component keeping membrane appropriately fluid (stabilize at high temps through weak hydrophobic fatty acid tail interactions, prevent phospholipid stiffness at lowtemps). Precursor to sex hormone production. Too much cholesterol = hydrophobic so can cause circulation disorders</li>
+                            <li>Structure: four fused carbon rings: functional groups on ends add diversity</li>
+                        </ul>
+                    </li>
+                    <li><strong>Waxes</strong>: CHO
+                        <ul>
+                            <li>Protection & excessive waterloss prevention since they're hydrophobic</li>
+                            <li>Structure: long chain fatty acids bonded to long chain alcohols</li>
+                            <li>Ex: earwax traps dust/dirt from entering ear canal, waxy plant leaf coating prevents water loss</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>Proteins</h3>
+                <ul>
+                    <li>CHON and sometimes S</li>
+                    <li>Monomer: amino acid (structure is a central Carbon, an amino group to the left (NH2), and a carboxyl group to the right (COOH), a Hydrogen on top, and a variant R group which makes each amino acid unique on bottom)</li>
+                    <li>R groups can have a charge (ionized), different R groups affect function and folding</li>
+                    <li>Amino acid sequence within a species is very similar but differs more between species caused by DNA variation (more similar DNA = more closely related organisms)</li>
+                    <li>Different amino acid sequence = different shape/folding = different function since different shapes prevents enzymes or hormones or antibodies from working</li>
+                    <li>Peptide covalent bonds link amino acids together in a protein</li>
+                    <li>Polymer: long chain of many amino acids linked together called polypeptides</li>
+                    <li>Proteins are a polypeptide chain folded into a specific shape</li>
+                    <li>Polypeptide chains have directionality, the N-terminus is the amino NH2 group end and the C-terminus is the carboxyl COOH group end where new amino acids get added</li>
+                    <li>Ex: enzymes speed up reactions, keratin supports hair/nails, collagen supports skin, channel/carrier proteins transport substance, hemoglobin transports O2 in blood to cells, antigens mark cells as foreign, antibody proteins made by immune system to defend against foreign invaders, insulin is a ligand protein that lowers blood glucose, HGH (human growth hormone) ligand stimulates growth in childhood and cell reproduction, neurotransmitter ligands enable nerve cell communication, protein receptors receive ligand and react, actin/myosin are contractile proteins allowing motion/muscle contractions</li>
+                    <li>Different specialized cells make or activate different types of proteins in abundance</li>
+                    <li>Up to 4 levels of protein structure b/c of folding (not all proteins have all 4 levels)
+                    <li>Chaperone proteins - help proteins fold if needed  or correct misfolding</li>
+                    <li>If folding is disrupted, protein denatures and all proteins work at specific temperatures and pH levels</li>
+                    <li>Temperatures above optimal cause thermal agitation which disrupts bonds, pH changes alter H+ and OH- concentrations also disrupting bonds</li>
+                    <li>Sometimes denaturing is reversible, sometimes not</li>
+                </ul>
+                <div>
+                    <div>
+                        <p><strong>Primary Structure</strong></p>
+                        <p>Linear polypeptide chains formed from unique sequences of amino acids linked by peptide bonds (all peptides have primary structure)</p>
+                    </div>
+                    <div>
+                        <p><strong>Secondary Structure</strong></p>
+                        <p>Alpha helices (coils) and beta-pleated sheets (accordion folds) develop b/c of stabilization from hydrogen bonding along polypeptide backbone (backbone is carboxyl amino groups)</p>
+                        <p>Hydrogen bonding between partially positive H of one acid's amino group and partially negative O of another's</p>
+                        <p>R-group interactions don't contribute to secondary structure stabilization</p>
+                        <p>Most proteins have up to this level of structure</p>
+                    </div>
+                    <div>
+                        <p><strong>Tertiary Structure</strong></p>
+                        <p>Highly unique, very irregular 3d structure shape develops from bonding/interactions between amino acid R-groups w/ each other and environment</p>
+                        <p>Bonding/interactions include Van der waals forces, hydrophobic/hydrophilic interactions between R groups and water, Hydrogen bonding, ionic bonding, dipole-dipole, disulfide linkages (-S-S-) between R groups that have sulfur in them</p>
+                        <p>These interactions occur between amino acids within a single polypeptide chain</p>
+                        <p>Polar groups = hydrogen bonding, Nonpolar group = Vanderwaals bonding</p>
+                        <p>Many proteins only have up to this level of structure</p>
+                    </div>
+                    <div>
+                        <p><strong>Quaternary Structure</strong></p>
+                        <p>Highly complex shape w/ same bonding stabilizing as tertiary structure from interaction of 2 or more folded polypeptide chains</p>
+                        <p>Some highly complex proteins have quaternary structure like hemoglobin or insulin</p>
+                    </div>
+                </div>
+
+                <h3>Nucleic Acids</h3>
+                <ul>
+                    <li>CHONP</li>
+                    <li>Monomer: nucleotides made up of a phosphate group PO4^3-, a 5 carbon sugar, and a nitrogenous base</li>
+                    <li>Backbone: phosphate and sugar, Rungs: bases (purines/double-rings adenine&guanine, pyramidines/single-rings cytosine&thymine&uracil)</li>
+                    <li><em>Pure as gold</em></li>
+                    <li>Phosphodiester covalent bond linkage links backbones (sugar/phosphates) together</li>
+                    <li>Hydrogen bonding links nitrogenous bases together in DNA (A makes 2 bonds with T, G makes 3 bonds with C)</li>
+                    <li><em>AT Garden City</em></li>
+                    <li><strong>DNA (Deoxyribonucleic Acid)</strong>
+                        <ul>
+                            <li>Polymer of nucleotides, stores genetic info and instructions for making proteins, inherited by offspring</li>
+                            <li>Structure: double stranded helix with antiparallel complementary (A-T:G-C) strands</li>
+                            <li>One strand runs 5' to 3', the other runs 3' to 5'</li>
+                            <li>DNA is only built 5' to 3' with nucleotides added to 3' end</li>
+                            <li>DNA is very stable and long-lasting</li>
+                        </ul>
+                    </li>
+                    <li><strong>RNA (Ribonucleic Acid)</strong>
+                        <ul>
+                            <li>mRNA (messenger RNA) - carries message of genetic code from DNA to ribosomes for protein production</li>
+                            <li>tRNA (transfer RNA) - translate/transfer mRNA into proteins by bringing amino acids to the ribosome</li>
+                            <li>rRNA (ribosomal RNA) - part of ribosome structure working as an enzyme to form peptide bonds between amino acids during protein synthesis</li>
+                            <li>Single stranded structure usually, A pairs w/ U instead of T</li>
+                            <li>Less stable and degrades faster than DNA quickly after use</li>
+                        </ul>
+                    </li>
+                    <li><strong>ATP (Adenosine Triphosphate)</strong>
+                        <ul>
+                            <li>Not a polymer</li>
+                            <li>Structure: Adenine bonded to 5-carbon ribose bonded to triphosphate chain</li>
+                            <li>Unstable b/c 3 molecules don't like each other</li>
+                            <li>Primary energy currency of cell storing enough energy to fuel processes like active transport, cell division, etc</li>
+                            <li>ATP fuels this through ATP hydrolysis of the terminal phosphate which releases energy, often couples with energy requiring reaction</li>
+                            <li><em>BARF: break absorb, release form</em></li>
+                            <li>Bonds between phosphate break easily, and bonds forming between water and phosphate are more stable resulting in lots of energy output</li>
+                        </ul>
                 </ul>
                 `
 
