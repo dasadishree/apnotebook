@@ -1096,257 +1096,286 @@ const NOTES = {
             "Unit 4: Cell Communication & Cell Cycle": {
                 tags: ["cell communication", "signal transduction", "ligands", "feedback", "cell cycle", "mitosis", "cell division"],
                 content: `
-                    <h2>Chapter 5B: Membrane Structure & Function - Signal Transduction Pathways</h2>
-                    <p>Communication / cell signalling needed to make adjustments if needed to maintain homeostasis, can diffuse locally or travel distances</p>
-                    <p>Evolved millions of years ago in a common ancestor so similar pathways in most organism</p>
-                    <h3>Types of Signals</h3>
-                    <div>
-                        <div>
-                            <p><strong>Autocrine Signaling</strong></p>
-                            <p>Cell targets and sends signal to itself</p>
-                        </div>
-                        <div>
-                            <p><strong>Juxtacrine Signaling</strong></p>
-                            <p>Cell sends message to another cell through direct cell-to-cell contact</p>
-                        </div>
-                        <div>
-                            <p><strong>Paracrine Signaling</strong></p>
-                            <p>Cell targets and sends nearby cell</p>
-                        </div>
-                        <div>
-                            <p><strong>Endocrine Signaling</strong></p>
-                            <p>Cell sends signal/hormone through bloodstream to distant but specific cell</p>
+                    <h2 id="h-u4-ch5b">Chapter 5B: Membrane Structure &amp; Function — Signal Transduction Pathways</h2>
+                    <div class="callout" style="margin-bottom:16px;">
+                        <p style="margin:0 0 8px;">Communication / cell signalling needed to make adjustments if needed to maintain homeostasis, can diffuse locally or travel distances</p>
+                        <p style="margin:0;">Evolved millions of years ago in a common ancestor so similar pathways in most organism</p>
                     </div>
+
+                    <h3>Types of Signals</h3>
+                    <div class="note-grid-2" style="align-items:stretch;">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Autocrine Signaling</p>
+                            <p style="margin:0;font-size:12.5px;">Cell targets and sends signal to itself</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Juxtacrine Signaling</p>
+                            <p style="margin:0;font-size:12.5px;">Cell sends message to another cell through direct cell-to-cell contact</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Paracrine Signaling</p>
+                            <p style="margin:0;font-size:12.5px;">Cell targets and sends nearby cell</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Endocrine Signaling</p>
+                            <p style="margin:0;font-size:12.5px;">Cell sends signal/hormone through bloodstream to distant but specific cell</p>
+                        </div>
+                    </div>
+
                     <h3>Signal Transduction Pathways</h3>
                     <p>Cells interpret signals once received, basic pathway include signaling, reception, transduction, response.</p>
-                    <div>
-                        <div>
-                            <p><strong>1. Signaling</strong></p>
-                            <p>Signaling molecules / ligands serve as chemical messengers allowing specific target cells to communicate and respond appropriately. Ex: Steroid/protein hormones, neurotransmitters, growth facts, etc</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">1. Signaling</p>
+                            <p style="margin:0;font-size:12.5px;">Signaling molecules / ligands serve as chemical messengers allowing specific target cells to communicate and respond appropriately. Ex: Steroid/protein hormones, neurotransmitters, growth facts, etc</p>
                         </div>
-                        <div>
-                            <p><strong>2. Reception</strong></p>
-                            <p>Receptor of target cells has both shape & charge compatibility w the ligand, ligands bind to protein receptors</p>
-                            <p>Cell-Surface Receptors - protein receptors embedded in cell membrane if too large to get through membrane (ex: protein hormone like insulin)</p>
-                            <p>Intracellular Receptors - protein receptors located inside cell if small/hydrophobic (ex: steroid hormone, testosterone)</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">2. Reception</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Receptor of target cells has both shape & charge compatibility w the ligand, ligands bind to protein receptors</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Cell-Surface Receptors - protein receptors embedded in cell membrane if too large to get through membrane (ex: protein hormone like insulin)</p>
+                            <p style="margin:0;font-size:12.5px;">Intracellular Receptors - protein receptors located inside cell if small/hydrophobic (ex: steroid hormone, testosterone)</p>
                         </div>
-                        <div>
-                            <p><strong>3. Transduction</strong></p>
-                            <p>Where original intercellular signal gets converted into a series of intracellular signals triggering some cellular response</p>
-                            <p>Cascade of events / conformational changes and secondary messengers activating proteins like the secondary messenger and relaying orignal signal and amplifying it to cause response</p>
-                            <p>Amplification provides multiple opportunities for coordination/regulation in the cell</p>
-                            <p>Common secondary messenger: cAMP (cyclic AMP) which targets and activates protein kinases which are enzymes phosphorylating and activating other enzymes in cascade</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">3. Transduction</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Where original intercellular signal gets converted into a series of intracellular signals triggering some cellular response</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Cascade of events / conformational changes and secondary messengers activating proteins like the secondary messenger and relaying orignal signal and amplifying it to cause response</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Amplification provides multiple opportunities for coordination/regulation in the cell</p>
+                            <p style="margin:0;font-size:12.5px;">Common secondary messenger: cAMP (cyclic AMP) which targets and activates protein kinases which are enzymes phosphorylating and activating other enzymes in cascade</p>
                         </div>
-                        <div>
-                            <p><strong>4. Response</strong></p>
-                            <p>Cellular responses including changes in gene expression, protein activity, metabolism, passage of substances in/out, division, death/apoptosis</p>
+                        <div class="note-card">
+                            <p class="note-card-title">4. Response</p>
+                            <p style="margin:0;font-size:12.5px;">Cellular responses including changes in gene expression, protein activity, metabolism, passage of substances in/out, division, death/apoptosis</p>
                         </div>
                     </div>
 
                     <h3>Cell Communication / Signal Transduction Examples</h3>
-                    <div>
-                        <div>
-                            <p><strong>Peptide Hormone Endocrine Signaling</strong></p>
-                            <p>Includes most hormones, peptides, proteins, glycoproteins, modified amino acids, all peptide derivative ligands</p>
-                            <p>Peptides hormones are lipid insoluble so can't pass through cell membrane</p>
-                            <p>Biinds specifically & reversibly to plasma membrane receptors which activates signal transduction pathway causing cell response</p>
-                            <p>Ex: epinephrine (emergency fight or flight hormone) causing response of higher blood glucose levels</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Peptide Hormone Endocrine Signaling</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Includes most hormones, peptides, proteins, glycoproteins, modified amino acids, all peptide derivative ligands</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Peptides hormones are lipid insoluble so can't pass through cell membrane</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Biinds specifically & reversibly to plasma membrane receptors which activates signal transduction pathway causing cell response</p>
+                            <p style="margin:0;font-size:12.5px;">Ex: epinephrine (emergency fight or flight hormone) causing response of higher blood glucose levels</p>
                         </div>
-                        <div>
-                            <p><strong>Steroid Hormone Endocrine Signaling</strong></p>
-                            <p>Lipids derived from cholesterol, secreted by adrenal cortex above kidneys, ovaries, testes</p>
-                            <p>Lipid soluble so can pass cell membrane and enter cell via membrane and bind to internal receptor in nucleus/cytoplasm instead of surface receptor</p>
-                            <p>Hormone-receptor complex binds to DNA and activates certain genes, mRNA produced which moves to the ribosome and synthesizes appropriate protein</p>
-                            <p>Steroid hormones usually slower than peptide hormones bc takes longer to create protein from scratch instead of activating ones alr in the cell. Not as much internal messaging/transduction.</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Steroid Hormone Endocrine Signaling</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Lipids derived from cholesterol, secreted by adrenal cortex above kidneys, ovaries, testes</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Lipid soluble so can pass cell membrane and enter cell via membrane and bind to internal receptor in nucleus/cytoplasm instead of surface receptor</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Hormone-receptor complex binds to DNA and activates certain genes, mRNA produced which moves to the ribosome and synthesizes appropriate protein</p>
+                            <p style="margin:0;font-size:12.5px;">Steroid hormones usually slower than peptide hormones bc takes longer to create protein from scratch instead of activating ones alr in the cell. Not as much internal messaging/transduction.</p>
                         </div>
-                        <div>
-                            <p><strong>Cell Communication in the Nervous System</strong></p>
-                            <p>Adjacent nerve cells/neurons communicate w each other through paracrine signaling by releasing neurotransmitters</p>
-                            <p>Neurotransmitters - chemical messages stored in vesicles in axon terminal</p>
-                            <p>Membrane proteins (ex: voltage/ligand gated ion channels) along neuron cell membranes enable electrical messages (impulses) to travel along neurons causing release of neurotransmitters between neurons</p>
-                            <p>These signals cause next neuron to become excited resulting in response</p>
-                            <p>Synapse: the region between neurons (nerve impulses cannot occur here and need to travel across gap as neurotransmitters</p>
-                            <p>Voltage Gated Ion Channels In Neurons - enable/prevent passage of certain ions depending on voltage along neuron membrane, allowing impulses to travel across neuron (ex: Na+, K+, Ca2+ channels)
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Cell Communication in the Nervous System</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Adjacent nerve cells/neurons communicate w each other through paracrine signaling by releasing neurotransmitters</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Neurotransmitters - chemical messages stored in vesicles in axon terminal</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Membrane proteins (ex: voltage/ligand gated ion channels) along neuron cell membranes enable electrical messages (impulses) to travel along neurons causing release of neurotransmitters between neurons</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">These signals cause next neuron to become excited resulting in response</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Synapse: the region between neurons (nerve impulses cannot occur here and need to travel across gap as neurotransmitters</p>
+                            <p style="margin:0;font-size:12.5px;">Voltage Gated Ion Channels In Neurons - enable/prevent passage of certain ions depending on voltage along neuron membrane, allowing impulses to travel across neuron (ex: Na+, K+, Ca2+ channels)</p>
                         </div>
-                        <div>
-                            <p><strong>Cell Communication in the Immune System</strong></p>
-                            <p>Immune response to infection is release of chemical immune system protein messengers called cytokines</p>
-                            <p>Cytokines - affect behaviors and signal immune system to do its job (ex: mast cells important for wound healing/defense releasing cytokines to create inflammatory cascade increasing bloodflow - endocrine, macrophages WBC that destroy pathogens w enzymes releasing cytokines releasing more WBC's (endocrine) and then present antigen on membrane releasing more cytokines to stimulate helper T-cells to initaite defense (juxtacrine/paracrine) which stimulate cells producing antibodies and immune response releasing interferon proteins to alert neighboring cells - paracrine)</p>
-                            <p>Some viral illnesses like COVID cause immune system overreaction</p>    
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Cell Communication in the Immune System</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Immune response to infection is release of chemical immune system protein messengers called cytokines</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Cytokines - affect behaviors and signal immune system to do its job (ex: mast cells important for wound healing/defense releasing cytokines to create inflammatory cascade increasing bloodflow - endocrine, macrophages WBC that destroy pathogens w enzymes releasing cytokines releasing more WBC's (endocrine) and then present antigen on membrane releasing more cytokines to stimulate helper T-cells to initaite defense (juxtacrine/paracrine) which stimulate cells producing antibodies and immune response releasing interferon proteins to alert neighboring cells - paracrine)</p>
+                            <p style="margin:0;font-size:12.5px;">Some viral illnesses like COVID cause immune system overreaction</p>
                         </div>
                     </div>
 
                     <h3>Communication in 3 Body Systems</h3>
-                    <div>
-                        <div>
-                            <p><strong>Endocrine System</strong></p>
-                            <p>Ligands/intercellular primary signaling molecule messengers: HORMONES</p>
-                            <p>Peptide/protein hormones are large, hydrophillic, w receptor in cell membrane (ex: epinephrine, insulin)</p>
-                            <p>Steroid/lipid hormones are small, hydrophobic, w receptors in the cell (ex: estrogen, testosterone)</p>
-                            <p>Have receptorsa on various target body cells depending on type of hormone</p>
+                    <div class="note-grid-3" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">Endocrine System</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Ligands/intercellular primary signaling molecule messengers: HORMONES</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Peptide/protein hormones are large, hydrophillic, w receptor in cell membrane (ex: epinephrine, insulin)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Steroid/lipid hormones are small, hydrophobic, w receptors in the cell (ex: estrogen, testosterone)</p>
+                            <p style="margin:0;font-size:12.5px;">Have receptorsa on various target body cells depending on type of hormone</p>
                         </div>
-                        <div>
-                            <p><strong>Nervous System</strong></p>
-                            <p>Ligands/intercellular primary signaling molecule messengers: NEUROTRANSMITTERS</p>
-                            <p>Proteins/peptides have receptors in cell membrane of nerve cells</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Nervous System</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Ligands/intercellular primary signaling molecule messengers: NEUROTRANSMITTERS</p>
+                            <p style="margin:0;font-size:12.5px;">Proteins/peptides have receptors in cell membrane of nerve cells</p>
                         </div>
-                        <div>
-                            <p><strong>Immune System</strong></p>
-                            <p>Ligands/intercellular primary signaling molecule messengers: CYTOKINES</p>
-                            <p>Proteins have receptors embedded in cell membrane of immune cells</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Immune System</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Ligands/intercellular primary signaling molecule messengers: CYTOKINES</p>
+                            <p style="margin:0;font-size:12.5px;">Proteins have receptors embedded in cell membrane of immune cells</p>
                         </div>
                     </div>
-                    <p>Intracellular secondary messengers: cAMP (cyclic AMP) which initiate enzyme cascades in cell causing cellular response</p>
-                    <p><strong>PROTEIN KINASES</strong>: enzyes that are a big part of enzyme cascades since they phosphorylate and activate/deactivate other enzymes/proteins in the cascade</p>
-                    <p>PHOSPHORYLATE = add phoswphate, PHOSPHORYLATION changes the shaqpe of the protein along cascade to activate/deactive it</p>
-                    <p>Amplification - big response from tiny signal activating hundreds of molecules and speeds up response quickly/efficiently</p>
 
-                    <h2>Chapter 9: The Cell Cycle and Cellular Reproduction (Cell Division)</h2>
+                    <div class="callout" style="margin-top:14px;">
+                        <p style="margin:0 0 8px;font-size:12.5px;">Intracellular secondary messengers: cAMP (cyclic AMP) which initiate enzyme cascades in cell causing cellular response</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;"><strong>PROTEIN KINASES</strong>: enzyes that are a big part of enzyme cascades since they phosphorylate and activate/deactivate other enzymes/proteins in the cascade</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">PHOSPHORYLATE = add phoswphate, PHOSPHORYLATION changes the shaqpe of the protein along cascade to activate/deactive it</p>
+                        <p style="margin:0;font-size:12.5px;">Amplification - big response from tiny signal activating hundreds of molecules and speeds up response quickly/efficiently</p>
+                    </div>
+
+                    <h2 id="h-u4-ch9">Chapter 9: The Cell Cycle and Cellular Reproduction (Cell Division)</h2>
                     <h3>The Cell Cycle</h3>
-                    <p>The life of a cell from formation to division, in between division the cell grows larger (to a limit), organelle # increases, DNA is replicated, cell functions continue</p>
-                    <p>Cell cycle/life spans vary by type and divides at diff rates (ex: embryonic cells divide very fast, bone cells divide slow, nerve/muscle cells don't replicate at all once mature)</p>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <p style="margin:0 0 8px;font-size:12.5px;">The life of a cell from formation to division, in between division the cell grows larger (to a limit), organelle # increases, DNA is replicated, cell functions continue</p>
+                        <p style="margin:0;font-size:12.5px;">Cell cycle/life spans vary by type and divides at diff rates (ex: embryonic cells divide very fast, bone cells divide slow, nerve/muscle cells don't replicate at all once mature)</p>
+                    </div>
 
                     <h3>Cell Cycle Stages</h3>
-                    <div>
-                        <div>
-                            <p><strong>Interphase</strong></p>
-                            <p>Phase between active cell divisons, includes the G1, G0, S, and G2 phases</p>
-                            <p>G1 Phase (gap or growth phase 1)</p>
-                            <ul>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card" style="grid-column:1;">
+                            <p class="note-card-title">Interphase</p>
+                            <p style="margin:0 0 10px;font-size:12.5px;">Phase between active cell divisons, includes the G1, G0, S, and G2 phases</p>
+                            <p style="margin:0 0 6px;font-size:12px;font-weight:500;color:var(--ink);">G1 Phase (gap or growth phase 1)</p>
+                            <ul style="margin:0 0 12px;padding-left:18px;">
                                 <li>Cell recovers from past division, replicates organelles, grows a little in size, accumulates raw materials for DNA replication, carries out function</li>
                             </ul>
-                            <p>S Phase (DNA synthesis/replication phase)</p>
-                            <ul>
+                            <p style="margin:0 0 6px;font-size:12px;font-weight:500;color:var(--ink);">S Phase (DNA synthesis/replication phase)</p>
+                            <ul style="margin:0 0 12px;padding-left:18px;">
                                 <li>DNA copied so daughter cells have complete set of chromoesome after cell divides, proteins associated w DNA replication synthesizes, cell carries out functions</li>
                                 <li>DNA is unraveled in form of chromatin (tangled mass of threads) though but it still replicates</li>
                                 <li>Sister chromatids remain attached at centromere until they seperate during mitosis. Histone proteins coil/condense replicated DNA into chromosomes. Diploid # is species characteristic number of chromeomses found in all cells as homologous chromomosomes (2n), haploid # is cells containing one chromosome of each kind - gametes like sperm and egg cells </li>
                                 <li>Centrosome (microtubule organizes center of cell, each containing two centrioles in animal cells only) replication begins during S phase but ends in G2</li>
                             </ul>
-                            <p>G2 Phase (gap or growth phase 2)</p>
-                            <ul>
+                            <p style="margin:0 0 6px;font-size:12px;font-weight:500;color:var(--ink);">G2 Phase (gap or growth phase 2)</p>
+                            <ul style="margin:0 0 12px;padding-left:18px;">
                                 <li>Phase between replication and division, cell functions continue, cell synthesizes proteins necessary for divison like proteins that assemble microtubules or form mitotic spindle fibers</li>
                                 <li>Centrosome replication finishes here</li>
                             </ul>
-                            <p>G0 Phase</p>
-                            <ul>
+                            <p style="margin:0 0 6px;font-size:12px;font-weight:500;color:var(--ink);">G0 Phase</p>
+                            <ul style="margin:0;padding-left:18px;">
                                 <li>Cell stage enters when it continues to perform normal everyday activities w/o preparing for cell division</li>
                                 <li>Most mature adult cells remain in G0 and never divide again but can enter G1 phase if necessary, but mature nerve/muscle cells never reenter cell cycle</li>
                             </ul>
                         </div>
-                        <div>
-                            <p><strong>Mitotic (M) Phase</strong></p>
-                            <ul>
-                                <li>Phase where sister chromatids are separated and distributed to 2 daughter cells</li>
-                            </ul>
-                            <p>Includes mitosis/nuclear division (prophase, prometaphase, metaphase, anaphase, telophase)</p>
-                            <ul>
-                                <li>Mitosis - continous process arbitrarily divided into 5 phases, aids in growth/development to increase # of cells present (2n zygote -> 8 cell stage-> blastula-> gastrula->embryo->fetus), repair of lost cells</li>
-                                <li>Prophase - Chromatin has condensed into distinguishable chromosomes that is already duplicated composed of 2 sister chromatids held by centromere (count centromeres to get # of chromoesomes). Nucleoli disappear, nuclear envelope begins to disintegrate, spindle fibers consisting of microtubules begin to assembles as centrosomes move away from each other</li>
-                                <li>Prometaphase (aka late prophase) - nuclear envelope continues to fragment allowing microtubule spindle fibers to attach to chromosomes, centromeres develope kinetochromes which are specialized protein complex representing spindle fibers attach location, chromsomes attach to spindle fibers but not yet aligned at center of cell</li>
-                                <li>Metaphase - centromeres now aligned on single plate (metaphase equatorial plate) in middle of cell</li>
-                                <li>Anaphase - sister chromatids seperate away from each other giving rise to daughter chromosomes each w a centromere that move via microtubule track to opposite poles pulled by spindle fibers causing cell elongation so each pole has copmplete equal set of chromosomes</li>
-                                <li>Telophase - spindle fibers disappear/disassemble, new nuclear envelopes reform around each set of daughter chromosomes, chromosomes begin to unravel into chromatin again. Each daughter nucleus contains same # and kinds of chromosomes as original parent nucleus</li>    
-                            </ul>
-                            <p>Cytokinesis</p>
-                            <ul>
-                                <li>Division of cytoplasm splitting cell, resulting in 2 daughter cells w identical DNA to parent, allocates cytoplasm equally and encloses daughter w membrane</li>
-                                <li>Animal Cells: cleavage furrow (membrane indentation) appears between daughter nuclei formed by contractile ring of actin microfilaments forming circular constriction pinching daughter cell in 2</li>
-                                <li>Plant Cells: cell wall prevents furrowing, cell plate formed which involves golgi producing vesicles which eventually fuse into one thin vesicle extending across middle of mother cell, cell plate forms as more vesicles arrive and fuse which releases molecules forming new cell wall strengthened by shuttling of cellulose, space between daughter cells becomes filled w middle lamella cementing adjacent cells together</li>
-                            </ul>    
-                        </div>
-
-                        <div>
-                            <p><strong>Checkpoints / Control of Cell Cycle</strong></p>
-                            <p>Cell cycle must be regulated for normal cell growth through internal/external signlas influencing cell activity</p>
-                            <p>G1 phase (restriction) checkpoint - main important checkpoint, cell remains in G0 until it passes this, ensuring DNA isn't damaged before replication and environemnt is appropriate w enough energy/nutries and growth signals/resources available. Proceed to S phase if passes (Located between G1 and S phase)</p>
-                            <p>G2 phase (mitosis) checkpoint - ensures DNA has finished replicating properly and all proteins are made aiding in cell division, DNA not physically damaged, enough energy to divide. If pass it proceeds to mitosis, otherwise it stops until fixed. (located in G2 phase right before end)</p>
-                            <p>M phase (spindle assembly) checkpoint - ensyres chromosomes properly attached to spindle fibers so proper # of chromosomes can be distributed to daughter cells, if not mitosis will not continue (located in between meta and anaphase of mitosis)</p>
+                        <div style="display:flex;flex-direction:column;gap:12px;">
+                            <div class="note-card-muted">
+                                <p class="note-card-title">Mitotic (M) Phase</p>
+                                <ul style="margin:0 0 10px;padding-left:18px;">
+                                    <li>Phase where sister chromatids are separated and distributed to 2 daughter cells</li>
+                                </ul>
+                                <p style="margin:0 0 8px;font-size:12.5px;">Includes mitosis/nuclear division (prophase, prometaphase, metaphase, anaphase, telophase)</p>
+                                <ul style="margin:0 0 12px;padding-left:18px;">
+                                    <li>Mitosis - continous process arbitrarily divided into 5 phases, aids in growth/development to increase # of cells present (2n zygote -> 8 cell stage-> blastula-> gastrula->embryo->fetus), repair of lost cells</li>
+                                    <li>Prophase - Chromatin has condensed into distinguishable chromosomes that is already duplicated composed of 2 sister chromatids held by centromere (count centromeres to get # of chromoesomes). Nucleoli disappear, nuclear envelope begins to disintegrate, spindle fibers consisting of microtubules begin to assembles as centrosomes move away from each other</li>
+                                    <li>Prometaphase (aka late prophase) - nuclear envelope continues to fragment allowing microtubule spindle fibers to attach to chromosomes, centromeres develope kinetochromes which are specialized protein complex representing spindle fibers attach location, chromsomes attach to spindle fibers but not yet aligned at center of cell</li>
+                                    <li>Metaphase - centromeres now aligned on single plate (metaphase equatorial plate) in middle of cell</li>
+                                    <li>Anaphase - sister chromatids seperate away from each other giving rise to daughter chromosomes each w a centromere that move via microtubule track to opposite poles pulled by spindle fibers causing cell elongation so each pole has copmplete equal set of chromosomes</li>
+                                    <li>Telophase - spindle fibers disappear/disassemble, new nuclear envelopes reform around each set of daughter chromosomes, chromosomes begin to unravel into chromatin again. Each daughter nucleus contains same # and kinds of chromosomes as original parent nucleus</li>
+                                </ul>
+                                <p style="margin:0 0 6px;font-size:12px;font-weight:500;color:var(--ink);">Cytokinesis</p>
+                                <ul style="margin:0;padding-left:18px;">
+                                    <li>Division of cytoplasm splitting cell, resulting in 2 daughter cells w identical DNA to parent, allocates cytoplasm equally and encloses daughter w membrane</li>
+                                    <li>Animal Cells: cleavage furrow (membrane indentation) appears between daughter nuclei formed by contractile ring of actin microfilaments forming circular constriction pinching daughter cell in 2</li>
+                                    <li>Plant Cells: cell wall prevents furrowing, cell plate formed which involves golgi producing vesicles which eventually fuse into one thin vesicle extending across middle of mother cell, cell plate forms as more vesicles arrive and fuse which releases molecules forming new cell wall strengthened by shuttling of cellulose, space between daughter cells becomes filled w middle lamella cementing adjacent cells together</li>
+                                </ul>
+                            </div>
+                            <div class="note-card-muted">
+                                <p class="note-card-title">Checkpoints / Control of Cell Cycle</p>
+                                <p style="margin:0 0 8px;font-size:12.5px;">Cell cycle must be regulated for normal cell growth through internal/external signlas influencing cell activity</p>
+                                <p style="margin:0 0 8px;font-size:12.5px;">G1 phase (restriction) checkpoint - main important checkpoint, cell remains in G0 until it passes this, ensuring DNA isn't damaged before replication and environemnt is appropriate w enough energy/nutries and growth signals/resources available. Proceed to S phase if passes (Located between G1 and S phase)</p>
+                                <p style="margin:0 0 8px;font-size:12.5px;">G2 phase (mitosis) checkpoint - ensures DNA has finished replicating properly and all proteins are made aiding in cell division, DNA not physically damaged, enough energy to divide. If pass it proceeds to mitosis, otherwise it stops until fixed. (located in G2 phase right before end)</p>
+                                <p style="margin:0;font-size:12.5px;">M phase (spindle assembly) checkpoint - ensyres chromosomes properly attached to spindle fibers so proper # of chromosomes can be distributed to daughter cells, if not mitosis will not continue (located in between meta and anaphase of mitosis)</p>
+                            </div>
                         </div>
                     </div>
 
                     <h3>External Signals / Factors</h3>
-                    <div>
-                        <div>
-                            <p><strong>Anchorage Dependence</strong></p>
-                            <p>Most cells must contact solid surface to divide, must be anchored</p>
-                            <p>Anchored cell can divide, not anchored cell can't grow/divide</p>
+                    <div class="note-grid-3" style="align-items:start;">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Anchorage Dependence</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Most cells must contact solid surface to divide, must be anchored</p>
+                            <p style="margin:0;font-size:12.5px;">Anchored cell can divide, not anchored cell can't grow/divide</p>
                         </div>
-                        <div>
-                            <p><strong>Density-Dependent Inhibition</strong></p>
-                            <p>Crowded cells will stop dividing, uncrowded cells may divide</p>
-                            <p>Higher density=no growth/division, low density=cells can divide</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Density-Dependent Inhibition</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Crowded cells will stop dividing, uncrowded cells may divide</p>
+                            <p style="margin:0;font-size:12.5px;">Higher density=no growth/division, low density=cells can divide</p>
                         </div>
-                        <div>
-                            <p><strong>Growth Factors</strong></p>
-                            <p>Proteins released by cells stimulating division of other cells</p>
-                            <p>At least 50 diff growth factors in body</p>
-                            <p>Cell that receives growth factor signal goes on to divide, if not cell won't divide</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Growth Factors</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Proteins released by cells stimulating division of other cells</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">At least 50 diff growth factors in body</p>
+                            <p style="margin:0;font-size:12.5px;">Cell that receives growth factor signal goes on to divide, if not cell won't divide</p>
                         </div>
                     </div>
 
                     <h3>Internal Signals/Factors</h3>
                     <p>For cell to move past checkpoints, all positive regulators should be on and negative regulators off</p>
-                    <div>
-                        <p><strong>POSITIVE REGULATORS PROMOTING CELL CYCLE</strong></p>
-                        <div>
-                            <p><strong>Cyclin Dependent Kinases (Cdk's)</strong></p>
-                            <p>Enzymes always present in cell in relatively stable amt but only active when bound to cyclin proteins and phosphorylated by other kinases</p>
-                            <p>Kinases - class of enzyme proteins that add P to substrate, changing shape and activating them, providing energy through phosphorylation for processes</p>
+                    <p style="margin:16px 0 8px;font-family:var(--mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink3);">Positive regulators</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">Cyclin Dependent Kinases (Cdk's)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Enzymes always present in cell in relatively stable amt but only active when bound to cyclin proteins and phosphorylated by other kinases</p>
+                            <p style="margin:0;font-size:12.5px;">Kinases - class of enzyme proteins that add P to substrate, changing shape and activating them, providing energy through phosphorylation for processes</p>
                         </div>
-                        <div>
-                            <p><strong>Cyclins</strong></p>
-                            <p>Proteins made at specific times in cell cycle that activate specific CDKs, encoded by group of proto-oncogenes</p>
-                            <p>If bound to cyclinks, CDKs will give signals at cell cycle checkpoints</p>
-                            <p>If no cyclins present or bound to CDKs, cell cycle will stop at checkpoint and not proceed</p>
-                            <p>Cyclin concentrations fluctuate and determine when cdk/cyclin complexes form and bind at specific pts</p>
-                            <p>Active cyclins from previous stage degraded as cell moves to next stage, cyclin concentration increases triggered by external/internal signals</p>
-                        </div>
-                    </div>
-                    <div>
-                        <p><strong>NEGATIVE REGUOLATORS INHIBITING CELL CYCLE</p>
-                        <div>
-                            <p><strong>Retinoblastoma Protein (Rb)</strong></p>
-                            <p>Tumor-suppresor protein monitoring cell-size halting progression to S phase until cell appropriate size</p>
-                            <p>Active/dephosphorylated state - Rb binds to E2F transcription factor which blocks production of proteins needed for G1/S transition and Rb slowly phosphorylated by Cdks until inactivated as cell increases in size</p>
-                            <p>Inactive/phosphorylated state - Rb releases E2F which can turn on gene producing proteins necessary for S phase progression</p>
-                        </div>
-                        <div>
-                            <p><strong>p53 and p21</strong></p>
-                            <p>Tumor suppressor proteins impacting cell division</p>
-                            <p>If damaged DNA in cells during G1 detected, p53 halts cell cycle and recruits enzymes to repair DNA</p>
-                            <p>If DNA can't be repaired, p53 triggers apoptosis/programmed cell death to prevent duplicating damaged chromosomes</p>
-                            <p>Rising p53 levels produces p21 which enforces halt in cycle dictated by p53 by binding/inhibiting Cdk/cyclin complex activity</p>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Cyclins</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Proteins made at specific times in cell cycle that activate specific CDKs, encoded by group of proto-oncogenes</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">If bound to cyclinks, CDKs will give signals at cell cycle checkpoints</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">If no cyclins present or bound to CDKs, cell cycle will stop at checkpoint and not proceed</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Cyclin concentrations fluctuate and determine when cdk/cyclin complexes form and bind at specific pts</p>
+                            <p style="margin:0;font-size:12.5px;">Active cyclins from previous stage degraded as cell moves to next stage, cyclin concentration increases triggered by external/internal signals</p>
                         </div>
                     </div>
-                    
+                    <p style="margin:18px 0 8px;font-family:var(--mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink3);">Negative regulators</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Retinoblastoma Protein (Rb)</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Tumor-suppresor protein monitoring cell-size halting progression to S phase until cell appropriate size</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Active/dephosphorylated state - Rb binds to E2F transcription factor which blocks production of proteins needed for G1/S transition and Rb slowly phosphorylated by Cdks until inactivated as cell increases in size</p>
+                            <p style="margin:0;font-size:12.5px;">Inactive/phosphorylated state - Rb releases E2F which can turn on gene producing proteins necessary for S phase progression</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">p53 and p21</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Tumor suppressor proteins impacting cell division</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">If damaged DNA in cells during G1 detected, p53 halts cell cycle and recruits enzymes to repair DNA</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">If DNA can't be repaired, p53 triggers apoptosis/programmed cell death to prevent duplicating damaged chromosomes</p>
+                            <p style="margin:0;font-size:12.5px;">Rising p53 levels produces p21 which enforces halt in cycle dictated by p53 by binding/inhibiting Cdk/cyclin complex activity</p>
+                        </div>
+                    </div>
+
                     <h3>Apoptosis</h3>
-                    <p>Programmed cell death where cell events bring about death induced by caspase enzymes</p>
-                    <p>First cell rounds up/dissociates from other cells, nucleus fragments, plasma membrane blisters forming blebs, cell fragments contain DNA fragments which get engulfed by WBCs</p>
-                    <p>Cell division & apoptosis are opposing forces that increase/decrease cell # maintaining homeostasis at appropriate cell #</p>
-                    <p>Functions: necessary for development (ex: webbed fingers/toes disappear), prevent abnormal cells from becoming canerous, kill virus-infected cells, prevent tuumor from developing<p>
+                    <div class="note-card-muted">
+                        <p style="margin:0 0 8px;font-size:12.5px;">Programmed cell death where cell events bring about death induced by caspase enzymes</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">First cell rounds up/dissociates from other cells, nucleus fragments, plasma membrane blisters forming blebs, cell fragments contain DNA fragments which get engulfed by WBCs</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Cell division & apoptosis are opposing forces that increase/decrease cell # maintaining homeostasis at appropriate cell #</p>
+                        <p style="margin:0;font-size:12.5px;">Functions: necessary for development (ex: webbed fingers/toes disappear), prevent abnormal cells from becoming canerous, kill virus-infected cells, prevent tuumor from developing</p>
+                    </div>
 
                     <h3>Adult Stem Cells</h3>
-                    <p><strong>Stem Cell</strong>: immature, undifferentiated cell capable of producing many diff types of mature differentiated/specialized cells</p>
-                    <p><strong>Cell Potency</strong>: cell's ability to differentiate into other cell types (totipotent/omnipotent most able to differentiate (ex: zygotes), pluripotent early embryonic stem cells, multipotent umbilical cord stem cells, unipotent least able to differentiate (ex: specialized adult cells))</p>
-                    <p><strong>Differentiation</strong>: process where cells begin to specialize, plays role in morphogenesis causing organism to develop its shape</p>
-                    <p>Types of stem cells: early embryonic stem cells, umbilical cord stem cells, adult stem cells, induced multi-potent stem cells w lots of potential</p>
-                    <p>Most adult cells remain in G0 phase and don't need to divide but are still able to divide if needed to replensish</p>
+                    <div class="note-card">
+                        <p style="margin:0 0 8px;font-size:12.5px;"><strong>Stem Cell</strong>: immature, undifferentiated cell capable of producing many diff types of mature differentiated/specialized cells</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;"><strong>Cell Potency</strong>: cell's ability to differentiate into other cell types (totipotent/omnipotent most able to differentiate (ex: zygotes), pluripotent early embryonic stem cells, multipotent umbilical cord stem cells, unipotent least able to differentiate (ex: specialized adult cells))</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;"><strong>Differentiation</strong>: process where cells begin to specialize, plays role in morphogenesis causing organism to develop its shape</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Types of stem cells: early embryonic stem cells, umbilical cord stem cells, adult stem cells, induced multi-potent stem cells w lots of potential</p>
+                        <p style="margin:0;font-size:12.5px;">Most adult cells remain in G0 phase and don't need to divide but are still able to divide if needed to replensish</p>
+                    </div>
 
                     <h3>Prokaryotic Cell Division</h3>
-                    <p><strong>Binary Fission</strong></p>
-                    <p>Duplicate circular DNA before division, rokaryotes elongate until double original size, then pinches/seperates to 2 identical daughter cells (very quick process overall)</p>
-                    <p>2 new individuals formed so for prokaryotes, cell division is like asexual reproduction where offspring are genetically identical to parent</p>
+                    <div class="note-card-muted">
+                        <p class="note-card-title">Binary Fission</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Duplicate circular DNA before division, rokaryotes elongate until double original size, then pinches/seperates to 2 identical daughter cells (very quick process overall)</p>
+                        <p style="margin:0;font-size:12.5px;">2 new individuals formed so for prokaryotes, cell division is like asexual reproduction where offspring are genetically identical to parent</p>
+                    </div>
 
                     <h3>Cancer</h3>
-                    <p>Cellular growth disorder resulting from uncontrolled cell division, usually gradual result of accumulating mutations</p>
-                    <p>Regulatory factors usually prevent it from becoming cancerous</p>
-                    <p>Cancer cells lack differentation (not specialized, don't contribute to tissue function), immortal (can enter cell cycle indefinite # of times), look abnormal/have abnormal nuclei (nuclei may be unlarged w abnormal chromosome # or extra/deleted gene copies), dont undergo apoptosis unless immune system triggers external signal</p>
-                    <p><strong>Tumor</strong>: abnormal overgrowth of cells piled on top of each other since cancer cells have no CONTACT INHIBITION controlling mitosis (benign: not cancerous, encapsulated, don't spread/invade neighboring tissue. malignant: cancerous, not encapsulated, invade neighboring tissue, detach/lodge in distant places through metastasis, results from gene mutations)
-                    <p>Cancer cells undergo metasis - additional mutations making benign->malignant, malignant tumor have potential for metastasis and can spread through body/blood and form new tumors</p>
-                    <p>Cancer cells undergo angigensis: mutations allowing for formation of new blood vessels into tumor receiving nutrients&oxygen for growth but healthy cells become deprived of nutrients</p>
-                    <p>Origin: caused by mutations usually affecting proto-onco genes (ex: cyclins, cdks, growth factors) which are proteins promoting cell cycle/preventing apoptosis which can be mutated to become oncogene promoting uncontrollable cell divison since thye never turn off. or affecting tumor-suppresor genes (ex: Rb, p53,p21) which are proteins inhibiting cellcycle promoting apoptosis but mutation causes no more inhibition</p>
-                    <p>Causes: growth factor binds to receptor protein initiating rxn triggering stimulatory pathway whcich begins at plasma membrane turning on protooncogene which promote cell cycle. inhibtory pathway begins w tumor-suppressor genes where products inhibit cell cyle unless mutated</p>
-                    <p>Other causes: telomerase (enzyme regulating telomere - end of chromomsome preserving DNA loss - length) mutation causing unregulated activity allowing uncontrolled cell division in cancer cells w/o preservation</p>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <p style="margin:0 0 8px;font-size:12.5px;">Cellular growth disorder resulting from uncontrolled cell division, usually gradual result of accumulating mutations</p>
+                        <p style="margin:0;font-size:12.5px;">Regulatory factors usually prevent it from becoming cancerous</p>
+                    </div>
+                    <p style="margin:0 0 10px;font-size:12.5px;">Cancer cells lack differentation (not specialized, don't contribute to tissue function), immortal (can enter cell cycle indefinite # of times), look abnormal/have abnormal nuclei (nuclei may be unlarged w abnormal chromosome # or extra/deleted gene copies), dont undergo apoptosis unless immune system triggers external signal</p>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card">
+                            <p class="note-card-title">Tumor types</p>
+                            <p style="margin:0;font-size:12.5px;"><strong>Tumor</strong>: abnormal overgrowth of cells piled on top of each other since cancer cells have no CONTACT INHIBITION controlling mitosis (benign: not cancerous, encapsulated, don't spread/invade neighboring tissue. malignant: cancerous, not encapsulated, invade neighboring tissue, detach/lodge in distant places through metastasis, results from gene mutations)</p>
+                        </div>
+                        <div class="note-card-muted">
+                            <p class="note-card-title">Metastasis &amp; angiogenesis</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;">Cancer cells undergo metasis - additional mutations making benign-&gt;malignant, malignant tumor have potential for metastasis and can spread through body/blood and form new tumors</p>
+                            <p style="margin:0;font-size:12.5px;">Cancer cells undergo angigensis: mutations allowing for formation of new blood vessels into tumor receiving nutrients&amp;oxygen for growth but healthy cells become deprived of nutrients</p>
+                        </div>
+                    </div>
+                    <div class="callout">
+                        <p style="margin:0 0 8px;font-size:12.5px;">Origin: caused by mutations usually affecting proto-onco genes (ex: cyclins, cdks, growth factors) which are proteins promoting cell cycle/preventing apoptosis which can be mutated to become oncogene promoting uncontrollable cell divison since thye never turn off. or affecting tumor-suppresor genes (ex: Rb, p53,p21) which are proteins inhibiting cellcycle promoting apoptosis but mutation causes no more inhibition</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Causes: growth factor binds to receptor protein initiating rxn triggering stimulatory pathway whcich begins at plasma membrane turning on protooncogene which promote cell cycle. inhibtory pathway begins w tumor-suppressor genes where products inhibit cell cyle unless mutated</p>
+                        <p style="margin:0;font-size:12.5px;">Other causes: telomerase (enzyme regulating telomere - end of chromomsome preserving DNA loss - length) mutation causing unregulated activity allowing uncontrolled cell division in cancer cells w/o preservation</p>
+                    </div>
                     `
             }
         }
