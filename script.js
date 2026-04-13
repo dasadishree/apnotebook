@@ -1240,7 +1240,7 @@ const NOTES = {
                             </ul>
                             <p>Includes mitosis/nuclear division (prophase, prometaphase, metaphase, anaphase, telophase)</p>
                             <ul>
-                                <li>Mitosis - continous process arbitrarily divided into 5 phases</li>
+                                <li>Mitosis - continous process arbitrarily divided into 5 phases, aids in growth/development to increase # of cells present (2n zygote -> 8 cell stage-> blastula-> gastrula->embryo->fetus), repair of lost cells</li>
                                 <li>Prophase - Chromatin has condensed into distinguishable chromosomes that is already duplicated composed of 2 sister chromatids held by centromere (count centromeres to get # of chromoesomes). Nucleoli disappear, nuclear envelope begins to disintegrate, spindle fibers consisting of microtubules begin to assembles as centrosomes move away from each other</li>
                                 <li>Prometaphase (aka late prophase) - nuclear envelope continues to fragment allowing microtubule spindle fibers to attach to chromosomes, centromeres develope kinetochromes which are specialized protein complex representing spindle fibers attach location, chromsomes attach to spindle fibers but not yet aligned at center of cell</li>
                                 <li>Metaphase - centromeres now aligned on single plate (metaphase equatorial plate) in middle of cell</li>
@@ -1258,13 +1258,96 @@ const NOTES = {
                         <div>
                             <p><strong>Checkpoints / Control of Cell Cycle</strong></p>
                             <p>Cell cycle must be regulated for normal cell growth through internal/external signlas influencing cell activity</p>
-                            <p>G1 phase checkpoint</p>
-                            <p>G2 phase checkpoint</p>
-                            <p>M phase checkpoint</p>
+                            <p>G1 phase (restriction) checkpoint - main important checkpoint, cell remains in G0 until it passes this, ensuring DNA isn't damaged before replication and environemnt is appropriate w enough energy/nutries and growth signals/resources available. Proceed to S phase if passes (Located between G1 and S phase)</p>
+                            <p>G2 phase (mitosis) checkpoint - ensures DNA has finished replicating properly and all proteins are made aiding in cell division, DNA not physically damaged, enough energy to divide. If pass it proceeds to mitosis, otherwise it stops until fixed. (located in G2 phase right before end)</p>
+                            <p>M phase (spindle assembly) checkpoint - ensyres chromosomes properly attached to spindle fibers so proper # of chromosomes can be distributed to daughter cells, if not mitosis will not continue (located in between meta and anaphase of mitosis)</p>
                         </div>
                     </div>
 
-                   `
+                    <h3>External Signals / Factors</h3>
+                    <div>
+                        <div>
+                            <p><strong>Anchorage Dependence</strong></p>
+                            <p>Most cells must contact solid surface to divide, must be anchored</p>
+                            <p>Anchored cell can divide, not anchored cell can't grow/divide</p>
+                        </div>
+                        <div>
+                            <p><strong>Density-Dependent Inhibition</strong></p>
+                            <p>Crowded cells will stop dividing, uncrowded cells may divide</p>
+                            <p>Higher density=no growth/division, low density=cells can divide</p>
+                        </div>
+                        <div>
+                            <p><strong>Growth Factors</strong></p>
+                            <p>Proteins released by cells stimulating division of other cells</p>
+                            <p>At least 50 diff growth factors in body</p>
+                            <p>Cell that receives growth factor signal goes on to divide, if not cell won't divide</p>
+                        </div>
+                    </div>
+
+                    <h3>Internal Signals/Factors</h3>
+                    <p>For cell to move past checkpoints, all positive regulators should be on and negative regulators off</p>
+                    <div>
+                        <p><strong>POSITIVE REGULATORS PROMOTING CELL CYCLE</strong></p>
+                        <div>
+                            <p><strong>Cyclin Dependent Kinases (Cdk's)</strong></p>
+                            <p>Enzymes always present in cell in relatively stable amt but only active when bound to cyclin proteins and phosphorylated by other kinases</p>
+                            <p>Kinases - class of enzyme proteins that add P to substrate, changing shape and activating them, providing energy through phosphorylation for processes</p>
+                        </div>
+                        <div>
+                            <p><strong>Cyclins</strong></p>
+                            <p>Proteins made at specific times in cell cycle that activate specific CDKs, encoded by group of proto-oncogenes</p>
+                            <p>If bound to cyclinks, CDKs will give signals at cell cycle checkpoints</p>
+                            <p>If no cyclins present or bound to CDKs, cell cycle will stop at checkpoint and not proceed</p>
+                            <p>Cyclin concentrations fluctuate and determine when cdk/cyclin complexes form and bind at specific pts</p>
+                            <p>Active cyclins from previous stage degraded as cell moves to next stage, cyclin concentration increases triggered by external/internal signals</p>
+                        </div>
+                    </div>
+                    <div>
+                        <p><strong>NEGATIVE REGUOLATORS INHIBITING CELL CYCLE</p>
+                        <div>
+                            <p><strong>Retinoblastoma Protein (Rb)</strong></p>
+                            <p>Tumor-suppresor protein monitoring cell-size halting progression to S phase until cell appropriate size</p>
+                            <p>Active/dephosphorylated state - Rb binds to E2F transcription factor which blocks production of proteins needed for G1/S transition and Rb slowly phosphorylated by Cdks until inactivated as cell increases in size</p>
+                            <p>Inactive/phosphorylated state - Rb releases E2F which can turn on gene producing proteins necessary for S phase progression</p>
+                        </div>
+                        <div>
+                            <p><strong>p53 and p21</strong></p>
+                            <p>Tumor suppressor proteins impacting cell division</p>
+                            <p>If damaged DNA in cells during G1 detected, p53 halts cell cycle and recruits enzymes to repair DNA</p>
+                            <p>If DNA can't be repaired, p53 triggers apoptosis/programmed cell death to prevent duplicating damaged chromosomes</p>
+                            <p>Rising p53 levels produces p21 which enforces halt in cycle dictated by p53 by binding/inhibiting Cdk/cyclin complex activity</p>
+                        </div>
+                    </div>
+                    
+                    <h3>Apoptosis</h3>
+                    <p>Programmed cell death where cell events bring about death induced by caspase enzymes</p>
+                    <p>First cell rounds up/dissociates from other cells, nucleus fragments, plasma membrane blisters forming blebs, cell fragments contain DNA fragments which get engulfed by WBCs</p>
+                    <p>Cell division & apoptosis are opposing forces that increase/decrease cell # maintaining homeostasis at appropriate cell #</p>
+                    <p>Functions: necessary for development (ex: webbed fingers/toes disappear), prevent abnormal cells from becoming canerous, kill virus-infected cells, prevent tuumor from developing<p>
+
+                    <h3>Adult Stem Cells</h3>
+                    <p><strong>Stem Cell</strong>: immature, undifferentiated cell capable of producing many diff types of mature differentiated/specialized cells</p>
+                    <p><strong>Cell Potency</strong>: cell's ability to differentiate into other cell types (totipotent/omnipotent most able to differentiate (ex: zygotes), pluripotent early embryonic stem cells, multipotent umbilical cord stem cells, unipotent least able to differentiate (ex: specialized adult cells))</p>
+                    <p><strong>Differentiation</strong>: process where cells begin to specialize, plays role in morphogenesis causing organism to develop its shape</p>
+                    <p>Types of stem cells: early embryonic stem cells, umbilical cord stem cells, adult stem cells, induced multi-potent stem cells w lots of potential</p>
+                    <p>Most adult cells remain in G0 phase and don't need to divide but are still able to divide if needed to replensish</p>
+
+                    <h3>Prokaryotic Cell Division</h3>
+                    <p><strong>Binary Fission</strong></p>
+                    <p>Duplicate circular DNA before division, rokaryotes elongate until double original size, then pinches/seperates to 2 identical daughter cells (very quick process overall)</p>
+                    <p>2 new individuals formed so for prokaryotes, cell division is like asexual reproduction where offspring are genetically identical to parent</p>
+
+                    <h3>Cancer</h3>
+                    <p>Cellular growth disorder resulting from uncontrolled cell division, usually gradual result of accumulating mutations</p>
+                    <p>Regulatory factors usually prevent it from becoming cancerous</p>
+                    <p>Cancer cells lack differentation (not specialized, don't contribute to tissue function), immortal (can enter cell cycle indefinite # of times), look abnormal/have abnormal nuclei (nuclei may be unlarged w abnormal chromosome # or extra/deleted gene copies), dont undergo apoptosis unless immune system triggers external signal</p>
+                    <p><strong>Tumor</strong>: abnormal overgrowth of cells piled on top of each other since cancer cells have no CONTACT INHIBITION controlling mitosis (benign: not cancerous, encapsulated, don't spread/invade neighboring tissue. malignant: cancerous, not encapsulated, invade neighboring tissue, detach/lodge in distant places through metastasis, results from gene mutations)
+                    <p>Cancer cells undergo metasis - additional mutations making benign->malignant, malignant tumor have potential for metastasis and can spread through body/blood and form new tumors</p>
+                    <p>Cancer cells undergo angigensis: mutations allowing for formation of new blood vessels into tumor receiving nutrients&oxygen for growth but healthy cells become deprived of nutrients</p>
+                    <p>Origin: caused by mutations usually affecting proto-onco genes (ex: cyclins, cdks, growth factors) which are proteins promoting cell cycle/preventing apoptosis which can be mutated to become oncogene promoting uncontrollable cell divison since thye never turn off. or affecting tumor-suppresor genes (ex: Rb, p53,p21) which are proteins inhibiting cellcycle promoting apoptosis but mutation causes no more inhibition</p>
+                    <p>Causes: growth factor binds to receptor protein initiating rxn triggering stimulatory pathway whcich begins at plasma membrane turning on protooncogene which promote cell cycle. inhibtory pathway begins w tumor-suppressor genes where products inhibit cell cyle unless mutated</p>
+                    <p>Other causes: telomerase (enzyme regulating telomere - end of chromomsome preserving DNA loss - length) mutation causing unregulated activity allowing uncontrolled cell division in cancer cells w/o preservation</p>
+                    `
             }
         }
     }
