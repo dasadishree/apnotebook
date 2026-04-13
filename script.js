@@ -1091,8 +1091,180 @@ const NOTES = {
                     
                     <h3>Metabolic Pool</h3>
                     <div class="callout">Primary pathway making ATP is by breaking down glucose/carbs, but if unavailable bodies may break down fats/triglycerides or proteins to get required energy and can alternatively lead to formation of molecules along pathway leading to ATP production</div>
-                    `
-                    
+                    `   
+            },
+            "Unit 4: Cell Communication & Cell Cycle": {
+                tags: ["cell communication", "signal transduction", "ligands", "feedback", "cell cycle", "mitosis", "cell division"],
+                content: `
+                    <h2>Chapter 5B: Membrane Structure & Function - Signal Transduction Pathways</h2>
+                    <p>Communication / cell signalling needed to make adjustments if needed to maintain homeostasis, can diffuse locally or travel distances</p>
+                    <p>Evolved millions of years ago in a common ancestor so similar pathways in most organism</p>
+                    <h3>Types of Signals</h3>
+                    <div>
+                        <div>
+                            <p><strong>Autocrine Signaling</strong></p>
+                            <p>Cell targets and sends signal to itself</p>
+                        </div>
+                        <div>
+                            <p><strong>Juxtacrine Signaling</strong></p>
+                            <p>Cell sends message to another cell through direct cell-to-cell contact</p>
+                        </div>
+                        <div>
+                            <p><strong>Paracrine Signaling</strong></p>
+                            <p>Cell targets and sends nearby cell</p>
+                        </div>
+                        <div>
+                            <p><strong>Endocrine Signaling</strong></p>
+                            <p>Cell sends signal/hormone through bloodstream to distant but specific cell</p>
+                    </div>
+                    <h3>Signal Transduction Pathways</h3>
+                    <p>Cells interpret signals once received, basic pathway include signaling, reception, transduction, response.</p>
+                    <div>
+                        <div>
+                            <p><strong>1. Signaling</strong></p>
+                            <p>Signaling molecules / ligands serve as chemical messengers allowing specific target cells to communicate and respond appropriately. Ex: Steroid/protein hormones, neurotransmitters, growth facts, etc</p>
+                        </div>
+                        <div>
+                            <p><strong>2. Reception</strong></p>
+                            <p>Receptor of target cells has both shape & charge compatibility w the ligand, ligands bind to protein receptors</p>
+                            <p>Cell-Surface Receptors - protein receptors embedded in cell membrane if too large to get through membrane (ex: protein hormone like insulin)</p>
+                            <p>Intracellular Receptors - protein receptors located inside cell if small/hydrophobic (ex: steroid hormone, testosterone)</p>
+                        </div>
+                        <div>
+                            <p><strong>3. Transduction</strong></p>
+                            <p>Where original intercellular signal gets converted into a series of intracellular signals triggering some cellular response</p>
+                            <p>Cascade of events / conformational changes and secondary messengers activating proteins like the secondary messenger and relaying orignal signal and amplifying it to cause response</p>
+                            <p>Amplification provides multiple opportunities for coordination/regulation in the cell</p>
+                            <p>Common secondary messenger: cAMP (cyclic AMP) which targets and activates protein kinases which are enzymes phosphorylating and activating other enzymes in cascade</p>
+                        </div>
+                        <div>
+                            <p><strong>4. Response</strong></p>
+                            <p>Cellular responses including changes in gene expression, protein activity, metabolism, passage of substances in/out, division, death/apoptosis</p>
+                        </div>
+                    </div>
+
+                    <h3>Cell Communication / Signal Transduction Examples</h3>
+                    <div>
+                        <div>
+                            <p><strong>Peptide Hormone Endocrine Signaling</strong></p>
+                            <p>Includes most hormones, peptides, proteins, glycoproteins, modified amino acids, all peptide derivative ligands</p>
+                            <p>Peptides hormones are lipid insoluble so can't pass through cell membrane</p>
+                            <p>Biinds specifically & reversibly to plasma membrane receptors which activates signal transduction pathway causing cell response</p>
+                            <p>Ex: epinephrine (emergency fight or flight hormone) causing response of higher blood glucose levels</p>
+                        </div>
+                        <div>
+                            <p><strong>Steroid Hormone Endocrine Signaling</strong></p>
+                            <p>Lipids derived from cholesterol, secreted by adrenal cortex above kidneys, ovaries, testes</p>
+                            <p>Lipid soluble so can pass cell membrane and enter cell via membrane and bind to internal receptor in nucleus/cytoplasm instead of surface receptor</p>
+                            <p>Hormone-receptor complex binds to DNA and activates certain genes, mRNA produced which moves to the ribosome and synthesizes appropriate protein</p>
+                            <p>Steroid hormones usually slower than peptide hormones bc takes longer to create protein from scratch instead of activating ones alr in the cell. Not as much internal messaging/transduction.</p>
+                        </div>
+                        <div>
+                            <p><strong>Cell Communication in the Nervous System</strong></p>
+                            <p>Adjacent nerve cells/neurons communicate w each other through paracrine signaling by releasing neurotransmitters</p>
+                            <p>Neurotransmitters - chemical messages stored in vesicles in axon terminal</p>
+                            <p>Membrane proteins (ex: voltage/ligand gated ion channels) along neuron cell membranes enable electrical messages (impulses) to travel along neurons causing release of neurotransmitters between neurons</p>
+                            <p>These signals cause next neuron to become excited resulting in response</p>
+                            <p>Synapse: the region between neurons (nerve impulses cannot occur here and need to travel across gap as neurotransmitters</p>
+                            <p>Voltage Gated Ion Channels In Neurons - enable/prevent passage of certain ions depending on voltage along neuron membrane, allowing impulses to travel across neuron (ex: Na+, K+, Ca2+ channels)
+                        </div>
+                        <div>
+                            <p><strong>Cell Communication in the Immune System</strong></p>
+                            <p>Immune response to infection is release of chemical immune system protein messengers called cytokines</p>
+                            <p>Cytokines - affect behaviors and signal immune system to do its job (ex: mast cells important for wound healing/defense releasing cytokines to create inflammatory cascade increasing bloodflow - endocrine, macrophages WBC that destroy pathogens w enzymes releasing cytokines releasing more WBC's (endocrine) and then present antigen on membrane releasing more cytokines to stimulate helper T-cells to initaite defense (juxtacrine/paracrine) which stimulate cells producing antibodies and immune response releasing interferon proteins to alert neighboring cells - paracrine)</p>
+                            <p>Some viral illnesses like COVID cause immune system overreaction</p>    
+                        </div>
+                    </div>
+
+                    <h3>Communication in 3 Body Systems</h3>
+                    <div>
+                        <div>
+                            <p><strong>Endocrine System</strong></p>
+                            <p>Ligands/intercellular primary signaling molecule messengers: HORMONES</p>
+                            <p>Peptide/protein hormones are large, hydrophillic, w receptor in cell membrane (ex: epinephrine, insulin)</p>
+                            <p>Steroid/lipid hormones are small, hydrophobic, w receptors in the cell (ex: estrogen, testosterone)</p>
+                            <p>Have receptorsa on various target body cells depending on type of hormone</p>
+                        </div>
+                        <div>
+                            <p><strong>Nervous System</strong></p>
+                            <p>Ligands/intercellular primary signaling molecule messengers: NEUROTRANSMITTERS</p>
+                            <p>Proteins/peptides have receptors in cell membrane of nerve cells</p>
+                        </div>
+                        <div>
+                            <p><strong>Immune System</strong></p>
+                            <p>Ligands/intercellular primary signaling molecule messengers: CYTOKINES</p>
+                            <p>Proteins have receptors embedded in cell membrane of immune cells</p>
+                        </div>
+                    </div>
+                    <p>Intracellular secondary messengers: cAMP (cyclic AMP) which initiate enzyme cascades in cell causing cellular response</p>
+                    <p><strong>PROTEIN KINASES</strong>: enzyes that are a big part of enzyme cascades since they phosphorylate and activate/deactivate other enzymes/proteins in the cascade</p>
+                    <p>PHOSPHORYLATE = add phoswphate, PHOSPHORYLATION changes the shaqpe of the protein along cascade to activate/deactive it</p>
+                    <p>Amplification - big response from tiny signal activating hundreds of molecules and speeds up response quickly/efficiently</p>
+
+                    <h2>Chapter 9: The Cell Cycle and Cellular Reproduction (Cell Division)</h2>
+                    <h3>The Cell Cycle</h3>
+                    <p>The life of a cell from formation to division, in between division the cell grows larger (to a limit), organelle # increases, DNA is replicated, cell functions continue</p>
+                    <p>Cell cycle/life spans vary by type and divides at diff rates (ex: embryonic cells divide very fast, bone cells divide slow, nerve/muscle cells don't replicate at all once mature)</p>
+
+                    <h3>Cell Cycle Stages</h3>
+                    <div>
+                        <div>
+                            <p><strong>Interphase</strong></p>
+                            <p>Phase between active cell divisons, includes the G1, G0, S, and G2 phases</p>
+                            <p>G1 Phase (gap or growth phase 1)</p>
+                            <ul>
+                                <li>Cell recovers from past division, replicates organelles, grows a little in size, accumulates raw materials for DNA replication, carries out function</li>
+                            </ul>
+                            <p>S Phase (DNA synthesis/replication phase)</p>
+                            <ul>
+                                <li>DNA copied so daughter cells have complete set of chromoesome after cell divides, proteins associated w DNA replication synthesizes, cell carries out functions</li>
+                                <li>DNA is unraveled in form of chromatin (tangled mass of threads) though but it still replicates</li>
+                                <li>Sister chromatids remain attached at centromere until they seperate during mitosis. Histone proteins coil/condense replicated DNA into chromosomes. Diploid # is species characteristic number of chromeomses found in all cells as homologous chromomosomes (2n), haploid # is cells containing one chromosome of each kind - gametes like sperm and egg cells </li>
+                                <li>Centrosome (microtubule organizes center of cell, each containing two centrioles in animal cells only) replication begins during S phase but ends in G2</li>
+                            </ul>
+                            <p>G2 Phase (gap or growth phase 2)</p>
+                            <ul>
+                                <li>Phase between replication and division, cell functions continue, cell synthesizes proteins necessary for divison like proteins that assemble microtubules or form mitotic spindle fibers</li>
+                                <li>Centrosome replication finishes here</li>
+                            </ul>
+                            <p>G0 Phase</p>
+                            <ul>
+                                <li>Cell stage enters when it continues to perform normal everyday activities w/o preparing for cell division</li>
+                                <li>Most mature adult cells remain in G0 and never divide again but can enter G1 phase if necessary, but mature nerve/muscle cells never reenter cell cycle</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Mitotic (M) Phase</strong></p>
+                            <ul>
+                                <li>Phase where sister chromatids are separated and distributed to 2 daughter cells</li>
+                            </ul>
+                            <p>Includes mitosis/nuclear division (prophase, prometaphase, metaphase, anaphase, telophase)</p>
+                            <ul>
+                                <li>Mitosis - continous process arbitrarily divided into 5 phases</li>
+                                <li>Prophase - Chromatin has condensed into distinguishable chromosomes that is already duplicated composed of 2 sister chromatids held by centromere (count centromeres to get # of chromoesomes). Nucleoli disappear, nuclear envelope begins to disintegrate, spindle fibers consisting of microtubules begin to assembles as centrosomes move away from each other</li>
+                                <li>Prometaphase (aka late prophase) - nuclear envelope continues to fragment allowing microtubule spindle fibers to attach to chromosomes, centromeres develope kinetochromes which are specialized protein complex representing spindle fibers attach location, chromsomes attach to spindle fibers but not yet aligned at center of cell</li>
+                                <li>Metaphase - centromeres now aligned on single plate (metaphase equatorial plate) in middle of cell</li>
+                                <li>Anaphase - sister chromatids seperate away from each other giving rise to daughter chromosomes each w a centromere that move via microtubule track to opposite poles pulled by spindle fibers causing cell elongation so each pole has copmplete equal set of chromosomes</li>
+                                <li>Telophase - spindle fibers disappear/disassemble, new nuclear envelopes reform around each set of daughter chromosomes, chromosomes begin to unravel into chromatin again. Each daughter nucleus contains same # and kinds of chromosomes as original parent nucleus</li>    
+                            </ul>
+                            <p>Cytokinesis</p>
+                            <ul>
+                                <li>Division of cytoplasm splitting cell, resulting in 2 daughter cells w identical DNA to parent, allocates cytoplasm equally and encloses daughter w membrane</li>
+                                <li>Animal Cells: cleavage furrow (membrane indentation) appears between daughter nuclei formed by contractile ring of actin microfilaments forming circular constriction pinching daughter cell in 2</li>
+                                <li>Plant Cells: cell wall prevents furrowing, cell plate formed which involves golgi producing vesicles which eventually fuse into one thin vesicle extending across middle of mother cell, cell plate forms as more vesicles arrive and fuse which releases molecules forming new cell wall strengthened by shuttling of cellulose, space between daughter cells becomes filled w middle lamella cementing adjacent cells together</li>
+                            </ul>    
+                        </div>
+
+                        <div>
+                            <p><strong>Checkpoints / Control of Cell Cycle</strong></p>
+                            <p>Cell cycle must be regulated for normal cell growth through internal/external signlas influencing cell activity</p>
+                            <p>G1 phase checkpoint</p>
+                            <p>G2 phase checkpoint</p>
+                            <p>M phase checkpoint</p>
+                        </div>
+                    </div>
+
+                   `
             }
         }
     }
