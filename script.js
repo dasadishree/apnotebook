@@ -1401,7 +1401,7 @@ const NOTES = {
                         <li>Genetic material and basis of life on Earth, stablely storing info and able to efficiently replicate and undergo mutations for evolution</li>
                         <li>Backbone sugar/phosphates held together by phosphodiester covalent bonds</li>
                         <li>Hydrogen bonding holding nitrogen bases together (2 H bonds between A and T, 3 H bonds between G and C)</li>
-                        <li>Purines (double rings): Adenine and Guanine<, Pyramidines (single rings): Thymine and Cytosine/li>
+                        <li>Purines (double rings): Adenine and Guanine, Pyramidines (single rings): Thymine and Cytosine</li>
                     </ul>
 
                     <h3>DNA Experiments</h3>
@@ -1412,11 +1412,6 @@ const NOTES = {
                                 <li>Performed transformation experiments with bacteria causing pneumonia, with S (smooth) strain bacteria being virulent/causing pneumonia vs R (rough) strain bacteria being harmless</li>
                                 <li>Live S-strain bacteria w capsule are virulent killing mice, Live R-strain bacteria w/o capsule aren't virulent and don't kill mice, heat-killed S-strain bacteria don't kill mice, but suprisingly heat-killed S strain bacteria+live R-strain bacteria combined kills mice since it activates S strain again.</li>
                                 <li>Conclusion: R-strain bacteria transformed into virulent bacteria bc bacteria can transfer some factor between bacteria cells, so the virulent S-strain genes were transferred to R-strain bacteria which killed mice</li>
-                                <li>Horizontal Gene Recombination: causes variation in prokaryotes (transformation, transduction, conjugation)</li>
-                                <li>TRANSFORMATION: cell pick up free pieces of DNA from surrounding, either secreted by live prokaryotes or released by deadprokaryotes</li>    
-                                <li>TRANSDUCTION: bacteriophages carry portions of DNA from one cell to another</li>
-                                <li>CONJUGATION: two bacteria temporarily linked together often through conjugation/sex pili, and once linked the bacteria passes its DNA to the other</li>
-                                <li>GENETICALLY MODIFIED ORGANISMS (GMOs): Transformed bacteria/organisms result in valuable biotech products, like green fluorescent protein gene in jellyfish being transferred to other orgs to make it glow in dark since all orgs have same 4 bases and common ancestor</li>
                             </ul>
                         </div>
                         <div>
@@ -1462,9 +1457,16 @@ const NOTES = {
                             </ul>
                         </div>
                     </div>
+                    <p><strong>Horizontal Gene Recombination</strong>: causes variation in prokaryotes (transformation, transduction, conjugation)</p>
+                    <ul>
+                        <li><strong>TRANSFORMATION:</strong> cell pick up free pieces of DNA from surrounding, either secreted by live prokaryotes or released by deadprokaryotes</li>
+                        <li><strong>TRANSDUCTION:</strong> bacteriophages carry portions of DNA from one cell to another</li>
+                        <li><strong>CONJUGATION:</strong> two bacteria temporarily linked together often through conjugation/sex pili, and once linked the bacteria passes its DNA to the other</li>
+                        <li><strong>GENETICALLY MODIFIED ORGANISMS (GMOs):</strong> transformed bacteria/organisms result in valuable biotech products, like green fluorescent protein gene in jellyfish being transferred to other orgs to make it glow in dark since all orgs have same 4 bases and common ancestor</li>
+                    </ul>
 
                     <h3>DNA Replication</h3>
-                    <p>Process of copying an original/template DNA molecule to prep for cell division in S-phase</li>
+                    <p>Process of copying an original/template DNA molecule to prep for cell division in S-phase</p>
                     <p><strong>Semiconservative Replication</strong>: each parent DNA double helix strand is template for new daughter strand, supported by Meselson & Stahl experiment</p>
                     <p><strong>BASIC STEPS:</strong> Parent DNA double helix unwinds w help of enzyme helicase breaking hydrogen bonds between bases. Free nuecleotides from the nucleus get paired/connected w nucleotides on parent strands w help of DNA polymerase.</p>
                     <p><strong>RESULT:</strong> Each daughter DNA molecule contains one old and one new strand antiparallel (5->3, 3<-5) both identical to each other and parent</p>
@@ -1475,7 +1477,7 @@ const NOTES = {
                     <h3>Eukaryotic DNA Replication</h3>
                     <p>Located in nucleus, multiple replication bubbles to speed up process but still takes much longer hours</p>
                     <ol>
-                        <li>Replication begins at numerous origin points along linear chromosomes called origins of replication which is the middle of the replication bubble (in chromosomes in the nucleus)<li>
+                        <li>Replication begins at numerous origin points along linear chromosomes called origins of replication which is the middle of the replication bubble (in chromosomes in the nucleus)</li>
                         <li>Replication bubbles form at these origins which get larger and spread bi-directionally until they all fuse together and meet when replication is complete</li>
                         <li>Replication Fork: Y-shape apparent wherever DNA is being replicated at the end of each replciation bubble</li>
                         <li>Helicase enzyme: unwinds double helix at replicaton forks and separates parent strands, making each strand available as a template for daughter DNA</li>
@@ -1603,19 +1605,94 @@ const NOTES = {
                     <p>Environemnt/cell conditions or needs determine whether structursal genes will get expressed or not for the above operons</p>
 
                     <h3>Trp Operon</h3>
+                    <p>Tryptophan presence/absense influences repressor activity since its a COREPRESSOR causing repressor to become active/bind to operator</p>
                     <ul>
                         <li>Repressible operon involved in anabolic pathways with structural genes encoding enzymes making tryptophan</li>
                         <li>If tryptophan is absent, cell would need operon to be on/active since enzymes making tryp are needed.</li>
+                        <ul>
+                            <li>Regulator codes for inactive repressor which doesn't bind to operator so structural genes are transcribed</li>
+                        </ul>
                         <li>If enough tryptophan is prevent, operon would be off/inactive since enzymes making tryp are not needed</li>
+                        <ul>
+                            <li>Regulator codes for inactive repressor which binds to tryptophan which changes shape making it an active repressor, binds to operator so transcription does not begin since RNA polymerase can't bind to promoter</li>
+                        </ul>
+                        
                     </ul>
                     
                     <h3>Lac Operon</h3>
+                    <p>Lactose presence/absence influences repressor activity since its an INDUCER causing repressor to dissociate from operator so operon activity can be induced (if lactose absent, active repressor binds to operator preventing transcription, but if lactose prevent, active rrepressor binds to lactose making it an inactive repressor which can't bind to operator so transcription happens</p>
+                    <p>Glucose presence/absence influences cyclic AMP levels/activation since if glucose absent, cAMP is made binding to CAP to make it active and helping RNA polymerase bind fully to promoter w high active levels and transcription, and if glucose is present cAMP is not made w low/inactive levels so CAP can't bind to DNA w/o CAMP and RNA polymerase donesn't fully bind w promoter so low transcription levels</p>
+                    <p>High glucose = low cAMP</p>
                     <ul>
                         <li>Inducible operon involved in catabolic pathways w structural genes encoding ezymes breaking down lactose</li>
                         <li>If glucose is present but lactose is absent, operon would be off/inactive since enzymes breaking down lac aren't needed since lactose is absent so transcription not necessary</li>
                         <li>If glucose&lactose present, operon would be partially on/active since some lactose available to break down, but cell prefers to break down glucose for energy first so only low transcription of lac operon genes needed</li>
-                        <li>If glucose absemt lactose present, operon is fully on/active since lactose needs to be broken down and theres no glucose available 
+                        <li>If glucose absemt lactose present, operon is fully on/active since lactose needs to be broken down and theres no glucose available for energy so high transcription of lac operon genes needed</li>
                     </ul>
+                    <p>Transcriptional operon regulation is beneficial for bacteria since its more energetically favorable</p>
+
+                    <h2>CHapter 13B: Regulation of Gene Expression in Eukaryotes</h2>
+                    <p>Eukaryotic gene regulation more complex bc diff genes activated to produce diff proteins in diff cells based on environment<p>
+                    <p>Eukaryotic gene regulation/control possible at 5 nuclear & cytoplasmic levels of control:</p>
+                    <ol>
+                        <li>Modification of Chromatin Structure (nuclear) </li>
+                        <ul>
+                            <li>Regulating DNA/chromatin compaction is one way of regulating gene expression</li>
+                            <li>Euchromatin/active chromatin that is loosely coiled and accesible to be transcribed</li>
+                            <li>Heterochromatin/inactive chromatin that is tightly coiled and inacciesble, cannot be transcribed</li>
+                            <li>Chemical Tag Modification regulates whether its eu or heterochromatin: histone acetylation is when acetyl groups get added to histone tails making chromatin looser, dna methylation is when methyl groups get added to DNA making chromatin tighter</li>
+                        </ul>
+
+                        <li>Transcriptional Control (nuclear, most important)</li>
+                        <ul>
+                            <li>RNA polymerase binding at promoter region upstream to gene of interest</li>
+                            <li>Transcription factors activation/deactivation: general factors required for RNA polymerase to bind but this alone is low transcription, so specific activators (positive contorl mechanisms) r regulatory molecules further promoting transcription, while repressors (negative control mecahnisms) r regulatory molecules preventing transcription</li>
+                            <li>DNA control elements: regulatory DNA sequences far upstream from promoter/gene serving as binding sites for transcription factors like enhancers which are binding sites for activators<li>
+                            <li>Mediator Proteins: bridge activators to general transcription factora if high transcription rates for a certain gene are needed</li>
+                            <li>DNA bending proteins: loop/bend DNA bringing bound activator in contact w mediator proteins</li>
+                            <li>repressors bind to enhancers to block activator binding  or interfere w activators themselves or recruiting proteins removing actelyl groups from histones/silencing</li>
+                            <li>Transcription factor activation/deactivation caused by signal transduction and protein kinases phosphorylating secondary mesengers to activate or deactivate appropriate factors</li>
+                        </ul>
+                        <li>Post-transcriptional Control (nuclear)</li>
+                        <ul>
+                            <li>Alternative mRNA spliciing and controls how fast mRNA leaves nucleus</li>
+                            <li>Depending on need/type of cell mRNA can be processed differently and diff intrones can be rmeoved, resulting in diff proteins being made</li>
+                            <li>Allows for diff recombinations of genes creating more protein options than genes</li>
+                            <li>Also modifies speed at which mRNA leaves nucleus</li>
+                            <li>sRNA (small RNA) molecules regulate gene expression since RNA not translarted is used to form sRNA from the introns removed which form doublestranded RNA (dsRNA) which is cleaved to form sRNA</li>
+                            <li>sRNA regulates gene expression by altering DNA compaction making some genes inaccessible, by serving as a precursor to microRNA (miRNA) which binds complementary mRNA strands inhibiting translation or by servivng as a percursor to small interfering RNA (siRNA) binding tto enzyme forming RISC which activated complex targets/bonds to specifc mRNAs causing tthme to degrade and not be expressed through RNA interfernece</li>
+                            <li>in future sRNA can be used a therapeutic agents potentially suppressing expression of disease causing genes</li>
+                        </ul>
+                        <li>Translation control (cytoplasmic)</li>
+                        <ul>
+                            <li>Occurs in cytoplasm affecting when translation begins and how long it continues</li>
+                            <li>Presence of 5' GTP cap on mature mRNA allows translation to begin, longer polyA tails on 3' end corresponds to longer translation</li>
+                            <li>Life of mRNA critical in gene regulation since it controls levels/functions of many regulatory and chaperone proteins so condition affecting tail/cap can trigger mRNA destrictuion</li>
+                        </ul>
+                        <li>Post-translational control (cytoplasmic)</li>
+                        <ul>
+                            <li>Takes place in cytoplasm after protein synthesis as last chance influencing gene expression affecting whether protein is functional/active or not</li>
+                            <li>Proteases are digestive enzymes breaking down proteins determining length of time protein is active, and protrases are confined to lysosomses/proteasomes to protecft cell from unw2anted breakdown</li>
+                            <li>Protein gets tagged w signalling portein so it can enter lysosome/proteasome and be digested into peptide fragments if needs to be broken down</li>
+                            <li>Proteases/proteasomes regulate gene expression by controlling amt of protein product  / time it emains functioning</li>
+                        </ul>
+                    </ol>
+
+                    <h3>Epigenetics</h3>
+                    <p>Changes in gene expression due to chemical tag modification as a result t exposure to enviuronmental factors</p>
+                    <p>Ex: female X chromossome can be inactive barr body if tigthyl packed</p>
+                    <p>Epigenetic inheritance: transmission of tags to offspring since these environemtnal influences can be passed down</p>
+
+                    <h3>Types of RNA</h3>
+                    <p>mRNA (messenger RNA) - brings message encoded by DNA in nucleus to ribioosomes to make polypeptides/proteins</p>
+                    <p>tRNA (transfer RNA) - transfers appropriate amino acid to ribosome for protein synthesis</p>
+                    <p>rRNA (ribosomal RNA) - component of ribosome that helps it read the mRNA to form/build polypeptides</p>
+                    <p>snRNA (small nuclear RNA) - makes up spliceosome and helps it remove introns/splice together exons to form mature mRNA</p>
+                    <p>dsRNA (double stranded RNA) - precursor to sRNA's</p>
+                    <p>sRNA (small RNA) - can alter DNA compaction in the nucleus, a precursor to miRNA and siRNA</p>
+                    <p>miRNA (microRNA) - binds to complemetary mRNA, blocking the sequence preventing translation</p>
+                    <p>siRNA - binds w enzym,e to form RISC which cuts up mRNA prventing translation</p>
+
                     `
             },
 
