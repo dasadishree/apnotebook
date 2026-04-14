@@ -1,6 +1,5 @@
 const NOTES = {
     "AP Biology": {
-        color: "#7c74d8",
         units: {
             "Unit 1: Chemistry of Life": {
                 tags: ["characteristics of life", "feedback", "scientific method", "chemistry", "macromolecules"],
@@ -1376,7 +1375,126 @@ const NOTES = {
                         <p style="margin:0 0 8px;font-size:12.5px;">Causes: growth factor binds to receptor protein initiating rxn triggering stimulatory pathway whcich begins at plasma membrane turning on protooncogene which promote cell cycle. inhibtory pathway begins w tumor-suppressor genes where products inhibit cell cyle unless mutated</p>
                         <p style="margin:0;font-size:12.5px;">Other causes: telomerase (enzyme regulating telomere - end of chromomsome preserving DNA loss - length) mutation causing unregulated activity allowing uncontrolled cell division in cancer cells w/o preservation</p>
                     </div>
+
+                    <h3>C-words</h3>
+                    <div class="note-grid-2" style="align-items:start;">
+                        <div class="note-card-muted">
+                            <p style="margin:0 0 8px;font-size:12.5px;"><strong>Chromosome</strong>: coiled DNA visible at mitosis start, looks like X if double or can be half of an X if single</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;"><strong>Chromatin</strong>: uncoiled material making up chromosomes DNA, looks like messy threads</p>
+                            <p style="margin:0;font-size:12.5px;"><strong>Chromatid</strong>: one of the 2 identical hales of a replicated chromosome (each half on either side of the centromere are sister chromatids)</p>
+                        </div>
+                        <div class="note-card">
+                            <p style="margin:0 0 8px;font-size:12.5px;"><strong>Centriole</strong>: Organelle in animal cell determining plane of division found inside centrosome</p>
+                            <p style="margin:0 0 8px;font-size:12.5px;"><strong>Centromere</strong>: Middle of chromosome joining sister chromatids and attachment point for spindle fibers during division</p>
+                            <p style="margin:0;font-size:12.5px;"><strong>Centrosome</strong>: Organelle made of microtubules containg centrioles from which spindle fibers develop in cytoplasm</p>
+                        </div>
+                    </div>
                     `
+            }
+        }
+    },
+    "AP United States History": {
+        units: {
+            "Unit 1: 1491-1607": {
+                tags: ["Native Americans", "European Exploration", "New World", "Columbin Exchange", "Spanish Exploration/Colonial System"],
+                content: `
+                    <h2 id="h-apush-u1-11">1.1: Contextualizing Period 1</h2>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Intersection of various indigenous populations in Americas</li>
+                            <li>Contact w Euorpeans, enslaved Africans forced to New World brought to Americas</li>
+                        </ul>
+                    </div>
+                    <h3>Contextualization</h3>
+                    <div class="note-card">
+                        <p style="margin:0 0 8px;font-size:12.5px;">Intersectionality of themes in history, identify/describe broader historical context situated for specific historical development/process</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">DBQs, LEQs, sometimes SAQs through 2-3 sentences abt diff event</p>
+                        <p style="margin:0 0 8px;font-size:12.5px;">Historical events understood in short and longterm context of similar events (historical circumstances of event)</p>
+                        <p style="margin:0;font-size:12.5px;">Link argument to broader events/processes</p>
+                    </div>
+
+                    <h2 id="h-apush-u1-12">1.2: Native American Societies Before European Contact</h2>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Geographic/environmental factors like competition /debates about natural resources fostering America development and regional diversity</li>
+                            <li>Diverse complex Indian societies in Americas w/ social structure (some even w ladies in charge) and agricultural innovation (1491-1607)</li>
+                            <li>Collisions of cultures between North, South, West, and Plains regions in US/Mexico (ex: Great Basin, Northeast, etc)</li>
+                            <li>First migrations into America across Bering Strait in Alaska around 11k years ago, Asian land based migrants from near Siberia (fom Asia to around Chile and Peru)</li>
+                            <li>American Indian culture strongly influenced by corn cultivation before 1492 spreading from Mexico to America supporting settlement, irrigation, social diversification, economic development molding Pueblo culture</li>
+                        </ul>
+                    </div>
+                    <h3>Archaic Period</h3>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Period 5000BCE beginning in 8000BCE, hunting/gathering in this region of Great Plains</li>
+                            <li>Agriculture based on corn/maize in Americas, squash&beans also importnatn</li>
+                        </ul>
+                    </div>
+                    <h3>Archaic Period: Civilization in South (South/Central Amercica & Mexico)</h3>
+                    <div class="note-card" style="margin-bottom:12px;">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Most elaborate early civilizations were here</li>
+                            <li><strong>Incas:</strong> largest empire in Americas in Peru</li>
+                            <li><strong>Meso-Americans:</strong> people in today's Mexico/Central America</li>
+                            <li><strong>Mayans:</strong> strong South Mexico civilization, created a written language, numerical system compared to Arabic numerals, accurate calendar, important trade routes, advanced agriculture</li>
+                        </ul>
+                    </div>
+                    <h3>Archaic Period: Civilization in North America (United States)</h3>
+                    <div class="note-card-muted">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Complex civilizations in North had hunting, gathering, fishing</li>
+                            <li><strong>Southwest: </strong>complex irrigation systems for farming on dry land, corn cultivation spread to America from Mexico transforming nomads to settled agricultural villages</li>
+                            <li>Civilizations/towns had centers of trade, crafts, religious, civic rituals</li>
+                            <li><strong>Great Plains</strong>: sedentary farming for corn/maize and other grains</li>
+                            <li>Small nomadic tribes still had buffalo hunting</li>
+                            <li><strong>Woodland Indians</strong>: tribes from Eastern US with good farming, hunting, gathering, fishing, large corn/grain-based trading networks in Mississippi River Valley. Illinois peak in 1200AD w/ population of 10k and complex of large earthen mounds</li>
+                            <li><strong>East of Mississippi</strong>: common linguistic roots (largest language group was Algonquian),  dominated Canada to Virginia</li>
+                            <li><strong>Iroquois</strong>: upstate NY tribe w 5 distinct northern "nations": Seneca, Cayuga, Onondage, Oneida, Mohawk (links to Cherokees).</li>
+                            <li><strong>Tuscaroras:</strong> further south in Carolinas and Georgia</li>
+                            <li><strong>Muskogean</strong>: southernmost east US tribes like Chickasaws, Choctaws, Creeks, Seminoles (matrilineal society escaped from Creeks to avoid native movement to Oklahmoma). Rarely united in opposition to European invaders.</li>
+                            <li><strong>Pueblo people</strong>: people in Rio Grande valley in Texas building complex irrigation systems to water cornfield, civilization/culture shaped by corn cultivation spread</li>
+                        </ul>
+                    </div>
+
+                    <h2 id="h-apush-u1-13">1.3: European Exploration in the Americas</h2>
+                    <h3>European Exploration Context</h3>
+                    <div class="note-card-muted" style="margin-bottom:12px;">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Europeans unaware of Americas existence before 15th century, but conditions in Europe changed in and interest in oversease exploration</li>
+                            <li><strong>Changing Conditions / Reawakening of Commerce</strong>: Bubonic plague decimated/killed Europe, navigation advancements, shipbuilding making long distance travel more feasible, explorers looking for new markets, new trade routes increased w new tech increasing European efforts to explore/conquer New World</li>
+                            <li><strong>New Technology Advances</strong>: sextant navigation latitude/longitude instrument helping explorers w sea travel, caravels sail w wind across Atlantic from Europe to Americas by 1450</li>
+                            <li><strong>Historical developments</strong>: Europeans were looking for wealth, economic & military competition, desire to spread Christianity</li>
+                        </ul>
+                    </div>
+
+                    <h3>Exploration/Conquest</h3>
+                    <div class="note-card" style="margin-bottom:12px;">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Portuguese expanded overseas starting ~1400 and took leading role in African slave trade</li>
+                            <li>Spain undertook Europe's first conquests in Americas</li>
+                            <li>Portuguese traders traveled S and E</li>
+                        </ul>
+                    </div>
+
+                    <h3>Christopher Columbus</h3>
+                    <div class="note-card-muted">
+                        <ul style="margin:0;padding-left:18px;">
+                            <li>Spanish monarchs Ferdinand II and Isabella I finance Christopher Columbus & built their empire/trade by subsidizing his voyages</li>
+                            <li>Explorer from Italy who set sail in August 1492 and reached Bahamas on Nina, Pinta, and Santa Maria after 6 weeks but thought he reached new route to Asia/The Indies and claimed/explored the islands for Spain & called natives Indians/West Indies</li>
+                            <li>Demanded tribute from local Taino, Arawak, and Carib people, left 40 men on Hispaniola island (now DR/Haiti) and returned to Spain</li>
+                            <li>Life ended in obscurity but his accomplishments made him a hero</li>
+                            <li>Name for America came from <strong>Amerigo Vespucci</strong> who was explorer in a later Portuguese expedition to the New World</li>
+                            <li><strong>Columbus Day</strong> federal holiday declared in 1934</li>
+                        </ul>
+                    </div>
+                    `
+            }
+        }
+    },
+    "AP Psychology": {
+        units: {
+            "1.1: Intro & History": {
+                tags: ["psychoanalysis", "behaviorism", "Sigmund Freud", "Biological", "Modern Perspectives", "Biopsychosocial", "Cognitive", "Humanism"]
             }
         }
     }
