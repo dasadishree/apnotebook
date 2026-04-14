@@ -1390,7 +1390,235 @@ const NOTES = {
                         </div>
                     </div>
                     `
-            }
+            },
+            "Unit 6: Gene Expression and Regulation": {
+                tags: ["DNA", "gene expression regulation", "transcription", "translation"],
+                content: `
+                    <p><strong>DNA (deoxyribonucleic acid)</strong></p>
+                    <ul>
+                        <li>A nucleic acid (organic compound) made of nucelotide monomers (phosphate group, pentose sugar, nitrogen base)</li>
+                        <li>?Double stranded helix w/ antiparallel strand (3' to 5', 5' to 3')</li>
+                        <li>Genetic material and basis of life on Earth, stablely storing info and able to efficiently replicate and undergo mutations for evolution</li>
+                        <li>Backbone sugar/phosphates held together by phosphodiester covalent bonds</li>
+                        <li>Hydrogen bonding holding nitrogen bases together (2 H bonds between A and T, 3 H bonds between G and C)</li>
+                        <li>Purines (double rings): Adenine and Guanine<, Pyramidines (single rings): Thymine and Cytosine/li>
+                    </ul>
+
+                    <h3>DNA Experiments</h3>
+                    <div>
+                        <div>
+                            <p><strong>Frederick Griffith</strong></p>
+                            <ul>
+                                <li>Performed transformation experiments with bacteria causing pneumonia, with S (smooth) strain bacteria being virulent/causing pneumonia vs R (rough) strain bacteria being harmless</li>
+                                <li>Live S-strain bacteria w capsule are virulent killing mice, Live R-strain bacteria w/o capsule aren't virulent and don't kill mice, heat-killed S-strain bacteria don't kill mice, but suprisingly heat-killed S strain bacteria+live R-strain bacteria combined kills mice since it activates S strain again.</li>
+                                <li>Conclusion: R-strain bacteria transformed into virulent bacteria bc bacteria can transfer some factor between bacteria cells, so the virulent S-strain genes were transferred to R-strain bacteria which killed mice</li>
+                                <li>Horizontal Gene Recombination: causes variation in prokaryotes (transformation, transduction, conjugation)</li>
+                                <li>TRANSFORMATION: cell pick up free pieces of DNA from surrounding, either secreted by live prokaryotes or released by deadprokaryotes</li>    
+                                <li>TRANSDUCTION: bacteriophages carry portions of DNA from one cell to another</li>
+                                <li>CONJUGATION: two bacteria temporarily linked together often through conjugation/sex pili, and once linked the bacteria passes its DNA to the other</li>
+                                <li>GENETICALLY MODIFIED ORGANISMS (GMOs): Transformed bacteria/organisms result in valuable biotech products, like green fluorescent protein gene in jellyfish being transferred to other orgs to make it glow in dark since all orgs have same 4 bases and common ancestor</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Avery, Macleod, & McCarty</strong></p>
+                            <ul>
+                                <li>Since chromosomes made of DNA & proteins, their experimentation w enzymes digesting DNA RNA or proteins proved DNA was genetic material not proteins</li>
+                                <li>Only enzymes digesting DNA prevented transofrmation</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Hershey & Chase</strong></p>
+                            <ul>
+                                <li>Firmly establish DNA as genetic material by infecting E coli bacteria w bacteriophage viruses composed of either radioactive DNA or proteins</li>
+                                <li>Phosphorus-32 and Sulfur-35 tracers used and when shaken, DNA tracers ended inside bacteria cells helping make more viruses but protein tracers remained outside</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Franklin & Wilkins</strong></p>
+                            <ul>
+                                <li>Uncovered DNA structure using X-ray diffraction to produce DNA photos, showing repeatingxray crystallography patterns to James Watson</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Erwin Chargaff</strong></p>
+                            <ul>    
+                                <li>Used chemical techniques to analyze details about DNA nucelotide bases</li>
+                                <li>Uncovered amt of each base varies from species but A=T and G=C</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Watson& Crick</strong></p>
+                            <ul>
+                                <li>Created twisted, double helix DNA model w/ 5 carbo deoxyribose sugar-phosphate backbone w antiparallel strands going opposite directions and hydrogen bonded base rangs</li>
+                                <li>Complementary base pairings betwee two-ringed purines and single-ring pyrimidines (A with T, G with C) determined from consistent equal spacing between 2 strands of DNA evident from Franklin's xray diffraction</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>Meselson & Stahl</strong></p>
+                            <ul>
+                                <li>Determined DNA replicates semiconservatively w/ each parent DNA strand a template for new daughter strand</li>
+                                <li>Daughter DNA: one old strand and one new strand</li>
+                                <li>Experiment include N-labeled DNA sorted by density between N-15 vs N-14</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3>DNA Replication</h3>
+                    <p>Process of copying an original/template DNA molecule to prep for cell division in S-phase</li>
+                    <p><strong>Semiconservative Replication</strong>: each parent DNA double helix strand is template for new daughter strand, supported by Meselson & Stahl experiment</p>
+                    <p><strong>BASIC STEPS:</strong> Parent DNA double helix unwinds w help of enzyme helicase breaking hydrogen bonds between bases. Free nuecleotides from the nucleus get paired/connected w nucleotides on parent strands w help of DNA polymerase.</p>
+                    <p><strong>RESULT:</strong> Each daughter DNA molecule contains one old and one new strand antiparallel (5->3, 3<-5) both identical to each other and parent</p>
+
+                    <h3>Prokaryotic DNA Replication</h3>
+                    <p>Located in cytoplasm, usually moving around bactera's circular DNA molecule/plasmid in both directions beginning at origin of replication, taking 40 min although cell divides every 20 min, producing 2 identical DNA circles (new round of replication begins before previous round complete)</p>
+
+                    <h3>Eukaryotic DNA Replication</h3>
+                    <p>Located in nucleus, multiple replication bubbles to speed up process but still takes much longer hours</p>
+                    <ol>
+                        <li>Replication begins at numerous origin points along linear chromosomes called origins of replication which is the middle of the replication bubble (in chromosomes in the nucleus)<li>
+                        <li>Replication bubbles form at these origins which get larger and spread bi-directionally until they all fuse together and meet when replication is complete</li>
+                        <li>Replication Fork: Y-shape apparent wherever DNA is being replicated at the end of each replciation bubble</li>
+                        <li>Helicase enzyme: unwinds double helix at replicaton forks and separates parent strands, making each strand available as a template for daughter DNA</li>
+                        <li>Single Strand Binding Proteins (SSBPs): hold 2 DNA strands apart</li>
+                        <li>Topoisomerase Enzymes: lessen tension and relax supercoiling on tightly wound helix in front of replication fork outside the replication bubble by breaking, swiveling, and rejoining DNA strands</li>
+                        <li>DNA polymerase: build new DNA polymers binding free nucleiotides to existing DNA pairing AT GC, but can only build in 5' to 3' direction and can't initiate synthesis of the strand, only add to pre-existing chain (PROBLEM SINCE DNA STRANDS MUST RUN ANTIPARALLEL</li>
+                        <li>Primase enzymes: construct short initial RNA nucleotide chain primer corresponding to parent DNA since DNA polymerase needs a free 3' end to attach nueecleotides and can't initiate synthesis</li>    
+                        <li>Leading and lagging strands get constructed differently (see section below)</li>
+                        <li>Lastly, replication bubbles fuse and DNA polymerase checks/corrects any error</li>
+                        <li>Telomere Replication: telomerase replaces lost telomere DNA if needed since DNA polymerase can't replicate telomeres (short repeating DNA sequences at ends of chromoesomes), somatic/finite cells have thortening telomeres w/ telmerase rarely activated, immortal cells like stem cells have telmoerase get activated every time cells divide to make cell survive longer</li>
+                    </ol>
+                    <div>
+                        <div>
+                            <p><strong>Leading Strand</strong></p>
+                            <p>Gets constructed from origin of repication towards replication fork in continuous fashion</p>
+                        </div>
+                        <div>
+                            <p><strong>Lagging Strand</strong></p>
+                            <p>Gets constructed away from origin of replication in series of OKAZAKI FRAGMENTS</p>
+                            <p>The one closest to origin gets constructed first, but in the direction of the origin (if that makes sense??)</p>
+                            <p>Fragments made b/c replication bubble only opens a little at a time</p>
+                            <p>All the RNA primers in the fragments get removed / replaced w DNA nucleotides</p>
+                            <p>Ligase enzyme: glues lagging DNA Okazaki fragments together</p>
+                        </div>
+                    </div>
+
+                    <h3>RNA (Ribonucleic Acid)</h3>
+                    <p>5 carbon ribose sugar (one extra O), adenine uracil guanine cytosine bases, usually single stranded, sequences/structure determines function</p>
+                    <p><strong>Messenger RNA (mRNA)</strong>: carries message from DNA in nucleus to ribosomes in cytoplasm
+                        <ul>
+                            <li>mRNA CODON CHART: genetic code consisting of 3 base long triplet codons, chart shows all unique combinations of bases coding for certain amino acids, written in 5'->3' direction<li>
+                            <li>Universal genetic code making gene trasnfer easy suggesting common ancester</li>
+                            <li>Wobble - amino acids often encoded by two or more codons protecting against some mutations</li>
+                            <li>Each codon only codes for one amino acid</li>
+                            <li>1 start and 3 stop codons indicating where ribosome starts reading mRNA sequence and where it should stop</li>
+                        </ul>
+                    </p>
+                    <p><strong>Transfer RNA (tRNA)</strong>: transfers appropriate amino acid to ribosome for protein synthesis</p>
+                    <p><strong>Ribosomal RNA (rRNA)</strong>: makes up ribosome along w other proteins and helps build polypeptides</p>
+                    
+                    <h3>Central Dogma of Molecular Biology</h3>
+                    <p>Genetic info flows from DNA nucleotide base sequence -> mRNA nucleotide base sequence -> amino acid sequence in a protein -> amino acid bonding/interactions determine shape/type of protein made -> proteins made/function result in diff observed traits</p>
+                    <p><strong>TRANSCRIPTION</strong>DNA -> RNA (of all types) in the nucleus</p>
+                    <p><strong>RNA PROCESSING</strong>pre-mRNA (energy-transcript RNA) -> mature mRNA in nucleus of eukaryotes only</p>
+                    <p><strong>TRANSLATION</strong>mRNA -> amino acid sequence in a polypeptide/protein in ribosomes/cytoplasm/roughER, occurs at the same time as transcription in prokaryotes but not in eukaryotes since processing needed</p>
+
+                    <h3>Transcription</h3>
+                    <ul>
+                        <li>Process where DNA strand getting is template to produce RNA molecule</li>
+                        <li>DNA strand getting transcribed called the minus, antisense, noncoding, template stand <em>MAN gets Transcribed</em>. Strand not getting transcribed called plus,sense, coding, nontemplate.</li>
+                        <li>DNA molecule is unwinded at region gene needs to be transcribed, then elementary base pairing ANTIPARALLEL to create new RNA strand but adenine on DNA correponds to uracil on RNA</li>
+                        <li>NOT the same thing as DNA replication!!!</li>
+                        <ol>
+                            <li>INITIATION: RNA polymerase binds to a promoter (called TATA box in eukaryotes since less H-bonds) w/ the assistance of transcription factors and transcription is initiated/begins at the start site.</li> 
+                            <li>ELONGATION: After bound, RNA polymerase unwinds DNA in the region transcription initated and adds free RNA nucleotides complementary to template strand, elongating the new RNA strand (RNA polymerase also builds 5' to 3' antiparallel so it reads the DNA 3' to 5', but no leading/lagging strand since not all DNA gets transcribed at once)</li>
+                            <li>TERMINATION: elongation continues 5' to 3' until a stop sequence / terminator region on DNA is reached causing RNA polymerase to stop transcribing and release the newly formed RNA transcript</li>
+                            
+                        </ol>
+                        <li>Many RNA polymerases can work on same DNA molecule simulatenously to produce proteins faster</li>
+                        <li><strong>REVERSE TRANSCRIPTION</strong>: in retroviruses genetric info flows from RNA->DNA so retroviruses use RNA as genetic material and the reverse transcriptase enzyme copies viral RNA genome into DNA which is integrated into host genome and transcribed/translated for viral protein assembly (HIV is ex of retrovirus)</li>
+                    </ul>
+
+                    <h3>RNA Processing</h3>
+                    <p>Further modify mRNA transcripts (pre-mRNA) before leaving nucleus to be translated into a protein by ribosomes b/c of compartmentalization</p>
+                    <ol>
+                        <li><strong>Addition of a 5' GTP (guanine) cap</strong>: to protect mRNA from degrading too quickly, assisting w translation initation</li>
+                        <li><strong>Addition of a 3' poly-adenine (poly-A) tail</strong>: to protect mRNA from degrading too quickly, easing transition of mRNA through nonpolar nuclear membrane</li>
+                        <li><strong>Intron excision (removal) and exon retention/splicing</strong>: Introns/non-protein-coding regions of mRNA are removed/stay in nucleus and exons/protein-coding regions are spliced/joined back together to make up mature mRNA assisted by spliceosome enzymes (made of snRNA) which plays catalytic/enzymatic role and is called a ribozyme since its made of RNA not proteins. In simpler eukaryotes self-splicing occurs w/o spliceosomes.</li>
+                        <li>Alternative mRNA splicing - allows more than one diff mature mRNA / protein so several diff proteins can be made from a single gene and intrones are likely not junk and form sRNA's (small DNA molecules) which have roles in regulating gene expression</li>
+                    </ol>
+
+                    <h3>Translation</h3>
+                    <p>mRNA translated to amino acid sequence in polypeptide/protein in the ribosome, requires ATP energy</p>
+                    <p><strong>RIBOSOME</strong></p>
+                    <ul>
+                        <li>Large & small subunit made of rRNA (produced from DNA template in nucelolus) & other proteins which come together in cytoplasm to read mRNA and form a polypeptide
+                        <li>Ribosome either remains in cytoplasm if protein is for in the cell, or goes to rough Er if the protein is for membrane/outside cell.</li>
+                        <li>Ribiosome has one biding site for mRNA on small subunit and 3 for tRNA on large subunit (E (exit) site, P (peptide &RNA binding) site, A (amino acid&RNA binding) site)</li>
+                    </ul>
+                    <p><strong>tRNA (transfer RNA)</strong>: RNA nucleotides in a clover shape with 3' end accepting amino acids</p>
+                    <ul>
+                        <li>Transfers amino acid to ribosome for polypeptide/protein synthesis</li>
+                        <li>Enzymes ensure appropriate amino acids get added to each tRNA molecule based on anticodon found opposite amino acid</li>
+                        <li>ANTICODON: sequence of 3 bases on tRNA that are complementary/antiparallel to specific mRNA codon based on the anticodon</li>
+                        <li>Genetic code chart specified for mRNA so amino acid is based on mRNA codon bc most likely we dont have an anticodon chart</li>
+                    </ul>
+                    <ol>
+                        <li>INITIATION: translation begins when rRNA in ribosome interacts w mRNA at start codon, mRNA attaches to ribosomal subunit and methitionine is brought to start codon by tRNA initaitior. The start coodn is in the p-site (AUG in mRNA, UAC in tRNA)</li>
+                        <li>ELONGATION: polypeptide chain increases in length one amino acid at a time, since each subsequent tRNA arrives at A site and verifying tRNA anticodons matches mRNA codons, then gets polypeptiide chain getstransferred to pamino acid on the tRNA at the A-site, the ribozymes i ribosome use energy to create peptide bonds between polypetide cahin and amino acid, and ribosome translocates alonfgmRNA so that empty tRNA exits from E site and chain is back at P site</li>
+                        <li>TERMINATIONL: when a stop codon on mRNA is reached, the codons code for signal proteins called release factors which cut polyppetide from last tRNA and then it begins/continoues to fold into 3d shape w help of chaperron proteins whileas ribosome dissociates</li>
+                    </ol>
+
+                    <h3>Gene Expression</h3>
+                    <p>Gene is expressed when protein it makes is fully operational</p>
+                    <p><strong>Eukaryotic Chromosomes</strong></p>
+                    <p>Chromsomes is DNA and proteins, and the proteins function is to package DNA into more condensed form to fit in nucleus (ex: histone proteins) or facilitate DNA/RNA synthesis(ex: RNA/RNA polymerase)</p>
+                    <p>EUchromatin is loose and active and Easily accessible (can get transcribed), but HEterochromatin is coiled and inactive and Hard to access (cannot get transcribed)</p>
+                    <p>Regulating DNA compaction can control gene expression</p>
+
+                    <h2>Chapter 13A: Regulation of Gene Expression in Prokaryotes</h2>
+                    <p>Gene expression makes diff proteins for same gene and diff types of specialized cells, affected by the environment and not all genes are expressed since this wastes energy</p>
+
+                    <h3>Prokaryotic Gene Regulation: The Operon</h3>
+                    <p>Gene regulation happens only at transcriptional level through the operon model</p>
+                    <p><strong>OPERON:</strong> cluster of structural genes coding for specific proteins on DNA plus the switches/regulator genes that turn structural genes on or off</p>
+                    <ul>
+                        <li>REGULATOR GENE - codes for a repressor which control whether operon is acrtive or not (active repressor = inactive operon = operon structural genes not transcribed and vice versa)</li>
+                        <li>PROMOTER - short DNA sequence which's initial binding site for RNA polymerase to begin transcription, like on switch representing location transcription will begin</li>
+                        <li>OPERATOR - short sequence of DNA as binding site for active repressor protein which if bound would not allow structural genes to get transcribed/expressed since repressor prevents RNA polymerase from binding to promoter preventing transcription</li>
+                        <li>STRUCTURAL GENES - longer DNA sequences coding for enzymes/other proteins involved in metabolic pathways. All gets transcribed as a unit if no repressor present</li>
+                        <li>in a diagram, upstream-->downstream, the regulator gene codes for repressor protein, next to it extra DNA, next to it promoter, next to it operator, next to it structural genes continuing to downstream</li>
+                    </ul>
+                    <div>
+                        <div>
+                            <p><strong>Repressible Operon</strong></p>
+                            <p>Operon capable of being repressed/turned off which has a regulator gene that codes for an inactive repressor and structural genes that usually code for proteins/enzymes involved in anaboliic pathways helping synthesize/make a certain substance needed by the cell</p>
+                            <p>Ex: Trp operon is repressible since its structural genes codes for enzymes making tryptophan amino acid</p>    
+                        </div>
+                        <div>   
+                            <p><strong>Inducible Operon</strong></p>
+                            <p>Operon capable of being induced/turned on which has regulator that codes for active repressor and structural genes that code for proteins/enzy,es involved in catabolic pathways breaking down a substance present in cell</p>
+                            <p>Ex: Lac operon is inducible, since its structural genes codes for enzymes breaking down lactose</p>
+                        </div>
+                    </div>
+                    <p>Environemnt/cell conditions or needs determine whether structursal genes will get expressed or not for the above operons</p>
+
+                    <h3>Trp Operon</h3>
+                    <ul>
+                        <li>Repressible operon involved in anabolic pathways with structural genes encoding enzymes making tryptophan</li>
+                        <li>If tryptophan is absent, cell would need operon to be on/active since enzymes making tryp are needed.</li>
+                        <li>If enough tryptophan is prevent, operon would be off/inactive since enzymes making tryp are not needed</li>
+                    </ul>
+                    
+                    <h3>Lac Operon</h3>
+                    <ul>
+                        <li>Inducible operon involved in catabolic pathways w structural genes encoding ezymes breaking down lactose</li>
+                        <li>If glucose is present but lactose is absent, operon would be off/inactive since enzymes breaking down lac aren't needed since lactose is absent so transcription not necessary</li>
+                        <li>If glucose&lactose present, operon would be partially on/active since some lactose available to break down, but cell prefers to break down glucose for energy first so only low transcription of lac operon genes needed</li>
+                        <li>If glucose absemt lactose present, operon is fully on/active since lactose needs to be broken down and theres no glucose available 
+                    </ul>
+                    `
+            },
+
         }
     },
     "AP United States History": {
