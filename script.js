@@ -1493,8 +1493,458 @@ const NOTES = {
     },
     "AP Psychology": {
         units: {
-            "1.1: Intro & History": {
-                tags: ["psychoanalysis", "behaviorism", "Sigmund Freud", "Biological", "Modern Perspectives", "Biopsychosocial", "Cognitive", "Humanism"]
+            "Unit 1: How do we explain and measure behavior?": {
+                tags: ["psychoanalysis", "behaviorism", "Sigmund Freud", "Biological", "Modern Perspectives", "Biopsychosocial", "Cognitive", "Humanism"],
+                content: `
+                    <h2>1.1: Intro & History</h2>
+                    <h3>The Modern Perspectives (ordered from nature to nurture, numbered in order from past/present)</h3>
+                    <div>
+                        <div>
+                            <p><strong>Nature</strong></p>
+                            <p>Psychology affected by nature/genetics</p>
+                        </div>
+                        <div>
+                            <p><strong>Nurture</strong></p>
+                            <p>Psychology affected by environment/society/experiences</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <p><strong>Evolutionary</strong></p>
+                            <p>How natural selection of traits promoted gene survival, humans desire social interaction b/c of need for survival</p>
+                        </div>
+                        <div>
+                            <p><strong>Biological (5)</strong></p>
+                            <p>Brain, body chemistry, genetics</p>
+                        </div>
+                        <div>
+                            <p><strong>Psychodynamic/Psychoanalysis (1)</strong></p>
+                            <p>Sigmund Freud</p>
+                            <p>Unconscious conflicts, early childhood experiences (nurture), innate sex&aggression (nature)</p>
+                        </div>
+                        <div>
+                            <p><strong>Cognitive (4)</strong></p>
+                            <p>Thinking and decision making</p>
+                        </div>
+                        <div>
+                            <p><strong>Biopsychosocial (6/modern-day)</strong></p>
+                            <p>Biology, Psychology, Society</p>
+                            <p>Equally nature vs nurture</p>
+                            <p>Affected by biological predispositions/mutations, psychological influences from emotions/fears/etc, society's social-cultural influences from people's expectations</p>
+                        </div>
+                        <div>
+                            <p><strong>Humanism (3)</strong></p>
+                            <p>Maslow & Rogers</p>
+                            <p>You are inherently good, you have free will, you should close the gap between your real/ideal self through <strong>self-actualization</strong>, you deserve unconditional positive regard</p>
+                        </div>
+                        <div>
+                            <p><strong>Behaviorism (2)</strong></p>
+                            <p>Watson&Skinner</p>
+                            <p>Observable actions/behavior, learning, environment, rewards/punishment</p>
+                        </div>
+                        <div>
+                            <p><strong>Social-Cultural</strong></p>
+                            <p>How behavior/thinking vary across situations/cultures</p>
+                        </div>
+                    </div>
+
+                    <ul>
+                        <li><strong>Industrial/organization field of psychology</strong> - analyze efficiency of businesses in hiring, training, and management</li>
+                        <li><stong>Introspection</strong> - observing conscious experiences</li>
+                        <li><strong>WEIRD</strong>: western, educated, industrialized, rich, democratic countries which is what psychology is based on (only 12% of people)</li>
+                    </ul>
+
+                    <h2>1.2: Research Methods</h2>
+                    <h3>Scientific Method / Vocab</h3>
+                    <ul>
+                        <li><strong>Hypothesis</strong>- testable prediction often implied by a theory</li>
+                        <li><strong>Operational Definition</strong>- carefully worded definition of procedures used and how its defined</li>
+                        <li><strong>Replication</strong>- Repeating idea of research study w diff participants in diff situations to see how reproducible findings are</li>
+                        <li><strong>Self-Report Bias</strong>- bias when people report their behavior inaccurately</li>
+                        <li><strong>Population</strong>: all those in group being studied, smaller samples drawn from the population (not the country's population)</li>
+                        <li><strong>Random Sample</strong>: sample fairly representing population bc each member has equal chance of inclusion</p>
+                    </ul>
+
+                    <h3>Correlation (NOT CAUSATION)</h3>
+                    <ul>
+                        <li>Measure of extent to which 2 factors vary together and how well they predict each other</li>
+                        <li><strong>Correlation Coefficient:</strong> statistical index of relationship between 2 things from -1.00 to +1.00 with 0 meaning no relationshop</li>
+                        <li>Scatterplot cluster of dots, w slope of points suggesting direction and amt of scatter suggests correlation/no correlation</li>
+                        <li>Illusory correlation - perceiving relationship when there's none (or thinking relationship is stronger than it is)</li>
+                        <li>Problems: directionality (difficulty determining what variable causes other in correlational study), third variable problem (influences both variables making them seem directly related)</li>
+                    </ul>
+
+                    <h3>Types of Studies</h3>
+                    <div>
+                        <div>
+                            <p><strong>Case Study</strong></p>
+                            <p>Non-experimental technique where a individual/group is studied in depth to reveal universal principles</p>
+                        </div>
+                        <div>
+                            <p><strong>Survey</strong></p>
+                            <p>Non-experimental technique to obtain attribute/behaviors of a group by questioning representative random sample</p>
+                        </div>
+                        <div>
+                            <p><strong>Naturalistic Observation</strong></p>
+                            <p>Non-experimental technique observing/recording behavior in naturally occuring situation w/o trying to manipulate or control situation</p>
+                        </div>
+                        <div>  
+                            <p><strong>Cross-Sectional Study</strong></p>
+                            <p>Research comparing people of different ages at the same point in time</p>
+                        </div>
+                        <div>
+                            <p><strong>Longitudinal Study</strong></p>
+                            <p>Research following and retesting the same people over time</p>
+                        </div>
+                        <div>
+                            <p><strong>Meta-Analysis</strong></p>
+                            <p>Statistical procedure analyzing results of multiple studies for overall conclusion</p>
+                        </div>
+                    </div>
+
+                    <h3>Experiment</h3>
+                    <div>
+                        <p>Ideal way since demonstrates causation</p>
+                        <p>Random selection (sample selected randomly from population) and then random assignment (sample sorted into control/treatment groups randomly)</p>
+                        <p>Research where 1 or more factors/independent variables are manipulated to observe effect on dependent variable through random assignment of participants and controlling of other factors</p>
+                        <p>Single-blind procedure: research participants are blind about whehter they are in treatment or placebo group</p>
+                        <p>Double-blind procedure: research participants and staff are both blind about whether groups are treatment or placebo used commonly in drug-evaluation studies to avoid EXPERIMENTER BIAS confirming own beliefs</p>
+                        <p>Placebo Effect - experimental results caused only by expectations that an agent is active even if its not</p>
+                        <p><strong>PARTS OF EXPERIMENT</strong></p>
+                        <ul>
+                            <li>Participants go through random assignment to Experimental group (group exposed to treatment/independent variable) vs Control Group (group not exposed to treatment as comparison for evaluating treatment group)</li>
+                            <li>Convenience sampling - non-random sampling where participants selected based on access/availability</li>
+                        </ul>
+                    </div>
+
+                    <h3>Ethics</h3>
+                    <p><strong>Debriefing</strong>: post experimental explanation of study, purpose, and deceptions</p>
+                    <p><strong>Informed consent or assent</strong>: consent giving participatns enough info to let them choose to particpate, assent if minor/someone not legally allowed to give consent is given approparite info but parent/guardian also approves</p>
+                    <p></strong>Peer/Institutional Review</strong>: Peer review of theory and study content itself by scientific experts, institutional review by committee to ensure ethicality</p>
+                    <p><strong>Confederate</strong>- someone pretending to be a participant even tho really influencing participants as part of the experiment</p>
+                    <p><strong>HUMAN RESEARCH:</strong> Institutioanl Research Board (IRB) needed for ethics do no harm to experiment subjects but pain is allowed, confidentiality, right to withdraw whcih shd also be informed</p>
+                    <p><strong>ANIMAL RESEARCH:</strong> IRB also, acquired legally, clear scientific purpose, humane treatment w food, shelter, least suffeing feasible but u can even kill them under certain circumstances</p>
+
+
+                    <h3>Statistics</h3>
+                    <ul>
+                        <li><strong>Skew</strong>: positive if most scores are low w a few high outliers so tail is streched to right w mean>median, negative if most scores are high w few low outliers so tail streched to left w mean<median</li>
+                        <li>Regression towards mean - extreme/unusual scores fall back and regress towards average</li>
+                        <li>Bimodal distribution - freq distirbution w 2 distincit peaks so 2 populagtions/underlying processes in data</li>
+                        <li>Quantitative is numerical data, Qualitative is in-depth narrative data</li>
+                        <li><strong>Effect Sizes</strong>: strength of relationship between 2 variables, w larger effect size meaning stronger relationship</li>
+                        <li><strong>Standard Deviation</strong>: how much scores vary around mean score</li>
+                        <li>Statistical significance is how likely result occured by chance</li>
+                        <li>Generalizability is extent results can be applied to other people</li>
+                        <li><strong>Normal Distribution</strong>68% within 1std of mean, 95% within 2std</li>
+                    </ul>
+
+                    <h3>Biases</h3>
+                    <div>
+                        <div>
+                            <p><strong>Hindsight Bias</strong></p>
+                            <p>Tendency to believe after learning outcome that you would have foreseen it</p>
+                            <p>I-knew-it-all-along phenomenon</p>
+                        </div>
+                        <div>
+                            <p><strong>Overconfidence</strong></p>
+                            <p>Tendency to be more confident than correct and overestimate accuracy of our beliefs/judgements</p>
+                        </div>
+                        <div>
+                            <p><strong>False Consensus Effect</strong></p>
+                            <p>You overestimate and think everyone thinks the same way you do and youe opinions are normal/common</p>
+                        </div>
+                        <div>
+                            <p><strong>Confirmation Bias</strong></p>
+                            <p>Search for info that supports your beliefs</p>
+                        </div>
+                        <div>
+                            <p><strong>Self-Serving Bias</strong></p>
+                            <p>Take credit for success but not failures</p>
+                        </div>
+                        <div>
+                            <p><strong>Ingroup Bias</strong></p>
+                            <p>Tendency to favor your own group and say the group you belong to is good</p>
+                            <p>Ingroup (group you belong to) vs outgroup (group you don't belong to)</p>
+                        </div>
+                        <div>
+                            <p><strong>Social Desirability Bias</strong></p>
+                            <p>Publicly change answer/opinion to fix it based on that way they think researcher expects/wishes</p>
+                        </div>
+                    </div>
+
+                    <h3>Development</h3>
+                    <p><strong>Attachment</strong>: emotional tie w others shown in young children who seek closeness to caregivers and distress when separated</p>
+                    <p><strong>Harry Harlow</strong>: psychologist known for research on attachment w monkeys demonstrating comfort and physical contact besaides only food is important in animal bonds. Experimented on origins of attachment/love/emotional closeness and bonding through 2 monkey moms, one giving food and 1 giving contact comfort and the bond was shown to be about contact comfort not food, important at WW2 time since people didn't care enough for kids. However, study was unethical since isolation damaged them mentally and phtsically.</p>
+                `
+            },
+            "Unit 2: Why do I act the way I do?": {
+                tags: ["identity", "psychoanalysis", "id", "Freud"],
+                content: `
+                    <h2>2.1: Identity</h2>
+                    <p><strong>Personality</strong>: an individual's pattern of thinking, feeling, and acting</p>
+
+                    <h3>Psychoanalytic Perspective (Freud)</h3>
+                    <p>Focuses on unconsciouns mind and childhood experiences and sex and aggression</p>
+                    <p><strong>Free association</strong>: method of exploring unconscious where person relaxes and says whatever comes to mind</p>
+                    <p><strong>Unconscious</strong></p>: unconscious unacceptable thoughts, feelings, and memories that we are unaware of</p>
+                    <div>
+                        <div>
+                            <p><strong>Id</strong></p>
+                            <p>Unconscious psychic energy satisfying sex & aggression and immediate please</p>
+                        </div>
+                        <div>
+                            <p><strong>Superego</strong></p>
+                            <p>Partly conscious mind representing internal ideals and judgement/conscience for future</p>
+                        </div>
+                        <div>
+                            <p><strong>Ego</strong></p>
+                            <p>Partly conscious executive personality balancing id, superego, and reality satisying id's desire in a reasonable way.</p>
+                        </div>
+                    </div>
+
+                    <p><strong>Freudian Defense Mechanisms</strong></p>
+                    <p>Ego's protective methods of reducing anxiety by unconsciously distorting reality</p>
+                    <div>
+                        <div>
+                            <p><strong>Repression</strong></p>
+                            <p>Ignore negative thoughts/feelings/memories from consciousness</p>
+                        </div>
+                        <div>
+                            <p><strong>Regression</strong></p>
+                            <p>Revert to earlier stage of development (like childhood) when faced w stress/anxiety</p>
+                        </div>
+                        <div>
+                            <p><strong>Reaction Foramtion</strong></p>
+                            <p>Behaving in a way opposite to true feelings/impulses to hide them</p>
+                        </div>
+                        <div>
+                            <p><strong>Projection</strong></p>
+                            <p>Attributing unwanted thoughts/feelings/motives to someone else</p>
+                        </div>
+                        <div>
+                            <p><strong>Rationalization</strong></p>
+                            <p>Creating logical explanation to justify guilty or shameful thoughts/feelings</p>
+                        </div>
+                        <div>
+                            <p><strong>Displacement</strong></p>
+                            <p>Redirecting emotions from real source to safer/less threatening target</p>
+                        </div>
+                        <div>
+                            <p><strong>Denial</strong></p>
+                            <p>Refusing to accept reality/facts bc too uncomfortable or distressing to face</p>
+                        </div>
+                        <div>
+                            <p><strong>Sublimation</strong></p>
+                            <p>Channeling unacceptable impulses/feelings into socially acceptable ones</p>
+                        </div>
+                    </div>
+
+                    <p><strong>Psychoanalytic Personality Tests (Projective Tests)</strong></p>
+                    <div>
+                        <div>
+                            <p><strong>Projective Test</strong></p>
+                            <p>Provide ambiguous images to trigger projecting inner thoguhts and explore unconscious mind</p>
+                        </div>
+                        <div>
+                            <p><strong>Thematic Apperception Test (TAT)</strong></p>
+                            <p>Projective test where ppl express inner feelings/interests through stories they make up about ambiguous scenes</p>
+                        </div>
+                        <div>
+                            <p><strong>Rorschach Inkblot Test</strong></p>
+                            <p>Projective test seeking to identify people's inner feelings by analyzing how they interpret inkblots</p>
+                        </div>
+                    </div>
+
+                    <h3>Humanistic Perspective (Maslow and Rogers)</h3>
+                    <p><strong>Self-Actualization:</strong> closing gap between real and ideal self</p>
+                    <p><strong>Maslow's Hierarchy of Needs</strong>: physiological needs like food/water, then safety needs like nurture/money, then belonginess/love needs like acceptance/affection, then esteem needs like respect, then self-actualization</p>
+                    <p><strong>Unconditional positive regard:</strong>: caring non-judgemental attitude helping develope selfawareness and selfacceptance</p>
+                    
+                    <h3>Trait Perspective</h3>
+                    <p><strong>Trait:</strong> characteristic behavior pattern or disposition to feel/act certain ways according to self and peer reports inventories</p>>
+                    <p><strong>Inventories/Tests</p>
+                    <div>
+                        <div>
+                            <p><strong>Factor Analysis</strong></p>
+                            <p>Identifying clusters of related items/facters to identify dimensions of performance underlying total score</p>
+                        </div>
+                        <div>
+                            <p><strong>Personality Inventory</strong></p>
+                            <p>Questionnaire w/ true/false or agree/disagree items where people respond to assess selected personality traits and guage wide range of feelings/behaviors</p>
+                        </div>
+                        <div>
+                            <p><strong>Id</strong></p>
+                            <p>Unconscious psychic energy satisfying sex & aggression and immediate please</p>
+                        </div>
+                        <div>
+                            <p><strong>Minnesota Multiphasic Personality Inventory (MMPI)</strong></p>
+                            <p>Most widely used personality test used to identify emotional disorders and other purposes</p>
+                        </div>
+                        <div>
+                            <p><strong>Big Five Personality Factors / Five Factor Model</strong></p>
+                            <p>OCEAN: openness (curiosity/imagination/openness to experience over routine), conscientousness (selfdiscipline/organization/achievement), extraversion (socialness), agreeableness (cooperation/compassion), neuroticism (emotional stability/anxiety) describing personality</p>
+                        </div>
+                    </div>
+
+                    <h3>Social-Cognitive Perspective (Bandura)</h3>
+                    <p>View of Behavior as influenced by interaction between traits, thinking, and social context</p>
+                    <p><strong>Reciprocal determinism:</strong> interacting influences of behavior, internal cognition, and environment all connected</p>
+                    <div>
+                        <div>
+                            <p><strong>External Locus of Control</strong></p>
+                            <p>Perception that outside forces beyond personal control determine our fate</p>
+                            <p>Learned Helplessness - hopelessness/pressure & feeling unable to avoid repeated aversive events</p>
+                        </div>
+                        <div>
+                            <p><strong>Internal Locus of Control</strong></p>
+                            <p>Perception that we control our own fate</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <p><strong>High Self-Efficacy</strong></p>
+                            <p>Person's strong belief in their ability to succeed at a specific test/situation</p>
+                        </div>
+                        <div>
+                            <p><strong>Low Self-Efficacy</strong></p>
+                            <p>Person's belief they are not capable at succeeding at a specific task or situation</p>
+                        </div>
+                    </div>
+
+                    <h3>Social-Emotional Development</h3>
+                    <p><strong>Adverse Childhood Experiences (ACEs)</strong>: potentially traumatic/stressful event occuring before 18 like abuse/neglect harming development and increasing psychological risk later in life</p>
+                    <p><strong>Ecological Systems Theory</strong>: how environment influences development</p>
+                    <div>
+                        <div>
+                            <p><strong>Microsystem</strong></p>
+                            <p>Your daily world & immediate environment (ex: family, school, close friends)</p>
+                        </div>
+                        <div>
+                            <p><strong>Mesosystem</strong></p>
+                            <p>Connections between worlds and between different microsystems (ex: relationship between home/school, family&friend's families, community events)</p>
+                        </div>
+                        <div>
+                            <p><strong>Exosystem</strong></p>
+                            <p>Bigger community and external environment indirectly influencing development (ex: neighborhood, parent's workplace, extended family, gov policies)</p>
+                        </div>
+                        <div>
+                            <p><strong>Macrosystem</strong></p>
+                            <p>Wider world and broader sociocultural influences shaping individual experiences and influences children's behavior and parent styles (ex: economic conditions, culture/traditions, media, current events, social norms)</p>
+                        </div>
+                        <div>
+                            <p><strong>Chronosystem</strong></p>
+                            <p>Changes over time reflecting changes/traditions in life (ex: moving, divorce, family changes, historical events, societal changes)</p>
+                        </div>
+                    </div>
+                    <p><strong>Identity Statuses Theory (James Marcia)</strong>: identity development based on exploration and commital</p>
+                    <div>
+                        <div>
+                            <p><strong>Achievement</strong></p>
+                            <p>High exploration, high commitment</p>
+                            <p>Most stable identity</p>
+                        </div>
+                        <div>
+                            <p><strong>Diffusion</strong></p>
+                            <p>No/low exploration, no/low commitment</p>
+                            <p>Least stable identity</p>
+                        </div>
+                        <div>
+                            <p><strong>Foreclosure</strong></p>
+                            <p>No/low exploration, high committment</p>
+                            <p>Usually adopting other's experiences without forming/exploring their own</p>
+                        </div>
+                        <div>
+                            <p><strong>Moratorium</strong></p>
+                            <p>High exploration, no commitment</p>
+                            <p>Exploring themselves but unsure/uncommitted</p>
+                        </div>
+                    </div>
+                    <p><strong>Vygotsky's Zone of Proximal Development</strong>: range of tasks kid can't do alone but can do w help from a more skilled person (gap between what they can do and what they can achieve w guidance)</p>
+                    <p><strong>Parenting Styles</strong></p>
+                    <div>
+                        <div>
+                            <p><strong>Authoritarian</strong></p>
+                            <p>High control low support</p>
+                            <p>Strict controlling parents expecting obedience and setting many rules w little warmth to child's needs, lots of punishment</p>
+                        </div>
+                        <div>
+                            <p><strong>Permissive/Indulgent</strong></p>
+                            <p>Low control high support</p>
+                            <p>Warm/loving parents w few rules/limits allowing lots of freedom w little discipline</p>
+                        </div>
+                        <div>
+                            <p><strong>Authoritative</strong></p>
+                            <p>High control high support</p>
+                            <p>Warm/supportive yet firm w clear rules/expectiations but still supportive and encouraging independcen</p>
+                        </div>
+                        <div>
+                            <p><strong>Uninvolved/Neglectful</strong></p>
+                            <p>Low support low control</p>
+                            <p>Too busy to come up with rules or give love</p>
+                        </div>
+                    </div>
+
+                    <h3>Erickson's Stages of Social Development</h3>
+                    <p>He was a psychodynamic psychologist</p>
+                    <p>Explains how social/emotional development occurs across life stages w/ conflicts</p>
+                    <div>
+                        <div>
+                            <p><strong>Trust vs Mistrust (0-1)</strong></p>
+                            <p>Is the world predictable and supportive?</p>
+                        </div>
+                        <div>
+                            <p><strong>Autonomy vs Shame/Doubt (2-3)</strong></p>
+                            <p>Am I self-sufficient or must I rely on others?</p>
+                        </div>
+                        <div>
+                            <p><strong>Initiative vs Guilt (3-6)</strong></p>
+                            <p>Am I good or bad? Will I feel guilty for trying new things?</p>
+                        </div>
+                        <div>
+                            <p><strong>Industry vs Inferiority (7-12)</strong></p>
+                            <p>Am I successful or am I worthless? How can I function in comparison to others?</p>
+                        </div>
+                        <div>
+                            <p><strong>Identity vs Public Confession/Role Confusion (12-18)</strong></p>
+                            <p>Who am I? What is my place in society?</p>
+                        </div>
+                        <div>
+                            <p><strong>Intimacy vs Isolation (20-30)</strong></p>
+                            <p>Am I able to become close with others, but still maintain my sense of self?</p>
+                        </div>
+                        <div>
+                            <p><strong>Generativity vs Stagnation (30-50)</strong></p>
+                            <p>Am I able to give love and attention beyond myself? Have I nurtured the next generation?</p>
+                        </div>
+                        <div>
+                            <p><strong>Integrity vs Despair (50+)</strong></p>
+                            <p>How do I deal with the end of my career? Am I still useful? How do I cope with loss?</p>
+                        </div>
+                    </div>
+
+                    <h3>Sex, Gender, Sexuality</h3>
+                    <ul>
+                        <li>Sex is defined by biology, gender is defined by one's experience, sexuality is based on attraction</li>
+                        <li>Gender identity is subjective sense of gender</li>
+                        <li>Gender expression is how gender is displayed</li>
+                        <li>Cisgender is when biology & psychology is male or female</li>
+                        <li>Dysphoria is discomfort between biology/psychology</li>
+                        <li>Gender nonconforming - behavior not fitting your gender</li>
+                        <li>Androgynous - gender neutral</li>
+                        <li>Pansexual - attraction to all sexes</li>
+                    </ul>
+
+                    <h2>2.2: Social Psych</h2>
+                    <p>Scientific study of how we think about, influence, and relate to each other</p>
+                    <h3>Social Thinking</h3>
+                    <p><strong>Attribution Theory</strong>: theory we explain behavior by crediting either the situation (situational attribution) or the person's stable enduring traits (dispositional attribution)</p>
+                    <p><strong>Fundamental Attribution Error</strong>: tendency for observors to underestimate impact of situation and overestimate personal dispotion when analyzing other people's behavior</p>
+                    <p><strong>Foot-in-the-door Phenomenon</strong>: people who first agreed w smaller request later comply w larger request</p>
+                    <p><strong>Zimbardo's Prison Experiment</strong>: unethical study where students acts as guards in a fake prison showing how powerful structural roles shapes behavior</p>
+                    <p><strong>Cognitive Dissonance Theory</strong>: 
+                    
+                `
             }
         }
     }
@@ -1567,8 +2017,48 @@ function renderNotes(cls, unit) {
     <div class="note-content">${data.content}</div>
   `;
 
+  applyAutoStylingTags();
   buildOutline();
   body.scrollTop = 0;
+}
+
+function applyAutoStylingTags() {
+  const content = document.querySelector('.note-content');
+  if (!content) return;
+
+  const divs = Array.from(content.querySelectorAll('div'));
+
+  // Base class for every div so nothing renders "unstyled".
+  divs.forEach(div => div.classList.add('note-auto-box'));
+
+  divs.forEach(div => {
+    const directChildren = Array.from(div.children);
+    const childDivs = directChildren.filter(child => child.tagName === 'DIV');
+    const nonDivChildren = directChildren.filter(child => child.tagName !== 'DIV');
+
+    const hasOnlyDivChildren = childDivs.length > 0 && nonDivChildren.length === 0;
+    const hasMixedChildren = childDivs.length > 0 && nonDivChildren.length > 0;
+    const hasNoDivChildren = childDivs.length === 0;
+
+    // Multi-item wrappers become responsive grids.
+    if (hasOnlyDivChildren && childDivs.length >= 2) {
+      div.classList.add('note-auto-grid');
+      childDivs.forEach(child => child.classList.add('note-auto-card'));
+      return;
+    }
+
+    // Text-heavy wrappers become full-width panels.
+    if (hasMixedChildren) {
+      div.classList.add('note-auto-panel');
+      childDivs.forEach(child => child.classList.add('note-auto-card'));
+      return;
+    }
+
+    // Leaf content blocks become cards (white boxes).
+    if (hasNoDivChildren) {
+      div.classList.add('note-auto-card');
+    }
+  });
 }
 
 function buildOutline() {

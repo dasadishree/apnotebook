@@ -11,6 +11,7 @@
 </head>
 <body>
 
+<div class="app-shell">
 <div class="shell">
 
     <div class="sidebar">
@@ -38,25 +39,26 @@
         </div>
 
         <div class="content-row">
-            <div class="unit-sidebar" id="unitSidebar">
+            <div class="unit-sidebar panel" id="unitSidebar">
                 <div class="unit-label">units</div>
                 <div id="unitList"></div>
             </div>
 
-            <div class="notes-body" id="notesBody">
+            <div class="notes-body panel panel-main" id="notesBody">
                 <div class="empty-state">
                     <div class="empty-glyph">✦</div>
                     welcome to the notebook
-                    <span style="font-size:12px; font-style:normal; font-family: var(--mono); color: var(--ink3); margin-top:4px;">pick a class on the left to get started</span>
+                    <span class="empty-subtext">pick a class on the left to get started</span>
                 </div>
             </div>
 
-            <div class="outline" id="outline">
+            <div class="outline panel" id="outline">
                 <div class="outline-label">on this page</div>
                 <div id="outlineList"></div>
             </div>
         </div>
     </div>
+</div>
 </div>
 
 <script src="script.js"></script>
