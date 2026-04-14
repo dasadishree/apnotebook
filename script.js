@@ -2028,7 +2028,6 @@ function applyAutoStylingTags() {
 
   const divs = Array.from(content.querySelectorAll('div'));
 
-  // Base class for every div so nothing renders "unstyled".
   divs.forEach(div => div.classList.add('note-auto-box'));
 
   divs.forEach(div => {
@@ -2040,21 +2039,18 @@ function applyAutoStylingTags() {
     const hasMixedChildren = childDivs.length > 0 && nonDivChildren.length > 0;
     const hasNoDivChildren = childDivs.length === 0;
 
-    // Multi-item wrappers become responsive grids.
     if (hasOnlyDivChildren && childDivs.length >= 2) {
       div.classList.add('note-auto-grid');
       childDivs.forEach(child => child.classList.add('note-auto-card'));
       return;
     }
 
-    // Text-heavy wrappers become full-width panels.
     if (hasMixedChildren) {
       div.classList.add('note-auto-panel');
       childDivs.forEach(child => child.classList.add('note-auto-card'));
       return;
     }
 
-    // Leaf content blocks become cards (white boxes).
     if (hasNoDivChildren) {
       div.classList.add('note-auto-card');
     }
