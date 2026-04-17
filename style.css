@@ -377,6 +377,20 @@ html, body {
   font-style: italic;
 }
 
+/* AP Psychology: curriculum order disclaimer (injected in renderNotes) */
+.psych-curriculum-note {
+  font-family: var(--sans);
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--ink2);
+  background: linear-gradient(135deg, var(--purple-xs) 0%, #faf9ff 100%);
+  border: 1px solid var(--purple-sm);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin: 0 0 18px;
+  box-shadow: 0 1px 0 rgba(124, 116, 216, 0.06);
+}
+
 /* divs */
 .note-content .note-auto-grid {
   display: grid;

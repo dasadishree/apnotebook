@@ -1855,7 +1855,7 @@ const NOTES = {
 
                     <ul>
                         <li><strong>Industrial/organization field of psychology</strong> - analyze efficiency of businesses in hiring, training, and management</li>
-                        <li><stong>Introspection</strong> - observing conscious experiences</li>
+                        <li><strong>Introspection</strong> - observing conscious experiences</li>
                         <li><strong>WEIRD</strong>: western, educated, industrialized, rich, democratic countries which is what psychology is based on (only 12% of people)</li>
                     </ul>
 
@@ -1867,7 +1867,7 @@ const NOTES = {
                         <li><strong>Replication</strong>- Repeating idea of research study w diff participants in diff situations to see how reproducible findings are</li>
                         <li><strong>Self-Report Bias</strong>- bias when people report their behavior inaccurately</li>
                         <li><strong>Population</strong>: all those in group being studied, smaller samples drawn from the population (not the country's population)</li>
-                        <li><strong>Random Sample</strong>: sample fairly representing population bc each member has equal chance of inclusion</p>
+                        <li><strong>Random Sample</strong>: sample fairly representing population bc each member has equal chance of inclusion</li>
                     </ul>
 
                     <h3>Correlation (NOT CAUSATION)</h3>
@@ -1925,7 +1925,7 @@ const NOTES = {
                     <h3>Ethics</h3>
                     <p><strong>Debriefing</strong>: post experimental explanation of study, purpose, and deceptions</p>
                     <p><strong>Informed consent or assent</strong>: consent giving participatns enough info to let them choose to particpate, assent if minor/someone not legally allowed to give consent is given approparite info but parent/guardian also approves</p>
-                    <p></strong>Peer/Institutional Review</strong>: Peer review of theory and study content itself by scientific experts, institutional review by committee to ensure ethicality</p>
+                    <p><strong>Peer/Institutional Review</strong>: Peer review of theory and study content itself by scientific experts, institutional review by committee to ensure ethicality</p>
                     <p><strong>Confederate</strong>- someone pretending to be a participant even tho really influencing participants as part of the experiment</p>
                     <p><strong>HUMAN RESEARCH:</strong> Institutioanl Research Board (IRB) needed for ethics do no harm to experiment subjects but pain is allowed, confidentiality, right to withdraw whcih shd also be informed</p>
                     <p><strong>ANIMAL RESEARCH:</strong> IRB also, acquired legally, clear scientific purpose, humane treatment w food, shelter, least suffeing feasible but u can even kill them under certain circumstances</p>
@@ -1941,7 +1941,7 @@ const NOTES = {
                         <li><strong>Standard Deviation</strong>: how much scores vary around mean score</li>
                         <li>Statistical significance is how likely result occured by chance</li>
                         <li>Generalizability is extent results can be applied to other people</li>
-                        <li><strong>Normal Distribution</strong>68% within 1std of mean, 95% within 2std</li>
+                        <li><strong>Normal Distribution</strong> 68% within 1std of mean, 95% within 2std</li>
                     </ul>
 
                     <h3>Biases</h3>
@@ -1992,7 +1992,7 @@ const NOTES = {
                     <h3>Psychoanalytic Perspective (Freud)</h3>
                     <p>Focuses on unconsciouns mind and childhood experiences and sex and aggression</p>
                     <p><strong>Free association</strong>: method of exploring unconscious where person relaxes and says whatever comes to mind</p>
-                    <p><strong>Unconscious</strong></p>: unconscious unacceptable thoughts, feelings, and memories that we are unaware of</p>
+                    <p><strong>Unconscious</strong>: unconscious unacceptable thoughts, feelings, and memories that we are unaware of</p>
                     <div>
                         <div>
                             <p><strong>Id</strong></p>
@@ -2064,11 +2064,11 @@ const NOTES = {
                     <h3>Humanistic Perspective (Maslow and Rogers)</h3>
                     <p><strong>Self-Actualization:</strong> closing gap between real and ideal self</p>
                     <p><strong>Maslow's Hierarchy of Needs</strong>: physiological needs like food/water, then safety needs like nurture/money, then belonginess/love needs like acceptance/affection, then esteem needs like respect, then self-actualization</p>
-                    <p><strong>Unconditional positive regard:</strong>: caring non-judgemental attitude helping develope selfawareness and selfacceptance</p>
+                    <p><strong>Unconditional positive regard:</strong> caring non-judgemental attitude helping develope selfawareness and selfacceptance</p>
                     
                     <h3>Trait Perspective</h3>
-                    <p><strong>Trait:</strong> characteristic behavior pattern or disposition to feel/act certain ways according to self and peer reports inventories</p>>
-                    <p><strong>Inventories/Tests</p>
+                    <p><strong>Trait:</strong> characteristic behavior pattern or disposition to feel/act certain ways according to self and peer reports inventories</p>
+                    <p><strong>Inventories/Tests</strong></p>
                     <div>
                         <div>
                             <p><strong>Factor Analysis</strong></p>
@@ -2242,14 +2242,115 @@ const NOTES = {
 
                     <h2>2.2: Social Psych</h2>
                     <p>Scientific study of how we think about, influence, and relate to each other</p>
-                    <h3>Social Thinking</h3>
+                    <h3>Experiments</h3>
+                    <p><strong>Zimbardo's Prison Experiment</strong>: unethical study where students acts as guards in a fake prison showing how powerful structural roles shapes behavior</p>
+                    <p><strong>Asch's Conformity Experiment</strong>: particpants judged length of lines in a group and actors gave wrong answer which participants conformed (adjusted behavior to group, more conformity if larger group size, more unanimity, cultural nroms/insecruity/status also affects conformity) to bc of social pressure to fit in</p>
+                    <p><strong>Milgram's Obedience Experiement</strong>: study where particiapnts instructed to give electrical shocks, and even when seemed dangerous people continured bc obedeient/complaint to authority past own judgement. Obedience increased by autority legitimacy/phyiscal closeness of authroity vs victims, role models for defiance</p>
+
+                    <h3>Social Influence</h3>
+                    <div>
+                        <div>
+                            <p><strong>Normative Social Influence</strong></p>
+                            <p>influence bc of person's desire to gain approva or avoid disapproval</p>
+                        </div>
+                        <div>
+                            <p><strong>Informational Social Influence</strong></p>
+                            <p>influence bc of person's willingness to accept others' opinions about reality</p>
+                        </div>
+                    </div>
+
+                    <h3>Group Influence</h3>
+                    <div>
+                        <div>
+                            <p><strong>Social Facilitation</strong></p>
+                            <p>Presence of other improves performance on things we're good at but worsens performance on things we're bad at</p>
+                        </div>
+                        <div>
+                            <p><strong>Social Loafing</strong></p>
+                            <p>People in group exert less effort towards goal than versus if they were by themselves</p>
+                        </div>
+                        <div>
+                            <p><strong>Deindividuation</strong></p>
+                            <p>Loss of self-awareness in groups bc of arousal/anoymity </p>
+                        </div>
+                        <div>
+                            <p><strong>Group Polarization</strong></p>
+                            <p>Enhancement of group's opinions bc of discussion</p>
+                        </div>
+                        <div>
+                            <p><strong>Groupthink</strong></p>
+                            <p>Thinkining/opinions based on desire for harmony in decision making in a group</p>
+                        </div>
+                    </div>
+
+                    <h3>Biases</h3>
+                    <ul>
+                        <li><strong>Self-Serving Bias</strong>: Readiness to perceive ourselves favorably</li>
+                        <li><strong>Actor/observer Bias</strong>: ppl in a situation blame behavior on external reasons, but outside ppl blame behavior to internal causes contirbuting to the fundamental attirbution error (our explanations for other ppls behaviro)</li>
+                        <li><strong>Ingroup Bias</strong>: favor own group</li>
+                        <li><strong>Outgroup Bias</strong>: view other groups as similiatr to each other and less favorable than ur own</li>
+                    </ul>
+                    
+                    <h3>Effects/THeories </h3>
+                    <p><strong>Mere Exposure Effect</strong>: tendency for repeated exposure to novel stimuli increasing our liking of them</p>
+                    <p><strong>Bystander Effect</strong>: tendency for any given bystander to be less likely to give aid if other bystandfers r there</p>
+                    <p><strong>Social Exchange Theory</strong>: theory our social behavior is an exchange process where we want to maximuize benefits and minimize costs</p>
+                    <p><strong>Just-world Phenomenon</strong>: believing the worldf is just and ppl get what they deserve / deserve what they get</p>
                     <p><strong>Attribution Theory</strong>: theory we explain behavior by crediting either the situation (situational attribution) or the person's stable enduring traits (dispositional attribution)</p>
                     <p><strong>Fundamental Attribution Error</strong>: tendency for observors to underestimate impact of situation and overestimate personal dispotion when analyzing other people's behavior</p>
                     <p><strong>Foot-in-the-door Phenomenon</strong>: people who first agreed w smaller request later comply w larger request</p>
-                    <p><strong>Zimbardo's Prison Experiment</strong>: unethical study where students acts as guards in a fake prison showing how powerful structural roles shapes behavior</p>
-                    <p><strong>Cognitive Dissonance Theory</strong>: 
-                    
-                `
+                    <p><strong>Door-in-the-face</strong>: Large request first which is expecrted to be refused, followed by smaller more reasonable request more likely to be approved</p>
+                    <p><strong>Cognitive Dissonance Theory</strong>: we act to reduce dissonance/discomfort we feel when our cognitive/thoughts are inconsistent, so we change our attitude when our actions go against them </p>
+                    <p><strong>Halo Effect</strong>: cofnititve bias where overal positive impression of person influences how wel feel abt their traits (someone is smart or kind just bc their atttactive)</p>
+                    <p><strong>Social Reciprocity Norm</strong>: social norm when ppl feel obligated to return favor / pressure to do the same</p>
+                    <p><strong>Social Responsibility Norm</strong>: social norm/expectation that ppl shd help others who need help even if no personal gain bc its the right thing to do</p>
+
+
+                    <h3>Persuasion</h3>
+                    <p><strong>Elaboration Likelihood Model</strong>: People can be persuaded through central vs peripheral route and the route used depends on motivatew/ability to process info</p>
+                    <div>
+                        <div>
+                            <p><strong>Central Route to Persuasion</strong></p>
+                            <p>INfluencing ppl's thinking through evidence and arguemtns</p>
+                        </div>
+                        <div>
+                            <p><strong>Peripheral Route to Persuasion</strong></p>
+                            <p>Influencing ppl based on incidental cues like attractiveness of spewaker</p>
+                        </div>
+                    </div>
+            
+                    <h3>Attachment (Ainsworth)</h3>
+                    <div>
+                        <div>
+                            <p><strong>Secure Attachment</strong></p>
+                            <p>Infants who comfortable explore when caregiver present, only temp distress when caregiver leaves, comfrted by caregiver return</p>
+                        </div>
+                        <div>
+                            <p><strong>Insecure-Avoidant Attachment</strong></p>
+                            <p>Infants avoidant/resists closeness and emotionaly distant w/o distress when caregiver leavess</p>
+                        </div>
+                        <div>
+                            <p><strong>Insecure-Anxious/Ambivalent Attachment</strong></p>
+                            <p>Infants clingy/anxious to caregiver, very distressed when caregiver leaves, untrusting/not easily comforted by return, mixed signals of seeking/ressitng comfort</p>
+                        </div>
+                        <div>
+                            <p><strong>Insecure-Disorganized Attachment</strong></p>
+                            <p>Infants confused/contradictory behavior, approacing but also avoidnign caregiver, seeming dazed or fearful, often linked to trauma</p>
+                        </div>
+                    </div>
+
+                    <h3>Etc</h3>
+                    <p><strong>Social Trap</strong>: 2 parties pursue self interest instead of group caught in mutually descrutrive behavior</p>
+                    <p><strong>Self-fulfilling Prophecy</strong>: belief that leads to its own fulfillment</p>
+                    <p><strong>Altruism:</strong> unselfish regard for welfare of others</p>
+                    <p><strong>Superodrinate goals</strong>: shared goals overriding differences among ppl and requiring cooprration</p>
+                    <p><strong>Prosocial behavior</strong>: positive constructive helpful behavior (opposite of antiscoialk)</p>
+                    <p><strong>Prejudice</strong>: unjust5ifiable negative attitude towards a group invovling sterotypes/generalizations and negative emotions and discriminiation. Stems frrom social inequality and biases</p>
+                    <p><strong>Relative Deprivation</strong>: perception that we r worse off relative to those w when we compare outrselves</p>
+                    <p><strong>Optimistic Explanatory Style vs Pessimistic Explanatory Style</strong> optimists describe positive things based on permamnenty, negative things temporary. pessimisits say psotive things r tmepeorary/luck and negative things r permsnnent</p>
+                    <p><strong>Upward vs Downward Social Comparsion</strong> upward is comparing urself to somoene better to motivate improvement/inspiration, downward is comparing to someone worse to make u feel better</p>
+                    <p><strong>Social Debt</strong>: feeling of obligation to return a favor when someone did smth for u influencing complaince/behaviopr</p>
+                    `
             }
         }
     }
@@ -2308,6 +2409,11 @@ function renderNotes(cls, unit) {
 
   const tagsHtml = (data.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
 
+  const psychCurriculumNote =
+    cls === 'AP Psychology'
+      ? `<div class="psych-curriculum-note" role="note"><strong>Note:</strong> Chapters and sections below are not necessarily in official AP Psychology curriculum order.</div>`
+      : '';
+
   body.innerHTML = `
     <div class="note-header">
       <h1>${unit}</h1>
@@ -2319,7 +2425,7 @@ function renderNotes(cls, unit) {
       <div class="tags-row">${tagsHtml}</div>
       <div class="divider"></div>
     </div>
-    <div class="note-content">${data.content}</div>
+    <div class="note-content">${psychCurriculumNote}${data.content}</div>
   `;
 
   applyAutoStylingTags();
@@ -2331,7 +2437,9 @@ function applyAutoStylingTags() {
   const content = document.querySelector('.note-content');
   if (!content) return;
 
-  const divs = Array.from(content.querySelectorAll('div'));
+  const divs = Array.from(content.querySelectorAll('div')).filter(
+    d => !d.classList.contains('psych-curriculum-note')
+  );
 
   divs.forEach(div => div.classList.add('note-auto-box'));
 
