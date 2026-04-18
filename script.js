@@ -1987,12 +1987,11 @@ const NOTES = {
                     </ul>
 
                     <h2>2.3: The Regions of British Colonies</h2>
-                    <p>Colonies were moneymakers for the Crown/British</p>
 
                     <h3>New England British Colonies</h3>
                     <p>Natural population increase (not due to migration) by 18th century, mostly occupied by cliquish Puritans, mixed economies w lumbering, fishing, but agriculture not as profitable, etc</p>
                     <p>Profitable reason so most taxed, MERCANTILISM benefited the crown so colonists questioned why they were not represented, women mostly relegated to domestic sphere</p>
-                    <p><strong>Mercantilism</strong>: benefit mother country through gold and silver</p>
+                    <p><strong>Mercantilism</strong>: benefit mother country through gold and silver, colonists had to send their profits to England</p>
                     <p>Social classes developed where wealthy owned industries and poor worked for wealthy</p>
 
                     <h3>Middle British Colonies</h3>
@@ -2003,7 +2002,90 @@ const NOTES = {
                     <h3>Southern British Colonies</h3>
                     <p>Relied on intense hot long dreadful conditioned slave labor for profitability, harvest/cultivation of crops like tobacco, rice, and indigo especially in Virginia and also the Carolinas</p>
                     <p>(All British colonies even in other regions relied on slave labor, but southern labor was most intense)</p>
-                `
+
+                    <h3>Crown vs Colonists</h3>
+                    <p>Colonies were moneymakers for the Crown/British</p>
+                    <p>British imposed series of taxes and acts like Navigation Acts promoting only English trade in 1660&1663 and Molasses Act taxing foreign molasses of 1733</p>
+                    <p>Colonists involved/fought in wars against French and Spanish like King William's War (1689-1697), Queen Anne's War (1702-1713), and French and Indian War/Seven Yrs War (1756-1763)</p>
+                    <p>Colonists protested against this, overthrew Dominion of New England, salutary neglect allowed colonists to be independent and resist British monarchy's control</p>
+
+                    <h2>2.4: Translatlantic Trade</h2>
+                    <h3>Slave Trade</h3>
+                    <p>16th-19th century singling out primarily West Coast African (first men, then women, and later children) creating an idea of Black inferiority to justify capturing/enslavement</p>
+                    <p>Portuguese enslaved African as early as 1481, didn't end until 1869</p>
+                    <p>Dutch trading starting 1612 ended 1872</p>
+                    <p>British trading started in 1640, coloniies began in 1619</p>
+                    <p>Traders would capture young men from warring clans/enslaved from previous wars, a caboceer would keep watch over captives for a fe3w months as they were taken to caves/baracoons where they lived until slave ships set sail for Transatlantic voyage</p>
+                    <p>Triangular trade: ships left west europe for Africa w/ goods, traded goods like weapons, gunpowder, textiles, pearls, rum for slaves which could take weeks-months, slaves would make agricultural products like sugar, cotton, coffee, tobacco, rice which was brought back to Europe</p>
+                    <P>Slave ships overpacked to make profit bc they knew they could lose up to 50% of them while crossing to America</p>
+                    <p><strong>Middle Passage:</strong> most treacherous part of voyage taking about 2 months from Africa->America w 1 in 4 slaves dying</p>
+                    <p>20-30 million forcibly sold into slavery, 12 million brought to Americas, 2-3 men for every woman which reduced adult male population, many died in voyage and tried to jump overboard</p>
+                    <p>Portuguese, Spanish, Duthc, British, and French all had major trading companies</p>
+                    <p>When the new US was formed, Constityution made provisions to continue to engage in slave trade, saying it would continue for 20 yrs, creating Fugitive Slave Law and the 3/5 comproimse to appease the South to count for population</p>
+                    <p><strong>Slave Codes / Code Noir</strong>: control slave population by forbidding literacy, legalized marriages, and restricting movement</p>
+
+                    <h3>Slave Resistance / Rebellion</h3>
+                    <p>Slave resistance through slowing down work, stealing food, breaking tools, feigning illness, poisoning food  </p>
+                    <p>Rebellions scared white ppl leading to laws and punishments passed for ppl who escaped or encouraged rebellion</p>
+                    <p><strong>(1739) Stono Rebellion</strong>- led by "Jemmy" an Angolan near Charleston, South Carolina</p>
+                    <p><strong>(1800) Gabriel Prosser</strong> Richmond VA rebellion</p>
+                    <p><strong>(1822) Denmark Vesey</strong> Charleston, most notorious South Carolina rebellion</p>
+                    <p><strong>(1831) Gabriel Prosser</strong> Hampton Roads, VA </p>
+                    <p><strong>(1839) Amistad</strong> New Haven, CT w many dying and not able to return to homes</p>
+
+                    <h2>2.5: Interactions Between American Indians & Europeans</h2>
+                    <p>Interactions between European rivals and American Indian populations leading to alliances and conflicts over land, resources and political boundaries</p>
+                    <p><strong>King Philip's War / Metacom's War</p> British conflict w Indians over land, resources, and boundaries in New England</p>
+
+                    <h3>The Spanish</h3>
+                    <p>Imperial Order built on economic exploitation, religious conversion, and social hierarchy including enslavement and intermarriag, called their Western Hemisphere holdings "New Spain" and sought alliances to divide the Natives (NAtives had similar motivsations)</p>
+                    <p>Spanish accomodating some aspects of Native culture in Southerwest after ressitance to Spanish colonizng efforts esp after Pubelo Revolt</p>
+                    <p><strong>Spanish Southwest</strong>: Spain's North American colonies were largerly defensive buffer against British?French into Central/Sotuh America so they had low colonial populations/military resources in NOrth America</p>
+                    <p>Less Spanish colonization in Southwest led to more Native resistance since they were stronger</p>
+                    <p><strong>Pueblo Revolt</strong>: Native outbreak resistance stopping Spansih colonization of New Mexico for nearly 20 yrs also leading to interactions between Native groups (trade, access to horses, military)/p>
+
+
+                    <h3>The French</h3>
+                    <p>Prioritized trade esp fur trade over conquest, left a smaller footprint in terms of population/subjugation, Catholic missionaries was a secondary policy, needed native cooperation and limited women led to interracial marrying, collaboration and a more co-equal relationship in diplomayy, social and cultural interaction/diffusion</p>
+                    
+                    <h3>The Dutch</h3>
+                    <p>Dutch colonial holdings even smaller than French exclusivelty driven by commerce, trade relationships w American Indians was a rpirority, almost no effort at religious conversion</p>
+                    
+                    <h3>The British</h3>
+                    <p>Colonial priorities on territorial acquisition, expansion, and redevelopment even in relgious based colonies, conversion of natives was less of a priority since Natives weren't meant to be incorporated into English colonial society, so they wanted to exterminate them from their territory leading to series of wars</p>
+                    <p>Campaigns of extermination waged by colonists against entire populations, w disease being distadvantage for Indians, competiton over food and resources, mutual distrust, colonial growth needing more settlment land</p>
+                    <p>Ex: Metacom's / King Philip's War</p>
+                    <p>Indian alliances only out of convenicce, ex: to ally w one group to neutralize another leading to patterns of relative peace then conflict</p>
+                    
+                    <h2>2.6: Slavery in the British Colonies</h2>
+                    <p>Are childrens slave by birth?</p>
+                    
+                    <h2>2.7: Colonial Society & Culture</h2>
+                    <p>Pluralism / intellectual exchange bc of different European religious and ethnic groups, enhanced by first Great Awakening and European Enlightenment ideas</p>
+                    <p.Anglicization experienced by British colonies over time, developing more indpeendent communities based on English models and spread of Protestant evangelocalosm</p>
+                    <p><strong>Push-Pull Theory of Immigration</strong>: factors pushing Europeans like overpopulation out of Europe, pulling them into America causing population explosion in 1680-1770 (due to natural increase, new arrivals like Sootch-IRish/German/English, and longer lifespans)</p>
+                    <p>Mostly Anglo-Saxon w lots of diversity meaning no dominating faith, self-government/salugtary neglect as a result of distance from the crown and tradition, aspirational society since immigrants were lower class looking for better future in New World</p>
+                    
+                    <h3>Great Awakening</h3>
+                    <p>Religious revival leading not only to democratizing changes in religion but also politics</p>
+                    <p>Challenged authority by placing emphasis on the indivudual</p>
+                    <p>Purtian original groups (Anglicans & Congregationlists) changed by Great Awakening's enthusiasm, itinerancy of traveling religion, socially leveling force</p>
+                    <p>Consequences: religion and politics became too interlinked, Great Awakening was anti-elisitst and anti-hierarchiscal, led to birth of new religious grpups like Baptist, Methodists, Episcopal preventing monopoly of rleigipous power</p>
+                    
+                    <h3>Enlightenment</h3>
+                    <p>After the Great Awakening, believed reason was key to undersatanding universe, questioned established religious practices and believed in Natural Law to improve society</p>
+                    <p>Changes in society like Great Awakening and Enlightening brought by the printing press spreading ideas to more people</p>
+                    <p>John Locke - philosopher w ideas against absolutist rule in favor of Natural Rightsa & the Social Contract influencing colonial resistance values/ideas</p>
+
+                    <h3>Colonial Resistance</h3>
+                    <p>Colonists were disstasified over issues like territory, defense, self-rule and trade, and diverging interests of European leaders led to mistrust and resistance, w self-government, evolving ideas of liberty, the Enlgihtenmnet, and more independence/diversity</p>
+                    <p>British colonies charters varied between joint-stock (rpviately held for-profit corporate), royal (government property of the crown) or proprietary (single individual managed as they saw fit) but this was not driven by colonists</p>
+                    <p><strong>Mercantilism</strong>: economic philosophy/policy built around idea of maxcimizing profit saying nations should develop colonies to extract resources and sell them finished goods</p>
+                    <p><strong>Trade & Navigation Acts</strong>: passed by England to control colonial trade and prevent colonies from producing goods even if its cheap so that England could make profit, created resentment among colonists esp since they were not being defended against Indians but Enlgnad believed they were being strenfgthened but thought colonies were expensive</p>
+
+                    <h2>2.8: Comparison in Period 2</h2>
+                    <p>just writitng stuff idk</p>
+                   `
             }
         }
     },
