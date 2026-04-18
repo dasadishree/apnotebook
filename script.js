@@ -1391,6 +1391,28 @@ const NOTES = {
                     </div>
                     `
             },
+            "Unit 5: Heredity": {
+                tags: ["meiosis", "sexual reproduction", "genetics", "mendel", "diversity", "genotype", "phenotype"],
+                content: `
+                    <h2>Chapter 10: meiosis and Sexual Reproduction</h2>
+                    <ul>
+                        <li>Cell division used for making gametes (haploid (n) reproductive sex cells like sperm/egg) for sexual reproduction in animals from dipolid parent germ cells (2n), reducing the chromosome # in half to prep for fertilization</li>
+                        <li><strong>Germ Cells</strong></p>: cells that germinate (give rise to) the gametes</li>
+                        <li>Meiosis is 2n parent makes n daughtswhich are sperm/egg that combine w/ fertilization/NO DIVISON to form a 2n zygote which goes through mitosis where 2n parent makes 2n daughters</li>
+                        <li>Human diploid = 46 chromosomes in all cells but gametes, Human haplod = 23 chromosomes in gametes</li>
+                        <li>Meosis must happen in animals to reduce chromosome # in half so it can be restored in fertilization</li>
+                        <li>1 DNA replication & 2 cell divisions (2n-> n+n --> n+n+n+n (same amt of chromosomes but DNA cut in half)</li>
+                    </ul>
+
+                    <h3>Homologous Pairs of Chromosomes</h3>
+                    <ul>
+                        <li>XX female, XY male, Y chromosomes is smaller than X</li>
+                        <li>Diploid cells have 2 chromosomes of each type in pairs called homologous chromosomes / homologues</li>
+                        <li>Homologues have same length, centromere position, contain genes coding for same traits found in same locations along chromosome, and similar banding pattern when stained in a karyotype</li>
+                        <li>Genes may say diff things abt these same traits since one homologue from mother and one from father</li>
+                    </ul>
+                `
+            },
             "Unit 6: Gene Expression and Regulation": {
                 tags: ["DNA", "gene expression regulation", "transcription", "translation"],
                 content: `
@@ -1725,7 +1747,7 @@ const NOTES = {
                             <li>Diverse complex Indian societies in Americas w/ social structure (some even w ladies in charge) and agricultural innovation (1491-1607)</li>
                             <li>Collisions of cultures between North, South, West, and Plains regions in US/Mexico (ex: Great Basin, Northeast, etc)</li>
                             <li>First migrations into America across Bering Strait in Alaska around 11k years ago, Asian land based migrants from near Siberia (fom Asia to around Chile and Peru)</li>
-                            <li>American Indian culture strongly influenced by corn cultivation before 1492 spreading from Mexico to America supporting settlement, irrigation, social diversification, economic development molding Pueblo culture</li>
+                            <li>American Indian culture strongly influenced by corn cultivation before 1492 spreading from Mexico to America supporting settlement, developing complex irrigation systems, social diversification, economic development molding Pueblo culture</li>
                         </ul>
                     </div>
                     <h3>Archaic Period</h3>
@@ -1778,6 +1800,7 @@ const NOTES = {
                             <li>Portuguese expanded overseas starting ~1400 and took leading role in African slave trade</li>
                             <li>Spain undertook Europe's first conquests in Americas</li>
                             <li>Portuguese traders traveled S and E</li>
+                            <li>Spain replaced Portugal as leading seafaring nation since they devoted more resources to maritime exploration</li>
                         </ul>
                     </div>
 
@@ -1790,8 +1813,108 @@ const NOTES = {
                             <li>Life ended in obscurity but his accomplishments made him a hero</li>
                             <li>Name for America came from <strong>Amerigo Vespucci</strong> who was explorer in a later Portuguese expedition to the New World</li>
                             <li><strong>Columbus Day</strong> federal holiday declared in 1934</li>
+                            <li>Columbus described Natives as unarmed, timid, and full of terror but still physically capable and have lots of culture in his letter, saying they could be conquered and converted easily</li>
+                            <li>Columbus describes island as fertile and beautiful</li>
+                            <li>Divine religious mission, also interested in geography and trade as he explored the New World</li>
                         </ul>
                     </div>
+
+                    <h3>More Explorers</h3>
+                    <div>
+                        <div>
+                            <p><strong>Vasco de Balboa</strong></p>
+                            <p>Spanish explorer crossed Panama isthmus in 1513, First European to see ocean seperating America from China/Indies</p>
+                        </div>
+                        <div>
+                            <p><strong>Prince Henry the Navigationr</strong></p>
+                            <p>Wanted to explore Western coast of Africa (not interested in finding sea route to Asia), wanted to establish Christian empire in Africa and aid wars against the Moors of Northern Africa. THis empire/dream was not achieved but some of his mariners went as far south as Cape Verde on Africa's west coast</p>
+                            <p>Portugal's "Heathen lands" of the New World was divided w Spain after Prince Henry's death, with most of New World going to Spain, and Africa/Asia/South American lands going to Portgual</p>    
+                        </div>
+                        <div>
+                            <p><strong>Ferdiand Magellan</strong></p>
+                            <p>Employed by Spanish, found the Strait of Magellan at the southern end of South America</p>
+                        </div>
+                        <div>
+                            <p><strong>Bartholomeu Dias</strong></p>
+                            <p>Rounded Southern tip of Africa in the Cape of Good Hope</p>
+                        </div>
+                        <div>
+                            <p><strong>Vasco de Gama</strong></p>
+                            <p>Proceeded all the way around the Cape of Good Hope to India</p>
+                        </div>
+                        <div>
+                            <p><strong>Pedro Cabral</strong></p>
+                            <p>1500 fleet of explorers bound for India but blown off coast westward and ended up on Brazilian coast</p>
+                        </div>
+                    </div>
+
+                    <p>AFTERMATH: New World considered a source of wealth, Spanish claimed most of New World except Brazil bc of Columbus, Spain established substantial American empire by mid-sixteenth centru</li>
+
+                    <h2>1.4: Columbian Exchange, Spanish Exploration, and Conquest</h2>
+                    <h3>Columbian Exchange</h3>
+                    <p>Exchange of People, lIvestock, food, diseases</p>
+                    <p>EFFECTS:</p>
+                    <ul>
+                        <ul>Diseases to new world like influenza, measles, chickenpox, smallpox, typhus, mumps whicjh killed 90% of nativees</ul>
+                        <ul>New food crops and domestic livestock introduced to new world like sugar, bananas, cattle, sheep, pigs, horses</ul>
+                        <ul>Corn/maize brought to Europe and later squash, pumpkins, beans, potatoes, tomatoes, peppers</ul>
+                    </ul>
+
+                    <h3>Spanish Conquistadors (GOD, GOLD, GLORY)</h3>
+                    <p>Values/motivations of Spanish conquistadors/conquers spread across New World except Brazil, tried to enslave Indians and find gold in New World</p>
+                    <p>Known for military brutalitty, achievement, and greed which was repeated throughout history, killing natives through warfare and disease</p>
+                    <p><Strong>Ordinances of Discovery</strong>: 1570s laws banning brutal military conquests but continuing colonization of New World</p>
+                    <p>Riches from gold/silver in mines making them rich, established elements of European civilization changing landscape/social structure, created profitable agricultural economy</p>
+                    <p>Catholic Church: Catholicism was the only relgion allowed in new territories, goal to convert natives w/ priests/friars accompanying colonists after Conquistador era, presidios (military bases) often near missions, spread through South/Central America, Mexico, and South/Southwest US,</p>
+                    <p>Spread of language / religion to New World (Catholicism spread by Spanish to New World, Portuguese spread to Brazil, Spanish in Americas</p>
+                    <p>Racial hierarchy: Spanish immigrants & natives contact led to intermarriage and mixed race called mestizos</p>
+                    <p>Labor System: natives were European labor source, Indians sold into slavery and disease/war also hurt them</p>
+                    <p>Lasting effects: Spanish invaders killed/invaded/enslaved/infected natives and forced culture onto them and also intermarried/adopted some of Native culture</p>
+                    <p>Some tribes either tried to preverve their traditions or chose to flee instead of accept enslavement, some waged war or responded to European w violence like in the Pueblo Revolt / Pope's Rebellion</p>
+                    <div>
+                        <div>
+                            <p><strong>Hernando Cortes</strong></p>
+                            <p>Spanish Cuban gov official w little success, led military expedition into Mexico but met w Aztec strong resistance instead of gold</p>
+                        </div>
+                        <div>
+                            <p><strong>Francisco Pizzaro</strong></p>
+                            <p>Conqeurred Peru from 1532-1538 revealing to Europe the wealth of Incas and opening way for advances to South America</p>
+                        </div>
+                        <div>
+                            <p><strong>Hernando de Soto</strong></p>
+                            <p>Search for gold, silver, and jewels in New World mostly unsuccessfully, led several expeditions through Florida and was the first man to have crossed Mississippi River (1539-1541)</p>
+                        </div>
+                        <div>
+                            <p><strong>Francisco Coronado</strong></p>
+                            <p>Traveled north from Mexico to New Mexico to search for gold/jewels unsuccessfully, opened Southwest US to Spanish settlement</p>
+                        </div>
+                    </div>
+                
+                    <h2>1.5: Labor, Slavery, and Caste in the Spanish Colonial System</h2>
+                    <p>Inrersection of Indians in Americas, contact w Europeans, and Trans-Atlantic Slave trade bringing Africans to New World/Americas and diff opinions</p>
+                    <p>Spanish Empire laid foundation for Trans-Atlantic Slave trade</p>
+                    <p>Encomienda System - effects on native populations </p>
+                    <p>Caste System: Exploration of Spanish spreading caste system/slavery to Europe,Africans,Natives as a result of Columbian Exchange</p>
+
+                    <h3>Labor&Slavery</h3>
+                    <p>Spanish explorers invaded Canary Islands for sugar and enslaved slaves to work on sugar plantations for hard labor/unsafe conditions/grueling heat, sugar used to produce alcoholic beverages/wine for trade, Spanish claimed lands to spread Christianity to natives</p>
+                    <p>CANARY ISLANDS: naval base used by Europeans to raid villages and capture Africans for slavery/sugar plantation labor since Portuguese/Spanish settlers found heat/labor excessive, Africans sold warring group members to Europeans</p>
+                    <p>1482 Elmina Castle - Portuguese used enslaved Africans to built, held captured Africans, trade gold for humans</p>
+                    <p>Treaty of Tordesillas - divided New World into spheres of influence between Spain and Portgual which affected native ppl/resources badly</p>
+                    <p>African slaves used to produce sugar in Cuba & Hispaniola, w first Africans arriving in 1501, many natives dying from disease/warfare from European contact</p>
+                    
+                    <h3>Caste System</h3>
+                    <p>Spanish system w Spanish first (Sango Puro - pureblood Spanish 1st, Criollos - Spanish born in colonies 2nd, Mestizos - mixed/interracial Spanish 3rd)</p>
+                    <p>Other Europeans second, Natives third, Africans last</p>
+                    <p>Social hierarchy/patriarchy outlining Spanish colonization and family status measured by service to expand Spanish empire</p>
+                    <p>Spanish exploration expanded to US and Philipines</p>
+
+                    <h3>Encomienda System</h3>
+                    <p>Force Natives to embrace Christianity and serve as unpaid Spanish laborers replaced by a further reaching system</p>
+                    <p>REPARTIMIENTO SYSTEM: replaced encomienda system, made Native towns supply free labor pool for Spanish Overlords, law by 1575</p>
+
+                    <h2>1.6: Cultural Interactions Between Europeans, Native Americans, and Africans</h2>
+                    
                     `
             }
         }
