@@ -1914,8 +1914,96 @@ const NOTES = {
                     <p>REPARTIMIENTO SYSTEM: replaced encomienda system, made Native towns supply free labor pool for Spanish Overlords, law by 1575</p>
 
                     <h2>1.6: Cultural Interactions Between Europeans, Native Americans, and Africans</h2>
+                    <p> Europeans and Natives different views on religion, gender, family, land, power. Europeans believed they were civilized and believed Native Americans/Africans were uncivilized heathens. European ideals of Christianity, monagamy/two parents in a family, patriarchy w women focused on domesticity, and male dominited government<p>
+                    <p>Christian/European missionaries imposed views onto others, Natives either forcefully or voluntarily converted and often merged their traditional religion w/ Christianity, Africans did same developing creolized Christianity</p>
+                    <p>Creolized Cultures b/c of conflicts/compromise and mutual misunderstandings in interaction</p>
+                    <p>Natives wanted to maintain indigenuous practices through treaties / military resistance w settlers</p>
+                    <p>Europeans wanted New World/Africa for silver, gold, riches, slaves, Catholic converts, labor pool but Natives/Africans tried to rebel, escape, and resist since they knew the land better</p>
+                    <p>MAROON COLONIES / MAROON COMMUNITIES: African communities of former slaves, often joined Native communities like in the Virgia/NC Great Dismal Swamp as a refuge</p>
                     
+                    <h3>European Migration, Settlement, Conflict -> COLONIZATION</h3>
+                    <p>European groups competed over land, resources, and conquest of natives</p>
+                    <p><strong>St. Augustine, Florida</strong>: first permament settlement in North America by SPanish in 1565</p>
+                    <p><strong>Jamestown, Virginia</strong>:first British permanent settlement in 1607</p>
+                    <p>Colonies development/progress relied on free labor and eventually all British colonies instituted slavery</p>
+                    <p>Conflict between Europeans led to Seven Yrs War (aka French and Indian War) in 1756-1763 securing British dominance in New World</p>
+
+                    <h2>1.7: Causation in Period 1</h2>
+                    <p>Make hitorically defensible claim and effects of voyages and how they impacted Europeans, American Indians, and Africans</p>
+                    <p>CAUSATION: events caused by prior events</p>
+                    <p>-Traditional African religions usually polythesitic but merged w Christianity</p>
                     `
+            },
+            "Unit 2: 1607-1754":{
+                tags: ["Colonization", "British colonies", "Transtlantic trade", "slavery", "mercantilism"],
+                content: `
+                    <h2>2.1: Contextualizing Period 2</h2>
+                    <p>Europeans came to New World for land, resources, conquering natives which resulted in difgferences in environment, economics, culture, and demographics</p>
+                    <p>Europeans viewed Natives as uncivilized and needed salvation, British were prominant foreign settlers by 17th century imposing their ideass on Natives & control of transatlantic slave trade / enslaved Africans</p>   
+                    <p>Indentured servitude and slavery co-existed but became racially different</p>
+                    <p>Chesapeake region relied more on slavery (class disparity, cash crops needing labor) than New England religious colonies (mixed economy like fishing, manufacturing lumbering)</p>
+                    <p>Virginia Company - profit motive enocuraging immigration</p>
+                    <p>Cutlrual differences in landf use between natives and europeans</p>
+
+                    <h2>2.2: European Colonization</h2>
+                    <p><strong>Seperatists</strong>: opposed Church of England, some went to Holland but thought morals there were too loose, others came to New World</p>
+                    <p><strong>Puritans</strong>: came to New World seeking pure church better than the Church of England, embraced Calvinism not Catholicism</p>
+                    <p><strong>Indentured Servants</strong>: Europeans who wroked for people who paid their way to New World, often for 7 yrs before indenture complete recieving land/money for service</p>
+                    <p><strong>Enslavement/Enslaved</strong>: Africans brought to New World against their will, purchased in African west coast and sold to europeans, brought to caribbean/Americas and endured life-long bondage through the transatlantic slave trade</p>
+
+                    <h3>Early Settlers / Explorers (in canada, mostly French)</h3>
+                    <ul>
+                        <li>Jacques Cartier sailed St. Lawrence River in 1530s in Canada</li>
+                        <li>Samuel de Champlain established Quebec in 1600s, known as Father of New France which was settled by fur traders, Catholic Missionaries, soldiers of the King</li>
+                        <li>Small group of Protestants called Huguenots eventually made their way to Canada</li>
+                        <li>Not friendly but better relations w Natives and French and they developer fur trading routes  / intermarriage more than English/Dutch which was an advantage</li>
+                    </ul>
+
+                    <h3>Dutch in New World (17th century)</h3>
+                    <ul>
+                        <li>Henry Hudson explored NYC/Manhattan Island and river named after him</li>
+                        <li>Dutch traded for beaver pelts and created settlements in Albany</li>
+                        <li>New Amsterdam established in 1625, tense relations w Natives and was overtaken by British in 1664 who renamed in New York</li>
+                        <li>Did not venture much past NY so were eventually vovertaken</li>
+                    </ul>
+
+                    <h3>British in New World (starting in ~1606 in 17th centruy)</h3>
+                    <p>England's population growth caused people to seek new places to live, minorities sought refuge</p>
+                    <ul>
+                        <li><strong>(1601) The London Company</strong>: joint-stock company that received a charter from King James I to establish colonies in North America</li>
+                        <li><strong>(1607) Jamestown</strong>: first permanent British colony led by Captain John Smith but it was unsuccessful, 2/3 of population died from starvation, disease, drought, swamps, difficulty growing crops</li>
+                        <li>Strained relationship w natives - they were used as labor for tobacco growing, then indentured servants used instead, the African indentured servants by 1619</li>
+                        <li><strong>Pocohontas</strong> - Chief Powhatan native's daugher who saved John Smith from execution supposedly, who later married John Rolfe who sustained colony by harvesting tobacco which was a very lucrative crop leading to need for labor</li>
+                        <li>1662 - enslaved Africans did labor on tobacco plantations, law passed in Virginia making children born of a slave mother also slaves regardless of father</li>
+                        <li><strong>1619 House of Burgesses</strong>: first legislative body of Virginia Colony</li>
+                        <li><strong>(1620) New England coloy</strong>: New England/Massachusetts settlement group led by William Bradford, w/ charter granted by London Company</li>
+                        <li>Mayflower landed in Cape Cod/Plymouth Rock, called Pilgrims for their pilgrimage to the new world, signed the Mayflower Compact establishing representative government/social contract (NO WOMEN SIGNED IT), survived starvation and weather with help of Natives (1621 first Thanksgiving, 1691 Plymouth Colony became part of Massachusetts Bay Colony</li>
+                        <li>(1629) Massachusetts Bay Colony formed - John Winthrop and other Puritans want to establish colony devoted to Godly principles, calling it city upon a hill w/ thriving towns by 1640 and profitable industries like lumbering, fishing, shipbuilding, etc. Supposed to be place for religious freedom but 2 residents (Roger williams/anne huthinson) banished to rhode island for criticizing religious establishment/authority</li>
+                        <li>(1692-1693) Salem Witch Trials - accusations, political instability, religious fervor w/ trials resulting in executions</li>
+                        <li><strong>(1632) British Southern Colonies</strong> King Charles I granted Calvert family charter to found colony of Maryland for Catholic sanctuary / religious tolerance</li>
+                        <li><strong>1660s</strong>: Carolina became English colony through charter from King Charles II which eventually split between North and South</li>
+                        <li>All mid-Atlantic and Southern colonies relied on slave labor to develop economies w/ plantation-based agricultural economy</li>
+                        <li>British different from European counterparts bc colonies established their own legislative bodies oftentimes, came for religious freedom, were economicall self-suffiecient esp bc of tobacco</li>
+                    </ul>
+
+                    <h2>2.3: The Regions of British Colonies</h2>
+                    <p>Colonies were moneymakers for the Crown/British</p>
+
+                    <h3>New England British Colonies</h3>
+                    <p>Natural population increase (not due to migration) by 18th century, mostly occupied by cliquish Puritans, mixed economies w lumbering, fishing, but agriculture not as profitable, etc</p>
+                    <p>Profitable reason so most taxed, MERCANTILISM benefited the crown so colonists questioned why they were not represented, women mostly relegated to domestic sphere</p>
+                    <p><strong>Mercantilism</strong>: benefit mother country through gold and silver</p>
+                    <p>Social classes developed where wealthy owned industries and poor worked for wealthy</p>
+
+                    <h3>Middle British Colonies</h3>
+                    <p>Most diverse colonies, Maryland Catholic haven, New York (formerly New Amsterdam) immigrant haven, Philadelphia established by Quaker William Penn who wannted to ally w Natives</p>
+                    <p>Demographics: Scots-Irish, Germans, Quakers, etc</p>
+                    <p>Great Wagon Road - road transporting ppl, food, supplies, produce, newspapers, etc throughout Middle Colonies as a major part of other road intersections</p>
+
+                    <h3>Southern British Colonies</h3>
+                    <p>Relied on intense hot long dreadful conditioned slave labor for profitability, harvest/cultivation of crops like tobacco, rice, and indigo especially in Virginia and also the Carolinas</p>
+                    <p>(All British colonies even in other regions relied on slave labor, but southern labor was most intense)</p>
+                `
             }
         }
     },
