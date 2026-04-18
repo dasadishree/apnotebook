@@ -2086,6 +2086,148 @@ const NOTES = {
                     <h2>2.8: Comparison in Period 2</h2>
                     <p>just writitng stuff idk</p>
                    `
+            },
+            "Unit 3: 1754-1800":{
+                tags: ["American Revolution", "nation", "early government"],
+                content: `
+                    <h2>3.1 Contextulaizing Period 3</h2>
+                    <p>Context is looking at change/continuity/similarities before or within this unit/period</p>
+                    <h3>Ex: Context for Declaration of Independence</h3>
+                    <ul>
+                        <li>Enlightenment thought: John Locke, Natural Law, Jean Jacques Rousseau, the Social Contract</li>
+                        <li>Cost of 7 Yrs War (1754-1763) leading to taxation (Stamp Act of 1765, etc) provoking argument of taxation w/o representation</li>
+                        <li>Sons of Liberty, Committees of Correspondence, Boston Tea Party (1773), Intolerable Acts (1774)</li>
+                        <li>Second Continental Congress meets in aftermath of battles at Lexington, Concord, Bunker Hill</li>
+                        <li>Olive Branch Petition and England's rejection</li>
+                        <li>Thomas Paine, Common Sense</li>
+                    </ul>
+
+                    <h2>3.2: Seven Years' War / French and Indian War</h2>
+                    <p>Intensifying colonial rivalry between Britain and France, British colonies expanding into French-Indian trade networks</p>
+                    <p>British defeated France which expanded its territorial holdings but needed revenue which set stage for control over colonies to raise revenue</p>    
+                    <p>4 wars between England and France from 1689-1763 w/ England making gains in Each, and the French and Indian War was the columniation of competing claims in Ohio Valley</p>
+
+                    <h3>Albany Plan of Union</h3>
+                    <p>THINK OF THE SNAKE: JOIN OR DIE POLITICAL CARTOON BY BENJAMIN FRANKLIN</p>
+                    <p>Plan to unite colonies, rejected by British bc they didn't want to make colonies powerful, rejected by colonies since they don't trust each other</p>
+                    
+                    <h3>American Indians</h3>
+                    <p>REALPOLITIK (political realism) where they shifted alliances to whoever could benefit them most so started w French but shifted to British by end of the war</p>
+
+                    <h3>Treaty of Paris of 1763</h3>
+                    <p>Britain wins, France loses all North American continental posessions, England gains Canada, North America from French and Florida from the Spanish and has full control over eastern US but had to keep peace and manage disputes between Natives and colonists</p>
+                    <p>Considerable monetary cost to British leads to debt and need to raise revenue, turning to colonists and ending salutary neglect thorugh taxing goods in colonies since England wanted more colonial subordination and sharing of imperial expenses</p>
+                    <p>Didn't recognize Native land claims leading to Pontiac's Rebellion since natives couldn't shift their alliances between British and French anymore</p>
+
+                    <h3>Proclamation of 1763</h3>
+                    <p>Imperial attempt to keep peace in east US by forbidding colonial settlement west of Applachian, reduced cost more than having to keep military presence and eased native resistance</p>
+                    <p>Colonials were angry bc they helped w war effort and earned right to the western lands</p>
+
+                    <h2>3.3 Taxation Without Representation</h2>
+                    <p>British attempted to collected taxes w/o colonial representation or consent which united colonies and led to resistance for their rights and Enlightenment ideas</p>
+                    <p>Coalition War - partnership between multiple nations/groups collaborating to achieve common strategic objectives</p>
+
+                    <h3>Imperial Goals>
+                    <p>British wanted to: reduce Empire expenses, intiatie new taxation policies, integrate colonial America to Empire and show colonial responsibilities, practice mercantilism by reducing smuggling and colonial manufacturing</p>
+                    <p>VIRTUAL REPRESENTATION: Parliament legislate on behalf of colonists</p>
+                    <p>Series of laws/acts to have colonists pay their fair share as British EMprie members:</p>
+                    <div>
+                        <div>
+                            <p><strong>Proclamation of 1763</strong></p>
+                            <p>Stabilize British relations w Natives by forbidding colonial settlement west of Applachian through Procl,amation Line of 1763</p>
+                        </div>
+                        <div>
+                            <p><strong>Sugar Act</strong></p>
+                            <p>Taxed sugar, molasses, and textile and restricted exports and tigthtened anti-smuggling laws</p>
+                        </div>
+                        <div>
+                            <p><strong>Currency Act</strong></p>
+                            <p>Regulate paper money issuance, prevented creation of new paper bills which caused currency shortage</p>
+                        </div>
+                        <div>
+                            <p><strong>Quartering Act</strong></p>
+                            <p>British laws passed in 1765 requiring colonists to house British soldiers to reduce costs for Crown</p>
+                        </div>
+                        <div>
+                            <p><strong>Stamp Act</strong></p>
+                            <p>Colonists paid for troop protection requiring taxed paper for legal documents, newspapers, and playing cards</p>
+                        </div>
+                    </div>
+
+                    <h3>Colonial Unity</h3>
+                    <p>Colonists were angry about being taxed without representation using Great Awakening and Enlightenment ideals to argue for the social contract and consent of the governed, leading to suspicion/shared grievances allying 13 colonies</p>
+                    <p>Colonial indpeendece movement led by activists/leaders like Benjamin Frankin , British/loyal colonists Patriot movement contrasted it</p>
+                    <p>Groups created all focusing on philosophy, discussions of liberty and governance, embodying working class presence and diff levels of society, more direct physical action like desctruction of propeerty, tarring, feasthering</p>
+                    <p>Women important to boycott movement success, producing handmade alternatives to British goods</p>
+                    <div>
+                        <div>
+                            <p><strong>Committees of Correspondence</strong></p>
+                            <p>US legistlativer bodies/organizations aiming to facilitate rapid exchange of info and unity among colonies against British, connecting towns through letters and sharing news</p>
+                        </div>
+                        <div>
+                            <p><strong>Stamp Act Congress</strong></p>
+                            <p>Meeting in NYC to formally protest taxation w/o represntation and petition repeal of tax to assert colonial rights</p>
+                        </div>
+                        <div>
+                            <p><strong>First Continental Congress (1774)</strong></p>
+                            <p>Meeting in Philadelphia bringing together 12 colonies (except Georgia) to unify against British abuse, organized in respone to Coervice Acts, colonists wanted to coordinate peaceful resistance to restore relaitons w British</p>
+                        </div>
+                        <div>
+                            <p><strong>Sons of Liberty</strong></p>
+                            <p>Secret decentralized colonist organziaiton to oppose British tacxation like Stamp Act</p>
+                            <p>Began collecting/storing weapons and supplies, creating local shadow governments, and establihing intelligence networks for colonial mobilization</p>
+                        </div>
+                        <div>
+                            <p><strong>Nonimportation Agreements</strong></p>
+                        </div>
+                        <div>
+                            <p><strong>The Minutemen</strong></p>
+                            <p>Semi-regular militia</p>
+                        </div>
+                        <div>
+                            <p><strong>Boston Masssacre</strong></p>
+                            <p>Example of public defiance as public satements or propoganda victories, British soldiers fired into protestors as a result of tension, killing 5 civilians</p>
+                        </div>
+                        <div>
+                            <p><strong>Boston Tea Party</strong></p>
+                            <p>Example of public defiance as public statements or propaganda victories, Sons of Liberty protested tea sale monopoly of the British East India Company through the tea act</p>
+                        </div>
+                    </div>
+                    <p>Some colonists were still loyal to the Crown as Patriots, producing bandages/supplies for Army and some traveled w Army as camp followers tending to wounded and giving support (esp women)</p>
+    
+                <h2>3.4: Philosophical Foundations of American Revolution</h2>
+                <h3>Enlightenment</h3>
+                <p>Enlightenment ideas (emphasis on reason, science, testing, rationality, logic, questioning religion) made American political thinkers emphasize individual talent over privilege, religion strengthened American view of themselves/liberty</p>
+                <p><strong>John Locke</strong>: Enlightenment thinker emphasizing Natural Law / Rights granted NOT BY GOV, by God, nature, or reason</p>
+                <p><strong>Jean Jacques Rousseau</strong>: The Social Contract between gov and governed for gov to protect natursal rights</p>
+                <p>Divine right of kings for absolute rule was illogical / against natural order of universe, a good gov would give ppl access to their natural right</p>
+                <p>Thomas Paine's Common Sense & Declaration of Indpenednce was ideas resonating in history/ideals in US</p>
+                
+                <h3>Great Awakening 1730s-1740s</h3>
+                <p>Influenced colonial thought politically since diversity in religion led to diversity in poliotical thought, and socially since it was anti-hierarchical and anti-elitist</p>
+
+                <h3>Classical Republicanism</h3>
+                <p>CLASSICAL REPUBLICANISM: nation of virtuous civic-minded citizens w collective good in their minds/deeds and not tyrannized as a result</p>
+                <p>Colonists embraced New World idea opposing tyrannical European Old World which was evolution of Puritan "City on a Hill" ideal</p>
+                <p>King/Parliament were taking away rights and British gov was corrupt, leading to colonial paranoia and distrust</p>
+                <p>Many colonists hesitant to take final step and declare permanent break w Britain</p>
+
+                <h3>Timeline/Background</h3>
+                <ul>
+                    <li>April 1775 - Lexington & Concord</li>
+                    <li>May 1775 - Second Continental Congress meet</li>
+                    <li>June 1775 - Battle of Bunker Hill</li>
+                    <li>July 1775 - Olive Branch Petition</li>
+                    <li>August 1775 - Royal Proclamation of Rebellion</li>
+                    <li>Oct 1775 - Prohibitory Act - Britain forbids trade</li> 
+                    <li>Jan 1776 - Publication of Thomas Paine's Common Sense - Paine arrives in colonies in late 1774 and frustrated by Biritish actions, put together reasons for breaking away from England in a pamplet mass produced and consumed (divine right of kings was outdates and parliaments was insensitive to colonial needs, england was using the colonies w/o colonial benefit, american rights were being systematically taken away)</li>
+                    <li>June 1776 Second Contiental Congress debated independence and approved a draft declaration by Jefferson, Adams, Frankflin, Livingston, and Sherman designed to get colonists to join revolution</li>
+                </ul>
+
+                <h3>Declaration of Independence</h3>
+                <p>Structure: opens w Locke and Rousseau's ideas of natural rights, social contract, consent of the governed, then moves into a list of colonial grievances concluding with separation as a solution</p>
+                <p>Does not declare independence for swomen, slaves, or Natives  but they would use Declaration's reasoning to claim rights for themselves going forwards</p>
+                `
             }
         }
     },
