@@ -2156,7 +2156,7 @@ const NOTES = {
 
                     <h3>Colonial Unity</h3>
                     <p>Colonists were angry about being taxed without representation using Great Awakening and Enlightenment ideals to argue for the social contract and consent of the governed, leading to suspicion/shared grievances allying 13 colonies</p>
-                    <p>Colonial indpeendece movement led by activists/leaders like Benjamin Frankin , British/loyal colonists Patriot movement contrasted it</p>
+                    <p>Colonial indpeendece Patriot movement led by activists/leaders like Benjamin Frankin , British/loyal colonist movement contrasted it</p>
                     <p>Groups created all focusing on philosophy, discussions of liberty and governance, embodying working class presence and diff levels of society, more direct physical action like desctruction of propeerty, tarring, feasthering</p>
                     <p>Women important to boycott movement success, producing handmade alternatives to British goods</p>
                     <div>
@@ -2193,7 +2193,7 @@ const NOTES = {
                             <p>Example of public defiance as public statements or propaganda victories, Sons of Liberty protested tea sale monopoly of the British East India Company through the tea act</p>
                         </div>
                     </div>
-                    <p>Some colonists were still loyal to the Crown as Patriots, producing bandages/supplies for Army and some traveled w Army as camp followers tending to wounded and giving support (esp women)</p>
+                    <p>Some colonists were still loyal to the Crown, other were Patriots, producing bandages/supplies for Army and some traveled w Army as camp followers tending to wounded and giving support (esp women)</p>
     
                 <h2>3.4: Philosophical Foundations of American Revolution</h2>
                 <h3>Enlightenment</h3>
@@ -2227,6 +2227,112 @@ const NOTES = {
                 <h3>Declaration of Independence</h3>
                 <p>Structure: opens w Locke and Rousseau's ideas of natural rights, social contract, consent of the governed, then moves into a list of colonial grievances concluding with separation as a solution</p>
                 <p>Does not declare independence for swomen, slaves, or Natives  but they would use Declaration's reasoning to claim rights for themselves going forwards</p>
+
+                <h2>3.5: The American Revolution</h2>
+                <p>Despite loyalist (pro-British 1/5) and non-aligned (2/5) opposition and british advantages, Patriot (antibritish colonial 2/5) cause succeeded bc military actions, George Washington's leadership, assistance from European allieces, and colonists's commitment/resilience</p>
+                <p>Conflict between these groups (Britsh v Colonial, Loyalist vs atriot) explained why war took 9 yrs</p>
+                <p>Causes & consequences more important than the battles themselves</p>
+                <p>British advantages: industry, empire, army, navy compared to colonial disadvatnages of no industry, underfinanced, undersupplied, untrained military</p>
+                <p>Colonial advantages: war fought on colonial soil on colonial terms, highly motivated, easily identifiable enemy, ability for rapid movement, washignton's leadership, foreign assistance from Franco-American Alliance of 1778, british faced challenges like difficulty coordinating/communiciating, vast terrirotiry, and asymetrail warfare bc big heavy contentional war equipment wasn't suitable</p>
+                <p>Great Britain wanted to divide and conquer, control cities/coast and crush continental army, US wanted guerilla war to avoid major battles, hit and run, draw british inland, control countryside and control time/places of battles</p>
+                <p>NY, Philadelphia - Washington/US win by not losing through stalemate in North, French alliance using realpolitik since enemy of enemy=friend, war in South was internal American civil war betwween Loyalists vs Patriots and inability of British to keep peace here leads to their failure in revoluitioon</p>
+                <p><strong>Treaty of Paris</strong>: British frustrations since their military victories were irrelevant, Southern disorder and British pursuit of US forces over the entire region brought undecided to Patriot, Treaty of Paris recognized US, gave them fishing rights, compensate loyalists, Missisipi River as western boundary, British promise to evacuate the Great Lakes</p>
+                
+                <h2>3.6: The Influence of Revolutionary Ideals</h2>
+                <p>Increased awareness of inequalities in society motivated individuals/groups to call for abolition of slavery, women's rights, future indpendence movements like in France/Haiti/Latin America & greater political democracy in new state/national governments</p>
+                <p><strong>Social Levelling:</strong>: anti-aristocratic, pro-egalitarian, distrustful of distant authority movement as a result of revolution, leads to decline in indentured servitude</p>
+                <p>Abolition was considered more as an actual political position (VT 1777, PA gradual abolition starting in 1780, by 1800 all of Northeast except NJ were legally free states</p>
+                <p>Disestablishment - elimination of official state supported religions, no faith was dominant enough to control secular state power. freedom of religion was a right</p>
+                
+                <h3>Articles of Confederation</h3>
+                <p>Government - emerging ideas of limited power, rejection of monarchy, emphasis on civic/public virtue, euqality, and anti-defence</p>
+                <p>Loose network tying states together only when necessary</p>
+                
+                <h3>Women's Rights</h3>
+                <p>Patriot women picked up on messages of liberty, emerging as activists and they were essential for British good boycotts during/before the war, had to maintain farms/househol;ds during war and supply troops through orgs, engaged in espionage, becampe camp followers and some even served in military</p>
+                <p>Freedom messages led to American women's movement for rights in society, leading to Republican Motherhood philosophy saying women had large societal role to raise next generation of male citizens so they needed more education/intellectual access (roles are still patriarchal but status elevated)</p>
+                <p>Some women's suffrage or at least calls for women to be given right to vote</p>
+
+                <h3>Global Revolutions</h3>
+                <p>French Revolution - overthrow over monarchy and rejection of divine right and democratic ideas spreading like the American Revolution</p>
+                <p>South/Central America - decolonization and independence in 19th century drew heavily on American Revolution ideas, such as SIMON BOLIVAR revolutionary leader</p>
+                
+                <h2>3.7: Articles of Confederation</h2>
+                <p>New state constitutions gave power to legislavtive branch and maintained property qualifications for voting/citizenship</p>
+                <p>Articles of Confederation - unified states creating limited central gov but difficulties led to calls for a stronger central gov</p>
+                <p>State prioritized fear of tyranny so they constrained exeutcive p[ower, legislature branch most important, constained executive power to avoid king</p>
+                <p>Successes included: prosecuting Revolutionary War, giving ex-colonists form of national citizenship, get states to cede Western land claims to federal gov</p>
+                <p>Overall unsuccessful since US was weak new republic in globally strong imperialist monarchies, not able to regulate foreign commerce, national debt and challenges raising revenue, unable to make Britain to leave military installationns, not able to regulate foreign commerce</p>
+                <p>National gov was too loose, leading to Congress not being able to control states raising or lowering taxes and printing money leading to inflation/unstable economies</p>
+                <p>2 MAIN PROBLEMS: issues w currency/debt, arguments on political equality/republicanism limits (ex: more conservatism, in PA radical leveling state constitutuion of 1776 replaced by centralziing power doc)
+
+                <h3>Northern Ordinance</h3>
+                <p>Created by Congress as settlers moved westward, which promoted public education & protection of private property & ban slavery in Northwest</p>
+                <p>Allotment of western land to be opened for settlement, set up township system and admission process, allowed settlers/states to enter Union as a fully equal states, eliminating problem of colonies for ex-colonies, resourcing schools, and proviso that slavery was NOT allowed</p>
+                <p>Created Ohio, Indiana, Michigian, Wisconsin, Illinois</p>
+
+                <h3>Shays Rebellion</h3>
+                <p>Farmers led by Daniel Shays prevent coutrys from foreclosing bc of lack of paper currency, unable to be stopped by federal gov w/o military, 4 farmers killed by state milita sent in</p>
+                <p>Exposed overall weakness of the Articles and showed the federal gov needed to be stronger to prevent similar situations occuring in US</p>
+                <p>Realizes too much democracy in independent state model was just as bad at too little democracy in colonial system --> revision</p>
+
+                <h2>3.8: The Constitutional Convention & Debates over Ratification</h2>
+                <p>Diff structure/function of federal gov neogitated/collaborated/compromised through delegates from states during Constitutional Convention</p>
+                <p>Articles gave too much power/autonomy to state and barely any national power 1781-1788</p>
+                <p>James Madison - stronger central power, asking Washington for approval< compromising national and local authority through representation based on # of people in states, national gov shd have authority in cases needing uniformity like trade or vetoing state laws, checks and balances</p>
+
+                <h3>Compromises</h3>
+                <p>Betwen slave statess and free states, regulation of slavery, allowing for prohibition of international slave trade after 1808, between Federalists and anti-Federalists over structure of gov</p>
+                <div>
+                    <div>
+                        <p><strong>Representation in Bicameral Legislature</strong></p>
+                        <p>Large vs small states --> led to 2 legislative bodies: the Senate and House of Representatives where eacxh state got 2 senators per state, but representatitves were proportional to the population as measured by the census every 10 years. Together both could pass laws</p>
+                    </div>
+                    <div>
+                        <p><strong>Executive Branch (Electoral College)</strong></p>
+                        <p>How to elect presidents? --> Led to each state electing "Electors" in Nov who represent their state in the Electoral College in Dec, and the num of electors for each state = # senators + # house members for that state. Winner takes all format for that state popular vote.</p>
+                        <p>Controlled voter fraud, informed votes, distributed voting power between large and small states, has modern implications</p>
+                        <p>538 total members, 270 votes needed to win</p>
+                    </div>
+                    <div>
+                        <p><strong>Central vs State Power (Federalism)</strong></p>
+                        <p>Bill of Rights representing individual rights and restricting federal gov power</p>
+                        <p>9 out of 13 states needed for Constitutional ratification leading to divisions and factions between Federalists and Anti-Federalists</p>
+                        <p>Small states wanted stronger gov for protection, Massachusetts demanded Bill of Rights</p>
+                        <p>Federalist Leaders like James Madison, Alexander Hamilton, and John Jay wrote essays called Federalist Papers for NY Newspapers explaining rationale for gov structure and ratification. Believed Bill of Rights would actually limit ppl's rights</p>
+                        <p>Anti-Federalist Leaders: George Clinton, Patrick Henry, Samuel Adams, George Mason, Richard Henry Lee, John DeWitt raising questions about Constitution, Bill of Rights, and protection of state power. Believed governed must have explicit protection from the gov</p>
+                        <p>Media used by both federalists and anti-federalist, constitution ultimately ratified by required 9 followed by remaining 4 by the time of first election</p>
+                    </div>
+                    <div>
+                        <p><strong>Slavery (3/5 Compromise)</strong></p>
+                        <p>SOuthern states wanted representation and wanted their massive slave population to count so compromise is that they counted as 3/5 ofa vote</p>
+                        <p> Representatives/taxes apportioned to states adding 3/5 for every non white person, gave much more power to Southern states</p>
+                        <p>Protected slave trade in the Constitution itself</p>
+                    </div>
+                </div>
+
+                <h2>3.9: Constitution</h2>
+                <p>Changes in gov bc of Constitution, delegates from states participated in Constitutional Convention creating limited central gov (federalist) but seperation of powers through 3 branches</p>
+                <p>Federaslism: State power included schools, intrasdtate commerce, public safety, anything not specifically given to nation gov. National gov handled money, foreign affairs, mail, war, international/interstate trade. Both can tax</p>
+                <p>Both govs have 3 branches/sections: Executive (president nationally, governor locally), Legislature (Senate/House nationally, General Assembly locally), Judicial (Supreme/Federal Courts nationally, State Court/state law locally)</p>
+                
+                <h3>Separation of Powers / Checks and Balances</h3>
+                <p>Legislative Branch: main job is to make laws, so it could impeach president, judgets, approve treaties, override vetoes, make amendments/rulings</p>
+                <p>Executive Brasnch: main job is to implement laws, so it could appoint judgets and veto laws</p>
+                <p>Judicial Brnach: main job is to interpret laws so it could overturn laws and executive orders</p>
+
+                <h3>Continuity & Change</h3>
+                <p>CHANGES: federal power more supreior to state w/ power to tax, new court system, regulation of trade, foregin affairs, diff representation, easier to amend Constitution</p>
+                <p>CONTINUITIES: still republic/democratic gov, some ppl still denied rights, bill of rights was too general so not known whegther it applied to slaves, natives, or women, slavery was protected until 1808</p>
+
+                <h3>Fugitive Slave Clause</h3>
+                <p>Prevented slaves from escaping from labor to another state</p>
+
+                <h2>3.10: Shaping a New Republic</h2>
+                <p>French Revolution: war between France and Britain led to challenges to US over issues of free trade and foreign policy, competition intensified conflcits, US gov forged diplomatic initiaitves to deal w British/Spanish presence in North America as US settlers migrated beyond Appalachians</p>
+
+                <h3>George Washington's Cabinet</h3>
+                <p>THomas Jefferson - Secretary of State (dealt with Foreign Affairs), Alexander Hamilton - Secretary of Treasury (dealt w US economy), Henry Knox - Secretary of War, and Edmund Randolph - Attorney General</p>
                 `
             }
         }
