@@ -2333,7 +2333,303 @@ const NOTES = {
 
                 <h3>George Washington's Cabinet</h3>
                 <p>THomas Jefferson - Secretary of State (dealt with Foreign Affairs), Alexander Hamilton - Secretary of Treasury (dealt w US economy), Henry Knox - Secretary of War, and Edmund Randolph - Attorney General</p>
+
+                <h3>French Revolution</h3>
+                <p>At first US aligned w French since they wanted to overthrow King Louis XVI, but Reign of Terror and France's declaration of war on other European nations raised questions causing divided US and even divided Washingotn's Cabinet</p>
+                <div>
+                    <div>
+                        <p>French supported US in American Revolution (ex: Battle of Yorktown), French ideas of democratic reform opposed to monarchy</p>
+                        <p>Thomas Jefferson supported French Revolution, leading to formation of Republican societies</p>
+                    </div>
+                    <div>
+                        <p>French not supported bc Reign of Terror was too radical, and economic trade was affected</p>
+                        <p>Alexander Hamilton opposed French Revolution, and merchants agreed since they fearing economic trouble</p>
+                    </div>
+                </div>
+
+                <h3>Neutrality Proclamation</h3>
+                <p>Washington wanted to be uninovled, not taking Britain/France's side by staying neutral, telling citizens to not get involved and not give aid in any form</p>
+                <p>Protect vulenerable new nation</p>
+                <p>Contributed to growing political divide within Cabinet and public, new political parties forming w/ foreign policy being just one factor (Federalists led by Hamilton, Democratic-Republican led by Jefferson/Madison bc of diff positions on gov and foreing policy and economic policy)</p>
+                <p>During GW and JA's presidnetial administrations, lesaders created institutions and precendents putting Constitution principles into practice</p>
+                <p>Loose vs Strict Cosntruction / interpretation of Constituon</p>
+
+                <h3>Financial/Economic Problems</h3>
+                <p>National economy had war debt, creditors wanted payment, limited trade</p>
+                <p><strong>Hamilton - Secretary of the Treasury</strong>: report on Public Credit(1790), National Bank (1790), Manufactures (1791), wanted more manufacturing/industrial society instead of agricultural, wanted national gov to assume state debts, sell national bonds, create BUS to print money/collect tax/pay interest/offer loans (is this constitutional? is it necessary and proper?) and raise revenue through excise/whiskey taxes on luxury items, tariff on imported goods</p>
+
+                <h3>Washington's Farewell Address</h3>
+                <p>POLITICAL PARTIES: Federalists led by Hamitlon/Adams w/ loose Constitutional interpretation (strong fed gov) and favored Hamilton's economic plans while Anti-Federalists/Democratic-Republicans/Jeffersonians/Republicans led by Jefferson/Madison strictly interprested coinstuittution (strong satate rights/gov) and opposed Hamitlon's plan</p>
+                <p>GW steps down after 2 terms voluntarily since he is not a king, after administrating through French&Indian War, Continiental Congress, Continental Army Commander, Constitutional Convention</p>
+                <p>Warned against factionism/political parties seperating US, foreign affairs, avoid political connection only commerical relations w foreign nations,demonstrated US was not a monarchy</p>
+
+                <h2>3.11: Developing an American Identity</h2>
+                <p>Changes in American culture alongside reigoonal variations from 1754 (start of French&Indian War) -1800 (election of Jefferson), expressed through art, literature and architecture</p>               
+                <p>CONTINUITIES: Slavery protected through 3/5 compromise. slve trade, and fugutivie clause showing how not all Americans included in frteedom/gov</p>
+                <p>CHANGES: Common Sense, Sons of Liberty and Declaration of Independnece showed how US no longer viewed themselves as British</p>
+                <p>CHANGESL Hamilton's Fnancil Plan and Constitituion replacing Articles showed how stornger national gov was comm,ited to more commerce, less agriculture</p>
+                <p>In art, use of Revolution heroes was common depicting themes of liberty/freedom, Americans no longer viewed themselves as British subjects</p>
+
+                <h2>3.12: Movement in the Early Republic</h2>
+                <p>Natives evaluated/adjusted alliances w Europeans, other tribes, and US to limit migration of white settlers and maintain control of tribal lands/resources, British alliances w Natives led to tensiosn between US and Britain</p>
+                <p>DIPLOMATIC CONFLICTS: Britain still occupied West and impressed sailors, Spain resitrcted US use of Mississipi River, Natives confliced over settlers moving west, Battle of Fallen Timbers</p>
+
+                <h3>Jay Treaty w/ Great Britain</h3>
+                <p>British forces would leave sites they still occupied on US, US pledged to repay pre-revolution debts to British merchants, commisssion met to settle boundary between Canada/US and British seizure of American ships/sailors, kept US out of a European War</p>
+                
+                <h3>Pinckney's Treaty w/ Spain (1795)</h3>
+                <p>US gained free access to use Mississippi River for shopping, gained free use of port at New Orleans, and gained disputed territory north of Florida</p>
+                
+                <h3>Treaty of Greenville w/ Western Confederacy (1795)</h3>
+                <p>Ended Northwest Indian Wars/Battle of Falled Timbers that had continued since the Treaty of Paris 1783, ceded disputed Ohio territory to US, new boundary drawn to designate land north/west of treaty line for Native settlemtn</p>
+
+                <h3>Western Movement</h3>
+                <p>Conflicts led to land, opportunity, and safety opening up in the west for settlers encoiuraging western migration</p>
+                <p>Hamilton's Financial Plan -> Excise Tax on whiskey which Western PA farmers restricted since Western farmers distilled surplus grain crops into whsikey</p>
+                <p>Diff needs/lifestylres in Western settlements</p>
+                <p>Slavery expanded west/south</p>
+
+                <h3>Whiskley Rebellion</h3>
+                <p>Whiskey rebels engaged in violence towards tax collecter, GW had to choose whehter to do nothing or to use federal action/force in a state</p>
+                <p>Negotiaters not successful, Washington/Hamilton led 12k milititrra troops into PA to enforce tax and stop rebellion adn rebels dispersed before force arried</p>
+                <p>Demonstrated strength of new federsal gov</p>
+
+                <h3>Slavery</h3>
+                <p>Expansion of slavery west/south and rising antislavery led to regional slavery differences in opinions</p>
+                <p>Constitutional protections of slavery through 3/5 compromise, protection of slave trade until 1808, and fugutive clause, but regional divide over the isssue</p>
+                <p>Northern states again slavery, migration west added to sdlave power as slave holders migrated west and established plants adding to legislative power</p>
+                <p>Southern States restrict maunmission and state gov permission needed to manumit slaves (manumit = end slavery), some states made manumitted ppl to leave the state</p>
+                
+                <h3>Lord Dunmore's Proclamation (1775) & Philipsburg Proclamation (1779)</h3>
+                <p>Freedom to enslaved ppl willing to join British, approx. 30k fled toi British
+
+                <h2>3.13: Continuity & Change in Period 3</h2>
+                <p>Briths attempts to assert tighter control over US colonies leading to Revolution spreading ideals w diff forms of government, internal migration/competiton intensified regional conflict</p>
                 `
+            },
+            "Unit 4: 1800-1848":{
+                tags: ["Jefferson", "Jackson", "War of 1812", "2nd Great Awakening", "Slavery", "Sectionalism"],
+                content: `
+                    <h2>Contextualizing Period 4</h2>
+                    <p>Development over US democracy and national cukture, innovations in tech/agriculure/commerce acceleration economy, interest in foreign trade and expansion spurring gov/private inititatives</p>
+                    <p>Context to US rpeublic development from 1800-1848: Territorial Expansion, War w Great Britain, Technology, Transportation and Manufacturing, New Political Parties</p>
+                    <p>NAPOLEONIC WARS (1803-1815) - context for impressment of sailors and trade interference</p>
+                    <p>New tech/trasnportation context for Market Revoljtion and growth of urban areas and manufacturing</p>
+                    <p>Expansion of democracy and slavery growing in south  but ending in north leading to new political parties (Democrats ands Whigs) and debates over slavert</p>
+                
+                    <h2>The Rise of Political Parties and the Era of Jefferson</h2>
+                    <p>Issues like tariff, federal gov pwoers, and Euoprean relations dfebatesd by national poliitical parties</p>
+                    <p>Constitututon gave a little less power to states</p>
+
+                    <h3>Adams Presidency</h3>
+                    <p>XYZ Affair - French attempt to receieve bribe from American diplomats involved in treaty neogitaitons to address their seizure of US ships</p>
+                    <p>QUasi War - undeclared naval war between US and France sparked by French  seizure of US ships marking first seaborne conflict for US Navy</p>
+                    <p>Growth of Democratic-Republican party</p>
+                    <p>Alien and Sedition Acts - claimed to violate Bill of Rights by Democratic-Republican opponents who responded w state resolutions to counter the federal laws, it restircted rights of immigrants and supressed gov criticism (Jefferson and Madison)</p>
+                    <p>Viriginia Resolves (1799) - counter to federal gov power made by Democratic-Republican Party (madison) - the law is against locke's social compact and bill of rights</p>
+                    <p>Supreme Court decisions established determining meaning of Constitution and asserted that federal laws took precendence over state laws</p>
+
+                    <h3>Marbury v Madison</h3>
+                    <p>Election of 1800 - transfer of power from Federalist to Democratic-Republican when Jefferson won, but Adams appointed Midnight Judges to keep some Federalist power in the courts</p>
+                    <p>John Marshall was a Supreme Court Chief Justice & Secretary of State, William Marbury appointed Justice of Peace in DC but his commission was never received</p>
+                    <p>Marbury sues Madison to try to get his job, Marshall is judge establishing judicial review power for supreme court</p>
+                    <p>Marshall sides w Marbury, showing loose construction of consititution and political division over intepretation and powers</p>
+
+                    <h3>Lewis & Clark Expeditions</h3>
+                    <p>Following Lousiiana Purchae US gov sought influence/control through exploration and diplomacy</p>
+                    <p>explore 8k miles and document ppl, land, and vegetation in new Lousiana territorty</p>
+                    <p>Verified potential benefits of Lousiana Purchase, political rivsrly still existed</p>
+
+                    <h3>Lousiaina Purchase</h3>
+                    <p>France sells Lousiana Territory to US for 15$ million, Jefferson buys</p>
+
+                    <h2>4.3: Politics and Regional Interests</h2>
+                    <p>Missouri COmpromise - congressionla comprosimise only temporarily stopped conlfict, regional interests often trumped national concerns</p>
+                    <p>Expansion of slavery in west/south b/c of cotton growth (cotton gin) and northern ending slavery causing SECTIONALISM</p>
+                    <h3>Missouri Compromise</h3>
+                    <p>Proposed by Hernry Clay since slave and free states qwere equal (11 each) and Missouri had applied for statehood</p>
+                    <p>Compromise had Missouri enter as a slave state, Maine enter as a free state, line drawn at 36-30 line of Louisiana territotry to determine status of future states</p>
+
+                    <p><strong>Dred Scott v Sandford (1856)</strong>: slave owners entitlted to keep their property in any state</p>
+                    <p><strong>Kansas Nebraska Act (1854)</strong>: slavery decision in new states by popular soveringty</p>
+
+                    <h3>Secrtionalism</h3>
+                    <p>Temproary amnagement of issues like through Henry Clay's Missouri Compromise but political debate over slavery intensifiied</p>
+
+                    <h3>Henry Clay's American System</h3>
+                    <p>WOuld these policies benefit agriculture or industry or favor diff regions differently?</p>
+                    <p>Democratic-Republican War Hawk from War of 1812 and Kentucxky House of Rep who contirbuted Missouri Comproise and Americna System</p>
+                    <p>1. Bank of US, 2. Strong protective manufacturing tariff. 3. Federal gov funding of internal improvements like roads, canals, railroads</p>
+                    <p>Speech to senate given supporting American System by Clay</p>
+                    
+                    <h3>Era of Good Feelings</h3>
+                    <p>After War of 1812, there was new nationalism, new manufacturing efforts, and limited Federalist oppision to Democratic-Republicans</p>
+                    <p>Tariff of 1816 - protective tariff protecting new American factories, made impoorts more expensive to encohrage buying US products</p>
+                    
+                    <h2>4.4: America on the World Stage</h2>
+                    <p>US wanted to claim territory, create global presence, and rpomote foreignt rtrade</p>
+
+                    <h3>War of 1812</h3>
+                    <p>US war agfain st Britain caused by Britain impressment of US sailors, supporitng Native resistance, and restricting US trade, failed diplomatic ngoatioon and eocnomic embargo</p>
+                    <p>Federalists opposed war (esp New England merchants since they didn't want trade w Britain to be disrupted), Democratic-Republicans supported war</p>
+                    <p>HARTFORD CONVENTION (DEC 1814) - federalists proposed constitutitonal changes and some suggested secession</p>
+                    <p>War ends w Treaty of Ghent being signed, then the Battle of New Orleans then news of vicotry and news of treaty arriving (fighting continues past treaty bc slow spread of info)</p>
+                    <p>As a result, Jackson is hero of war even tho treaty was before hios victory</p>
+                    
+                    <h3>Treatyt of Ghent</h3>
+                    <p>US signers include Adams, Bayard, Clay, Russel, Gallatin</p>
+                    <p>US restore possessions to tribes, tribes stop hostitility w US, all possessions from either party restored along w prisoners</p>
+                    <p>EFFECTS: New nationalism, rise of Jackson, decline of Federalists, international respect</p>
+
+                    <h3>Monroe Doctrine</h3>
+                    <p>Diplomatic effort for US to control Western hemisphere through military actions, native removal, and diplomacy</p>
+                    <p>COntext: American nationalism after War of 1812, newly independent Lagtin American countries vulnerable which was seen as potneital for expansion by European powrrs</p>
+                    <p>Monroe wanted US to not interfere in European internal affairs but inedepenednent nations in western hemisphere shd remain independent and not be targets for colonization</p>
+                    <p>US military not strong and we were not able to back up Monroe Docgtrine, but it highlight tradition of siolation from European affairs which was continued by future presidents</p>
+
+                    <h2>4.5: Market Revolution - Industrialization</h2>
+                    <p>Entrepreneurs create market revoltuion in production/commerce where producer-consumer relationships changed as manufacturing got more organized</p>
+                    <p>Regional Economic Specialization: manufacturing in north, breadbacket (grain/livestock) in west, plantatio/cash crops in South, with cotton, food, and products being trasnported through regional interdependence</p>
+                    <p>NEw tech like canals, railroads, cotton gin, power loom, steel plow, etc allowing for efficient production and regonal specilaization</p>
+                    <p>Caused by new tech, transportation, and regional specialization leading to production increase, economic gain, and labor conflicts</p>
+
+                    <h3>Lowell Factor (1823)</h3>
+                    <p>Lowell System of production in MA from raw cotton to finished cloth in one factory w young single women as labor force</p>
+                    <p>Lowell girls - young women 15-30 from rural areas w/ bad long hour work conditions and they organizsed/protested this through earliest labor movement</p>
+                    <p>Harriet Robinson - Lowell Girl speaking out for women's suffrage & went on strike</p>
+
+                    <h3>Transportation</h3>
+                    <p>Transportation develpment supporte by legislation and judicial systems lnking north and midwest especially not as much in South</p>
+                    <p>Canals like Erie Canal, better national roads, railroads</p>
+                    <p>Robert Fulton steamboat (1807) fast transport</p>
+                    <p>Railroasdfs cheap, easty to build, location doesnt matter, fast, critical for transpiritntg goods, raw materials, and food</p>
+                    <p>Transportration boom started w canals but focused on railraods</p>
+                    <p>North had more infrastructure development</p>
+
+                    <h2>4.6: Market Revolution - Scoiety and Culkture</h2>
+                    <h3>Immigration / Migration</h3>
+                    <p>International migration to industrial north cities, many Americans move west devwloping new communities along Ohio and Mississipi Riversa</p>
+                    <p>1 million mostly catholic IRISH immigrants escaping 1845 Potato Famine, german poloitical refugees and farmers looking for opportunity</p>
+                    <p>Nativism: opposition, Know-Nothing Party of late 1840s whio wanted to restricti immigration</p>
+                    <p>Effets: demographic concentration in cities, leading to new polticial parties and influences</p>
+
+                    <h3>Changing Gender/Family Role</h3>
+                    <p>Diff domestic ideals, growth of cities, middle class, chagning role of women</p>
+                    <p>Early 19th century women - traditional rtepublican motherhood, cult of domesticity, seperate spheres of home and work life BUT THESE NORMS DID NOT FIT MANUFGACTURTING</p>
+                    <p>Women began working outside home (ex: Lowell Factory Girls) and families hired domestics, leading to lesiusere time adn finished clothes</p>
+
+                    <h2>4.7: Expanding Democrsacy</h2>
+                    <p>Transition to more democracy by giving sufgfrage to ALL ADULT WHITE MEN instead of just property-owners, accompanied by growth of political parties</p>
+                    <p>UNIVEERSAL WHITE MALE SUFFRAGE  - 1820-1850 reegardless of property ownership since more ppl moving to US</p>
+                    <p>New parties emerge based on Hamilton vs Clay's Financial Plans</p>
+                    <div>
+                        <div>  
+                            <p><strong>Alexander Hamilton (1790)</strong></p>
+                            <p>Bamk of US, Assumption of debts, Tariff, federal excise tax, federal bonds</p>
+                            <p>Federalist</p>
+                        </div>
+                        <div>
+                            <p><strong>Henry Clay's American System (1832)</strong></p>
+                            <p>Bakn of US, tariff, funding internal improvmeents</p>
+                            <p>Democratic-REpublican</p>
+                    </div>
+                    <p>ERA OF GOOD FEELINGS: all major condidates were Democratic Rpeublican in the Election of 1824</p>
+                    <p>12th Amendment: if no majority reached in Electoral College vote, House of Reps would decide election (Jackson had more popular and electroal votes than other candidiates but not majority)</p>
+                    <p>Final result of 1824 election: Clay gave support to Adams, who won and Adams appointed Clay to be Secretayr of State later</p>
+                    <p>Jackson claimed a CORRRUPT BARGAIN w Clay and Adams conspiring to further his own political chances and challenged Clay's party ideology, campaigning all 4 yrs to defeat Adams in 1828</p>
+                    <p>Era of Good Feelings ended since political identity of Democragtic-Republicans wasd challenged and Jackson changed political campaaigning</p>
+
+                    <h3>2nd Party System: Whigs vs Democrats</h3>
+                    <div>   
+                        <div>
+                            <p><strong>Democrats (Jackson)</strong></p>
+                            <p>Power of common man, democracy. Similar to Democratic-Republican ideas.</p>
+                        </div>
+                        <div>
+                            <p><strong>Whigs (Clay)</strong></p>
+                            <p>Similar to Federalist ideas</p>
+                        </div>
+                    </div>
+
+                    <h2>4.8: Jackson & Federal Power</h2>
+                    <p>Politivcal parties rising disagreed abt federal power and role in BUS, tariffs, and internal improvements</p>
+                    <p>Jackson: elected in 1828, man of ppl wanted universal white male suffrage, believed in strict construction, supreme federal power, nationalism</p>
+                    <p>Internal Improvements: west expansion through roads/cancals, Clay proposed tariffs used to fund them, opposed by Jackson who vetoed Maysville Road Bill (money form local sources not fed gov)</p>
+                    <p>Bank of US: Jackson felt it favored wealthy and was uncosnsitiautional, vowed to kill it by veoting renewal of charter and ordering removal of federal funds (1837 financial panic after destruction of BUS)</p>
+                    
+                    <h3>Nullification Crisis</h3>
+                    <p>Tariff of 1828 (aka Tariff of Abominations) designed to significiantly raise tariff and hurt John Q Adams releection</p>
+                    <p>Tariff favored North but hurt South, signed into law by Jackson as president but protested by South</p>
+                    <p>Jackson's vice Calhoun authored "The SOuth Carolina Expositon and Protest" to state ideals of nullificiation</p>
+                    <p>SC nullified tariff, Jackson threatened to use military force to enforce law</p>
+                    <p>Tariff of 1833 - enacted as compromised between SC and Calhoun/Jackson</p>
+
+                    <h3>Whig Party</h3>
+                    <p>Opposed Jackson, supported national bank, protective tariffs, federal support for internal improvemnets, felt that Jackson was overextending power</p>
+                    <p>Overall Jackson: destoryed BUS, enforced tariffs, did not support internal imporvmenets which led to Whig oppsiton</p>
+
+                    <h3>Expansion</h3>
+                    <p>Westward expansion beyond Applachian met w Native resistance, wars, and federeal efforts at control/relocation</p>
+                    <p>Internal Improvmeents: West settlers needed to move goods from west to sell in eastern market, eastern manufacturers needed to ship to westerrn customers. National Road (1st national highway), turnpikes (state gov projects funded w tolls) and Erie Canal (connecting NY to Great Lakes/trade) were new projects</p>
+                    <p>Spread of cotton cultivation pushed plantations west for more land, pressure to remove natives to open up more land</p>
+                    <p>Natives/Cherokee where acculturating tribes and becoming soverieng but resisted move, through 1836 Protest Peitition where they prevented rmeoval from GFeorgia, Black Hawk's War federal troops forced Natives out of NorthWest</p>
+                    <p><strong>Indian Removal Act of 1830</strong>: supported by Jackson resulting in 60k Natives displaced from Southast to Oklahmoa on 5k mile Trail of Tears w 1/4 of them dying on the way</p>
+
+
+                    <h3>American System</h3>
+                    <p>Federal$/ private funds used to finance internal improvmenets needed to connect the country and allow shipping to international markets, but Jackson questioned its ocnsititotonality</p>
+                    
+                    <h2>4.9: The Development of An American Culture</h2>
+                    <p>New National cvulture combinming Ame3rican, European, and regional cultural influences like liberal social ideas, romnatic beliefs, etc influence literature art and philosophy</p>
+                    <p>American Language (Noah Webster) - created American spellinfg textbooks used in schools, 1st American dicitionary, moved away from English tradiitonal spelling and added distinictly American words</p>
+                    <p>Architecture: combined georgian and grweek classical arcitecture when constructing federal and state buildings</p>
+                    <p>Art: HudsonRiver School was NY based artists, George Caitlin painting Natives, John Trumbull painting Reolvutionary War and spirit scenes</p>
+                    <p>Music: infuences by Africna Ameircans, banjo, Stepher Foster, Dan Emmett (ex: Oh! Susanna) creating American-style music</p>
+                    <p>American Literacy Romanticism: expressed man's feelings and ideas besides religion ex: Nathanial Hawthorn, Walt Whitman, Edgar Allen Poe, introducition of mystery genre. Reginal lirterature included Knickerbockers which were NY authors,</p>
+                    <p>Transcendentalism: founded by Ralph Waldo Emerson, influenced by German Romanticist philosophers w each person possessing inner light and diviinity and perfection could be reach w action/will</p>
+                    <p>Civil Disobedience - right of indiidvidaul to not comply to unjust/immoral laws influneced Gandhi and MLK</p>
+                    <p>Newspapers and Magazines like NY papers</p>
+
+                    <h2>4.10: Second Great Awakening</h2>
+                    <p>Democratic/individualistic beliefs and repsonse to rationalism/societal changes caused by makret revolution contirbuted to national revival called Second Great Awakening among Protestants</p>
+                    <p>Causes: self-improvmenet, self-reliance, self-detemrination, reaction to raitonalism and declining church attendane, amintain moral fiber in US w societal changes</p>
+                    <p>CHARLES G FINNEY: preacher whose sermons were emotional w emphasis on individual conversion, pure lifestyle, theology of perfection, no alchochol or nonreligious entertain,ment</p>
+                    <p>Western Frontier - few churches in west states so concern abt lack of moral fiber, new roads constructed in west faciilitating travel of preachers w camp meetings and circuit riders</p>
+                    <p>New Theology: Methodist & Baptist denominations, doctrine of free will and indidualism/self-detemination, indiidual conversion for all</p>
+                    <p>Spiritual Egalitariansism: diff ppl all spiritually equal leading to greater Protestant relgiious diversity and more interest in missionary work including women/African Americans having more roles in church hierarchy</p>
+
+                    <h2>4.11: An Age of Reform</h2>
+                    <p>VOluntary organizaitons, response to rationalism, societal changes leading to reforms</p>
+                    <p>UTOPIAN COMMUNITIES/HUMAN PERFECTABILITY: ex: Brook Farm a transcendalitst utopian writer/intellectual community, New Harmony communa society of scientists,scholars,educators pursueing perfection, and Oneida Community espousing complex marriage and selection of parents</p>
+
+                    <h3>New Religious Movements</h3>
+                    <p>Church of Jesus Christ of LAtter-Day Saints or Mormons: founded by Joseph Smith, ostracized for their beliefs, migrated west to utah to freely practice</p>
+                    <p>Unitarianism: onenness of god, right of conscience,d ignity of every human, use of demoratic process within individual congrgation</p>
+
+                    <h3>Temperance Movement</h3>
+                    <p>Fight against alcohol and its affects, supposrted by reformers like the American Temperance Society first aiming to limit then totally get rid of alchocol w middle class women most active, and this was also political</p>
+                    <p>Results: Maine Law in 1851 prhoubiting manufacturing/sale of ahlcohillic bevegeraes w 12 states folliwing, less consumption of alcholo, contyinued into 20th century resulting in 18th Amendment PRohibition</p>
+
+                    <h3>Asylums / Mentally Ill / Prisons</h3>
+                    <p>Dorothea Dix: worked to improve institutitons for mentally ill first in MA and then thorughout US, peittionted for beter treatment facilities</p>
+                    <p>Prison reform changing from punishment to rehabilitation to reduce reutrn to prison, taught job skills, and access to religioua and self improvement services</p>
+
+                    <h3>Education Reform</h3>
+                    <p>Horace Mann: founder of MA Board of Ed, worked to establish state-supported public schools through taxes and universal public educaiton, professional training for teaxchers in normal schools</p>
+                    <p>Public schools aid in social stability by teaching values through textbooks and prepare students to work in industyr/economy</p>
+                    <p>Prepare for higher education, state tax-suppoted college like UGA and UNC</p>
+
+                    <h3>Abolitionist  / Antislavery</h3>
+                    <p>Grew esp in north, African American population grew along w resitricitons against their rights</p>
+                    <p>Second Great Awakening led quesitoning of slaveries morality, gradual emancipation in Jorthern States but some northern state govs still restrictied rights</p>
+                    <p>Free African American pop grew, abolition/activism incrased</p>
+                    <p>Quakers - questioned morality of slavery, ideals of liberty spread amongst slaves & free</p>
+                    <p>Emancipiation in North (immediate in VT and MA, Free in PA and NJ)</p>
+                    <p>Still faced restrictions on rights like discirmiantion in employment, difficulty pruchasing land or voting</p>
+                    <p>Slavery incompatible w Christianity, used moral suasion to end slavery (women became active)</p>
+                    <p>Transatlantic movement to outlaw slavery since it ended in British Empire in 1833</p>
+                    <p>
+                    `
             }
         }
     },
