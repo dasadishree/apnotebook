@@ -2700,7 +2700,167 @@ const NOTES = {
                     <p><strong>JAPAN:</strong> Commodore Matthew Perry sent on mission  by Millard Fillmore to open Japan for trade w war ships, leading to Treaty of Kanagawa 1854 Japan opened for trade w first treaty w modern western power</p>
                     <p><strong>CHINA:</strong> Treaty of Wanghia 1844 first diplomatic agreement between US and China, Treaty of Tianjin 1858 opening up more Chinese ports to US, Chinese Education Mission brought Chinese male students to study in US</p>
                     <p><strong>LATIN AMERICA:</strong> Attempts at expansion like the Ostend Manifesto (secret document by American ambassador to Spain calling for Spain to sell island of Cuba or have it seized to protect American interesrts wjich would result in American dlavery expansion, but plan was unsuccesful), The Filibuster Movement (americans try to take power in Latam countries w/o gov consent and extend slavery, Nicaragua taken by William Walker who proclaimed himself president but ewas deafeaed and executed)
-                `
+                
+                    <h3>Transcontinental Railroad</h3>
+                    <p><strong>Pacific Railroad Act (1862)</strong>: charted Central Pacific and Union Pacific Railroad comopanies to construct railroad spanning content linking West and East coast and financing gov subsidies and indidisual investments</p>
+                    <p>UNION PACIFIC - employed Civil War veterans, African Americans, European immigrants</p>
+                    <p>CENTRAL PACIFIC - employed settlers, Asian/Chinese immigrants, Natives</p>
+                    <p>Completed in Utah in 1869, cut travel time to only 6 days, followed by additoonal rail lines</p>
+                    <p>Effects: pacific trade, coastal cities in California connected to Asia for trade, immigration from Asia, cities along line grew to major trade/business hubs (ex: chicago as a rapid transit economy linking goods to people, gateway between west and east markets)</p>
+                    
+                    <h2>5.3: Mexican-American War</h2>
+                    <p>US victory in Mexican-American war added large territories in West, causing conflict/interaction w Mexican Americans and Natives and raising questions about slavery</p>
+                    <h3>Texas War for Independence 1836</h3>
+                    <p>American settlers revolted against Mexican restrictions (imposing of Roman Catholicism, outlawing of slavery, US settlers were slaveholders)</p>
+                    <p>Battles of Alamo and Goliad - Americans killed<, Battle of San Jacinto - swift victory & Texas independence after reciving aid from East/p>
+                    <p>Originally Texas was its own country as Lone Star Republic w Sam Houston first president but citizens wanted annexation into US</p>
+                    <p>James Polk - Democratic president elected in 1844, ran on westward expansion, Texas entered as slave state in 1845 (tension/conflict over advancing slavery into the west)</p>
+                    <p>Discrimination against non-white and they couldnt testify in court, charged extra fees, etc</p>
+
+                    <h3>Mexican-American War (1846-1848)</h3>
+                    <p>President Polk wanted to purhcase California, sending ambassador to purchase but Mexico refused to make sale angry after annexation of Texas</p>
+                    <p>Dispute over southern border of Texas, US troops sent by Polk to protect border, war declared after Mexican army attacked US troops</p>
+                    <p>Spot Resolutions - proposed by Lincoln in House of Reps to show exactly where troops were attacked on Mexican/Texas soil</p>
+                    <p>Whigs opposed war since it was just land grab to spread slavery</p>
+                    <p>US victtory but they would face each other agasin in the civl war</p>
+                    <p>Texas Spanish was white and of importance social position, Mexcians were those of Spanish and Indian origin</p>
+
+                    <h3>Bear Flag Revolt</h3>
+                    <p>California - John Fremont enocuraged US settlers to rebel against Mexican rule, declaring independecnce from Mexico, Navy sent to reinforce claim and Bear Flag Republic was declared making it independent but US military occupied</p>
+                    <p>White was those who claimed Spanish descent or married to American settlers, Mexicans where ppl of Spanish and Indian descent</p>
+
+                    <h3>Treaty of Guadalupe Hidalgo (1848)</h3>
+                    <p>Westrn lands owned by Mexico granted to US (CA, NM, AZ, NV, UT - $15 million)</p>
+                    <p>QUestion whether land would be free or not (abolitions opposed spread of slavery, trying to pass Wilmot Proviso to prohibit slavery in new territiroeies but didn't pass)</p>
+                    <p>Gadsden Purchase 1853: land purchased for a railroad line for $10 mil</p>
+
+                    <h3>Natives in West</h3>
+                    <p>The Comanche: refused reservation life, believed they were guaranteed buffalo hunting grounds, powerful and extensive trade network</p>
+                    <p>Red River War 1874 - all Natives not settled on reservations considered hostiled and removed from South Plains, after conflicts last bands were sent to Fort Sill</p>
+                    <p>California: Native communities destroyed and killed, orphans sold as slaves</p>
+                    <p>Utes and Paiutes pushed out of Rocky Mountains by settlers</p>
+                    <p>Navajo: those who didn't comply and move to reservations called hostile and forced to march by gunpoint in the Long Walk (forced marches to Bosque Redondo reservation 1863-1866)</p>
+
+                    <h2>5.4: Compromise of 1850</h2>
+                    <p>Mexican Cession led to debates over slavery and political parties</p>
+                    <p>FREE SOIL PARTY (1848) - free men, free soil, lands of mexican cession free from slavery, land for working men, prohibit plantations from buying vast tracts of land, end slvaery in DC</p>
+                    <p>Election of 1848: MArtin Van Buren (Free Soil) vs Zachary Taylor (Whig) elected president vs Lewis Cass (democrat who advocated for popular soverignty allowed citizens of a state to decide issue of slavery via ballot)</p>
+
+                    <h3>Compromise of 1850</h3>
+                    <p>New territories and sectional balance between California (pop boom bc of Gold Rush, large enough to enter Union in 1850, peititiooned to enter as a free state but some of it below Missouri COmpromise line), Utah, and New Mexico</p>
+                    <p>Henry Clay's Compromise: California enter as a free state, popular soveriengty to decide slave or free in NM and UT, Fugitive Slave Law saying slaveowners could go in Northern states to reclaim slaves (room for corruption and bounty hunters), slave trade outlawed in DC but not slavery itself</p>
+                    <p>Underground Railroud now extended to Canada, Vigilance Committes formed to protect escapees from slavery, states enacted personal libertyy laws</p>
+                    
+                    <h2>5.5: Sectional Conflict-Regional Differences</h2>
+                    <p>anti-Catholic nativist movement arose to limit political power of new immigrants from Europe and Asia (mainly Ireland and Germany) settling into ethnic communitiesa</p>
+                    <p>Immigration bc: freedom from aristocraxy, political instability, state chrushes in Eruope, and opporutnity to own land through the Homestead Act</p>
+                    <p>Irish Immigration: came through chain migration w men first then families, came bc Catholic land rights revoked by the British and potato famine, as well as economic opportunitiy in urban cities</p>
+                    <p>Immigrants faced challenges: competitions ww AAs for lowskill bad jobs, discrimination, looked down on, leading to self-help through societies/unions like the Ancient Order of the Hibernians to help those in need, Molly Maguieres miners union, Tammany Hall rewarding them for patronage, Catholic schools founded</p>
+                    <p>German immigeation: 1848 uprooted farmers and political refugees, traveled as farmers to German Triangle (missori, ohio, wisconsion), settled first in cities then west to urban/rural area engaging in middle calss trades</p>
+                    <p>Supported public schools, disdianed for drinking bear on the sabbath, formed their own enclaves, innovastions like Kentucky rifle and wagon</p>
+                    <p>More immifgration included Chinese for Gold Rush & worked on Central Pacific Railroad, Jewish iommigration from Europe to noprthenr urban areas escaping religious persecution, and swedish immigration as opportunity to own land settiling in rural northwest</p>
+
+                    <h3>Nativism:</h3>
+                    <p>Anglo-Protestant Americans: fearful of Catholic presence and influence of pope, diff languages and values, feared they'd bring violence from home country, corruption and competiton</p>
+                    <p>Know Nothing/The American Party: anti-immigrant, anti-catholic, worked to slow immifgration andf deport paupers, spread thrpough most of cities in north</p>
+
+                    <h3>Regional Differences / Slavery</h3>
+                    <p>Northern manufcaturing/textiles economy relying on frtee labor like women, immigrants, and children. Old Northwest was more agricultural but still industrial, connected to east through roads/canals/railroads w Great Lake cities becoming important markets. Southern agircultural economy relying on slave labor and cotton gin/production which spread westward.</p>
+                    <p>Slavery defenders based arguments on radcial doctrines, view slavery was positve, and belief that slavery protected by constitution, w Calhoun saying it was a Necesasary Good, duty to keep them in their place, pseudoscience, provided housing/clthoing unlike immigrant factory workers, said they were cursed</p>
+                    <p>Religions split over slavery (Baptist and Methodist denominations), Bible scriptures misued to support slavery</p>
+                    <p>Southern states said they had right to maintain slavery under 10th amendment and foguht federal gov threats</p>
+                    <p>Second Middle Passage - 1.5 mil slaves sold from upper south to deep south/west growing the internal slave trade</p>
+                    <p>Slave Codes - strictly regulated enslaved AAs to prefent slave revolts</p>
+
+                    <h3>Free Soil</h3>
+                    <p>Northerns did not oppose slavery in principle but believed it undermined free labor market, expansion of slavery would limit opportuntiies for free labor as plantation owners would be able to purchase large tracts of land leaving less desirable land for working men, becoming free soil party</p>
+                    <p>Free-soil movement arising potraying expansion of slavery as incompatible w free labor</p>
+
+                    <h3>Abolitionism</h3>
+                    <p>AA and white abolitionists present moral arguments against slavery, helped them escape</p>
+                    <p>Frederick Douglass, William Lloyd Garrison: cotninued to influence opposition to slavery w speeches using moral/Christian ideas to argue against slavery. Increased AA activism assisting enslaved ppl who ran away by hiding them or spiritng them to safety to continue journey to Canada. Vigilance committies watched for slave catchers/hunters</p>
+                    <p>Traveling plays, dramas, narratives, and media potrayed slavery to get sympathy (such as Uncle Tom's Cabin by Harriet Beecher Stowe)</p>
+
+                    <h3>Anthony Burns Case</h3>
+                    <p>Burns escaped from Virginia and became preacher/tailor in Boston but arrested/clubebed/jailed by bounty hunters and cost $40k to return him to Virginia</p>
+                    <p>Riot ended in death of an officer, mob surrounded jail</p>
+                    <p>His freedom later purchased by abolitionists and he returned to worka gainst slavery</p>
+
+                    <h3>John Brown's Raid (1859)</h3>
+                    <p>Planned and led a raid on the federal arsenal in Harper's Ferry w AA and white forces in order to start a mass slave revolt in the state of Virginia, crushed by Virginia militia, arrested amd hanged becoming a martyr</p>
+
+                    <h2>5.6: Failure of Compromise</h2>
+                    <p>Courts/leaders tried to resolve slavery like through the Kansas-Nebraska Act and Dred Scott decision but failed to reduce conflcit</p>
+                    <h3>Kansas-Nebraska Act 1854</h3>
+                    <p>Devised by Stephen Douglas, split Nebraska territory into Kansas and Nebraska w/ Popular soverignty determining status</p>
+                    <p>Led to Bleeding Kansas: figfht to move into territory, mini cil war between proslavery and antislavery temporoary settlers to try to win majority and settle causing illegal voting</p>
+                    <p>2 diff govs established: Lecompton Constitution protected slaveowners whether state consittution was passed w or w/o slavery. Federal gov recognized proslavery gov</p>
+                    <p>Gag Rule: slavery debates tabled 1836-1844 w hearted debates (ex: Brooks and Sumner fought where Brooks from South felt his relative was dishonored)</p>
+
+                    <h3>Dred Scott v Sanford 1857</h3>
+                    <p>US Supreme Court Case, Dred Scott slave who sued for his freedom after landowner's death bc he was taken to Minnesota which was free and he lived there. Court ruled he was still slave</p>
+                    <p>Court/Chief Justice said slaves and AAs were not citizens and not eligible to sue in court, slaves were private property which could be borught anywhere in country and remian enslaved and could not be reguated by gederal gov</p>
+                    <p>Ruled Compromise of 1820 unconsituttioonal, showed growth of Slave Power of the South</p>
+
+                    <h3>New Political Parties</h3>
+                    <div>
+                        <div>   
+                            <p><strong>The Liberty Party</strong></p>
+                            <p>Demanded limits on slavery, prohibit internal slave trade/expansion, no women or racial equality, short lived</p>
+                        </div>
+                        <div>   
+                            <p><strong>The Republicn Party (1854)</strong></p>
+                            <p>Formed as result of Kansas-Nebraska Act, Slave Power of South was greater threat to liberty than immigration, poor whites had no hope of advancement, free laborers had no opporuntitty if labor by slaves spread to west. Party not allowed in South, composed of Whigs, Free Soilers, Know Nothings, and Democrats from North and West. Wanted to end slavery but didn't support abolitionism, John Fremont represented in 1856 election.</p>
+                        </div>
+                    </div>
+
+                    <h3>Lincoln-Douglas Debates</h3>
+                    <p>Illinois Senate race in 1856 between Lincoln and Douglas who debated over slavery, Lincoln used logic and folksy stories, Douglas supported popular sovieringty and Freeport Doctrine</p>
+                    <p>Freeport Doctrine - slavery wiuld not exist where ppl voted it down (answer to Dred Scott decision)</p>
+                    
+                    <h2>5.7: Election of 1860 and Secession</h2>
+                    <p>Lincoln's victory in Election of 1860 achieved w/o any Southern electroal votes, so most slave startes voted to secede from Union precipatintg Cvil War</p>
+                    <p>Caused by: Compromise of 1850, Kansas Nebraska Act, Dred Scott v Sandford, Lincoln-Douglas Debates, John Browns Raid on Harper's Ferry</p>
+                    <p>Democratic candidates Douglas (N, Popular Sovieerngty/freeport doctrine) and Breckinridge (S, slavery/states rights), Republican Linocln (freesoil, nonextension of slavery), and Constitutional Union Party John Bell (constitutitonal, missouri compromise w new states above free and below slave)</p>
+                    <h3>Crittenden Compromise</h3>
+                    <p>Amendment applying Missouri Comrposmise coast to coast as federal protection of slavery, but Lincoln rejects since N/S coestiestnece not possible</p>
+                    
+                    <h3>Southern Reaction</h3>
+                    <ul>
+                        <li>SC secedes followed by 5 other states: Buchanan doesnt believe Constitution justifies any action (Dec 1860)</li>
+                        <li>Creation of Confederatre States of America under President Jefferson Davis (Feb 1861)</li>
+                        <li>Attack on federal Fort Sumter in SC marking start of Civil War in April 1861</li>
+                    </ul>
+
+                    <h2>5.8: Military Conflict in The Civil War</h2>
+                    <p>Union & Confgerderacy mobilizing for war, Confederacy initiatve at first but Union ultiamtely succeedded bc improvements in leadership, strategy, and resources</p>
+                    <p>1861-1865 caused by slavery and states vs federal power causing increased sectionalism and lincoln's victory in election of 1860. Many casualities much more than Revoltuion despite being half the length</p>
+                    <h3>North vs South</h3>
+                    <div>
+                        <div>   
+                            <p><strong>Union (North)</strong></p>
+                            <p>Abraham Lincoln, capital in DC</p>
+                            <p>Larber urban indisturialized cities w factories and railraod</p>
+                            <p>Strenghts/Weaknesses: industrialized, larger population bc of immigration, extensive railroads, strong gov. Less unified tho and lacked military leadership</p>
+                            <p>ANACONDA PLAN: block South's coastal access, take mississpi river and split Confederacy into half</p>
+                        </div>
+                        <div>
+                            <p><strong>Confederacy (South)</strong></p>
+                            <p>Jefferson Davis, capital in Richmond VA</p>
+                            <p>Large rural plantations, cash crop agriculture w/o trnapsotrtion systems</p>
+                            <p>Strenghts/weakenesses: experienced military leadership, defensive war at home, more motivated/unified, less resoruces and weaker governtment</p>
+                            <p>WAR OF ATTRITION: win by not losing</p>
+                        </div>
+                        <div>  
+                            <p><strong>Border States</strong></p>
+                            <p>Slave states that didn't secede but were still part of Union (Delware, Mryland, Kentucky, Missouri, soon West Virginia)</p>
+                        </div>
+                    </div>
+                    <p>Trajectory of War: ppl predicted quick war but early defeats and rotating generals waear on North, by middle/end south plays offense and north able to defend/adjust and gain advantaje giving it endurandce to finish war</p>
+                    <p>Events: 1st Battle of Bull Run realizing war will be long in Jul 1861, Battle of Antietam and the Emancipation Proclamiation, Gettysburg followed nby Gettsyburg Address, Vicksburg w North controlling Misssipi, Sherman's March to Sea w scooarched eartyh and total war crippling asouthern industries, Surrender at Appomattox courthouse</p>
+                    <p>War opens doors for
+                    `
+
             }
         }
     },
