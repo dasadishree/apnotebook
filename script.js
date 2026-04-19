@@ -2858,7 +2858,41 @@ const NOTES = {
                     </div>
                     <p>Trajectory of War: ppl predicted quick war but early defeats and rotating generals waear on North, by middle/end south plays offense and north able to defend/adjust and gain advantaje giving it endurandce to finish war</p>
                     <p>Events: 1st Battle of Bull Run realizing war will be long in Jul 1861, Battle of Antietam and the Emancipation Proclamiation, Gettysburg followed nby Gettsyburg Address, Vicksburg w North controlling Misssipi, Sherman's March to Sea w scooarched eartyh and total war crippling asouthern industries, Surrender at Appomattox courthouse</p>
-                    <p>War opens doors for
+                    <p>War opens doors for AAs able to enlist but fought in segrgated units and manual labor (contrabands=enslaved who escaped to suppoort union), women took on roles in absence of men like factories/nurisng in N and nursing/plantations in S</p>
+
+                    <h2>5.9: Government Policies during Civil War</h2>
+                    <p>Sectionalism causing divide over slavery</p>
+                    <p>Emancipation Proclamation- reframed purpose of war and prevent confederacy from getting diplmoatic support from Europe. Foloowwed Battle of Antietam. Designed to sound like legal document. Declared freedom for slaves in Confederacy w/o freeing slaves and dind't apply to border states. Singigifcant by acting as rally cry for abolitionists and enslaved and Europe opposeds slavery so remiands neutral. (Critcs said it emanncipated for the union not abolished and did it too late. Defense was uncertain about right to emancipate) North needed this to win</p>
+                    <p>Gettysbuyrg Address - among other sppeeches tyhat Lincoln sought to reunify country and protrry struggle against slavery aa fulfilment of Americna democratic ideals. Union victory but most casualities, stops Confederate invasion of North. Dedicates military cemetary, using word nation instead of unon, wants to preserve union and unite declariaiton and consittution. Paved way for 14th and 15th amendments</p>
+                    <p>13th amendment abolished slavery, 14th and 15th gave AAs citizenship, equal protection under laws, voting rights</p>
+
+                    <h2>5.10: Reconstruction</h2>
+                    <p>ALtered relations between states and federal gov, debates over citizenship especialy for minotries like AAs and women, ulitmately failed bc of Southern resistancew</p>
+                    <p>PRESIDENTIAL RECONSTRUCTION (1865-1866) - grasdual citzenship for AAs (13th Amendment abolishing slavery, Freedmen's Bureau giving needs and education to slaves and poor whites in South), south never left union so guaranteed readmission after civil war (10% plan needing 10% of southern state population to pledge loyalty to union)</p>
+                    <p>Johnson: pushed for SOuthern elections and allowing reps back in Congress</p>
+                    
+                    <h3>Black Codes</h3>
+                    <p>Southern states forced support the 13th Amendment, Black codces limited African American rights in the south (couldnt own gun, hunt, fish, couldnt be unemployed, forced to sign long term labor contracts which was basically enslavement)</p>
+
+                    <h3>Johnson v Congress</h3>
+                    <p>Repubkicans unhappy w Johnson's Souther sympathies = vetos</p>
+                    <p>He vetoed empowering Freedmen's Bureau w authority to enforce and press charges, and vetoed Civil Rights Act of 1866 giving birthright citizenship (except Indiasn) ending Dred Scott decision</p>
+                    <p>Efforts by radical & moderate Republicans to change balance of pwower between Congress & presidency to reorder race relations</p>
+
+                    <h3>Congressional Reconstruction (1867-1870)</h3>
+                    <p>radical rpeublicans, more abrasive less forgiving apporach</p>
+                    <p>Full & immmediate citizenship, South seceded and readmission requires full compliance, growing fear that if democrats gain control of congress the acts will be overturned so they wanted to build these rights into consittution</p>
+                    <p>14th Amendfment 1868 - birthright and equal citixenship under law</p>
+                    <p>Reconstruction Act of 1867 - divide confedercy into 5 military districts</p>
+                    <p>Johnson's Impeachment - fvilate tenure of office act, avoids remove by one vote = lame duck president</p>
+                    <p>Grant wins election of 1868 = 15th amendmnet in 1870 of male suffrage</p>
+                    <p>AAs taking advantage of new opoirutnities like education, being elected to senate. Women opposed 15th amendment that introduced race not sex into contistuuioton, influential in abolishing slavery. NWSA (National Woman Suffrage Associaiton) created by Susan B Anothony and Elizabeth Cady Stanton</p>
+                    
+                    <h2>5.11 (NO VIDEO FOUND)</h2>
+                    <h2>5.12: Compariosn in Period 5</h2>
+                    <p>Reconstruction ended slavery, changed relationships, and led to new citizenship debates,</p>
+                    <p>Jim Crow Laws in 2nd reconsutrction and KKK</p>
+                    <p>Plessy v Ferguson: seperate but equal, segragtion</p>
                     `
 
             }
