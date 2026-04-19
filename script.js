@@ -2628,8 +2628,79 @@ const NOTES = {
                     <p>Still faced restrictions on rights like discirmiantion in employment, difficulty pruchasing land or voting</p>
                     <p>Slavery incompatible w Christianity, used moral suasion to end slavery (women became active)</p>
                     <p>Transatlantic movement to outlaw slavery since it ended in British Empire in 1833</p>
-                    <p>
+                    <p>Journalism like William Lloyd Garrison spreading abolitionism/emancipation/citizenship for african americans</p>
+                    <p>Frederick Douglass - escaped slavery from Maryland, autobiography, abolitionist believed in working within polticial system to end slavery</p>
+                    <p>AA abolitionists included Sojourner Truth/Isabella Baumfree former slave from NY w mother experience, David Walker calling for immdeidate abolition and not working within poltical system</p>
+                    <p>Underground Railroad: secret routes w safe hiding places including many Quakers, Harriet Tubman was escaped slave & kmajor conductor returning south to bring ppl to freedom</p>
+
+                    <h2>4.12: African Americans in Early Rpeublic</h2>
+                    <h3>South</h3>
+                    <p>Slaves/free in south created communities to protect families, antislavery efforts mostly unsucessful slave rbelleions</p>
+                    <p>3.5 million slaves on plantations, cotton primary crop, periodic allotment of food and lcothing, could not marry creating distinct ceremonies, free/slaves could marry but children followed mothers status, family ties imprtaont</p>
+                    <p>Resistance like working slow, taking food, breaking tools, feigning illness, running away</p>
+                    <p>AA culture developed like oral tradition, storytelling folk tales, language and certain words, arts, food/cooking methods</p>
+                    <p>Sales, seperarion, violence, threatened families, fictive kin/married abroad to cope</p>
+                    <p>Religion: most converted to Christianity since eternal rest in heaven adn justice, preachers important to community, spirituals music exprtessed sorrow but someitimes instructions on running away</p>
+                    <p>Could be self-emancipated if pruchased their own freedom or through slavewodners (Children of slaceowner or wills upon their death), limited civil rights and had to constalty self identify to whites</p>
+                    <p>Slave Revolts - obtain emancipation (ex: Gabriel Prosser's Cosnpiracy of 1800 to end slavery by attacking Richmond, Virginia and holding Gov James Monroe ransom to neogtiate freedom but plot was revealed and conspirators were executed. Denmark Vesey 1822 - free AA who planned mass slave revolt but this was revealed further resitricting AA rights. Nat Turner revolt preacher felt called to free his people but he eventually surrendered and was executed)</p>
+
+                    <h3>North</h3>
+                    <p>in the NORTH freedom gained through immediate or gradual state laws or birth</p>
+                    <p>Racially segregated urban communiyirs, low paying jobs/employment, seprrate churches like Baptist and Methodist churches such as African Methodist Episcopal Church and mutual aid societies, fraternal organizaitons like Prinece Han Masons, segregated schools or private schools w no higher education, racial vioelcen and segreattion, limited voting and property rights and even residency</p>
+                    <p>Activbe in antislvaery societies, participatied in Underground railroad, fought against African colonization efforts bc wanted to live in US, petitiotns advocating for civil rights</p>
+                    
+                    <h2>4.13: The Society of the South in the Early Republic</h2>
+                    <p>Most leaders argued slaves were part of way of life even tho most didn't own slaves, society reliant on agriculture not industrialization bc of climate/soil and crops like rice, indigo, and tobacco (cotton later in 1793 after invention of cootton gin which fed textile factories in North)</p>
+                    <p>Georgapy, rivers, and land perfect for agirucltural rprcuts/transdport alongside inventions like steam engine used in Missisispii River</p>
+                    <p>Cotton & slavery intertwined w/ heavy workload all year and violence for maintaining fear, sllavery part of social hierarchy and identity w wealthy whites at top, then merchants, then whites w/o slaves, then free AAs, then slaves</p>
+                    <p>Southern cities grew w cotton, slaves used for albor/maintainenace in cities as well, paternalism where wealthyplanted were caretakes for wives, children and slavesa and felt slavery ebeenefited slvaes</p>
+
+                    <h3>Westward Expansion of Slavery</h3>
+                    <p>East lands depleted and new fertile land west opened up as reuslt of Indian Removal Acxt of 1830, planters moved west to increase profit</p>
+                    <p>Large plantations established in fertile Mississipi Delta, new slave states formed, Cotton Belt in deep south w lots of slaves</p>
+                    <p>Internal slave trade grew as price of slaves increased and popualtion of slave in South increased due to birthrate increase</p>
+                    <p>Conflict over expansion of slavery polticially: attempts to resolve like Missouri Compromise, additional new territory in Mexican Cession compromised through Wilmot Provisio, increasing conflict</p>
+
+                    <h2>4.14: Causation in Period 4</h2>
+                    <p>US developing modern democracy and new national culture, Americans sought to define nation's democratic ideals and change society to match them, transition to more participatiory democracy, inspired by relgious and intlelectual movements</p>
                     `
+            },
+            "Unit 5: 1844-1877":{
+                tags: ["manifest destiny", "compromise of 1850", "mexican-american war"],
+                content: `
+                    <h2>5.1: Contextualizing Period 5</h2>
+                    <p>US expansion, more interconnected world, debate over rights/ciitzenship for African Americnas and women</p>
+
+                    <h2>5.2: Manifest Destiny</h2>
+                    <p>Desire for natural/mineral resources and economic opportunity/religious refuge led to Westward expansion</p>
+                    <p>Manifest Destiny: American supreirority allowing annexing western lands to Pacific Ocean</p>
+                    <p>More land opportunities w Louisiana Purchase, depleted soil in East, easier travel bc improvement, economic opportuniuties which also attracted European/Asian immigrants</p>
+                    <p>Great Lakes Region: settlement increased after forced removal of Natives, opportuntiies in lead/iron ore mining, aggressive land sales by federal gov, Scandianvian/German immigranted gravitated to midwest fomring communtieis and opporutnity to own land</p>
+                    <p>Oregon Trail: Webster-Ashburton Treaty in 1842 settled boundary between US and Canada, Oregon Treaty signed in 1846 making 49th parallel northwest border, Oregon Trail provided route to Oregon country lasting 6-8 months westward</p>
+                    <p>Settlers migrated self-sufficiently as familiers, gender roles expanded as women helped w travel as partners leading to female suffrage in some western states like wyoming</p>
+                    <p>Writers like John OSullivan and Horace Greeley addvocating for annexation of Texas and western lands to spread capitalism and democracy</p>
+
+
+                    <h3>California Gold Rush</h3>
+                    <p>California - Gold discovered at Sutter's Mill in 1848, 49ers settlers from US Europe and Asia to get rich quick (young single men)</p>
+                    <p>Lawlessness leading to vigilante groups, racial conflict, businessmen became rich which filled demands like shiplines, storeowners, hotel owners, tentmakers, SF and LA grew in population</p>
+                    <p>Other gold/silver strikes including Pike's Peak in Colarado, others in Nevada, Idaho, Montana, Black Hills, etc</p>
+
+                    <h3>Mormon Migration</h3>
+                    <p>Migrated to Utah from Illinois after leadfer Joseph Smith was killed, sought refuge in the Great Salt Lake area to practice religion freely</p>
+                    <p>Denied admission to Union until religious practice of poylgamy was outlawed</p>
+
+                    <h3>Natives</h3>
+                    <p>Settlers came into contact w natives, hunted buffalo which was their primary food source to make room for settlers/railroadfs, sacred lands promised to native through treaties were taken</p>
+
+                    <h3>Homestead Act 1862</h3>
+                    <p>Families sought land, homestead act offered by fed gov during civil war promised 160 acres for $10 if fasmily could improve land after 5yrs, attracted urbaners, immigrants, and former slaves leading to Great Plains pop growth</p>
+
+                    <h3>Foreign Relations / Diplomacy</h3>
+                    <p><strong>JAPAN:</strong> Commodore Matthew Perry sent on mission  by Millard Fillmore to open Japan for trade w war ships, leading to Treaty of Kanagawa 1854 Japan opened for trade w first treaty w modern western power</p>
+                    <p><strong>CHINA:</strong> Treaty of Wanghia 1844 first diplomatic agreement between US and China, Treaty of Tianjin 1858 opening up more Chinese ports to US, Chinese Education Mission brought Chinese male students to study in US</p>
+                    <p><strong>LATIN AMERICA:</strong> Attempts at expansion like the Ostend Manifesto (secret document by American ambassador to Spain calling for Spain to sell island of Cuba or have it seized to protect American interesrts wjich would result in American dlavery expansion, but plan was unsuccesful), The Filibuster Movement (americans try to take power in Latam countries w/o gov consent and extend slavery, Nicaragua taken by William Walker who proclaimed himself president but ewas deafeaed and executed)
+                `
             }
         }
     },
