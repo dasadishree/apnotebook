@@ -3141,6 +3141,45 @@ const NOTES = {
                     <h2>7.6: WW1 - The Home Front</h2>
                     <p>Restricted freedom of speech, increased anxiety about radicalism leading to Red Scare, attacks on labor activism and immigrant culture, immigration from europe reached peak, nativist campaigns, immigration quotas</p>
                     <p>New immigrants arriving from BGermany, Italy, Russia, East Europe, Austria-Hungary thropuughout end of 19th centruy (glded age)</p>
+                    <p>Fear of immigrants from Triple Alliance countries, communism (Russian Reovlution of 1917) and antiwar american resulting in public opinion,nativist actions,</p>
+                    <p>Committee on Public Information (CPI) led by Goerge Creel which was wartime propaganda, Red Scare tension between labor unrest and communism</p>
+                    <p>Espionage Act (1917) imprisoned those insitgating rebellion/disprupting war, Sedition Act (1918) progibited disloyal srtatements about US. Both took away civil liberties (ex: Court cases US v. The Spirit of 76 and Scheneck v US)</p>
+                    <p>Immigration Resitrictions: Immigration Act of 1917 using ltierascy tests to limit immigration esp from Middle East/Southeeast asia, Acts of 1920s giving quotas based on prior population percentages</p>
+
+                    <h3>Great Migration</h3>
+                    <p>General migration pattern to urban centers for economic oppourntity and demand for war production sand labor</p>
+                    <p>AAs escpaing segregation/violence/limited opportunit in S moved North and West for new oppounrtities/jobs including women but still encountered discrimination</p>
+                    <p>AAs shift from rural to urban causing tension racially in North (Race Riots in 1919, Harlem Renaissance & culture)</p>
+                    <p>Political instability in Mexico prompts migration of Mexzicans to US</p>
+
+                    <h3>Urban Changes</h3>
+                    <p>Total War: increased gov control of manufacturing/economy</p>
+                    <p>Diff responses to wartime ecomomy & conditons by different labor unions (1919 labor strikes against, American Federation of Labor pro-war)</p>
+
+                    <h2>7.7: 1920s - Innovations in Communication & Technology</h2>
+                    <p>New technology/manufacturing leading to consumer goods & mass media</p>
+                    <p>New technology, electrificzation of household products, scientifific management, cars, radio, and advertisining had effects like increased living standard&consumer culture, car-centered economy and life, easier life at home for women leading to more equal gender roles, development of national culture w regional difrerences</p>
+                    <p>Impact of automobiles/Ford: Economic changes and connection to cars/gas, parallel to railroads of Industrial Revolution, societal changes and freedom/affordibility for low incom, youth, adn women, geographic changes like suburbs, hgihways, billboard advertising</p>
+                    <p>Radio contirbuted to naitonal culture but had reigonal/poltiical differences, parallel to telegraph in 1st industrial revolution and television in 1950s</p>
+
+                    <h2>7.8: 1920s - Cultural and Political Controversies</h2>
+                    <p>Urban centered population giving oppurtnities to migrants and women, nativists and immigreantion quotes restricted immigration after WW1</p>
+                    <p>URBANIZATION: attracted by economic and social oppiruntities</p>
+                    <p>overall MIGRATION: moving of ppl between places whether internal like Great Migration from rural to urban, or international like east/southern euorpeans, Latams, or Canadians w groups like asians barred/limited</p>
+                    <p>Nativism - revived, protect native interests esp during first Red Scare and its aftermath, placed quotes based on nationality of new immigrants like the Emergenyc Quota Act of 1921 limiting immigration to 3% based on 1910 census or National Origins Act of 1924 limiting immigration to 2% based on 1890 census. Some ppl unskilled considered undeseriable</p>
+                    
+                    <h3>Harlem Renaissance</h3>
+                    <p>Migration gave rise to new forms of art/literature expressing ethnic and regional identities, cultural/political controversies emerged as Americans debated gender roles, modernism, science/relgion/race, etc</p>
+                    <p>Rebirth of AA culture in cities, arts/music/literature, like Jazz Age and Blues, Louis Armstrong, etc</p>
+
+                    <h3>Cultural Controversies</h3>
+                    <p>Gender roles and debates over role of women: new women symbolized by flappers and automboile during jazz age, repreducive rights and divrose laws were controversie, 19th amendmenet women's sufferage, equality?, National Woman's party (ERA)</p>
+                    <p>Disullusionment, conformity, and consumerist after WW1. Highly critical writers included Sinclair Lewis, Scott Fitzgerald, and Ernest Hemingway</p>
+                    <p>Prohibition: 18th Amendment vs bootleggers and speakesies, organized crime and gangsterism</p>
+                    <p>Urbam vs rural divide (more fundamentalist), over sicnece and religion like the Scopes Monkey Trial vs Charles' Darwin evolution taught in schools, and race and immigration like KKK and Nativists</p>
+                    
+                    <h2>7.9: Great Depresion</h2>
+                    
                     `
             }
         }
