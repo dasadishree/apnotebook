@@ -3179,7 +3179,90 @@ const NOTES = {
                     <p>Urbam vs rural divide (more fundamentalist), over sicnece and religion like the Scopes Monkey Trial vs Charles' Darwin evolution taught in schools, and race and immigration like KKK and Nativists</p>
                     
                     <h2>7.9: Great Depresion</h2>
+                    <p>US transition from rural to urbaan led by large companies, episodes of credit/market instability like Great Depression led to calls for stronger financial regfulatory system</p>
+                    <p>Urbanization.industrializatoion of agriculture, Depression caused by stock market crash of 1929 where selling frenzy after extended period of prosperrity w increasing prices and speculation (buying on margin), easy credit can lead to eocnomic instability. disparity in wealht affected good demand, under-consumption, and purhcasing power. Debt increased bc of consumer culture, layaway plans, and credit</p>
+                    <p>CAUSES: stock market crash, overproduction of agricultural products/manfuactured goods leading to surpluses and low prices esp affecting farmers, gov noninterneventon w little regulation and high tariffs, dust bowl nature contirbute, serious collapse of world trade/worldwide depression, migrations/movement like Okies fsarm workers west looking for work, changfes in federal gov w more direct action and public relief, regulation of ifnacial system</p>
+                    <p>Modern American Liberalism / Limited Welfare State: shd gov regulate businesses to prevent eocnimic instabuility? shd it provide a safety net for americans? what about rugged indifvudualism?</p>
+                    <p>Farmers/poplustis need public relief/assistance, labor unions protect industrial workers, reformers/politicans focus on 3Rs: relief, recovery, reform</p>
+                    <p>EFFECTS: mass unemployment, around 25% and even higher for minorities/women, bank closures and business failures as ppl underconusmed, psanicked and rushed to banks, povertty/homelessness/social upeheaval led to foreclosures and evictions. Hoovervilles housed unemployed/homeless</p>
+
+                    <h3>Policy Changes</h3>
+                    <p>Policymakers responded to mass unemployment and social uphealvals by transofrming US into limted welfare state, redefining goals and ideas of modern american liberalism</p>
                     
+                    <h2>7.10: New Deal</h2>
+                    <p>Relief to poor/unemployed, stimulate recovery and help businesses, reform economy and prevent future situaitons</p>
+                    <p>Alphabet Soup RELIEF: agencies created like FERA giving grants to local govts for soup kitchens/etc, AAA giving subsisidiees for farmers, CCC employing young men adn paying their families, FHA insuring bank loans for homeowners/comapniedss</p>
+                    <p>Alphabet Soup RECOVERY: NRA setting codes for industries, PWA providing jobs/infrastructure, Bank Holdiays closing banks to resotre conficdence, Emergnecy Banking Relief Act exmainie and rpeoen only sound banks</p>
+                    <p>Alphabet Soup REFORM: FDIC guarnteeing deposits still today, SEC regulating stock market protecting investors, TVA devleop poor areas through jobs/electricity</p>
+                    <p>Some agencies later found to be uncosnittitutoonal like NRA and AAA</p>
+
+                    <h3>2nd New Deal</h3>
+                    <p>Focused on relief and reform w/ WPA relief providing jobs/infrastructre, NLRA(Wagner) reform giving right to unionize/coolective bargaining, Fair Labor Standards Act resitrciting child labor, wages and hrs, and Social Security Act still aorund today tjrough insurance program</p>
+
+                    <h3>Political Parties</h3>
+                    <p>Roosevelt pushed by radicals, unions, and populists, while conservatists wantred to limit New Deal. New Deal didn't end Depression but left reforms/agencies fostering long term political relaingment where many ehtnic groups idenittified Democrat and migrate cities</p>
+                    <div>
+                        <div>
+                            <p><strong>Criticisms from the Left (Liberals)</strong></p>
+                            <p>Wanred more extrensive chanfes to economy since New Deal helped businessses more than people. INcluded radicals, working class, unions, and populist movements (ex: Townsend)</p>
+                            <p>Poltiical realignmenets as result of benefiting from New Deal, AAs, wokring class, ehtnic groups, immigrants, Cahtolkics and Jews</p>    
+                        </div>
+                        <div>
+                            <p><strong>Criticisms from the Right (Conservatives)</strong></p>
+                            <p>Wanted to limit New Deal bc gave gov too much power (socialsim/commnuism), Ameircan Liberty League was problematic for FDR, Congress thought it was socialism (WPA and Wagner Act - Revolution), Supreme Court invalaidated NRA and AAA esp after FDR's court packing scheme controversy leading to less success for him</p>
+                        </div>
+                    </div>
+                    <p>Migration pushed by economic diffcioutlty pulled by war production/labor during WW2, mobilization and industrial jobs in defense industries leading to movement and migration (ex: Great Migration to Midwestern cities like Chicago, West cities like LA, and Northern ones like NY)</p>
+                   
+                   <h2>7.11: Interwar Foreign Policy</h2>
+                   <p>After WW1 US foreign policy maintained isolationism but promoted internaitonal order through investments, treatieas, and select military interventionsim</p>
+                   <p>Unilateral foreign policy: US isolationsim and avoided conflict, League of Nations & collective security mediating international disputed. International investment agreements to maitain international connections/world order, fix German repeations and WW1 debts by Allies in Dawes Plan, and influence other nations</p>
+                   <p>Conferences and treaties to maintian peace and disarm nations to minimzie war</p>
+                   <p>US military intervnetions in Latin America like DR 1916-1924, Haitin 1914-1934, Nicaragua 1926-1933, and Good Neighbor Policy in 1930s used by FDR's adminsitration</p>
+
+                   <h3>Transitioning to more involvement</p>
+                   <p>From Neutraility in 1935 (NEUTRALITY ACTS): prevented economic/miiltiary engagement w countries at war, banned loans or sale of arms or sailing on ships of those countries</p>
+                   <p>Cash and Carry (1939) - could pruchase what was needed if paid for items and carried them in their own ships</p>
+                   <p>Bases for Destoryers (1940) - British air and naval bases in the hemisphere</p>
+                   <p>Lend-Lease Act (1941) - provide material aid/supplies to Allies whose defense was vital to Americna ineterests (arsenal of democracy)</p>
+                    <p>Fasicsm: aurthroirtiairn and nationlaistic like Mussolini in Italy</p>
+                    <p>Totalitarianism: centraliszed dictator system where nation>individual</p>
+                    <p>Nazi Gemrnay: far right ideology, Hitler comes to power, taking Rhineland, Sudetenland, invading Poland through blitzkrieg</p>
+                    <p>America First Comittee - org suppiritng isolationsist unleass US directly hit, rperesenting public opinoon</p>
+                    <p>Asia/Japanese invasion of China, imperalists/militarists under leadership of Hideki Tojo</p>
+                    <p>America's Stimson Doctrine (1932) - US wouldnt recognize territotial psosessions achieved by force</p>
+                    <p>Pearl Harbor: suprise Japensesse attack on Ameircan military base in Hawaii Dec 7 1941</p>
+
+                    <h2>7.12: WW2 - Mobilization</h2>
+                    <p>Mass mobilization of society ending Depression, strong industrail base helping win war, provided oprirutnities for women.minorities and debates of segreagation, challenfes to civil liberties like internment of Japanese Americans</p>
+                    <p>Migration to US from Meixco and other places despite gov politices against Mexican immirgration</p>
+                    <p>Mobilizing for war - employed americans getting out of depression, industrial/defense spending helped boost economy, equipped/provisioned allies w help of production of weapons, draft through Selective Service Act before even acrtualling entering war, rationing basic goods through War Production Board to avoid overconusmption of meat,rubber,gas,etc</p>
+                    <p>Social changes: opporutnitty for women/minorities, improved socioeconimics, Rosie the Riveter symbolized women obtaining oppiruntities,patritotism and war effort. Segregation continued through Tuskegee Airmen even inmilitary, Double V Campaign resulting in debates and lsaying foundation for civil rights movement. A Philip Rando;ph and proofposed march on Washington, Native American Navajo Code Talkers</p>
+                    <p>Internment of 100k+ japaense americans perceived as threat to national security/sabotge, consittitutiaonl according to Korematsu v US (Executvie Order #9066)</p>
+                    <p>Bracero program: Mexican immigrants to fill increased labor demand, esp farm workers temporarily in US, massive deportations in 1930s</p>
+                    <p>Zoot Suit Riots: accused of being unpatriotic, conflicts w sailors for a week</p>
+
+                    <h2>7.13: WW2- MIlitary</h2>
+                    <p>US viewed war as fight for surviva of freedom/democracy agfainst fasicst/militarist ideas, later reinforced by reveleations abt Japanese wartime atroicities, Nazi concenrtration camps, and Holocusust</p>
+                    <p>Military service gave opporitnttiesi to women/miniroities to improve socioeconomic positions for duration of war, leading to debates over segrwgation</p>
+                    <p>Military victorty achieved through Allied cooperation, technological and scientific advances, contirbutions of servicemen and women, campaigns like Pacific island hopping and D-Day invasion, atomic bombs at end of war & debates over morality</p>
+                    <p>FDR's Four Freedoms Speech: freedom of speech,worship,from want,from fear. Fight for surivval of democracy against fasicsm. FDR wantred to sway public opinon to aid Allies.</p>
+                    <p>Reinforced by Japanese wartime atroticities like Rape of Nanking in China, Nazi concerntaration camps and Holocausts attacking groups including Jews as part of final solution</p>
+                    <p>Double V Campaign; victory overseas, victory against segrgation at home</p>
+                    <p>Victorty as a result of military cooperation through Atlantic Charter, conerences, D-Day, radar and bombs tehcnology, contirbutions of soldiers</p>
+                    <p>European Theater - D-Day invasion. Pacific island hopping. Atomic bombs to expedite end of war, save US lives to force Japan to surrender, send signals and prevent involvement/expansion to USSR</p>
+              
+                    <h2>7.14: Postwar Diplomacy</h2>
+                    <p>War-ravaged conditon of Asia and Europe and dominsant US role in victory through arsenal of democracy and atomic weapons allowed US to become dominant world pwoewr</p>
+                    <p>Postwar peace settlements like UN and US plays more role in international affairs</p>
+                    <p>Marshall Plan - provided econimic aid to rebuilt Asia and Europe, provide food</p>
+                    <p>China: US wanted to limit role played by USSR political influence and supported nationlaists even if cxommunists took over</p>
+                    <p>USSR former ally turned nemesis in Cold War</p>
+                    <p>Foreign polciy: global capitalist economy based on frtee enterprise to stablizie internaitonally, opposed communism, had commmercial interwests</p>
+
+                    <h2>7.15: Comparison in Period 7</h2>
+                    <p>American Identity - developed among diverse and changing popjultion</p>
+
                     `
             }
         }
