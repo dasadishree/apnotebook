@@ -2975,6 +2975,20 @@ const NOTES = {
 
                     <h2:6.5: Technological Innovation</h2>
                     <p>Technological innovations and resources used to increase good production</p>
+                    <p>INDUSTRAILIZATION: result of technology advancements and efficiency, jobs and competitive companies leading to new markets&industries, opporutntities for minority groups</p>
+                    <p>New technologies: telephone by Alexander Graham Bell in 1876 making communication easier and providing jobs to women, lightbulb in 1879 by Thomas Edison making efficient lighting and more efficient way to transmit electrici/electric powered products, car by Henry Ford in 1896 making travel easier/accessible leading to new markets and mass prodsuction strategies</p>
+                    <p>MASS PRODUCTION: assembly line process where people mastered specialized job, Taylorism-scientiffic management increasing efficencey, interchangeable generic identical parts mostly</p>
+                    <p>New markets: highways/paved roads, motels, gas stations, auto body shops, garage and drivewa. New oppurtities for women as garment trades, education, fiancnial independence, typists, switchboard operators, etcy</p>
+
+                    <h2>6.6: Rise of Industrial Capitalism</h2>
+                    <p>Businesses made use of redesigned financial and managrement structures, marketing advances, growing labor force, and businesses wanted to increase profit/production by consolidationg corporations into large trusts and holding companies to concentrate wealth</p>
+                    <h3>Capitalism</h3>
+                    <p>Competition and desire to be better fueling improvements/innovation, private ownership owned by one person making decisions</p>
+                    <p>Somewhat based on Social Darwinism (based on Natural Selection justifying social classes)- doctrine of Laissez faire w little/no gov regulations and business succeed or fail based on ability to adapt</p>
+                    <p>Appeal: we like to know who/what is best and competiton does inspire improvmenet, free will allows consumers to control cost/value but dangers include unfair compeititon bc unequal resource access and starting lines</p>
+                    <p>Monopoly: business dominates/controls all aspects of market for a specific good</p>
+                    <p>Trusts: group of busiensses work together to achieve same level of contorl as a monopoly</p>
+                    <p>Monopolies and trusts controled market fully which is natural outcome of things but stifled competiton</p>
                     `
             }
         }
