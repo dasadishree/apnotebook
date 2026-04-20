@@ -3053,8 +3053,48 @@ const NOTES = {
 
                     <h2>6.9: Responses to Immigration in the Gilded Age</h2>
                     <p>Debate over assimilation/Americanization accompanying growth of international migration, compromises negotiated between culture brought vs US cultures, Social Darwinism justifying success of social hierarchy, women like Jane Addams worked in settlement houses to help immigrants adapt</p>
-                    
+                    <p>SYMPATHIZERS: settlement houses like Jane Addams's Hull House for social reforms esp women, poor immigrants neighborhoods. Political machines provided services for immigrants but excluded groups like Chinese and AAs</p>
+                    <p>NATIVISTS: Social Darwinism w/ survival of fitted applied to poor immigfrants and justify wealth and status. Workers feared job competiton, language barriers made difficult immigrants unions (orgfanized labor) but this led to immigrants being used as strike breakers, gov restrictions and banning of criminials,poor,polygamists,alcoholics,ppl w illness from coming into US (EX: CHINESE EXCLUSION ACT suspending Chinese immigration from 1882-1943)</p>
+                    <p>IMMIGRANTS: difficulty assimilating and had to compriosionise between tradition and Amercian culture leading to ethnic neighborhoods but abanadoned tradion. US v Wong Kim Ark raised questions of citizenship by birth vs parent's nationality, court ruled citzzenship protected by 14th amendment</p>
 
+                    <h2>6.10: Development of the Middle Class</h2>
+                    <p>Corporations need for managers and increased education access led to growth of a middle class, consumer culture expanded by leisure time</p>
+                    <p>Middle Class (AMERICAN DREAM): income between poor and wealthy, has leisure time and extra money caused by admin/management and education for men & women leading to growth of skilled workfroce, expansion of consumer culture/entertainment, deveolpment of suburbs</p>
+                    <p>Leads to more political actisim and social reform (PROGRESSIVE ERA)</p>
+
+                    <h2>6.11: Reform in the Gilded Age</h2>
+                    <p>Artists advocated of Social Gospel champinoned diff visions for economy & US socirty, women sought equality</p>
+                    <p>PROBLEMS: Corruption, poverty, crime, overdorwinding, poor conditoons, hjunger, disease, pollution and CHURCHES/INDIVUDALS/GOD SEEN RESPONSIBLE</p>
+
+                    <h3>Protestant Churches</h3>
+                    <p>Alternative vision solving urban poverty applying Christian values in the SOCIAL GOSPEL to promote better living conditions</p>
+                    <p>SOCIAL GOSPEL: merging religion and reform in Gilded and Progressive Era and did not generate national support</p>
+
+                    <h3>Women reformers</h3>
+                    <p>Address lack of social services, overdrownedd immigfrant neighborhoods, and inequalityt w men</p>
+                    <p>Solve through settlement houses and organize for reform/suffrage like NAWSA</p>
+                    <p>Future social workers and women reformers prominent in future reform movements</p>
+
+                    <h3>City Beuatiful Movement</h3>
+                    <p>Address overcrowidng and chatoic layout solved through urban planning, parks/green spaces, suburbs</p>
+                    <p>Failed bc good physical design by itself cant solve social problems</p>
+
+                    <h2>6.12: Controversies of Role of Government in the Gilded Age</h2>
+                    <p>Debates over whether laissez-faire policies/competition promoted economic growth or gov intervention would be needed, foreign policy looked outside US border to gain foreign influence and control over makrets/reesources in Asia/Latam/PacificRim</p>
+                    <p>Less regulation: laissez faire supported by Social Darwinism, Gospel of Wealth validated extreme wealth and writings like "wealth of nations" by Adam Smith says supply/demand drives economy not gov invovlement</p>
+                    <p>Expanding global markets: diplomacy gateway to overseas business, global influnece expanding through Open Door Note, annexation of Hawaii, Alfred T Mahan</p>
+                    <p>Gov in economy: historical developments illustrating gov role in economy starting w American System in 1824, transportatin infrastrcutre in 1820s/30s, free soil parrty in 1848, federal railroad land grant in 1850, 1854 matthew perry to japan, then gilded age</p>
+                    <p>Gov interested in economic expansion andf growth but not regulation of businesses</p>
+
+                    <h2>6.13: Politics in the Gilded Age</h2>
+                    <p>Economic instablity inspired agrarian activists to create People's/Populist Party calling for stronger gov role in regulation, parties debate over tariffs/currency issues, reformers believed gov corruption, political machines thrived by providing immigrants/poor w social services</p>
+                    <p>REPUBLICANS: Anglo-Saxon Protestnat, rural support, AAs, probusiness, gov regulation of social issues, high tariff, gold standard</p>
+                    <p>DEMOCRATS: catholics/jews/lutherans, immigrants, industrial/urban locations, probusiness, states rights, low tariff, silver standard</p>
+                    <p>Reublicans and Democrats mostly differed only in compision, only to some extent in policies, lack of leadership and laisdsexz faire caused limited legislavtive agenda</p>
+                    <p>PATRONAGE: loyal party members gifted w jobs and favors</p>
+                    <p>Political Machines: active in local urban areas, provided service in exchange for votes, ex: Tammany Hall Democrats in NYC</p>
+                    <p><strong>POPULIST PARTY</p>: reformers/advocacy, emerged critical of laissez-faire, adovcated for gov ownership of railroads, tleegraph, telephone, wnated 8hr workday for facotry workers, supported free coinage of silver</p>
+                    <p>1896 Presidential Election - win for urbans w/ McKinley, end for Populist Party but it would inspire Progressive era later</p>
                     `
             }
         }
