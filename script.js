@@ -2894,7 +2894,88 @@ const NOTES = {
                     <p>Jim Crow Laws in 2nd reconsutrction and KKK</p>
                     <p>Plessy v Ferguson: seperate but equal, segragtion</p>
                     `
+            },
+            "Unit 6: 1865-1898": {
+                tags: ["westward expansion", "gilded age", "middle class", "industrial capitalism"],
+                content: `
+                    <h2>6.1: Contextualizing Period 6</h2>
+                    <p>Context of Civil War: Westward expansion (sectional tension over slavery, market revolution), Civil War (north-industrialized infrastructure, south-sagriculture dependent on slave labor), Gilded Age (gov support industries, production, and monopolies)</p>
+                
+                    <h2>6.2: Westward Expansion: Economic Development</h2>
+                    <p>Building of railroads, discovery of mineral resources, and gov policies promoted economic growth creating communities and commercial activity opening up actives. Improved agircultural mechanization increased production and decreased prices</p>
+                    
+                    <h3>Transcontinental Railroad</h3>
+                    <p>"Iron Horse" railroad system connecting east and west US coasts, increasing settlement of Great Plains and stimulating trade leading to rise of cities</p>
+                    <p>Central Pacific Railroad Company (W to E, Asian/Chinese immigrants), Union Pacific Railroad Compay (E to W, European/Irish/German immigrants)</p>
+                    <p>GOv gave incentives to cultivate west: Homestead Act 1862 gave 160 acres of land to ppl who improve/worked land for 5 years, Railway Acts of 1862 and 1864 was contract between Central and Union pacific for transcontinental railway system w gov bonds and land</p>
+                    <p>EXODUSTERS: AAs who moved west to escape segregation</p>
+                    <p>Old vs New immigration for settlers</p>
+                    <p>Improved machinery like reaper, barbed wire, steel plow making farming more efficient, surplus of food w lower prices</p>
+                    <p>CHALLENGES: Natural challenges w differences in land resources/fertilty, soddies were sod homes made of dirt bricks, nature diseasters and conflict w natives, manmade cycle of debt, railroad exploitation and dependnency leading to unfair pricing, bonanza farms which were massive single crop</p>
+                    <p>RESPONSE TO CHALLENGES: Granger Movement creating safe space and education for farmers, Farmer's Alliance educate communities of fiancnes of famring, Granger Laws to regulate crop transport, storage pirces, and other fees</p>
 
+                    <h3>Court Cases</h3>
+                    <p>Farmers victims of industry and financial instituttions</p>
+                    <p>Munn v. Illinois (1877) - allowed states to regulate industries that affect common good, upheld Granger laws and other measures against railroad companies</p>
+                    <p>Wabash v. Illinois (1886) - states could not set rates on interstate commerce, Congress passed Interstate Commerce Act in 1887 failing to regulate rairlaod rates, too much power until Roosevelt</p>
+
+                    <h2>6.3: Westward Expansion: Social & Cultural Development</h2>
+                    <p>Migrants moved to rural and boomtowns in West for opportuntities in railroad, mininig, farming, and ranching industries to achieve self-sufficiency and idenependecen promoted by gov but increased after Civil War</p>
+                    <p>CAUSES: Myths of West like William Cody's Buffalo Bill's Wild West Show w cowboys and trick riding, Safety Valve Theory that West would be avalabel to make money during tough economic times</p>
+                    <p>RAILROAD: Transcontinental raildroad connecting country, other industries boom to keep up w demand like iron/coal/lumber/steel, new towns/communities along lines and accessible growing cities, time zones created (Eastern, Central, MOuntain, Pacific)</p>
+                    <div>
+                        <div>
+                            <p><strong>Farming Industry (FARMERS)</strong></p>
+                            <p>Homestead Act 1862: 160 acres for improving land, Morill Act 1862/1890: fed gov distributes land to states seeking to establish agricultural colleges, Hatch Act 1887: agricultural experiment stations to troubleshoots and improve farming based on local conditions</p>
+                        </div>
+                        <div>
+                            <p><strong>Mining Industry (MINERS)</strong></p>
+                            <p>Start in CA, move east to NV, CO, AZ, UT, and ID w/ boomtowns emerging around discovery of natural resources, but could disapeasr just as quick</p>
+                            <p>Comstock Lode 1880 - $270mil in gold, $400mil in silver</p>
+                        </div>
+                        <div>
+                            <p><strong>Cattle Industry (RANCHERS)</strong></p>
+                            <p>Urbanization led to demand for beef, beef transported from Midwest to coasts via railroads</p>
+                            <p>Long drive - overland transport of cattle ready for sale leading to overgrazing and barbed wire going from open range to fenced in rnaches</p>
+                            <p>Crisholm Trail - major cattle route San Antonio TX to Kansas</p>
+                        </div>
+                    </div>
+
+                    <h3>Natives</h3>
+                    <p>Treaties vioated w US govenrment, Native resistance responded w miltary force, confined to reservations and denied their tribal soverignty but preserved culture despite US promiting assimilation</p>
+                    <p>Settlers move West for economic opportunity, mining/ranchers/farming put pressure on Natives and US gov breaks compromises</p>
+                    <p>SAND CREEK MASSACRE (1864) - Colorado, US Army descend upon Cheyenne and Arapaho tribes w 150+ killed including women and children</p>
+                    <p>BATTLE OF LITTLE BIG HORN (1876) - Custer's Last Stand, discovery of gold/resources forcing Natives off land, Custer overhwlemed and killed, US army sent to disband Sioux,Cheyenne, and Arapaho gsathering</p>
+                    <p>Battle of Wounded Knee (1890) - Ghost Dance Movement gave natives hope for life/lands but US Amry goes into Dakotas and kills/massacres 200+ natives</p>
+                    <p>Effects: decimation of bison populatiomn which was natives food source but railroad expansion/trade of buffalo hides led to their decimation, Helen Hunt Jackson Century of Dishonor (1881) - relation between natives and US document inspiring assimilation policies&boarding schools instead of preservation, Dawes Severalty Act (1887) -gov attempt at assimilation breaking up reservations into private farms and giving path to citizenship</p>
+                    <p>Closing of Frontier - 1890 revealed no longer distinuguishable boundary marking frontier, identity shaped by challenges, success and failures on the frontier (Frontier Thesis)</p>
+
+                    <h2>6.4: THe New South</h2>
+                    <h3>New South</h3>
+                    <p>Henry Grady - South done apologizing for Civil War, allowed sefgregation, diversify Sotherhn economy balancing agriculture w indstruialization through imporved railways/factories/COCACOLA, seek economic prosperity like North</p>
+                    <p>New South - agriculture based on sharecropping and tenant farming contuing to be primary economic activity in South,l indsutrialization of some of South</p>
+                    <p>Inequalities/Old South still shown through sharecropping (exchanging labor for share of crops systematically controlling AA economic oportunity), Jim Crow laws segrgating white and AA, controlling vote through polltaxes, literacy tests, and grandfather clause</p>
+
+                    <h3>Plessy v Ferguson</h3>
+                    <p>Supreme Court decision upholding racial segregation through seperate but equal, marking end of Reconstruction political gains and increasing discirmination/violence afgain</p>
+                    <p>Upheld constitutitonality of Jim Crow segegration</p>
+                    <p>RESPONSES TO RACIAL INJUSTICE:</p>
+                    <div>
+                        <div>
+                            <p><strong>Booker T Washington</strong></p>
+                            <p>Gradual change through proof and earned respect, vocation/trade roles</p>
+                            <p>Tuskegee Institute (1881) - focus on vocational skills based on community needs</p>
+                        </div>
+                        <div>
+                            <p><strong>W.E.B. Du Bois</strong></p>
+                            <p>Immediate change through education/positions of power to dissolve laborer image and protect self through politics/laws</p>
+                            <p>NAACP (1909) - National Association of the Advancement of Colored People, political and legal support</p>
+                        </div>
+                    </div>
+
+                    <h2:6.5: Technological Innovation</h2>
+                    <p>Technological innovations and resources used to increase good production</p>
+                    `
             }
         }
     },
