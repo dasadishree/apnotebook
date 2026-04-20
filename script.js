@@ -3096,6 +3096,52 @@ const NOTES = {
                     <p><strong>POPULIST PARTY</p>: reformers/advocacy, emerged critical of laissez-faire, adovcated for gov ownership of railroads, tleegraph, telephone, wnated 8hr workday for facotry workers, supported free coinage of silver</p>
                     <p>1896 Presidential Election - win for urbans w/ McKinley, end for Populist Party but it would inspire Progressive era later</p>
                     `
+            },
+            "Unit 7: 1890-1945": {
+                tags: ["imperialism", "reform", "mass migration", "WW1", "Progressive Era", "Roaring 20s", "Great Depression", "WW2"],
+                content: `
+                    <h2>7.1: Contextualizing Period 7</h2>
+                    <p>Growth expanded oppurtunity, reformed US society and economy bc of instability, commincation/tech innovations leading to internal/international migration pattern changes, global conflicts in US and world</p>
+                    <p>PROGRESSIVE ERA 9reform from late 1890s to 1920), Spanish American war conflict in late 1890s-early 1900s, 1920 censures followed by Roaring 1920s then Great Depression from 1930-1940</p>
+                    <p>WW1 from 1910-1918, WW2 from 1939-1945</p>
+                    <p>Reformers demand federal gov should address problems and economic instability and trasnform into limited welfare state</p>
+                
+                    <h2>7.2: Imperialism - Debates</h2>
+                    <p>Imperilists - said Americans destined to expand culture/institutions (spread democracy) globally citing economic oppornutity, competiton w Europe, closed western froniter, and racial theories, social darwinisim, new markets, compete w europe, new ouppourtuntiies</p>
+                    <p>Anti-imperialsits - cited principles of selfdetermination, invoked both racial theories nad isolationsist foreign policy to argue against expanding overseas territoy, respect other country's soveriengty, don't engage in aggresion to gain access to global trade, honor isolationsim, shared some racial ideology</p>
+                    <p>MONROE DOCTRINE 1823 - sent message to Eruppe to not involve in western himeisphere</p>
+                    <p>Context: US wnated to compete w European colonization, inuddstrialization created need for raw materials and new global markets</p>
+                
+                    <h2>7.3: Spanish-American War</h2>
+                    <p>US victory in Spanish-Amerian War led to US acquisition of islands in Caribbean and Pacific, inolvement in Asia, suppression of Phillipines nationalist mvoement</p>
+                    <p>CAUSES: Cuban Revolution against Spain which US felt akin to which disrupted US trade, role of yellow press/media creatred exaggerated news, death of 260 americans on battleship maine which was eaccident but exagrerwted to be spain</p>
+                    <p>Effects: inspired enthusiasm for expanding navy, efforts to acquire hawaii and phillipines, establish predominance in carribean leading to nationalist movement, led to patriotism, intesified imperialism debate, better access to trade w asia, groundwork for panama canal</p>
+
+                    <h2>7.4: The Progressives</h2>
+                    <p>Progressive Era jounrliasts attacked corruption, injustice and instsability and reformers including women worked to effect social changes, they were divided over issues like segrepeation and gov participation, and disagreed about immigration resistrict, sought federsal legislation to regulate economy, reoffrm and expand democracy</P.
+                    <p>Dealt w issues like prohibition and womens suffrafge, establisjing national parks and advocating diff gov responses to overuse of natural resources</p>
+                    <p>Result of industrialized/immigration/corruption of Reconsutruction/Gilded Age</p>
+                    <p>Progressives were urban middle class including women w time/resources, muckrakers/investigative journalists trying to inform public, and federal/state/local politicians</p>
+                    <p>GOALS: stop political corruption/disenfranchisement (initiative, sufgfrrage for women, secreet ballot, 19th amendment), sponsor urban social change (safer tenemenets/wokring conditoons), address injustice/moral reform (civil rights, tmeperance), promote ecoomic equality (trust busting, banking reform), preserve/conserve environemnt (national pakrs, conserve resources) achieved through legislation/action from gov and support</p>
+                    <p>Happened bc of growing middle class and ingterested jounralists, conflict between labor and management, strong political leadership, and economic growth w/o considering impact</p>
+                    <p>19th amendment - women suffrage, Clayton/Sherman Antitrust Act prohibiting anticompetitve practice to restrict monopolies, Federal Reserve central  bank of US, National Parks, 18th amendment establishing prohibition</p>
+                    <p>Not as much progress in civil rights as hoped</p>
+
+                    <h2>7.5: WW1 - Military and Diplomacy</h2>
+                    <p>After neutrality in WW1, US entered conflict ending isolagtionist/noninvolvement in response to Woodrow Wilson's call for defense of humanitarian and democratic principles</p>
+                    <p>CAUSES:German unrestricted submarine warfare, Zimmerman Telgram sent from Germany to Mexico to try to go against US, US declares war on Germany in 1917 w 14 Point Speech by Wilson, WW1 ends in 1918 and 2nd failure to ratify Treaty of Versailles in peace negotaiates followed by more isolationism after war</p>
+                    <p>WILSON & 14 Points: defined war effort in terms of creating global environemtn for democracy, 14points included freedom of the seas, selfrule to European colonies, League of Nations, wanted to spready democracy</p>
+                    
+                    <h3>War & Post War</h3>
+                    <p>US played relatively limited role in combat but overall helped Allies through supplies/loans and recover french terriotiry</p>
+                    <p>US Senate refused to ratify Treaty of Versailles or join League of Nations despite Wilson's involvement in postwar peace negoatitiaions</p>
+                    <p>Wilson's ideas of global peace not shared by France, Britain, or Italy. Russia/Germany not invited to Treaty. Peace terms included disarming Germany, forcing war repearation, selfdetemrnation to some nations, League opf Nations</p>
+                    <p>Wilson wanted to establish US membership in League of Nations, Irreconcilables wouldn't accept any portion of Trwaty, Reservationists led by Republican Senator said would ageree if it could be amended</p>
+                    
+                    <h2>7.6: WW1 - The Home Front</h2>
+                    <p>Restricted freedom of speech, increased anxiety about radicalism leading to Red Scare, attacks on labor activism and immigrant culture, immigration from europe reached peak, nativist campaigns, immigration quotas</p>
+                    <p>New immigrants arriving from BGermany, Italy, Russia, East Europe, Austria-Hungary thropuughout end of 19th centruy (glded age)</p>
+                    `
             }
         }
     },
