@@ -3264,6 +3264,144 @@ const NOTES = {
                     <p>American Identity - developed among diverse and changing popjultion</p>
 
                     `
+            },
+            "Unit 8: 1945-1980": {
+                tags: ["containment", "proxy wars", "conservatism", "cold war"],
+                content: `
+                    <h2>8.1: Contextualizing Period 8</h2>
+                    <p>US responded to uncertainty by assuming global leaderhip, new omvements for civil rights & postwar eocnomic/demographic changes</p>
+                    <p>Containment during 2nd Red Scare</p>
+
+                    <h2>8.2: The Cold War from 1945-1980</h2>
+                    <p>Cold War w Soviet Union to limit growth of communist military powerr/ideology, create freemarket global eocnomy, build international security system, develop foreign polcy based on securirty, aid, and eocnomic insituttions</p>
+                    <p>Cold War: power struggle between USA (democracy, cpaitalism) vs USSR (authoritarian, communism)</p>
+                    <p>Communism - system where propertty publicly owned, strong eocnomic contorls</p>
+                    <p>Collective secuirty - UN already in existence allowing for collective action, Iron Curtain, NATO for US and Britain, Warsaw Pact for Soviet-aligned nations</p>
+                    <p>Marshall Plan (1948) - provide financial support to democratic nations</p>
+                    <p>Truman Doctrine (1947) - prevent commuism by providing military/economic assisntance ($400 mil) to Turkey and Greece, oriigns of containment policy</p>
+                    <p>Ecomomic Institutions ike Bretton Woods Conference of 1944 to create new monetary system including World Bank to promite eocnomic growth and International Monetary Fund to regulate currency/trade</p>
+                    <p>Domestic implicaitons: military interstate highway for national security, NASA, space race, nuclear arms race, GI Bill for educaitonal/economicoppurtintities, second Red Scare/McCarthyism and Civil RIghts movements</p>
+                    <p>IMprotant events: Berlin Blockade/Airlift, Suez Canal, Sputnik & Space Race, Nuclear Artms Race, U2 Spy Plane Icident, Cuban Revolution, Bay of Pigs, Cuban Missile Crissis</p>
+                    <p>ended with DETENTE (mutual coeexistance and easing of tenisions) - President Richarcd Nixon achieved diplomacy by visitng China opening it for trade/leverage against Socviets in 1972, and USSR epxanding trtade/economic oppounritiy in 1972. LATAM countries CIA operations like Guatema, Cuba, Chile to topple communist regimes. Ronal Reagan renewed Cold War but concluded by end of decade</p>
+                    <p>SALTI (1972) - Stratregic Arms Limitations Talks - dealt w long ragre missiles containing nuclear war heads, heading in right direction</p>
+                    
+                    <h3>Containment</h3>
+                    <p>Foreign policy of US w Soviet during Cold War to prevent spread of communism around world, depathre from WW1, supported by Truman Donctrine to give support to Greece/Turkey to prevent commnuist threats, Marshall Plan helps west europe restores economies and prevent communism</p>
+                    <p>George Kennan (1947) - against expansion of Soviet influence around wordl</p>
+                    <p>Fall of Chinsa (1949) - communist revolution led by Mao Zedong</p>
+                    <p>NSC-68 (1950) - nat security council paper (dept of state & defense)</p>
+                    <p>US Troops - around world for international security (ex: Japan & Germany occuppied after WW2, ongoing through entire Cold War)</p>
+                    <p>Eisenhower Doctrine (1957)- expansion to Middle East (oil) and streategic locations</p>
+                    
+                    <h3>Proxy Wars</h3>
+                    <p>Wars over communism fought in other countries as proxies</p>
+                    <p>Korean War/The Forgotten War - proxy war against North Korea influneced by USSR, not as opposed as Vietnam, podsibiliy of China entering conflict and escalation. Polciy objectibve NSC-68 to protect word from communism, couldn't lose like w China so worked w UN</p>
+                
+                    <h3>US Presidents (1945-1980)</h3>
+                    <p>Truman: Truman Doctrine, Korean War</p>
+                    <p>Eisenhower: Eisenhower Doctrine, massive retailiation and brinkmanship, U-2 spy plane, "New Look" military, "military industrial complex", NASA</p>
+                    <p>JFK & LBJ: "flexible response", issues w Cuba, Space Race, Vietnam War</p>
+                    <p>Nixon: Nixon Doctrine, Detente, Vietnamization, SALT I</p>
+                    <p>Carter: SALT II, Soviet invassion of Adfghanistan</p>
+
+                    <h2>8.3: The Red Scare</h2>
+                    <p>Policies designed to expose suspected commmunists and contain communism</p>
+                    <p>SECOND RED SCARE: identify communists in US society, resukting in a witch hunt bc of Cold War anxiety, growing foreing influence at US</p>
+                    <p>HUAC (House Un-American Activities Committee) - 1938, Nixon in 1947, monitooneer suspiocicous behavior and expose indifiduals/employees/citizens/communist ties</p>
+                    <p>McCarran Act (195) - targeted communist organization risking internal security, declared unconstititutonal later</p>
+                    <p>Rosenburgs - alleged Russia spies who provided atomic secrets to USSR, executed bc of charges of espionage</p>
+                    <p>Joseph McCarthy - senator who wanted to expose alleged communists, esp in federsl gov, made accusations and allegation leading to investigation based on suspicions. Targetted US Hoollywood stard. US army, and stzate department. Decline due to political resistance and censured by state/unsubstantiated accusations</p>
+                    <p>GI Bill (educaiton/economic opporuntitiy): conformity meant loyalty</p>
+                    <p>Public schools went behyond curriculm, added under God to Pledge of Allegiance, other steps to address fears like duck and cover, bomb shelters, NASA, Interstate High national security</p>
+
+                    <h2>8.4: Economy after 1945</h2>
+                    <p>Booming private sector (service jobs benefited women, growth of corporations, managers, consumer products, shopping centers) & federal spendning spurred economic growth, growth in GNP (gross national product) indicated prosperity, growing middle class in American and boombing housing led to baby boom</p>
+                    <p>Federal Spemnding/Investments: GI Bill creating economic opporunrtity/education like hoemwoenersship, small business creation, college educzagtion through loans. INterstagte Highway System providing national diffense and military-indisutrial complexc, aid education/science</p>
+                    <p>Inexpensive access to energy like oil/gas/coal</p>
+                    <p>Baby Boom - returning servicemen wanteed to have their own families, GI Bill made college/home-buying affordable increasing demand for housing leading to cookie-cutter housing in subrubs as middle calss families left cities</p>
+                    <p>Technological developments like space race, nuclear arms race, agribusiness, TV, computers, credit cards</p>
+
+                    <h3>Migration</h3>
+                    <p>Middle class went to suburbs, Americans went South/West to Sun Belt region</p>
+                    <p>SUBURBIA: result of social mobility, supported by American ideal and conformity, opposed by rebellipus youth and criticsa of homogenous mass culture (counterculture), discirmination against AA and minoprities like in the GI Bill</p>
+                    <p>SUNBELT: region from Virginia to Caifornia, population/political power grew, creation of jobs like military, more schoos/houses/cionsumers, known for entertainment and nicer climate</p>
+
+                    <h2>8.5: Culture After 1945</h2>
+                    <p>Clture became homogenous inspiring counterculture challenging conformity by aritsits, youth, intellecutal</p>
+                    <p>Traditional gender roles w men as breadiwnners/providers andmen made womes (lack individuality)</p>
+                    <p>Religion: Christinaityt and Judeo-Chrisitian traditions even in Pledge of ALlegeiance</p>
+                    <p>Mass culture/conformity in Sports/entertainm,ent (Little Leagure, baselbsall/football/basketball, Boy/GirlS couts, drive in movies and car, Disneyland, rocknrooll, rhyhem/blues like Bealtes, food like mcdownlads and tv dinners. TV/media spread American culture/values</p>
+                    <p>CONSUMERISM: shopping centers, credit cards, advertising, tupperware parties</p>
+                    <p>POLIITCS: foreign policiy focused on contianment, domestic disgarements over racism, poverty, and government</p>
+                    <p>Challenged by artists, intellectuals talking abt conforiity, consumer culture, ciriticizeing lack of social spenidng, rebellious youth lead to Beatniks and fise of counter-culture and Hippies valuing spontaneity</p>
+                    <p>Civil rights activists notr included in this version of Americna Dream</p>
+
+                    <h2>8.6: Early Steps in the Civil Rights MOvement (1940s and 1950s)</h2>
+                    <p>Some success in edning segregation but slow as result of civil rights activists seeking to fulfill Reconsutruction Era promises, branches of federasl gov degegrefgates armed servives and Brown v Board of Ed to promote greater racisal ewuality</p>
+                    <p>Desegregation in military including Philip Randolph's proposed march to attempt to end disocimination in defense industries (Executive Order 8802 as a result seggregastiginzing millitary)</p>
+                    <p>Double V Campaign in WW2 fought Nazi while fighting Jim Crow at home</p>
+                    <p>Executive Order 9982 desegregated armed forced so milktary is red white and blue</p>
+                    <p>Reconstruction wass last time Congress protected AAs by w help of activists like NAACP, Marsdhall, Rosa Parks, MLK, SCLC, Black Pnathers, Black Power Movement, etc Legislative Branch erstiablished Cviil Rights Comission and granted powers protecting gvoting rights</p>
+
+                    <h3>Brown v Board of Education (1954)</h3>
+                    <p>Context: plessy v ferguson (1896) established seperaste but ewqual legalizing segregsation, but this was challenged nby activists like Thurgood Marshall and NAACP</p>
+                    <p>Overturned PLessy, declared racially segwergated schools unewual, school segregsation not onoly in South, enforcement took 20+ yrs</p>
+                    <p>Little Rock Nine (1957) - southern oppositipon conitnued and National Guard used by Arkansas governer to prevent 9 AA students from entering school, Eisenhower upheld federal authroity by protecting w federal troops</p>
+
+                    <h3>Montgometry Bus Boycott (1955-1956)</h3>
+                    <p>Public transport required blacks to give up seats to whites, but activist Rosa Parms stood up for herselves/others by remaining seats but got arrested, MLK led the way w protest/boycott/nonviolent movement/media to make change</p>
+
+                    <h2>8.7: America as a World Power</h2>
+                    <p>Cold EWar extended to Latin America, US debated nuclear/military-industyrtial complex, post war deoclonization and African/Middle East nationlist movements</p>
+
+                    <h3>Latin America</h3>
+                    <p>Non communist gov w US invovlvement bc fear of Soviet infleucnce</p>
+                    <p>Guatemala w CIA sponsored coup and United Fruit Compnay in 1954. Cuba w Castro taking over, Bay of Pigs, Missile Crisis. Chile w Salvador Allende killed in CIA backed coup in 1973</p>
+                    <p>Peace Corps - volunteer org created by US to help nation building and improve reputation</p>
+                    <p>Alliance for Progreess (1961) provide eocnomic aid to region like Latin Americsan Marshall plan w idea that poverty breeds communism (schoo/hospital infradsturcre, fighting disesase, assisitng duting natural disaster)></p>
+
+                    <h3>Decolonization & Nationalist Movements in Africa and Middle East</h3>
+                    <p>Decolonization & National movements in Africa/Middle East w Peace Corps fighting for allies, MLK believe ppl more important than things, Europe had tp rebuild ecoomies, self determination but pssibility of commuist expansion leading to US sending aid packafes, tehcnical assistance, andmiilotary interevenetion</p>
+                    <p>Egypt independent in 1952, leader Gamal Abdul Nasser nationalist professing socialist ideas known as Arab socialism, Suez Crisis 1956 w Eisenhower Doctrine in 1957, OPEC in 1960 and embargo in 1973, Middle Easy 1973 Yom Kippur War led to assaassintation of Egyptian President, Iran revolution in 1979 and hostage criss</p>
+
+                    <h2>8.8: Vietname War</h2>
+                    <p>President Truman (French War w Vietnmam, Truman Doctrine), President Eisenhower (Dien Bien Phu, Geneva Accords, SEATO), President Kennedy (Diem Out in South Vietnam, Advisors sent to South Vietnam), President Lyndon Johnson (Gulf on Tonkin INcident, Operation Rolling Thunder, Tet Offensive), President NIxon (Bomb Ho Chi Minh Trail, Paris Peace Accords)</p>
+                    <p>US supported US, South Vietnam, and SEATO while Soviet supported Soviet Union and North Vietnam</p>
+                    <p>Separation of powers/checks and balances</p>
+                    <h3>Gulf of Tonkin Incident</h3>
+                    <p>Incident in August 2, 1964. USS Maddox. Prompted request by LBJ for additional war power.</p>
+                    <p>Gulf of Tonkin Reoslution shifted all power to President not Congress</p>
+                    <p>War Powers Resoltuion attempts to balance power agsain between Congress and President</p>
+
+                    <h2>8.9: Great Socioety</h2>
+                    <p>WATTS RIOTS: 1965 riots 6 days 34 dead 1032 injured. DETROIT RTIOTS (1967) w 5 days 43 dead stores burned and looted. Similar riots in many urban areas</p>
+                    <p>Kerner Commission invesitgsates notes from president johnson, national advisory commission on civil disorders</p>
+
+                    <h2>8.10: African American Civil Rights Movement (1960s)</h2>
+                    <p>Groups repsonded to calls for expansion of civil rights, like activists/leaders inclduing MLK jr combating racial disicmirnation through stratrgies like nonviolence and legsl challenges</p>
+                    <p>Legal Cjallenges lioke NAACP, CORE, SCLC, SNCC, and Blank panther partyy all civil rights orgnaizaitons</p>
+                    <p>Greensboro Sit-in: Feb 1960 w 4 A&T students from NC at segregatyed lunch counter, Student Non-Violent Coordinating Committee formed APirl 1960<, Atlanta Student Movement throug marches and sitins/p>
+
+                    <h2>8.11: Civil Rights MOvement Expands</h2>
+                    <p>Struggle for equality for AAs, LGBTQ, women, Asian and Lation americans, american indians</p>
+                    <p>LGBTQ: gay and lesbian rights like Stonewall Inn where gay bar raiders, Harvey Milk gay officilal elected but assisnated</p>
+                    <p>NATIVES: Americasn Indian Movement (AIM) protesting racism, poverty, andf treaties (Wounded Knee - 71 day occuptation). Indians Of All Tribes - occuptaiton of LAcatraz claimed island based on Treaty of Ft Laramie</p>
+                    <p>WOMEN: Equal Rights Amendment (ERA) w/ Alice Pols, ratification failed by 3 states</p>
+
+                    <h2>8.12: Youth Culture of 1960s</h2>
+                    <p>COUNTER CULTURE: antiwar protests, music/media/arts, apposing viewpoints in student movements (Young Americans for Freedom more conservative supporting US )victory in vitnam and limited gov, vs Students for a Democratic Society more liberal and anti-war w eocnomic reconstructin adn support civil rights movement</p>
+
+                    <h2>8.13: Environment and Natural Resources</h2>
+                    <p>Hydrogen bomb testing, oil spills, insecticide pollution, fires, endangered species, nuclear accident</p>
+                    <p>Increased regulation/awareness like in Earth Day, Envirpnmetntal Protection Agency, Clean Air Act, CLean Warter Act, Endanfgered Species Act</p>
+
+                    <h2>8.14: Society in Transition</h2>
+                    <p>WATERGATE SCANDAL - scandal involving 1972 breakin at watergate complex followed by Richard Nixon coverup, uncovring dirty tricks and illegsal surviveleance used against political opponents</p>
+                    <p>Energy Crisis - OPEC oil embargo in 1973, shortafges and high prices continuing throughotu decades</p>
+                    <p>EConomic Stagflation causied by rising unemployment and inflstion and lower GFDP/eocnomic growth</p>
+
+                    <h2>8.15: Conitnuity and Chanfge in Period 8</h2>
+                    `
             }
         }
     },
