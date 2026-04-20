@@ -2989,6 +2989,72 @@ const NOTES = {
                     <p>Monopoly: business dominates/controls all aspects of market for a specific good</p>
                     <p>Trusts: group of busiensses work together to achieve same level of contorl as a monopoly</p>
                     <p>Monopolies and trusts controled market fully which is natural outcome of things but stifled competiton</p>
+                    
+                    <h3>Andrew Carnegie</h3>
+                    <p>Carnegie Steel Company (VERTICAL INTEGRATION) - owning all means of production for a good</p>
+                    <p>Philanthropy/Gospel of Wealth - donated 90% of his wealth to public libaries, halls, universiites, believed wealthy should give back to commutiies
+                    <p>Pragmatic justification - if vast majority of ppl become poor and rich dont soldify a middle class, who will conitnue to make the rich, rich?</p>
+                    
+                    <h3>John D. Rockefeller</h3>
+                    <p>Standard Oil Company (HORIONTAL INTEGRATION) - merging of companies that produce similar products</p>
+                    <p>Philanthropy included the Rockefeller Center & University of Chicago</p>
+
+                    <h3>Cornelius Vanderbilt</h3>
+                    <p>the Commodore, shipping/railroad industry, philanthropy included Vanderbilt University</p>
+                    
+                    <h3>Captains of Industry vs Robber Barons</h3>
+                    <p>Captains of Industry - their success was positivre for the country through honest wealth, indsutry, and innovations giving back to commuities</p>
+                    <p>Robber Barons - success hurt country through dishonest wealth, exploitation, monopolies, and corruption</p>
+                    
+                    <h3>6.7: Labor in the Gilded Age</h3>
+                    <p>Workers' wages increased while goods' prices decreased, gave access to new goods and services, standard of living improved but gap between rich and poor grew. Industrial workforce & child labor increased</p>
+                    <p>Capitalism - demand for labor attracting immigrants and labor</p>
+                    <p>Social Darwinism - people get what deserve, justiying profit at workers expensive</p>
+                    <p>Mass production/Taylorism - labor doesn't need to be skilled, creating dispensable workers</p>
+                    <p>Led to urbanization, improved living standard, employment&wages leading to more leisure time, expansion of public education, attracting new waves of immigration from east/south europe</p>
+                    <p>Changing culture like amusement parks, sporting events, news paper circulation, new ways to shop like department stores and catalogs</p>
+
+                    <h3>Gilded Age</h3>
+                    <p>Adding superficial value to something on the outside but not inside (Mark Twain)</p>
+                    <p>Typical workers work long hours, dangerous conditons, low wages, including child labor which leads to lack of education</p>
+                    <p>Triangle Shirtwaist Fire 1911: deadliest NYC workplace disaster before 9/11, fire resulting in deaths of 146 ppl esp women/girls w/o spinrkler system, only one fire escape and operating elevator w locked stair exit doors</p>
+                    <p>Labor/management battle over wages and condiitons led to local and national worker unions and confrontation</p>
+
+                    <h3>Labor Unions (ex: Knights of Labor, American Federation of Labor AFL)</h3>
+                    <p>Bread & Butter issues: higher wages, less hours, safer conditons. Organization of workers led to power in numbers</p>
+                    <p>Strategic collective bargaining through small group fo represenatives, boycotts and refusal to buy goods/services, strikes and refusal to work</p>
+                    <div>
+                        <div>
+                            <p><strong>Knights of Labor</strong></p>
+                            <p>Inclusive of race/gender/skill means more difficult to please, changed system to make politics/law for economic change, advocating against child/female labor, worked owned factories and inspection of work places</p>
+                        </div>
+                        <div>
+                            <p><strong>American Federation of Labor (AFL) 1887</strong></p>
+                            <p>Samuel Gompers, exclusive smaller less diverse workforce w only white male skilled workers to easier to please, focused on economic instead of political changes, no problems w capitalism, expected fairer conditoons for his workers</p>
+                        </div>
+                    </div>
+                    <p>Changes in public perception through Haymarket Strike/Riot in 1886, Homestead Strike in 1892, Pullman Palace Strike in 1894</p>
+                    <p>Haymarket Strike/Riot 1886 - peaceful meeting at Haymarket Square in Chicago, pipe bomb deotnated in crowd causing violence and unions blamed by public for violence</p>
+                    <p>Homestead Strike 1892 - Carnegie Steel Plant where Henry Frick manager pushes workers to continue production despite unsafe working conditions, stocks up steel to outlast protest, Pinkerton private securitty hired to squash protests & PA state milita leading to violence</p>
+                    <p>Pullman Palace Strike 1894 - skilled workers strike at multiple locations, Panic of 1893 leads to dramatic wage reduction to retain profit, troops sent in to end strikes</p>
+                    <p>Unions viewed by public as anti-capitalist messing w natural order of business, un-American and mostly immigrant, violent and disruptive to production</p>
+
+                    <h2>6.8: Immigration & Migration in the Gilded Age</h2>
+                    <p>Expanding industrial workforce, cities attract immigratns from Asia, south/east Europe, and AAs from South to escape poverty/persecution and seek economic growth/social mobility leading to cultural neighborhoods</p>
+                    <p>1882: more than 2k immigrants arrived each day from south/east europe and asia w/ little experience w democracy and education</p>
+                    <p><strong>Assimilation/Americanization</strong>: settled in urban areas and the west, more difficulty assimilating than previous generation, created ethnic neitgborhoods to maintain culture</p>
+                    <p>Ellis Island & Angel Island established</p>
+                    <p>Immigrantds were "birds of passage", cheap labor and part of changing urban landscape, changed consumer culture</p>
+
+                    <h3>New vs Old Immigrants</h3>
+                    <p>Gilded Age brought different wave of immigrants.</p> 
+                    <p>OLD IMMIGRANTS: before Civil War, North/west europe, mainly Protestant but many German/Irish Catholics, highly literate, spoke English, skilled artisans. Migrated bc of market revolution, cheap land, assimilation, and accumulation of wealth</p>
+                    <p>NEW IMMIGRANTS: after CivilWar, South/East europe, Catholic/Jewish/Greek Orthodox, low literacy and relativelty unskilled. Migrated bc of industrial revolutoion, urbanization, more migrants, difficulty assiialate, AAs migrate out of South</p>
+
+                    <h2>6.9: Responses to Immigration in the Gilded Age</h2>
+                    <p>Debate over assimilation/Americanization accompanying growth of international migration, compromises negotiated between culture brought vs US cultures, Social Darwinism justifying success of social hierarchy, women like Jane Addams worked in settlement houses to help immigrants adapt</p>
+                    
+
                     `
             }
         }
