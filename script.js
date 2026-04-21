@@ -3402,6 +3402,50 @@ const NOTES = {
 
                     <h2>8.15: Conitnuity and Chanfge in Period 8</h2>
                     `
+            },
+            "Unit 9: 1980-present":{
+                tags: ["Reagan", "War on Terror", "Innovation"],
+                content:    `
+                    <h2>9.1: Contextualizing Period 9</h2>
+                    <p>1980-present: end of Cold War, tehcnology asdvsancmenets, conservagtive movement, 9/11 and War on Terroism</p>
+                    <p>Cold War, political changes, liberal legislative approach, rise of conservatives, etc</p>
+
+                    <h2>9.2: Reagan and Conservatism</h2>
+                    <p>Reagan's victory in presidential election of 1980 represented important milestone, allowing conservatives to enact significant tax cuts, and cotniue deregulation of many industries. Conservatives argued libelera p-rograms counterproductive in fihting poverty/stimulating economy leading to effforts to reduce gov and maintain conservatiove rtraditoinal social values</p>    
+                    <p>REAGAN COALITION: free market eocomies, new conservatism, relgious conservations/moral maojirty, disafected democratds, military strength to oppose communism</p>
+                    <p>ELECTION OF 1980: Conterxt wass stagflation, iran and energy crisis during Carter Presidency and 2 new cnaididatres was Jimmy Carter democratic incumbent vs Ronald Reagan rpeublican nominee (Rewafgon won)</p>
+
+                    <h2>9.3: The End of Cold War</h2>
+                    <p>Gorbachev Soviet Reforms - new general secretary and nuclear arms reductions discussion w Reagan/Bush/US. Collapse of Soviet bc of Poland Solidarity movmenet, Gorbachev allowing national soverignty of Warsaw Pact nations, fall of Berlin Wall, end of Soviet-Afrghan War as Taliban came to powrr, and forming of the Comonwealth of Independent States</p>
+             
+                    <h2>9.4: A Changing Economy</h2>
+                    <p>balahabahala leq practice</p>
+                    
+                    <h2>9.5: Migration & Immigration in 1990s and 2000s</h2>
+                    <p>Rise of Sunbelt after WW2 in search of jobs, lower taxes, and better climate w electronics in Califronia, military in Texas, and aerospace in Flordia and TRexas</p>
+                    <p>Political power shifting to fsast growing regions</p>
+                    <p>Less expensive to do work in Sunbelt, ppl moving away from Rustbelt which were once industrailized but went into decline after deinudustrialization</p>
+                    <p>BILL CLINTON: Baby Boomer president & New Democrat forming Dmeocratic Leadership Council to steer away from tradiitopnal anti-business policiesa and instead towards pro-growth, strong defense and anti-crime, focused on economy and majority in both houses of CXongress</p>
+                    <p>MIGRATION/IMMIGRATION: wider background, 1965 Immigration Reform Act eliminating national orginings as admission criteria, Laitons/Asians largest groups but also from Africa/Middle East/Russia/East Europe (ex: refugees from Vietnam War)</p>
+                    <p>Globalization: facilitated imigration and flow of ppl, capital, and goods, as well as multinational corporations, World Trade Orgnaization, internet, tehcnology advancements, Obama dream act to undocmumented youth but felll to republicams bc of anxirtyies against undocumented</p>
+
+                    <h2>9.6: Chsallenges of 21st Centruy</h2>
+                    <p>Attzacks on World Trade Center, Pnegtagon leadeing to military efforts agsainst twerroism and conflict in Arghanistan/Iraq which imporved secuirtt in US but raised quesitons abt human rights</p>
+                    <p>200 Presidential Eelection - Bush vs Al Gore, Bush called himself a uniter not a divider, most contested election</p>
+                    <p>BUSH: Tax cuts through Ecomnomic Growth and Tax Relief Act of 2001, Bush said little abt forieng policy</p>
+                    <p>Al Qaeda terrotirests hijack jets flying them into World RTrade Center, Pentagon, and lasdt one fialed but aimed at White House/US Capitol</p>
+                    <p>War on Tewrror proclaimed by Bush and vowed to casrry battle to Al Qaeda, invaded Afghanistan and Taliban regime, invaded Ireaq through USA Patritot Act giving permission to monitor citizens</p>
+                    <p>BUSH DOCTIRNE - US rgiht to asct in self defense, singling out iran, North Koprea, and Iraq as axis of evil, wanted to spread democratizing across Middle East. UN invaded Iraq and compell compliance through Force w/ Saddam Hussein going into hiding. Eventally US ceder power to interim Iraqi gov but tensions buetween Sunni Muslims and majority Shia gov</p>
+                    <p>Bush releacted for another term, suspected immigrants held w/o habeouas corpus</p>
+                    <p>Bush ciritizced as FEMA inept in dealing w Hurricane Katrina, electing Obama</p>
+                    <p>OBAMA - ambitious econiomic stimuulus package to help economy, draw down war in Iraq, refocus American military efforts in Afghanistan,reform insulandce, regulate Wall Streety, passed recovery and reinvestment act, obamacare, largely successful despite republican oppisitioon</p>
+                    <p>TEA PARTY: republicans/ppl who refused to consiuder any doemcratic legislature, executive autority like envionmental protection agency and clean power plan combatting greenhouse gases</p>
+
+                    <h2>9.7: Causation in Period 9</h2>
+                    <p>Stalmate and not able to control Middle East despite Obama's preisdency</p>
+                    <p>Great Recession</p>
+             
+                    `
             }
         }
     },
@@ -4037,9 +4081,75 @@ function renderNotes(cls, unit) {
     <div class="note-content">${psychCurriculumNote}${data.content}</div>
   `;
 
+  normalizeNoteMarkup();
   applyAutoStylingTags();
   buildOutline();
   body.scrollTop = 0;
+}
+
+function normalizeNoteMarkup() {
+  const content = document.querySelector('.note-content');
+  if (!content) return;
+
+  const containers = [content, ...content.querySelectorAll('div, section, article')];
+
+  containers.forEach(container => {
+    const children = Array.from(container.children);
+    let i = 0;
+
+    while (i < children.length) {
+      const node = children[i];
+      if (node.tagName !== 'P' || !isListLikeParagraph(node)) {
+        i += 1;
+        continue;
+      }
+
+      const run = [];
+      let j = i;
+
+      while (
+        j < children.length &&
+        children[j].tagName === 'P' &&
+        !children[j].classList.contains('note-card-title') &&
+        isListLikeParagraph(children[j])
+      ) {
+        run.push(children[j]);
+        j += 1;
+      }
+
+      if (run.length >= 2) {
+        const list = document.createElement('ul');
+        const anchor = run[0];
+        container.insertBefore(list, anchor);
+        run.forEach(p => {
+          const li = document.createElement('li');
+          li.innerHTML = p.innerHTML;
+          list.appendChild(li);
+          p.remove();
+        });
+      }
+
+      i = j;
+    }
+  });
+}
+
+function isListLikeParagraph(p) {
+  if (p.classList.contains('note-card-title')) return false;
+  if (p.closest('.callout')) return false;
+
+  const text = p.textContent.trim();
+  if (!text) return false;
+
+  const startsWithBullet = /^[\-*•]\s+/.test(text);
+  const startsWithNumber = /^\d+[\).:-]\s+/.test(text);
+  const hasShortLeadWithColon =
+    text.includes(':') &&
+    text.indexOf(':') > 0 &&
+    text.indexOf(':') <= 45;
+  const startsWithStrong = p.firstElementChild?.tagName === 'STRONG';
+
+  return startsWithBullet || startsWithNumber || startsWithStrong || hasShortLeadWithColon;
 }
 
 function applyAutoStylingTags() {
