@@ -1411,11 +1411,99 @@ const NOTES = {
                         <li>Homologues have same length, centromere position, contain genes coding for same traits found in same locations along chromosome, and similar banding pattern when stained in a karyotype</li>
                         <li>Genes may say diff things abt these same traits since one homologue from mother and one from father</li>
                     </ul>
+                    <h3>Alleles</h3>
+                    <p>Alternate forms of a gene</p>
+                    <p>An individual might have identical alleles for a specific gene on both homologues (homozygous for trait) or a maternal allel that differs from the corresponding paternal allel (heterozygous for trait)</p>
+                    <p>Gametes produced by meiosis only have one chromosome of each kind derived from either paternal or maternal homologue</p>
+
+                    <h3>MEIOSIS</h3>
+                    <p>Reduce chromosome # from 2n->n, cell goes through cell cycle and synthesizes second copy of DNA just like mitotic cells during S phase but after G2 it enters meiosis which consists of 2 stages/cell divisions (meiosis I/division I and meiosis II/divisionII)</p>
+                    <p>Main functions: retai species # of chromomsomes from generation to generation by reducing chromeomse $ to half when producing gametes, to increase genetic variability essential for evolution</p>
+
+                    <h3>Interphase</h3>
+                    <ul>
+                        <li>G1 phase (same as mitosis)</li>
+                        <li>S phase (includes DNA replication, same as mitosis)</li>
+                        <li>G2 phase (same as mitosis)</li>
+                    </ul>
+                    <h3>Mitotic Phase</h3>
+                    <div>
+                        <div>
+                            <p><strong>MEIOSIS I</strong></p>
+                            <p>DNA replicated before meoisis I so each chromosome consists of 2 identitcal sister chromatids at start of meiosis. Early in meiosis I, homologous chromosomes pair up through synapsis/crossing over forming a tetrad (often exhcange genetic info during this to increase variation)</p>
+                            <p>Homologous pairs then align themselves against each other side by side double file on either side of the metaphase plate</p>
+                            <p>2 members of a homologous pair then separates and each daughter cell receives one duplicated chromosome from each pairs, DNA not replicated again between meiosis I and mesiosis II</p>
+                            <ul>
+                                <li>PROPHASE I: each chromosome pairs w its domolgous, synpasis/crossing over occurs here which contributes to differentiation/genetic variability, nuclear envelope breaks apart and spindle apparatus begins to form</li>
+                                <li>METAPHASE I: homologous pairs align double file at metaphase plate, ends when homologous pairs begin to seperate. Independent assortment of chromosomes also increases genetic variability</li>
+                                <li>ANAPHASE I: homologous chromosomes separate and move to opposite poles of the cell</li>
+                                <li>TELOPHASE I: nuclear membrane reforms and process of cytoplasmic division begins</li>
+                                <li>CYTOKINESIS I: 2 daughter cells split, producing cells that are haploid</li>
+                                <li>INTERKINESIS: similar to interphase between mitotic divisons except DNA replication doesn't occur again since chromsomes are already duplicated!</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <p><strong>MEIOSIS II</strong></p>
+                            <p>Very closely mirrors mitosis, chrosmoomes allign single file, sister chromatids seperate and move to opposite poles</p>
+                            <p>4 daughter cells each contain one daughter chromosome from each pair, each daughter chromosome consists of a single chromatid, daughter cells are haploid. (always count chromosomes based on # of centrosomes present)</p>
+                            <ul>
+                                <li>PROPHASE II: nclear envelope breaks apart and spindle apparatus begins to form</li>
+                                <li>METAPHASE II: sister chromatids align along metaphase plate</li>
+                                <li>ANAPHASE II: sister chromatids separate and are called daughter chromosomes as they're pulled to opposite poles</li>
+                                <li>TELOPHASE II: nuclei and nucleoli for newly split cells reform</li>
+                                <li>CYTOKINESIS II: newly formed daughter cells physically divide resulting in 4 haploid daughter cells</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3>Genetic Variation</h3>
+                    <p>Asexually reproducing organisims have mutations, conjugation via conjugation pili, transformation if cells pick up free pieces of DNA from environment, or transduction when bacteriophage viruses carry portions of DNA between cells. (more favorable in stable environement since lots of offspring and variation not needed</p>
+                    <p>SEexually reproducing organisms have mutations and genetic recombination via meiosis (crossing over/independent assortment) and random fertiliziation) (more favaorable in unstable environment bc vartiability gives more change of survival, evolultion, and repdroducition)</p>
+                    <p><strong>How Meoisis Brings About Genetic Variation</strong></p>
+                    <div>
+                        <div>
+                            <p>CROSSING OVER OF NON SISTER CHROMATIDS (SYNAPIS): during prophase I nonsister chromatids of a tetrad excvhange genetic material. At synapsis a lattice appears between homologuses holding them together aliging DNA for successful crossing over (occurs at chiasma location), and once crossed over they seperate and are distribtued to different daughter cells. 2-3 crossovers occur per human cjhroosmesoem</p>
+                        </div>
+                        <div>
+                            <p>INDEPENDENT ASSORTMENT OF HOMOLOGOUS CHROSOMOESMES: when they align on metaphase plate, they align/seperate randomly since maternal or paternal homologoue can be oriented towards either pole, causing random mixing of allels into gametes. Organism w 23 chromosme pairs has 2^23 possible comibinations so crossing over (esp if multiple times) causes lots of variation!</p>
+                        </div>
+                    </div>
+
+                    <h3>Cycle of Life</h3>
+                    <p>Life cycle: sequence of events making up reproductive cycle of an organismm</p>
+                    <ul>
+                        <li>LIfe Cycle for Diploid Organisms like anima/shumas (have no multicellular haploid stage): meoisis occurs in germ cells called gametogenesis (seperamtosgenessis producing sperm in testis or oogenesis in ovaries producing egg)</li>
+                        <li>Sperm & egg join in fertilization making a diploid zygote which undergoes mitosis during growth/developpment to become a fetus -> child -> adult where mitosis repairs and rpleaces tissue as an adult</li>
+                        <li>Benefit to being diploid: orgs have backup copy of all genes, recessive genes can get masked which is good esp if diseased, extends variability</li>
+                        <li><strong>SPERMATOGENESIS</strong>: sperm production in testes from adult stem cell called spermatogonium to germline cell called spermatocyte w alr duplicated DNA, then splits into 2 secondary spermatocyes in meisosis I, 4 sp[ermatids in meosis 2, and 4 sperm result through differentiation]. Process begins at puberty</li>
+                        <li><strong>OOGENESIS</strong>: egg prduction in overies, starting from adult stem cell called oogonium, then primary oocye, than splits into 1 secondary and 1 polar body, secondary develpp[s into ootid and polasr body, ootid develops iinto 1 mature egg result, the first polar body sometimes splits into 2 more polar bodies which degrade. The polar bodies are caused by unequal cytoplasm pliting. Process begins prior to birth, and meiosis II only occurs if sperm penetrates the 2nd oocyte). Results in egg + 2-3 polar bodies</p>
+                    </ul>
+
+                    <h3>Chromsome Number/Structure Changes</h3>
+                    <p>If chromosomes fail to sperate, p[roblem could ensue leading to gain/loss of chromsomes in the next cell line called nondisjunction or extra/missing parts of chromoesomes</p>
+                    <p>Primary Nondisjunction: occurs in meiosis I when homologous chromosmes fail to sperate.</p>
+                    <p>Secondary Nondisjunction: occurs in meiosis II when sister chromatids fail to seperate</p>
+                    <p>Monosomies and trisomies in autosomes/non-sex chromosomes usually lethal. Onl;y 3 viable beoynd birth (trisomy 13, trisomy 18, trisomy 21/down syundrome which is extra copy of chromosome 21)</p>
+                    <p>Karyotype - visual display of homologous chromsomes arranged by size, shape, and banding patttern</p>
+                    <p>Changes in sex chromsomes number are better tolerated since in reality, both males (XY)/female (XX) only have one funcitoning X chromsomes, females extra X chromsome is called a Barr body</p>
+                    <p>Turner Syndrome - female missing second x chromsomes, usually leads to less female charaterissies,no puberty or menstruate, sterile, usually function nromally and normal intelligence</p>
+                    <p>Klinefelter Styndrome - male w 2 or more extra x chromsomes, extra X becomes Barr bodies, testes/protesta/facial hair lacking, slow to learn but usually no major cognitive disabilitit,s, increased risk of cancer, can be treated somewhat w testosterone therapy, sterile</p>
+                    <p>Polar X Famles (Super females): females w more than 2 x chromsomes, no distnicnt phenotype but usually tall/thin, sometimes learning difficuilties and delayed motor/language fevleopment, fertile but menstrual difficulties</p>
+                    <p>Jacob's Syn drome: XYY males, taller than avg, persistent acne, speech, and reading diffufculty, are fertile</p>
+                    
+                    <h3>Changes in Chromosome Sturcutre</h3>
+                    <p>Agernts in environemnt like radiation, certain viruses, or chemical can cause chromsomes to break but sometimes resulting in abnormalities</p>
+                    <p>DELETION: when one/both ends of a chromsome breaks off or two simulatneous breaks lead to loss of an internal segment (ex: Williams SYndrome, Cri du Chat Syndrome)</p>
+                    <p>DUPLICATON: presence of a chromsomeal srgment more than once in the same chromsome</p>
+                    <p>INVERSION: occurs as a result of 2 breaks in a chromomse, internal segfment reversed before re-insertion, genes occur in reverse order in the inverted segment</p>
+                    <p>TRANSLOCATION: when a segment from one chromsome moves to non-homologuus chromsome following breakage of two non-homolgous chromosmes and improper resassmbly (ex: Alagille Syndrome, often redposnible for cancers like some luekemia/lympohma cancers)</p>
+
                 `
             },
             "Unit 6: Gene Expression and Regulation": {
                 tags: ["DNA", "gene expression regulation", "transcription", "translation"],
                 content: `
+                    <h2>Chapter 12: Molecular Biology of the Gene</h2>
                     <p><strong>DNA (deoxyribonucleic acid)</strong></p>
                     <ul>
                         <li>A nucleic acid (organic compound) made of nucelotide monomers (phosphate group, pentose sugar, nitrogen base)</li>
@@ -1715,6 +1803,61 @@ const NOTES = {
                     <p>miRNA (microRNA) - binds to complemetary mRNA, blocking the sequence preventing translation</p>
                     <p>siRNA - binds w enzym,e to form RISC which cuts up mRNA prventing translation</p>
 
+                    <h2>Chapter 13C: Gene Mutations</h2>
+                    <p>Mutation: permanent change to DNA based sequece, can range to good/bad, no effect to complete protein inactivity, mostly occur in somatic/body cells and don't get passed to offspring but can lead to cancer or other diseases. If they're in gametes/germ-line cells they can get passed to offspring/evolution</p>
+                    <p>Can have a lot of impacts bc protein enzymes r part of metabolic pathways so a mutation in one enzyme can affect the whole pathway</p>
+                    <ul>
+                        <p><strong>POINT MUTATION</strong>: substitution in a single DNA nucleotide, may or may not cause amino acid change but usually just one unless it codes for a stop too early (ex; sickle cell anemia point mutation codes for valine instead of glutamic acid)</p>
+                        <p><strong>FRAMESHIFT MUTATION</strong>: one or more nucleotides get inserted/deleted from DNA shifting the entire reading frame making it unreadable (insertions or deletons), (ex: cystic fibrosis dleting of 3 bases)</p>
+                    </ul>
+                    <p>Spontaneous mutations occur for no reason other than abnormalities (ex: change due to transposons or error in DNA replication), induced mutations ae caused by mutagens/caricnogens in the anvironment like DNA base changes. Ames test tests if chemical is carcinogenic. Can also be caused by DNA base changes due to radiation</p>
+                    <p>Accumulating mutations can cause cancer like proto-oncogenes mutating to become oncogenes or tumor-suppressor genes mutating to become inactive which both causes unctronlled cell division/cell regulation</p>
+
+                    <h2>Chapter 14: Biotechnology</h2>
+                    <p>Combines stuydy/application of living organisms to practical constructive purposes</p>
+                    <h3>Reconcombinat DNA Technology</h3>
+                    <p>rDNA contains DNA from two or more diff sources, steps include extreacting DNA from donor, vector like plasmids carries from donor to host, enzymes like restirciton enzymes&ligase used to cut gene out of donor into vector, trrewated cells of host organisms to close DNAQ and achieve desire dgene products qucikly, usually bacteria since they replciate quick</p>
+                    <p>Resitriction Enzymes: nature's scissors that cut/cleave/recognize specific base seuqences on DNA, occur naturually in bacteria to defend against infection by bacteriphages and used in DNA repair, use to manipulate DNA to create rDNA to help create GMOs and used in gel electrophoresis, 200+ but commonly used are EcoRI and HindIII, they work by recognizing base sequences and cut at specific resitriction sites, and oporutrruding ends have complimentrary base sequences</p>
+                    <p>DNA Ligase: natures's glue basting togehter DNA from 2 diff organisms by resestablisihing phosphopdiester bonds between sugars and phosphates of the backbone, also invovled in DNA replciation</p>
+                    <p>GMOs - orgs containing recomibuinat DNA (genetically modified bacitera can produce desired protien products, p[romote health in plants, aid w environemtnal concerns, or produce certain organsic chemicals. genetical modified plants can make plants resistant or producew certain huma proteins, genetical modifiy animals can code for growth horomses, gene phraming, or study human gene expression/diseases often using mice)</p>
+                    <p>Concerns: unexpected allergenes, mutations, dispruption, consu,ption?</p>
+                    <
+                    <h3>DNA ANalyisis</h3>
+                    <p>Detect presence of viruses in cells, sequence genome, amplify trace amts of DNA at crime scenes, identify victims, paternity tests, used for evolutoonary studies</p>
+                    <p>Restriction Mapping (Restriction Enzymes & Gel Electrophoresis): cutting DNA at specific sequences w resitrction enzymes, separating fragments from each other by gel electrophoersis, comparing banding patterns/estimating size since each orgasnism has unique DNA fingerprnt (RFLPs r unieque framgents resulting fro restriction enzyme cutting)</p>
+                    <p>STRs (Short Tandem Repeats) - fragments that r more variable region of indivudals's DNA for more distinghuishable results, short recorcurring DNA base sequences</p>
+                    <p>DNA ges extracted/treated w restirction enzymes, producing uniqeu collection of diff gramgents, amplified through PCR, run through gel electrophoresis sepetating fragments based on size where - DNA moves towards + electrode and short moves fastest</p>
+                    <p>PCR (poluymerase chain reaction) - produce large qunatities of single DNA framgnet in short amt of time, mimics DNA rpelication in a cell, chain reaction, useful for analysis and fouble DNA w each cylce. Requires thermocylcer w low/high temps to break H bonds and then attach primers, heat stable DNA polymerase, primers, free nucleotides</p>
+                    <h3>Sanger Method of DNA sequencing</h3>
+                    <p>DNA sequencing - determining extra nucleoitde, in Sanger sequencing target DNA gets copied many times making diff length DNA fragments accomplished due to fluorescent chain terminator nucleotides called ddNTPs marking ends of fragments</p>
+
+                    <h3>DNA Microarrays / DNA chips</h3>
+                    <p>Allow scientists to measure gene expression and determine whether on/off, can help identify mutations in genome and create an individuals genetic pofile or predict illness/medication response</p>
+                    <p>Ex: siamese cats have diff fur colors and diff genes expressed at diff temps</p>
+
+                    <h3>Gene Therapy</h3>
+                    <p>Manipulating human genes to treat various disorders, introducing genes using viruses and nonpolar liposomes</p>
+                    <p><strong>Ex Vivo Gene Therapy</strong>: cells get removed from body, inserted into cells, then returned back into body (ex: treat SCID, hypercholesterolemia)</p>
+                    <p><strong>In Vivo Gene Therapy</strong>: gene gets delivered directly to cells insid body (ex: treat cystic fibrosis, cancer therapy)</p>
+
+                    <h3>CRISPR/CAS9 GENE EDITING TOOL</h3>
+                    <p>Gene editing originating from bacteria's defense mechanisms against virusesm stands for clustered regularly interspaced short palindromic repeats</p>
+
+                    <h3>Genomics</h3>
+                    <p>Study of genomes/complete genetic makeup (human genome project took 13 yrs making DNA analysis easier, discovering 6mil+ base pairs)</p>
+                    <p>Structural genomics - knowing exact base sequenece and num genes in an organism</p>
+                    <p>Functional genomics - understanding exact role of genome (both coding & noncoding regions) in cells/organisms</p>
+                    <p>Comparative genomics - seeks to compare the human genome w genomes of other organism (not much diff between our seq and other orgs)</p>
+                    <p>Human genome 2% is coding DNA, 98% is noncoding but this still plays a role (ex: repettitgivbe DNA elements lijke STRs (short tandem repeats), transposons/jumpinh gernes that move within/between chroomomsomes causing evolution, and iunique noncoding DNA regulatory role)!!</p>
+                    <p>Gene: units of heredit that correspond to locus on a chromoeoemcomse, DNA/RNA seq directly encoding functional products like RNA or protein</p>
+                    
+                    <h3>Proteomics</h3>
+                    <p>Study of proteomes/protein makeup of organism which is complex since more protein products, essential to discovery of new/better drugs</p>
+
+                    <h3>Bioinformatics</h3>
+                    <p>Use of commputer tech like databases to speed up & develop fields like proteomics and functional/comparative genomics</p>
+                    <p>BLAST - computer database used to help study evolutioonarey relaitosnhips between orgs</p>
+                    <p>Computer analysis - can help scinetists make sense of the raw data by detecting patterns, etc</P
                     `
             },
 
