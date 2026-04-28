@@ -1857,7 +1857,7 @@ const NOTES = {
                     <h3>Bioinformatics</h3>
                     <p>Use of commputer tech like databases to speed up & develop fields like proteomics and functional/comparative genomics</p>
                     <p>BLAST - computer database used to help study evolutioonarey relaitosnhips between orgs</p>
-                    <p>Computer analysis - can help scinetists make sense of the raw data by detecting patterns, etc</P
+                    <p>Computer analysis - can help scinetists make sense of the raw data by detecting patterns, etc</p>
                     `
             },
 
@@ -4146,6 +4146,183 @@ const NOTES = {
                     <p><strong>Optimistic Explanatory Style vs Pessimistic Explanatory Style</strong> optimists describe positive things based on permamnenty, negative things temporary. pessimisits say psotive things r tmepeorary/luck and negative things r permsnnent</p>
                     <p><strong>Upward vs Downward Social Comparsion</strong> upward is comparing urself to somoene better to motivate improvement/inspiration, downward is comparing to someone worse to make u feel better</p>
                     <p><strong>Social Debt</strong>: feeling of obligation to return a favor when someone did smth for u influencing complaince/behaviopr</p>
+                    `
+            }
+        }
+    },
+    "AP Computer Science A": {
+        units: {
+            "Unit 1: Using Objects and Methods": {
+                tags: ["objects", "variables", "data types", "methods", "classes", "strings"],
+                content: `
+                    <h3>1.1: Introduction to Algorithems, Porgramming, and Compilers</h3>
+                    <p>Computer Science - how computers work and how to use it to solve problems (ex: programming instructng compouter, data science analyzing data, cybersecurity protecting securie networks)</p>
+                    <p>Algorithems - define ste4p by step processes to follow when completing a task or solving a problem, central to CS, diff algorithms can accomplish same task</p>
+                    <p>Sequencing - defines order for when steps in an algorithem are completed</p>
+                    <p>JAVA - popular programming languages, android apps, large/reliable software systems</p>
+                    <p>CLASSES - collections of classes make up java programs, container for code w a purpose, groups together related data (attributes) and actions (methods)</p>
+
+                    <p><strong>MAIN CLASS</strong></p>
+                    <p>Class names should be descriptive and use CamelCase, should matdch the name of the file</p>
+                    <p>public class HelloWorld{}</p>
+                    <p>public static void main(String[] args) {} inside the class, needed for Java program to run</p>
+                    <p>Each line of code is a statement / single command for the computer to follow</p>
+                    <p>Print statemet: System.out.println("Quote"); if on its own line and new line created after, System.out.print("Quote"); if on its own line but new line not created</p>
+                    <p>IDE (integrated development environments) - editor which includes file tree with .java files which match class names, editor, and output starting w main method</p>
+                    <p>Typically any classes/methods are indented if nested in each ohter</p>
+
+                    <p>First write code anywhere (even text editor works, but typically IDE used!), then compile code (compiler translates Java code into format computer can understand), then run code following program's instructions</p>
+                    <p>IDE (integrated development environemtn) - has tools like compiles to help run, like syntax highlighting to find errors (syntax is correct way to write a program)</p>
+                    <p>Debugging - finding an fixing bugs/error</p>
+                    <p>SYNTAX ERROR: making mistake in program where programming language rules not followed, like missing braces or semicolons leading to an error, happens when compiling code</p>
+                    <p>LOGIC ERROR: happens when program is being run, mistake in program leading to incorrect/unexpected behavior, test and see if expected output = actual output</p>
+                    <p>RUNTIME ERROR: mistake in program occuring during execution of a program, during runtime causing abnormal stop (ex: receives number instead of letter). Exceptions are types of run-time error caused by issue not caught by compiler like index out of bounds or incorrect type</p>
+                
+                    <h3>1.2: Variables & Data Types</h3>
+                    <p>VARIABLE - storage location that holds a value and has a unique name/label and data type</p>
+                    <ul>
+                        <li>Declaring: type name; (ex: int numCats)</li>
+                        <li>When naming, start w a letter, $, or _ and describe value it stores, write in lowerCamelCase</li>
+                        <li>Initializing: assigning variable a value, must be initialized before used and value assigned must match datatype otherwise syntax error (ex: numCats = 5;)</li>
+                        <li>Can declare & initialize both in one line too (ex: int numCats = 5;)</li>
+                        <li>Variables can be updated, don't include datatype when updating/assinging new value</p>
+                    </ul>
+                    <p>DATA TYPE - specifies type of info variable can store, and what you can do w the info (primitive vs ref types)</p>
+                    <ul>
+                        <li>PRIMITIVE: basic-est data type representing simplest data building blocks, (ex: int double boolean char - single quote letter/num/symbols)</li>
+                    </ul>
+                    <p>FINAL - declaring a variable final prevents it from being altered (ex: final int numCats=5;)</p>
+
+                    <h3>1.3: Expressions & Output</h3>
+                    <p>LITERAL - fixed value you write directly in code that stays constant throughout program and used exactly as is (means exactly what it says, for ex string literal is seq of characterrs in quotes)</p>
+                    <p>PRINTING: use System.out.println() which moves cursor to new line after printing or System.out.print() which stays on same line after printing</p>
+                    <p>ESCAPE SEQUENCES: include special characters and actions in String literals, like \\\" alows quotes, \\n creates line break in String, \\t inserts a tab space, \\\\ includes backslash</p>
+                    <p>ARITHMETIC EXPRESSION: combo of numbers, variables, and operators telling computer to perform a math calculation, arithmetic operator is symbol representing an operation, +-*/% (% is remainder). Compound expressions do parantheses, then multiplication/divsion/modulo, then addition/subtraction</p>
+
+                    <p><strong>Int vs Double</strong></p>
+                    <ul>
+                        <li>When integer assigned to variable w double data type, integer is automatically converted to decimal value (double num = 5; -> double num = 5.0;)</li>
+                        <li>Arithmetic operation that use 2 ints will evaluate to an int (even if division so 10/3 will give 3 since it'll truncate 3.33)</li>
+                        <li>Arithmetic operation w at least one double value will evaluate to a double value (so if one num is double when dividing, result is quotient)</li>
+                        <li>Dividing int by zero causes ArithmeticException (runtime error), dividing double by zero causes Infinity</li>
+                    </ul>
+
+                    <h3>1.4: Assignment Statements and Input</h3>
+                    <p>Assignment statement - assigning variable a value using assignment operator = which allows program to intiialize/change variables, right side evaluated first and assigned to left side variable (ex: int x = 5 + 3; assigns 8 to x), value on right is stored/assigned to the variable on the left, not rlly equals</p>
+                    <p>Initializing variables w an expression, the expression is evaluated to one value/solved before being assigned to the variable</p>
+                    <p>Null - special literal value indicating reference not associated w any object</p>
+                    <p>REFERENCE VARIABLES: null and strings are reference vars</p>
+
+                    <p><strong>User Input</strong></p>
+                    <p>Enables engaging/interactive programs</p>
+                    <p>SCANNER CLASS - read user input into programs, get String, double, int, or boolean input if u create a Scanner object</p>
+                    <ol>
+                        <li>Import Scanner class (import java.util.Scanner;)</li>
+                        <li>Add main class and method</li>
+                        <li>Create Scanner object variable (Scanner input = new Scanner(System.in);)</li>
+                        <li>Use print statement to prompt the user</li>
+                        <li>Use Scanner method to get input using methods like .nextLine() for string input, .nextInt() for int input, .nextDouble() for double input, .nextBoolean() for boolean input and store this in a variable!!!</li>
+                        <li>Make sure method type matches variable type, and use input.method or wtv u named the object</li>
+                    </ol>
+                    <p>BUFFER: sometimes nextInt() or nextDouble() leave behind a \\n character so if you try to use nextLine() right after, it reads the leftover newline instead of new input, so use input.nextLine() twice</p>
+
+                    <h3>1.5: Casting & Range of Variables</h3>
+                    <ul>
+                        <p>When integer value is assigned to a double, the integer automatically converted to double</p>
+                        <p>CASTING - converting one data type into another data type</p>
+                        <p>Automatic Widening - int values automatically cast/widened to double values (int x=10; double y=x;), Java automatically converts int to double when int assigned to double var</p>
+                        <p>When dividing, if its two ints answer will be truncated to an int, but if at least one double will give u double quotient</p>
+                        <p>Cast an int to a double using casting operator (double) right in front value u want to convert, or cast double to an int using casting operator (int) which truncates</p>
+                        <p>Rounding with casting - use (int) (x+0.5) to round double values to closest integer, or use (int)(x-0.5) to round double negative values to closest integert</p>
+                    </ul>
+                    <p>RANGE OF VARIABLES: -2147483648 (Integer.MIN_VALUE) and 2147483647 (Integer.MAX_VALUE)</p>
+                    <p>Integer overflow circles back to min if u try to go above max value, integer underflow does opposite if u try to go below min</p>
+                    <p>Round-off error: sometimes rounded to nearest value that fits within available bits since bits are limited, so consider using ints to avoid rounding error when possoible (or BigDecimal class)</p>
+
+                    <h3>1.6: Compound Assignment Operators</h3>
+                    <p>Update variable using its own current value</p>
+                    <p>Increment/decrement using name=name+1; name=name-1; or use compound assignment operators like name+=1; name-=1; or even name++; or name--; which combines arithmetic operator w assignment operator</p>
+
+                    <h3>1.7: Application Program Interface (API) and Libraries</h3>
+                    <p>Classes have methods (inlcuding main method) and attributes</p>
+                    <p>Libraries (collections of prewritten code) and packages (collections of related classes) - premade pieces of code to simplify/shorten code and time</p>
+                    <p>Standard is java.lang which includes String, Math, Runtime, System</p>
+                    <p>java.util - Scanner, Random, ArrayList, HashMap</p>
+                    <p>String class has attributes (characters) and methods (contains() and equals() and replace())</p>
+
+                    <p><strong>Application Programming Interface (API)</strong></p>
+                    <p>API is set of tools, classes, and methods that library makes available for you to use, read API documentation to learn how to use these tools which explains what each method does and how to use it effectively</p>
+                    <p>Java APIs like Oracle show how to use core Java libraries</p>
+
+                    <h3>1.8: Documentation with Comments</h3>
+                    <p>Comments document and explain how code works by clairifiying and managing/document/track/disable funcigton/development through explanatory notes, ignored by compiler and not executed</p>
+                    <p>Written by OG programmer and other programmers, concise, relevant/helpful, provide insight into why</p>
+                    <p> //Single Line comment or /*Single Line Comment*/ which can be before or next to code</p>
+                    <p>//Multi       /*</p>
+                    <p>//Line        * Multi-line comments which can comment out code in debugging</p>
+                    <p>//Comment     */</p>
+                    <p>>Javadoc comments - /** */ multiline comment used to generate API documentation, starts w one sentence description of methods function, then preconditions, then post conditions, then empty line, then last line is block tags</p>
+                    <p>Block tags - follow format @tag like @param and @return indicating methods parameters and return values</p>
+
+                    <h3>1.9: Method Signatures</h3>
+                    <p>Methods - named blocks of code that run when called, allowing u to organize and break down code (java doc comment, then public type name(type param){ codeeblock}</p>
+                    <p>Method Signature - name(int param, type param)</p>
+                    <p>Parameters - variable declared in signature that can be used in method body</p>
+                    <p>Return type - data type of value method returns, void if it doesn't return anything, error if return type doesn't match</p>
+                    <p>Public / private is visibilityy and whehter it can be used by other classes/methods/files</p>
+                    <p>Adding static keyword makes it a class method which belongs to class itself instead of any specific instnace/object</p>
+                    <p>Method won't execute until called, which is done using the method signature</p>
+                    <p>Argument  - value passed into method parameter when method called</p>
+                    <p>When method is called, the call line is run, then method is run, then goes back to call line</p>
+                    <p>Overloaded methods - method w same name and diff parameters or diff parametrer types for mutliple ways to be called / simpler program</p>
+
+                    <h3>1.10: Calling Class Methods</h3>
+                    <p>Class Methods - methods that belong to class itself and can be called w/o creating instance object of the class, have static keyword, make code organized while reducing redundancy/errors so can be used w/o creating objects in multiple files</p>
+                    <p>Instance Methods - defined in class but only called by objects created from the class</p>
+
+                    <h3>1.11: Math Class</h3>
+                    <p>Math class contains builtin methods for math functions like finding max values, square roots, powers, w/o needing to write code yourself, default so doesn't need to be imported</p>
+                    <ul>
+                        <li>Math.abs(x) returns absolute value of x, overloaded to accept/return int or double</li>
+                        <li>Math.pow(base, exponent) returns value of base raised to power of exponent</li>
+                        <li>Math.sqrt(x) returns positive square root of x</li>
+                        <li>Math.random() returns double between 0.0 (inclusive) and 1.0 (exclusive), can manipulate to do (int)(Math.random()*(numValues))+offset where numValues is end-start+1 and offset is starting number</li>
+                    </ul>
+
+                    <h3>1.12: Objects: Instances of Classes</h3>
+                    <p>Encapsulation - bundling related info together to organize programs and manage access/reusailty</p>
+                    <p>Abstraction - hide complex internal processes and focus on higher level logic</p>
+                    <p>Objects - instances of the classs where class is a template for onbject attributes/methods, stored at a memory address as a reference type so accessing var accessses address whcih points to type (reassinging it still keeps the object in memory but updates pointer, duplicating class makes new address that points at same object)</p>
+                
+                    <h3>1.13: Object Creation & Storage (Instantiation)</h3>
+                    <p>Creating object is Datatype name = new Datatype(args) where Datatype is name of the class and it calls the class's constrructor</p>
+                    <p>New operator creartes spot in memory</p>
+                    <p>Constructor - special element in class intiializeing object when called and assigns initial values to attriobnutes, doesnt have a return type, signature is public Classname(param){} and it sets instance varfiables, can be overloadwed</p>
+                    <p>When creating a object, call by value intiializes parameters w copies of the arguments, if not assigned value yet object is null</p>
+                    <p>INSANCE variables/methods are diff for each instance/object of a class</p>
+                    <p>Printing object will print automatic toString() ethod which is inherited and it prints memory address, but u can method override by creating classspecific toString() method to return custom thing</p>
+                    
+                    <h3>1.14: Calling Instance Methods</h3>
+                    <p>Instance methods only called from objects you create from the class</p>
+
+                    <h3>1.15: String Manipulation</h3>
+                    <p>String - ordered charater sequence object part of java.lang default package, stores memory address which refers to spot in memory where string is stored</p>
+                    <p>String concatenation - combined using +, u can concatenate primitve w a string and java automaticalyl does implicit conversion, or if object is concatenated, its toString method is called</p>
+                    <p>Strings are immutable - cant change once created, you can reassign new value but original one still exists unchanged in memory</p>
+                    <p>String pool - memory place storing strings, tries to reuse strings to save memory if psossioble unless new keyword used</p>
+                    <p>String methods - instance methods that need a string object to be used</p>
+                    <ul>
+                        <li>int length() retyutrns num charascters in a string</li>
+                        <li>String substring(int from, int to) returns substring starting at index from, ending at index to-1</li>
+                        <li>String substring(int from) retunrs substirng starting at index from through end of string</li>
+                        <li>String indexOf(String str) returns index of first occurrence of str in string or -1 if not found</li>
+                        <li>boolean equals(String ohter) returns true if string has same characters in same order as other string, false otherwise to compare actual strings instead of memory addresses (CASE SENSITIVE)</li>
+                        <li>int compareTo(String other) compares string character by character based on alphabet order, returns negative if string less thsan other, 0 if ewqual, or psoitive if string greater thasn other</li>
+                    </ul>
+                    <li>String final index value = index-1</li>
+                    <li>Accessing string index out of range causes excpetion/runtime error</li>
+                    <li>Access a single letter using substring(index, index+1) which returns String (not char!!!)</li>
+                    <li>Insert string into another using substring</li>
                     `
             }
         }
