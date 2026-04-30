@@ -4324,7 +4324,71 @@ const NOTES = {
                     <li>Access a single letter using substring(index, index+1) which returns String (not char!!!)</li>
                     <li>Insert string into another using substring</li>
                     `
-            }
+            },
+            "Unit 2: Selection & Iteration": {
+                tags: ["Booleans", "If Statements", "Loops"],
+                content: `
+                    <h2>2.2: Boolean Expressions</h2>
+                    <p>TRUE or FALSE statement usually through rational operator comparing two values (ints/doubles) (<>=!) forming boolean expressions</p>
+                    <p>= and == have diff functions (assingment vs equality)</p>
+                    <p>Relational operators == and != compare reference types memory address but not properties themselves so use .equals() for strings and objkects</p>
+
+                    <h2>2.3: If Statements</h2>
+                    <p>Selection statement - execute diff code based on boolean expression value, allows for customization and changing sequential execution of statements</p>
+                    <p>If statmeent - one way selection, execute code if boolean true if(boolean){truecode}</p>
+                    <p>If-else statement - two way selection, execute code if boolean true or false if(boolean){truecode}else{falsecode}</p>
+
+                    <h2>2.4: Nested If Statements</h2>
+                    <p>If-else-if stagtement - multiway selection for multiple segments of code, if(boolean1){truecode}else if(boolean2){truecode} else{false code}</p>
+                    <p>Nested if statements- multiple codependent conditions leading to if statements inside each other</p>
+
+                    <h2>2.5: Compound Boolean Expression</h2>
+                    <p>Logical operators - combine conditions into single Boolean statements (not !, and &&, or ||)</p>
+                    <p>NOT ! - evaluates condition to opposite boolean value</p>
+                    <p>AND && - evaluates true if all conditions are true, false otherwise</p>
+                    <p>OR || - evaluates true if at least one condition is true</p>
+                    <p>Short circuit evaluation - if any boolean is false for AND operator, entire expression is false. if any is true for OR operator, entire expression is true.</p>
+                    <p>Order of Precedence - NOT then AND then OR </p>
+
+                    <h2>2.6: Comparing Boolean Expressions</h2>
+                    <p>DeMorgan's Rule = !NOT can be distributed by turning values into opposite so !(a&&b) = !a || !b since we turned a and b into their opposites and changed && to ||. Creates equivalent expressions by negatives ands and ors (proved using truth tables)</p>
+                    <p>.equals() compare actual objects instead of their memory address references. Usually classes have custom .equals() method, like String has one already whioch checks if attributes are eaquivalent</p>
+                    <p>Compare object reference w null using != and == if you want</p>
+
+                    <h2>2.7: While Loops</h2>
+                    <p>WHILE LOOP - keeps looping/repeating block of code until a condition is met/boolean=false</p>
+                    <p>int x=0; while(x<10) {block.....x++;} keeps running and incrememnting x until boolean faalse. Does not get to code after loop until finished looping</p>
+                    <p>Off By One Error - loop iterates one too few or one too many times. (ex: if var starts at 0 and while(var<num) itll loop num+1 times</p>
+                    <p>Infinite Loop - if Boolean is always true.</p>
+                    <p>Break statement - break out of while loop and continue program execution. Doesn't run code after it in the loop </p>
+                    <p>Return statement - pass value out of method sometimes, or just exit loop and method when executed, so following code in the loop or method is not run</p>
+
+                    <h2>2.8: For Loops</h2>
+                    <p>FOR LOOPS - repeats instructions and loops a fixed number of times</p>
+                    <p>for(initialization of loop var (only happens once); boolean expression; update/increment){ codeblock}</p>
+                    <p>if for(int i=a; i<b; i++) code runs b-a times. If for(int i=a; i<=b; i++) code runs b-a+1 times</p>
+                    <p>For loops can be written as while loops and vice versa</p>
+                    <p>While loops typically better for undetermined amt of iterations, for loops for predetermiend num</p>
+
+                    <h2>2.9: Implementing Selection & Iteration Algorithms</h2>
+                    <p>Use if/else and loops to solve problems w/ code making algorithms like running average, max/min</p>
+
+                    <h2>2.10: Implementing String Algorithms</h2>
+                    <p>String - ordered seq of characters in double quotes, each character has a specifici index starting at 0 ending at length-1</p>
+                    <p>.substring(a,b) returns substring starting at a ending at b (inclusive of a but exlcusive of b), useful in traversals, stores string value</p>
+                    <p>Ex of traversal: for(int i=0; i<string.length(); i++){string.substring(i+i+1)} goes character at a time, make sure use < not <= to avoid out of bounds error</p>
+                    <p>OR .charAt(index) accesses individual characters in a string, storing a char value</p>
+                    <p>Algorithms - counts substrings that meet criteria, finds a properties like replacing all vowels, reversing stirngs often using empty string to store revrsed stirng and going backwards by starting at string.length()-1 and decreasing</p>
+
+                    <h2>2.11: Nested Iteration</h2>
+                    <p>For loops or while loops inside each other to create rows/columns (multiply outerloop * innerloop rpeeititons for total # of repeititons). Use different inner/outer loop control vsariables, outer loop var can be accessed from inside but not vice versa. Inner loop must compete all iterations before outer loop continues</p>
+
+                    <h2>2.12: Informal Run-Time Analysis</h2>
+                    <p>Algorithm - step by step process solving a problem, efficient (lower CPU processing time), underastnabdle, working</p>
+                    <p>CPU / Central Processing Unit - electornic circuitry in computet that carries out instructions, processing time is time spent reading instructions, efficient programs are shorter/less steps/less processing time</p>
+                    <p>Estimate CPU Processing Time using STATEMENT EXECUTION COUNT and CODE TRACING/TRACE TABLES (minimize execution count)</p>
+                `
+            },
         }
     }
 };
