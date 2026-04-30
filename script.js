@@ -4389,6 +4389,71 @@ const NOTES = {
                     <p>Estimate CPU Processing Time using STATEMENT EXECUTION COUNT and CODE TRACING/TRACE TABLES (minimize execution count)</p>
                 `
             },
+            "Unit 3: Class Creation": {
+                tags: ["constructors", "classes", "methods", "this"],
+                content: `
+                    <h2>3.1: Abstraction & Program Design</h2>
+                    <p>Abstraction - simplify complex systems by hiding unneccessary details, hiding implementation details of data structures and exposing only essental operations, allowing reuse methods and organized code (ex: method calculating rect area)</p>
+                    
+                    <h2>3.2: Impact of Program Design</h2>
+                    <p>System Reliability - system's ability to perform tasks as expected w/o crashing or errors, maximize reliability by testing software/quality assurance engineers to avoid glitches</p>
+                    <p>IMPACTS - + automation, access to info, healthcare advancements. - displaces jobs, privacy concerns, physical location closures. unintended cosnewquences include  addition/content consumption and wasting time</p>
+                    <p>Using other people's code is normalized for efficiency, collaboration, standardization, and learning like using libraries/frameworks BUT give attribution of author name, date copied, link to code and understand it</p>
+
+                    <h2>3.3: Anatomy of a Class</h2>
+                    <p>Classes have attributes, Constructor, and methods (one class in your program has to have a main method and no consturctor)</p>
+                    <p>Instnace variables (no static keyword) - each instnace/object of a class will havce its own copy of the variable w diff values (ex: rects having diff widths and heights). Should be PRIVATE to encapsulate/protect data.</p>
+                    <p>Instance methods - manipulate instance variables, copy for each instnace/object of a class</p>
+                    <p>Constructor - set instance variables</p>
+                    <p>Access modifiers - public/private whether external classes outside the declaring class shd be able to access, public allows external, private only allows internals</p>
+                    <p>Encapsulation - group together data/methods in a class and hide form external classes, makes program less complex, more simple. Control how data is used through public/private for safety (diff from abstraction which is showing need-to-know detaisl only for user-friendly)</p>
+                    <p>Keep instance variables private and create public methods allowing outside classes to retreve/set values (getter methods or settermethods)</p>
+                    <p>Methods shd be public if needs to be accessed from outside class, private if shdn't be used outside or only used to support tasks in class as a helper method</p>
+                    <p>INSTANCE VARIABLES ALWAYS PRIVATE, CLASSES ALWAYS PUBLIC W KEYWORD CLASS, CONSTRUCTORS ALWAYS PUBLIC, METHODS CAN BE PUBLIC OR PRIVATE</p>
+
+                    <h2>3.4: Constructors</h2>
+                    <p>Constructor in a class creates instances/objects of the class, sets attributes and mthods, sets initial state of object/values of atteibtues at that time</p>
+                    <p>Has the same name as the class, public ClassName(int param1....) { attribute1 = param1;....}</p>
+                    <p>Param and attribute names must be diff or use this keyword (see future lesson)</p>
+                    <p>Can hard-code and set nitial value instead of using parameter if smth same for everyone</p>
+                    <p>If no constructor is written, Java's default no-parameter constructor sets objects/strings=null, ints=0, doubles=0.0, booleans=false which are the data type's defsault values</p>
+                    <p>Can have objects be attributes for other objects</p>
+                    <p>When mutable object used as a constuctor, create a copy of the object to avoid manipulating original by doing attribute=new Object(param.getAttribute(), param.getAttreibute()) inside constructor</p>
+                    
+                    <h2>3.5: Methods: How To Write Them</h2>
+                    <p>method header: public type name(type params){codeblock/methodbody}</p>
+                    <p>Return type can be void, or non-void where type is specified</p>
+                    <p>Visibilit either public or private</p>
+                    <p>GETTER/ACCESOR and SETTER/MUTATOR methods allow external classes to still get/update private instnace vars</p>
+                    <p>Accesor/getter - nonvoid matching return type of var, returns copy of instance vsar</p>
+                    <p>Mutator/setter - change value of instance/class var, typically void, takes in parameter for new value usally and uses it to update instance var</p>
+                    <p>For primitive value, parameter variable is a COPY of argumentsa (but it doesnt matter bc theyre =), but for ref values parameter value is same memory address so changing it changes og argument</p>
+
+                    <h2>3.6: Methods: Passing & Returning References of An Object</h2>
+                    <p>For primitive value, parameter variable is a COPY of argumentsa (but it doesnt matter bc theyre =), but for ref values parameter value is same memory address so changing it changes og argument (ref to THAT OBJECAT not ref to new copy of object)</p>
+                    <p>Be careful abt modifiying objects when they're passed in as parameters</p>                    
+
+                    <h2>3.7: Class Variables & Methods</h2>
+                    <p>Instance methods only called using objects/instances created from the class, Class methods belong to class itself using static keyword and can be called w/o creating insgtance object of the class</p>
+                    <p>Instance attributes/vars belong to each instance/object w its own copy, class variables belong to class and all objects share single copy w static keyword, also kept private (ex: num of total objects)</p>
+                    <p>Class methods can't access/change instnace variables or call instnace methods, only can access class varibales/methods (gives error otherwise) BUT they can access/change instnace var values if instnace is passed in as a parameter</p>
+                    <p>Ex: public static boolean isSame(Album a1, Album a2) { return a1.year==a2.year; or return a1.getYear()==a2.getYear()}
+                    <p>Class variables can be declared final if not to be modified, or public if to be accessed externally</p>
+                    <p>Access public class vars: className.variableName. Access public attribute vars objectName.variableName</p>
+
+                    <h2>3.8: Scope and Access</h2>
+                    <p>Scope - region in which var can be accessed and used</p>
+                    <p>Local vars - var declared in header or body of a block of code, scope is within that block like methods, constructors, contorl styurcutyres, loops. Error if accessed externally. Not declared public/rpviate since scope is predetemfined.</p>
+                    <p>When naming, if local and instnace var have same name, local takes precendence over instance in the code block.</p>
+
+                    <h2>3.9: this Keyword</h2>
+                    <p>Var w more limited/specific scope takes precedence, so if constructor paramaerers and insntace vars are = then u can do this.name = name</p>
+                    <p>this. keyword means refering to the broader object instead of the specific local var if they have the same name (object refers to itself, like using objectName.variable or objectName.method)</p>
+                    <p>If this. keyword is used, cosnturctor params and isntance vars can have same names</p>
+                    <p>Class methods can't use a this reference since they can't refer to instance vars</p>
+                    <p>this keyword also can pass current object to a method, like greeting self</p>
+                    `
+            }
         }
     }
 };
