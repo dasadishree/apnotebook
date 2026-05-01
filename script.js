@@ -4453,6 +4453,145 @@ const NOTES = {
                     <p>Class methods can't use a this reference since they can't refer to instance vars</p>
                     <p>this keyword also can pass current object to a method, like greeting self</p>
                     `
+            },
+            "Unit 4: Data Collections": {
+                tags: ["arrays", "arraylists", "wrappers", "2d arrays", "searching", "sorting", "recursion"],
+                content: `
+                    <h2>4.1: Ethical and Social Issues around Data Collection</h2>
+                    <p>Be safe in collecting data, more effective to store data in structures like Arrays/ArrayLists or more permrneently in files/databases</p>
+                    <p>Dataset - collection of data used in a program</p>
+                    <p>Alogrithmic bias - not preresentative / inocmplete data that is prefential and inaccurate result</p>
+                    <p>Data Colelction - limited sample is not representative of group</p>
+                    <p>Incomplete/innacuarete data - innoacture results</p>
+
+                    <h2>4.2: Introduction to Using Datasets</h2>
+                    <p>Dataset - collection of related info/data that can be manipulated/analyzed, often represented in chart/table and manipulated/analzed in alogrithm</p>
+                    <p>Access data points -> process w algortihem -> repeat for all dataset values</p>
+                    
+                    <h2>4.3: Array Creation & Access</h2>
+                    <p>Array - object storing fixed number of elements/values of the same type in a single variable, once created type/length cant change</p>
+                    <p>SYNTAX: type[] arrayName = {item1, item2...}</p>
+                    <p>DEFAULT ARRAY SYNTAX: type[] arrayName = new type[n]; initalizes array w n default values of type sepcifcied, later values are set usally in a loop providing a strcuture that can be filled out later and gives each element in array a known starting value, maintaining consistent usage and eliminating errors</p>
+                    <p>Array indexes - address for values/items in array starting at 0, access using arrayName[index] which accesses value at that index, out of bounds gives exception./runtime error</p>
+                    <p>Array length- # of items in array, length is fixed, access using arrayName.length (ATTRIBUTE NOT METHOD UNLIKE STRING)</p>
+
+                    <h2>4.4: Array Traversals</h2>
+                    <p>Traverse array using for/while loops to access each eleemtn and perform operation</p>
+                    <div>
+                        <div>   
+                            <p>FOR LOOP</p>
+                            <p>for(int i=0; i<arrayName.length; i++) {}</p>
+                            <p>Access each index using arrayName[i]</p>
+                        </div>
+                        <div>
+                            <p>ENHANCED FOR LOOP</p>
+                            <p>AKA FOR-EACH LOOP, simplified loop iterating over elements in array w/o using index variable</p>
+                            <p>for(type element:arrayName), type must match array</p>
+                            <p>Access each index using element, BUT this is a copy of each array value so this can't change OG array but only access the values (unless the elemtn is a ref object like a string)</p>
+                        </div>
+                    </div>
+
+                    <h2>4.5: Implementing Array Algorithms</h2>
+                    <p>Execute math/string operations on array data, analyze diff properties, reorder array. Ex: find max/min/average, count, reverse, duplicate</p>
+
+                    <h2>4.6: Using Text Files</h2>
+                    <p>FILE I/O - more permemnant storing of data not in memory like variables</p>
+                    <p>File.txt- stores data that persisits when program not running (unlike vars which r created when program runs). Access file data using File and Scsanner classes</p>
+                    <ol>
+                        <li>At top of program, import java.util.Scanner; and import java.io.File;</li>
+                        <li>Create File object w file name as an argument (File file = new File("filename.txt");) which uses File constructor accepting a file name to open for reading</li>
+                        <li>Create Scanner object accepting File object (Scanner input = new Scanner(file);)</li>
+                        <li>Use a while loop to loop through all of the lines in the file. while(input.hasNext()){code to be discussed in step 4}. input.hasNext() returns true if theres a next item to read in the file</li>
+                        <li>Add code to INSIDE while loop to read each line of data. String line=input.nextLine(); System.out.println(line); prints each line one by one</li>
+                        <li>Add input.close() AFTER while loop to close the Scanner object</li>
+                        <li>You must include what to do if file w provided name can't be opened (otherwise u will get an error), so eother add words "throws IOException" next to main(String[] args) and import java.io.IOException OR use try{code to access file data} catch(IOException e) {System.out.println("File not found:"+e.getMessage());} block</li>
+                    </ol>
+                    <p>If reading in mulitple data types: instead of using line=input.nextLine() which returns entire line as a String, if the file has mixed data types u can use .nextInt() returning next int read from file, .nextDouble() returning next double read, .next() returning next String read, .nextBoolean() retunring next boolean read. Exception caused if u use wrong type. This is useful for getting specific values for each row in like a table/chart</p>
+                
+                    <h2>4.7: Wrapper Classes</h2>
+                    <p>Primitive - basic Java data type, References - store objects/classes, some objects only interact w other object data types (ex: ArrayLists only store objects not primitives)</p>
+                    <p>Convert primitives to object types using wrapper classes</p>
+                    <p>Wrapper class - class that contains/wraps primitive datatype as an object part of default java.lang package (like wrapping a car so that rpimitve can pass as a reference)</p>
+                    <p>Ex: boolean -> Boolean, char -> Character, int -> Integer, double -> Double</p>
+                    <p>Wrapper classes enable primitives to do activities reserved for objkects, provide built in utility methods, pass primitives into method expecting an object</p>
+                    <p>Autoboxing - automatic conversion between primitive and object wrapper class (ex: Integer myInt = 53; integer value 53 converted to Integer. same thing if int argument passed into method excepting Integer parameter)</p>
+                    <p>Unboxing - automatic conversion between wrapper and primitve type (ex:  Integer int1 = 53; int int2 = int1; Integer value value int1 converted back to int value int2)</p>
+                    <p>Wrapper objects are immubtable, once created Integer and Double object attributes can't be changed, but updating it just makes it point at new memory location not changing old one</p>
+                    <p>UTILITY METHODS: Integer.parseInt(String s) or Double.parseDouble(String s) converts String to an Integer or Double</p>
+
+                    <h2>4.8: ArrayList Methods</h2>
+                    <p>ArrayList - mutable list of object references where size can be adjusted, cannot store primitives</p>
+                    <p>import java.util.ArrayList;</p>
+                    <p>ArrayList<type> name = new ArrayList<type>(); <-- types match, empty array list created. Second <> can be empty w diamond operator if first one specifies. No need to specify number of items bc size can change</p>
+                    <p>ArrayList methods:</p>
+                    <ul>
+                        <li>int size() returns num of elements in the list</li>
+                        <li>boolean add(E obj) returns true, appends obj to end of the list</li>
+                        <li>void add(int index, E obj) returns void, inserts obj at position inde and moves elements at and after index to the right one psotion</li>
+                        <li>E remove(int index) returns removed element, removes element from position index and shirts remaining left</li>
+                        <li>E get(int index) returns element at posiiton index in the list</li>
+                        <li>E set(int index, E obj) replaces element at position index w obj, returns origin element</li>
+                    </ul>
+
+                    <h2>4.9: ArrayList Traversals</h2>
+                    <p>Use iteration/loops to access and traverse through elements in an ArrayList</p>
+                    <p>TRADITIONAL FOR LOOP: for(int i=0; i<arrayName.size() i++){} access each element using arrayName.get(i). Use traditional if add/removing items to avoid error</p>
+                    <p>ENHANCED FOR LOOP: for(Integer e:arrayName){} access each element using e</p>
+                    <p>ArrayLists can change size so be careful when traversing and rmeoving elements</p>
+                    <p>Removing elements: either decrease index by 1 after removing to avoid skips if iterating upwards, or just iterate backwards using for(int i=fruits.size()-1; i>=0; i++)</p>
+
+                    <h2>4.10: Implementing ArrayList Algorithms</h2>
+                    <p>Execute operations, reorder, reverse, add elements, remove elemtns</p>
+                    
+                    <h2>4.11: 2D Array Creation & Access</h2>
+                    <p>Create an array of arrays lioke a chart/table</p>
+                    <p>type[][] arrayName = {array1, array2...}</p>
+                    <p>array2D[row][column], avoid going out of bounds</p>
+                    <p>array2d.length gives number of rows, array2d[row].length or array2d[0].length gives number of columns</p>
+                    <p>DEFAULT 2D ARRAY: type[][] name = new type[row#][column#] setting defaulkt values to be filled later</p>
+
+                    <h2>4.12: 2D Array Traversals</h2>
+                    <p>Remember array[row].length and array[0].length do the same thing</p>
+                    <div>
+                        <div>
+                            <p>ROW-MAJOR ORDER</p>
+                            <p>Traversing row by row, finishing row 1 before going to row 2 and etc</p>
+                            <p>Ex: print all quiz scores for a particular quiz in 2dArray quizzes</p>
+                            <p>for(int row=0; row<array.length; row++){ for(int col=0; col<array[row].length; col++){ access the eleement using array[row][col] }}</p>
+                            <p>for(int[] row:array){ for(int element:row){ access elements}}</p>
+                        </div>
+                        <div>
+                            <p>COLUMN-MAJOR ORDER</p>
+                            <p>Traversing column by column, finishing column 1 before going to column 2 and etc</p>
+                            <p>Ex: print all quiz scores for a particular student in 2darray quizzes</p>
+                            <p>for(int col=0;col<quizzes[0].length;col++){for(int row=0;row<quizzes.length;row++){access using quizzes[row][col]}}
+                            <p>for(int[]col:array[row]){for(int[] element:col){ access elements }}
+
+                        </div>
+                    </div>
+
+                    <h2>4.13: Implementing 2D array algorithems</h2>
+                    <p>Pefform calculations across rows/coliumns, rearrange, ewtc</p>
+                    <p>Shifting values by saving last value in a temp variable, shifting eveyrthing over one space, then dropping saved value into final spot</p>
+
+                    <h2>4.14: Searching Alogrithms</h2>
+                    <p>Linear search algorithm - go through each element in an array or arraylist one by one until finds desired value or checked all of its elements</p>
+                    <p>Keeps going through each index/element until meets conditon</p>
+
+                    <h2>4.15: Sorting Algorithms</h2>
+                    <p>Data sorting - arranging data in specific order</p>
+                    <p>Selection sort - sort array by repeatedly finding minimum and moving it to front of array. Starts at index 0 and sets it as the smallest value, traverses through rest of array to find smallest value, swaps two values to move min to front so that index0=min, then goes to index1 and repeats. (TRAVERSE, FIND MIN, SWAP)</p>
+                    <p>Insertion sort - sort by repeatdedly taking next unsorted element and inserting it into its correct positoon within sorted portion. Chooses first element and marks as sorted, chooses next unsorted element, inserts value into correct positoon in sorted part, goes to next unsorted and repeats. (TRAVERSE UNSORTED, TRAVERSE SORTED TO FIND CORRECT POSITION, SHIFT SORTED RIGHT, PLACE UNSORTED INTO RIGH TPOSITION)</p>
+                    <p>Efficienchy/which one to use depends on list before. If mostly ordered least to greatest use inserton, if a lot of work needed like its oppsite, selection is good. Compare statement execution counts</p>
+
+                    <h2>4.16: Recursion</h2>
+                    <p>Programming technique where method calls itself to solve smaller instances of a problem. Base case is condition stopping recursion from conintiuing further. Recursion is used to break down complex problems in place of a loop. Ex: checking if a num is even by repwatedly subtracting 2. </p>
+
+                    <h4>4.17: Recursive Searching and Sorting</h4>
+                    <p>Recurison used for  search & sorting</p>
+                    <p>Binary search - alogirhtm repeatddly divides sorted array in half to find a target value, eliminitating half remianing elements w each step(finds middle, tests that point, if target is greater than midpoint it eliminates lower half or vice verasaa ifd smaller), then porcess repeared and new midpoint found/compared each time until value is found or one value remains. Array must be sorted for a binary search, much more efficent than linear but more complex and onyl works on sorted lists and more iterative/recursive)</p>
+                    <p>Merge sort - divide and conquer algorithem spliting arrays into smaller subarrays recursively, sorting them indivudially, then merging them together to form fully sworted array (mergeSort breaking down array to smaller ones, then merge adding toogether smalkler ones). Recursively sorts sublists, more efficient for larger datasets or when consistent performence needed across diff scenarios. Selection/insertion useful for smaller/nearly sorted data but inefficent as datasize grows</p>
+                    `
             }
         }
     }
