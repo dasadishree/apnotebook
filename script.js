@@ -1498,6 +1498,39 @@ const NOTES = {
                     <p>INVERSION: occurs as a result of 2 breaks in a chromomse, internal segfment reversed before re-insertion, genes occur in reverse order in the inverted segment</p>
                     <p>TRANSLOCATION: when a segment from one chromsome moves to non-homologuus chromsome following breakage of two non-homolgous chromosmes and improper resassmbly (ex: Alagille Syndrome, often redposnible for cancers like some luekemia/lympohma cancers)</p>
 
+                    <h2>Chapter 11: Mendelian Patterns of Inheritance</h2>
+                    <p>Genetics - study of heredity and possible variations in offspring resulting from inherited genes/DNA</p>
+                    <p>Heredity/Inheritance - passing on genes from one generation to next involving reshuffling</p>
+                    <p>Gene - unit of inheritance that gets passed from one generation to the next, a segment on DNA that codes for a particular trait</p>
+                    <p>Allele - a certain form of a gene, individuals inherit two, one from each parent can be dominant/expressed coding a fully functional protein or recessive/not expressed since nonfunctional protein</p>
+                    <p>P1 parent generation, F1 first offspring generation, F2 second gernation of offspring</p>
+                    <p>Locus - the location of a gene on a chromosome</p>
+                    <p>Genotype: organism's exact genetic makeup for a given trait representing allel combo (homozygous pure recessive aa or dominant AA, or heterzoygous dominant Aa)</p>
+                    <p>Phenotypw: physical expression of the trait associated w a particular genotype, what u observe/make from proteins</p>
+                    <p>Wildtype: phenotype of typical form of species as it occurs in nature/in the wild</p>
+
+                    <h3>Punnett Squares / Probabilty in Genetics</h3>
+                    <ul>
+                        <li>Predict outcome of genetic crosses between two sxually reproducing individuals by determining gene combos between male genotype/sperm and female/egg (if multiple genes make sure to determine all possible gamete combos)</ul>
+                        <li>Law Of Dominance - if one genotype is TT then all offspring will be dominant regardless of other parent genotype. So if there are no recessive offspring in a large sample size, parent is prob homozygous dominant</ul>
+                        <li>Test Crosses - if second allele of dominant phenotype is unknown, test cross by mating w a recessive indivudal to confirm homo/hetero dominant. If no recessive offspring unknown is likekly homo, if it 50% hetero (dom) 50% homo (rec) then unknown genotype is hetero</ul>
+                        <li>Tt x tt = 50% heterozygous dominant, 50% homozygous recessive</li>
+                        <li>Law of Segregation and Recombination - allele pairs seperate during meiosis/gamete formation, then recombine during fertilization</li>
+                        <li>Monohybrid Cross Tt x Tt - cross involving a single trait where both parents are heterozygous, 3 dom:1 rec phenotype and 1 TT:2 Tt:1 tt genotype</li>
+                        <li>Rule of Independent Events - past events have no influence on future events</li>
+                        <li>Rule of Multiplication - chance that two or more independent events will both/all occur is = product of probability of each individual event (P(A and B) = P(A) * P(B))</li>
+                        <li>Rule of Addition - chance of event occuring either one way or another = sum of probabilities of each individual event (P(A or B) = P(A) + P(B))</li>
+                    </ul>
+                    
+                    <h3>Gregor Mendel</h3>
+                    <p>Before his work, accepted hypothesis of inheritance was BLENDING HYPOTHESIS where parent genes mix/blend to intermediate in child</p>
+                    <p>Breeded garden peaplant since it was easy to cultivate, can be cross-pollinated, short generation time, many varieties</p>
+                    <p>Formed laws of heredity, observed dominant or recessive characteristics but not intermediate</p>
+                    <p>LAW OF DOMINANCE: if two opposite pure breeding varieties TTxtt cross, all offspring resembles dominant fully heterozygous</p>
+                    <p>LAW OF SEGREGATION&RECOMBINATION - replicate in mitosis, segreagte in meioisis, rerecombine during fertilization. Gene pairs that recombine to form zygote during fertilization is a matter of chance.</p>
+                    <p>LAW OF INDEPENDENT ASSORTMENT - 2 or more traiys segregate/assort randomly and independently of one another if on diff chromosomes, so 2 traits  = 4 alleles can give 4 possible games.  (ex: parent genotype AABb = possible gamete combos is AB or Ab.)</p>
+                    <p># of possible allele combos in gametes = 2^n where n is number of heterozygous gene pairs (ex: AABbCc = 2^2 = 4 possible gamete combos)</p>
+                    <p>Ok i never finished writing notes for this unit or evolution / ecology</p>
                 `
             },
             "Unit 6: Gene Expression and Regulation": {
