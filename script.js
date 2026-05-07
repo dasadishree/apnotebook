@@ -4633,6 +4633,9 @@ const NOTES = {
 // functionality for switching between units &stuff
 let currentClass = null;
 let currentUnit = null;
+let isGamePage = false;
+let gameScore = 0;
+let gameRound = 1;
 
 function init() {
   const classList = document.getElementById('classList');
@@ -4697,6 +4700,7 @@ function renderNotes(cls, unit) {
         <span>study notes</span>
       </div>
       <div class="tags-row">${tagsHtml}</div>
+      ${isGamePage ? getGamePanelMarkup() : ''}
       <div class="divider"></div>
     </div>
     <div class="note-content">${psychCurriculumNote}${data.content}</div>
@@ -4704,8 +4708,153 @@ function renderNotes(cls, unit) {
 
   normalizeNoteMarkup();
   applyAutoStylingTags();
+  if (isGamePage) {
+    setupGameRound();
+    wireGameButtons();
+  }
   buildOutline();
   body.scrollTop = 0;
+}
+
+// game
+function getGamePanelMarkup() {
+  return `
+    <div class="game-panel">
+      <div class="game-meta">
+        <span>fill in the blanks challenge</span>
+        <span class="note-meta-sep">|</span>
+        <span>score: <strong id="gameScoreValue">${gameScore}</strong></span>
+        <span class="note-meta-sep">|</span>
+        <span>round: ${gameRound}</span>
+      </div>
+      <div class="game-actions">
+        <button class="mode-btn" id="checkGameAnswers" type="button">check answers</button>
+        <button class="mode-btn" id="newGameRound" type="button">new round</button>
+        <span class="game-status" id="gameStatus">fill the blanks and check your score.</span>
+      </div>
+    </div>
+  `;
+}
+
+function setupGameRound() {
+  const content = document.querySelector('.note-content');
+  if (!content) return;
+
+  const skipTags = new Set(['H2', 'H3', 'H4', 'CODE']);
+  const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      if (!node.nodeValue || !node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+      const parentTag = node.parentElement?.tagName;
+      if (parentTag && skipTags.has(parentTag)) return NodeFilter.FILTER_REJECT;
+      if (node.parentElement?.closest('.game-panel')) return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT;
+    }
+  });
+
+  const nodes = [];
+  while (walker.nextNode()) nodes.push(walker.currentNode);
+
+  const candidates = [];
+  nodes.forEach(node => {
+    const text = node.nodeValue;
+    const regex = /\b[A-Za-z]{5,}\b/g;
+    let match;
+    while ((match = regex.exec(text)) !== null) {
+      candidates.push({ node, start: match.index, end: match.index + match[0].length, word: match[0] });
+    }
+  });
+
+  if (!candidates.length) return;
+
+  shuffleArray(candidates);
+  const picks = [];
+  const seenWords = new Set();
+  for (let i = 0; i < candidates.length && picks.length < 12; i += 1) {
+    const pick = candidates[i];
+    const key = pick.word.toLowerCase();
+    if (seenWords.has(key)) continue;
+    seenWords.add(key);
+    picks.push(pick);
+  }
+
+  const byNode = new Map();
+  picks.forEach(p => {
+    if (!byNode.has(p.node)) byNode.set(p.node, []);
+    byNode.get(p.node).push(p);
+  });
+
+  byNode.forEach((items, node) => {
+    items.sort((a, b) => a.start - b.start);
+    const frag = document.createDocumentFragment();
+    let cursor = 0;
+    const text = node.nodeValue;
+    items.forEach((item, idx) => {
+      frag.appendChild(document.createTextNode(text.slice(cursor, item.start)));
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.className = 'game-input';
+      input.setAttribute('data-answer', item.word.toLowerCase());
+      input.setAttribute('aria-label', `blank ${idx + 1}`);
+      input.setAttribute('autocomplete', 'off');
+      frag.appendChild(input);
+      cursor = item.end;
+    });
+    frag.appendChild(document.createTextNode(text.slice(cursor)));
+    node.parentNode.replaceChild(frag, node);
+  });
+}
+
+function wireGameButtons() {
+  const checkBtn = document.getElementById('checkGameAnswers');
+  const newRoundBtn = document.getElementById('newGameRound');
+  if (checkBtn) checkBtn.onclick = checkGameAnswers;
+  if (newRoundBtn) {
+    newRoundBtn.onclick = () => {
+      gameRound += 1;
+      renderNotes(currentClass, currentUnit);
+    };
+  }
+}
+
+function checkGameAnswers() {
+  const inputs = Array.from(document.querySelectorAll('.game-input'));
+  const status = document.getElementById('gameStatus');
+  const scoreEl = document.getElementById('gameScoreValue');
+  if (!inputs.length) return;
+
+  let correct = 0;
+  let wrong = 0;
+
+  inputs.forEach(input => {
+    const answer = (input.getAttribute('data-answer') || '').trim().toLowerCase();
+    const value = (input.value || '').trim().toLowerCase();
+    if (value && value === answer) {
+      correct += 1;
+      input.classList.add('correct');
+      input.classList.remove('wrong');
+    } else {
+      wrong += 1;
+      input.classList.add('wrong');
+      input.classList.remove('correct');
+    }
+  });
+
+  if (correct === wrong) {
+    gameScore = 0;
+    if (status) status.textContent = `tie round (${correct}-${wrong}) so score reset to 0.`;
+  } else {
+    gameScore += correct;
+    if (status) status.textContent = `${correct} correct, ${wrong} wrong. +${correct} points.`;
+  }
+
+  if (scoreEl) scoreEl.textContent = String(gameScore);
+}
+
+function shuffleArray(arr) {
+  for (let i = arr.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
 }
 
 function normalizeNoteMarkup() {
@@ -4881,5 +5030,13 @@ document.getElementById('searchInput').addEventListener('keydown', e => {
 });
 
 document.getElementById('notesBody').addEventListener('scroll', updateScrollSpy);
+
+document.getElementById('pageToggle').addEventListener('click', () => {
+  isGamePage = !isGamePage;
+  const btn = document.getElementById('pageToggle');
+  btn.classList.toggle('active', isGamePage);
+  btn.textContent = isGamePage ? 'page: game' : 'page: notes';
+  if (currentClass && currentUnit) renderNotes(currentClass, currentUnit);
+});
 
 init();
